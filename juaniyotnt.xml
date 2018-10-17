@@ -28,7 +28,7 @@
     <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
     ]]></listrepeat>
     <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://streamplay.to/lvrg498x4qk8</page>
+    <page>http://streamplay.to/j7rikhdlcatv</page>
     </regex>
     <regex>
     <name>enlace</name>
@@ -42,8 +42,8 @@
 
   
 <item>
-<title>xXx: Reactivated</title>
-<urlsolve>https://streamplay.to/lvrg498x4qk8</urlsolve>
+<title>55</title>
+<urlsolve>http://streamplay.to/j7rikhdlcatv</urlsolve>
 <thumbnail>https://s20.postimg.org/wb69o3ci5/icono_xxxreac.png</thumbnail>
 <fanart>https://s20.postimg.org/4b263v6hp/fondo_xxx.jpg</fanart>
 <genre>Aventura, Accion, Suspense</genre> 
