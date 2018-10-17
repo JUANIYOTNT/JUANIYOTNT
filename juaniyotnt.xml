@@ -13,6 +13,44 @@
 </item>
  
 
+<item>
+ <title>Transformers: El último caballero</title>
+ <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
+ <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
+ <genre>Acción, Aventuras, Ciencia ficción</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Transformers: El último caballero [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
+    <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://streamplay.to/lvrg498x4qk8</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra</info>
+    </regex>
+</item>  
+  
+
+  
+<item>
+<title>xXx: Reactivated</title>
+<urlsolve>https://streamplay.to/lvrg498x4qk8</urlsolve>
+<thumbnail>https://s20.postimg.org/wb69o3ci5/icono_xxxreac.png</thumbnail>
+<fanart>https://s20.postimg.org/4b263v6hp/fondo_xxx.jpg</fanart>
+<genre>Aventura, Accion, Suspense</genre> 
+<info>La película gira en torno al regreso de Xander Cage, a quien todos creían muerto. Cage, alias xXx (Triple X), es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de EE.UU.</info> 
+<date>2017</date>
+</item>  
+  
   
   <item>
 <title>    [B]Canales ESPAÑA[/B] [I] opcion 2 [/I]</title>
