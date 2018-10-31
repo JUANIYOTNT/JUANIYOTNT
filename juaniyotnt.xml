@@ -13,11 +13,18 @@
 </item>
  
 
+ <item>
+<title>[COLOR yellow] * [/COLOR][COLOR white] NO TOCAR!!!!!!!!!  [/COLOR]</title>
+<fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
+<thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/SERIES/BASERETRO.xml</externallink>
+</item>
 
 
 	
 	 <item>
-        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] JHG.MASTER [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] JHG.MASTER [/COLOR][COLOR orange] NO TOCAR [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/IN1X.xml</externallink>
         <thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
@@ -33,7 +40,7 @@
 
 
 <item>
-<title>[B]Multicanal MotoGP España[/B]   </title>
+<title>[B]Multicanal MotoGP España[/B] NO TOCAR  </title>
 
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
