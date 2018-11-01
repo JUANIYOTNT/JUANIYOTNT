@@ -23,16 +23,6 @@
 
 
 <item>
-<title>[COLOR lime] [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
-
-
-<item>
 <title>[COLOR lime] LISTA PREMIUM [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -51,6 +41,14 @@
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list2.xml</externallink>
 </item>
 
+
+<item>
+<title>[COLOR lime] LISTA PREMIUM 3[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/H3</externallink>
+</item>
 
 
 
