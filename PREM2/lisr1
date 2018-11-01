@@ -1,0 +1,227 @@
+﻿#EXTM3U
+#EXTM3U
+
+#EXTINF:-1,---------- CANALES TDT ----------
+http://blackeviltv.com/free/blackeviltv.mp4
+#EXTINF:-1,La 1
+http://gratis:111111@51.68.121.176:9981/stream/channel/1e074f044d8535a42b5668b8626cc451
+#EXTINF:-1,La 1 HD (Opcion2)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/9d7bd06817b96a770322484c7c4aefd8
+#EXTINF:-1,La 2 HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/e83721b9259e233bcf0586688772fe79
+#EXTINF:-1,Antena 3
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/8bfc9640386921c3736f0634f1c6dd96
+#EXTINF:-1,Cuatro
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/69efc56ee2270c7dedb8a70a34ae22a2
+#EXTINF:-1,Telecinco
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/03262e5f48c7084931f3769e525de171
+#EXTINF:-1,Energy
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/419a2145205982f2d5969a8d3e1e0af9
+#EXTINF:-1,Neox
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/cf6e490d016efb7ee60acb596776a6c4
+#EXTINF:-1,La Sexta
+http://gratis:111111@51.68.121.176:9981/stream/channel/5036e1bf94ac75b4abc5c03d23c985da
+#EXTINF:-1,Mega
+http://gratis:111111@51.68.121.176:9981/stream/channel/1d10a326a65a64c4b95489a575cc6868
+#EXTINF:-1,Divinity
+http://gratis:111111@51.68.121.176:9981/stream/channel/9dc538a2a3e7bbc5c95968146a101e33
+#EXTINF:-1,FDF
+http://gratis:111111@51.68.121.176:9981/stream/channel/1ac3f5d2015a92261b10ae3d69af1284
+#EXTINF:-1,Nova
+http://gratis:111111@51.68.121.176:9981/stream/channel/a2282ae317f9c1b5f68d2abf82f6e877
+#EXTINF:-1,---------- MOVISTAR + ----------
+http://blackeviltv.com/free/blackeviltv.mp4
+#EXTINF:-1,Cosmo
+http://gratis:111111@51.68.121.176:9981/stream/channel/08d8526cf0a1877a356844aa4c859a39
+#EXTINF:-1,Movistar - #0 HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/7727c1f0292a7165ef30438521cffd47
+#EXTINF:-1,Movistar - #0 (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/8b0e0518ddda2e6b7921e89a54379ca0
+#EXTINF:-1,Movistar - #0 (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/005
+#EXTINF:-1,Movistar - #Vamos HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/57fea109a973df03e9214a2bf1c21c94
+#EXTINF:-1,Movistar - #Vamos (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/10fb9d0aefc2eaee3886fb03d0b47434
+#EXTINF:-1,Movistar - eSports
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/67022543a2e0bb5118b952a677c06720
+#EXTINF:-1,BeMad HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/4eb69aacc355365e9e3c1547f78bc432
+#EXTINF:-1,BeMad (Opcion2)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/84f16769088b6dee17f6794c1144f4c8
+#EXTINF:-1,Movistar - Formula 1 HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/013130a2577f3b39d7893fb6ff162b87
+#EXTINF:-1,Movistar - Formula 1 (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/61db09f51b2e9913d4cd187436500785
+#EXTINF:-1,Movistar Formula 1 (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/004
+#EXTINF:-1,Movistar - MotoGP HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/a9191a3a55c156867309d48db3be82f7
+#EXTINF:-1,Movistar - MotoGP (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/0c69a092616e51c5779652b779cdf9cd
+#EXTINF:-1,Movistar - MotoGP (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/014
+#EXTINF:-1,Movistar - Deportes 1
+http://spainfree.blackeviltv.com:8888/http/006
+#EXTINF:-1,Movistar - Golf
+http://gratis:111111@51.68.121.176:9981/stream/channel/2586ffcef45f92d0a9ab35c0244c5943
+#EXTINF:-1,A&E
+http://gratis:111111@51.68.121.176:9981/stream/channel/122f948659b1af5d471ac0e20e093a1c
+#EXTINF:-1,A&E (opcion2)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/71781db9eab289fffb1b40db426d57aa
+#EXTINF:-1,Movistar - DCINE HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/eaaf3fc9c95e1ef59cfbd26e2afb76b6
+#EXTINF:-1,Movistar - DCINE (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/8b0aff59a554c6de214bedd65f82782d
+#EXTINF:-1,Movistar - DCINE (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/013
+#EXTINF:-1,Movistar - Accion HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/c2bba5850895bfe73139eb098aa3cb2e
+#EXTINF:-1,Movistar - Accion HD (Opcion2)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/4b61b52af194bbcd28552b887897b292
+#EXTINF:-1,Movistar - Accion (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/003
+#EXTINF:-1,Movistar - Estrenos HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/2002a0c0c16f5faad37648cdfdda4183
+#EXTINF:-1,Movistar - Estrenos (Opcion2)
+http://spainfree.blackeviltv.com:8888/http/012
+#EXTINF:-1,Movistar - Cine Español
+http://gratis:111111@51.68.121.176:9981/stream/mux/73be1bee1ac8fb41c6380145f38bbe77
+#EXTINF:-1,HISTORIA
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/167f8dcaa6bd72ed792234b322a325e1
+#EXTINF:-1,PARAMOUNT
+http://gratis:111111@51.68.121.176:9981/stream/channel/e00b403d1c435a72684057786d50850b
+#EXTINF:-1,Movistar - CineDoc&Roll
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/0b6e6c52d9b44eaa0ae509ac4ccf8020
+#EXTINF:-1,Movistar - CineDoc&Roll HD
+http://gratis:111111@51.68.121.176:9981/stream/mux/80752852b01fb5c6e5f38b65f28b1e95
+#EXTINF:-1,Movistar - Halloween (del 26/oct-25/Nov)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/86de6618c96c4cb3970de8b511408a84
+#EXTINF:-1,Movistar - Disney
+http://spainfree.blackeviltv.com:8888/http/008
+#EXTINF:-1,---------- INFANTILES ----------
+http://blackeviltv.com/free/blackeviltv.mp4
+#EXTINF:-1,CLAN TVE
+http://gratis:111111@51.68.121.176:9981/stream/channel/a99c552de0b3facae8714d823bff4196
+#EXTINF:-1,BOING
+http://gratis:111111@51.68.121.176:9981/stream/channel/35d84cb224ad74164d7abf3bc80fc49f
+#EXTINF:-1,Nickelodeon HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/804434c9fbbe3ef76422f6a35c34cba9
+#EXTINF:-1,BABY TV
+http://gratis:111111@51.68.121.176:9981/stream/channel/99bcec5aa9d3c646302694d4d2777d33
+#EXTINF:-1,DISNEY JR
+http://gratis:111111@51.68.121.176:9981/stream/channel/ced05d1a8b81e06c6b9d8e0327e2f1c4
+#EXTINF:-1,CANAL PANDA
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/ab3718ff77ca40770f3afb1f0f5acc5a
+#EXTINF:-1,DISNEY CHANNEL HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/f9c11fb219842ecb4a80a7c07a8f99e5
+#EXTINF:-1,DISNEY XD
+http://gratis:111111@51.68.121.176:9981/stream/channel/76546ee472ee78d8875598fa86c931b8
+#EXTINF:-1,---------- SERIES ----------
+http://blackeviltv.com/free/blackeviltv.mp4
+#EXTINF:-1,AMC HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/eb773b1d9749d94f75f5000cae8eac9e
+#EXTINF:-1,SYFY HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/0626c6877775583fb5a2be9be179f414
+#EXTINF:-1,SYFY (Opcion2)
+http://spainfree.blackeviltv.com:8888/http/002
+#EXTINF:-1,Movistar - Series HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/f7f89c6cddb139e22c1f729421d83aa3
+#EXTINF:-1,Movistar - Series (Opcion2)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/458e78fe6d72da0b252519c9d8ed4d14
+#EXTINF:-1,Movistar - Seriesmania HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/554b2910231c89fcc638f829867c6214
+#EXTINF:-1,Movistar - SeriesMania (Opcion2)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/ed088c224545e3c567069cde32c3effa
+#EXTINF:-1,=========DEPORTES/MMA/BOXEO==========
+http://TVGRATIS.blackeviltv.com:999/live/admin/root/16969.ts
+#EXTINF:-1,UFC FIGHT (Español-Latino)
+http://gratis:111111@51.68.121.176:9981/stream/channel/fcde4446100e30c5f3cfdb0b9a5e5152
+#EXTINF:-1,FIGHT BOX HD (Ingles)
+http://gratis:111111@51.68.121.176:9981/stream/channel/958ab2d69b652e576fc0d361157edb5a
+#EXTINF:-1,UFC Fight PASS (Ingles)
+http://gratis:111111@51.68.121.176:9981/stream/channel/59ebb7e289e58f1c2de2884e69fda76b
+#EXTINF:-1,FIGHT SPORT HD (Ingles)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/e7b4f7d1c0eb769babf7bde593d88ca1
+#EXTINF:-1,=========DEPORTES/Futbol==========
+http://blackeviltv.com/free/blackeviltv.mp4
+#EXTINF:-1,beIN LALIGA
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/6e123d84c12556fd4a38f0eb8492ae29
+#EXTINF:-1,beIN LA LIGA (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/f83f7307062bce31b3f4774ed96e39f6
+#EXTINF:-1,beIN LA LIGA (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/001
+#EXTINF:-1,Liga de Campeones
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/20958888ee35500a5df25796a98bcb70
+#EXTINF:-1,La Liga de Campeones (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/503929dd4eb73a6141f8b214adc71234
+#EXTINF:-1,La Liga de Campeones (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/010
+#EXTINF:-1,Movistar - Futbol HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/04df622969d6761cea15cf9149090266
+#EXTINF:-1,Deportes 1 HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/04fb2cf92ada8240d1ded5bf35371f72
+#EXTINF:-1,Eurosports 1
+http://gratis:111111@51.68.121.176:9981/stream/channel/09ba0209c2408b70c1a39eebc2c6a038
+#EXTINF:-1,La Liga TV
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/5c6c50645e9ea106d01a1d982d7f4e08
+#EXTINF:-1,La Liga TV HD (Opcion2)
+http://gratis:111111@51.68.121.176:9981/stream/mux/01dac78d27d5ead19df2d2321703ec93
+#EXTINF:-1,La Liga TV HD (Opcion3)
+http://spainfree.blackeviltv.com:8888/http/011
+#EXTINF:-1,La Liga 123
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/7d6156b0080e967cfbf4036b0d491a1a
+#EXTINF:-1,La Liga 123 (Opcion2)
+http://spainfree.blackeviltv.com:8888/http/009
+#EXTINF:-1,Movistar - PARTIDAZO HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/5c0c9edb1a38258cd8d6a078ada2d8f4
+#EXTINF:-1,Movistar - PARTIDAZO HD (Opcion2)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/6c9a37e673b08e86575311aa894099f2
+#EXTINF:-1,GoL TV
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/b1e39728946469cfd59fe9edb75d938e
+#EXTINF:-1,Real Madrid TV
+http://gratis:111111@51.68.121.176:9981/stream/channel/cccc264abb6a1bf2f89ccde9e13b1f8d
+#EXTINF:-1,FOX SPORTS Mexico FHD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/28fe025482145c484c522c9b82b443c7
+#EXTINF:-1,FOX SPORTS HD (Argentina)
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/ee263401d31216e781484e8ead2fc2f7
+#EXTINF:-1,=========OTROS==========
+http://blackeviltv.com/free/blackeviltv.mp4
+#EXTINF:-1,HISTORIA HD
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/167f8dcaa6bd72ed792234b322a325e1
+#EXTINF:-1,DMAX
+http://gratis:111111@spainfree.blackeviltv.com:9981/stream/mux/07e6335b1bdfb4488cc65a8a967b2923
+#EXTINF:-1,FOX
+http://gratis:111111@51.68.121.176:9981/stream/channel/09d77e493cc5f88bf421707b6db4a178
+#EXTINF:-1,Fox Life
+http://gratis:111111@51.68.121.176:9981/stream/channel/c8abf10257ad5cac1f5b03fd2c47054e
+#EXTINF:-1,Iberalia TV
+http://gratis:111111@51.68.121.176:9981/stream/channel/0620f2790e107edd5768d623b2b4c044
+#EXTINF:-1,Caza y Pesca
+http://gratis:111111@51.68.121.176:9981/stream/channel/0437771e8cd3a7044b6d9e21d5271e21
+#EXTINF:-1,Nat Geo Wild
+http://spainfree.blackeviltv.com:8888/http/007
+#EXTINF:-1,AXN HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/6269001341f5b9bc120b4dd69fa38999
+#EXTINF:-1,AXN White HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/b5572162a915cc8a8a7edf7d52169d6b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
