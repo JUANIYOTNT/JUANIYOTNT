@@ -232,31 +232,13 @@
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8$$lsname=DISCOVERY (HTTP source #01)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/2704.m3u8$$lsname=DISCOVERY (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] DISCOVERY HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2703.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=DISCOVERY HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2703.m3u8$$lsname=DISCOVERY HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] ODISEA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17734.m3u8;streamtype=HLSRETRY&amp;name=ODISEA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=ODISEA (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17734.m3u8$$lsname=ODISEA (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] A&E[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5414.m3u8;streamtype=HLSRETRY&amp;name=A&E [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=A&E (F4M source #06)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/5414.m3u8$$lsname=A&E (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] VIAJAR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1043.m3u8;streamtype=HLSRETRY&amp;name=VIAJAR [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=VIAJAR (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.m3u8;streamtype=HLSRETRY&amp;name=VIAJAR [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=VIAJAR (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.m3u8$$lsname=VIAJAR (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAJAR.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] VIAJAR HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2722.m3u8;streamtype=HLSRETRY&amp;name=VIAJAR HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=VIAJAR HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2722.m3u8$$lsname=VIAJAR HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAJAR.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] DMAX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17733.m3u8;streamtype=HLSRETRY&amp;name=DMAX [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=DMAX (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17733.m3u8$$lsname=DMAX (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] CRIMEN & INVESTIGATION[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8;streamtype=HLSRETRY&amp;name=CRIMEN & INVESTIGATION [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=CRIMEN & INVESTIGATION (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/6984.m3u8;streamtype=HLSRETRY&amp;name=CRIMEN & INVESTIGATION [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=CRIMEN & INVESTIGATION (F4M source #06)</link>
@@ -264,7 +246,6 @@
 <link>http://iptvfree1.com:6969/live/0786/0786/6984.m3u8$$lsname=CRIMEN & INVESTIGATION (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] CANAL COCINA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1024.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=CANAL COCINA (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=CANAL COCINA (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5425.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=CANAL COCINA (F4M source #06)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.m3u8$$lsname=CANAL COCINA (HTTP source #01)</link>
