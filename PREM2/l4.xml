@@ -4,12 +4,6 @@
 
 
 
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FUTBOL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1020.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/3068.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/3068.m3u8$$lsname=MOVISTAR FUTBOL (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-canal-movistar-futbol-online-gratis-vivo/$$lsname=MOVISTAR FUTBOL (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FUTBOL HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2692.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #06)</link>
