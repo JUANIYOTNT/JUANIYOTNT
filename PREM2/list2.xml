@@ -78,15 +78,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2711.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES HD (F4M source #06)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/2711.m3u8$$lsname=MOVISTAR SERIES HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png</thumbnail></item>
-<item><title>[B][COLOR yellow]• [B][COLOR white] MOVISTAR SERIES XTRA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1004.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES XTRA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES XTRA (F4M source #01)</link>
-<link>http://e2.iudtv.org:8080/live/thankyou/123/1004.m3u8$$lsname=MOVISTAR SERIES XTRA (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] MOVISTAR SERIES XTRA HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES XTRA HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES XTRA HD (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2712.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES XTRA HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES XTRA HD (F4M source #06)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8$$lsname=MOVISTAR SERIES XTRA HD (HTTP source #01)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2712.m3u8$$lsname=MOVISTAR SERIES XTRA HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] FOX HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1029.m3u8;streamtype=HLSRETRY&amp;name=FOX HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=FOX HD (F4M source #01)</link>
