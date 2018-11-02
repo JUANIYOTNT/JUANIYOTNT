@@ -221,20 +221,10 @@
 <link>http://iptvfree1.com:6969/live/0786/0786/2702.m3u8$$lsname=NATIONAL GEOGRAPHIC HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] NATGEO WILD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1055.m3u8;streamtype=HLSRETRY&amp;name=NATGEO WILD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=NATGEO WILD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8;streamtype=HLSRETRY&amp;name=NATGEO WILD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=NATGEO WILD (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8$$lsname=NATGEO WILD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] NATGEO WILD HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2701.m3u8;streamtype=HLSRETRY&amp;name=NATGEO WILD HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=NATGEO WILD HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2701.m3u8$$lsname=NATGEO WILD HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] HISTORIA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1051.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=HISTORIA (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=HISTORIA (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2728.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=HISTORIA (F4M source #06)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.m3u8$$lsname=HISTORIA (HTTP source #01)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2728.m3u8$$lsname=HISTORIA (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] DISCOVERY[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=DISCOVERY (F4M source #05)</link>
