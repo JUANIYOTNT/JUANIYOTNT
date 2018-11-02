@@ -66,11 +66,6 @@
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LAOTRA.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR SERIES[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8$$lsname=MOVISTAR SERIES (HTTP source #01)</link>
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR SERIES HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2711.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2711.m3u8$$lsname=MOVISTAR SERIES HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR SERIES XTRA HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES XTRA HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES XTRA HD (F4M source #05)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png</thumbnail></item>
@@ -162,23 +157,11 @@
 <link>http://iptvfree1.com:6969/live/0786/0786/6696.m3u8$$lsname=ENERGY (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR ESTRENOS HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1059.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ESTRENOS HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ESTRENOS HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ESTRENOS HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ESTRENOS HD (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2718.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ESTRENOS HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ESTRENOS HD (F4M source #06)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8$$lsname=MOVISTAR ESTRENOS HD (HTTP source #01)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2718.m3u8$$lsname=MOVISTAR ESTRENOS HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR XTRA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR XTRA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR XTRA (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.m3u8$$lsname=MOVISTAR XTRA (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARXTRA.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR XTRA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17142.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR XTRA HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR XTRA HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17142.m3u8$$lsname=MOVISTAR XTRA HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARXTRA.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR ACCION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1030.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ACCION [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ACCION (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR ACCION HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ACCION HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ACCION HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17132.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ACCION HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ACCION HD (F4M source #06)</link>
