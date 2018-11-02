@@ -61,10 +61,6 @@
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8$$lsname=LA SEXTA HD (HTTP source #01)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/2698.m3u8$$lsname=LA SEXTA HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] #0 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17641.m3u8;streamtype=HLSRETRY&amp;name=#0 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=#0 HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17641.m3u8$$lsname=#0 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] TELEMADRID[/B][/COLOR]</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8$$lsname=TELEMADRID (HTTP source #01)</link>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8$$lsname=TELEMADRID (HTTP source #02)</link>
@@ -91,17 +87,8 @@
 <link>http://iptvfree1.com:6969/live/0786/0786/2697.m3u8$$lsname=FOX HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] AXN HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1054.m3u8;streamtype=HLSRETRY&amp;name=AXN HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=AXN HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8;streamtype=HLSRETRY&amp;name=AXN HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=AXN HD (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17115.m3u8;streamtype=HLSRETRY&amp;name=AXN HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=AXN HD (F4M source #06)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8$$lsname=AXN HD (HTTP source #01)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17115.m3u8$$lsname=AXN HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] TNT[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1032.m3u8;streamtype=HLSRETRY&amp;name=TNT [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=TNT (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5416.m3u8;streamtype=HLSRETRY&amp;name=TNT [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=TNT (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/5416.m3u8$$lsname=TNT (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] TNT HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8;streamtype=HLSRETRY&amp;name=TNT HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=TNT HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17151.m3u8;streamtype=HLSRETRY&amp;name=TNT HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=TNT HD (F4M source #06)</link>
