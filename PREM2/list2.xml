@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
 <item><title>[B][COLOR yellow]• [B][COLOR white] LA 1[/B][/COLOR]</title>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8$$lsname=LA 1 (HTTP source #01)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8$$lsname=LA 1 (HTTP source #02)</link>
@@ -82,15 +85,11 @@
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES XTRA HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES XTRA HD (F4M source #05)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] FOX HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1029.m3u8;streamtype=HLSRETRY&amp;name=FOX HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=FOX HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8;streamtype=HLSRETRY&amp;name=FOX HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=FOX HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2697.m3u8;streamtype=HLSRETRY&amp;name=FOX HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=FOX HD (F4M source #06)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8$$lsname=FOX HD (HTTP source #01)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/2697.m3u8$$lsname=FOX HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
-<item><title>[B][COLOR yellow]• [B][COLOR white] AXN[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/axn.php$$lsname=AXN (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] AXN HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1054.m3u8;streamtype=HLSRETRY&amp;name=AXN HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=AXN HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8;streamtype=HLSRETRY&amp;name=AXN HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=AXN HD (F4M source #05)</link>
