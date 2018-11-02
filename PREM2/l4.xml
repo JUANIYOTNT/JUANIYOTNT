@@ -40,14 +40,6 @@
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS LALIGA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/16858.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #06)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.m3u8$$lsname=BEIN SPORTS LALIGA (HTTP source #01)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/16858.m3u8$$lsname=BEIN SPORTS LALIGA (HTTP source #02)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/beinlaliga.php$$lsname=BEIN SPORTS LALIGA (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS LALIGA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/16861.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/16861.m3u8$$lsname=BEIN SPORTS LALIGA HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1003.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS HD (F4M source #01)</link>
