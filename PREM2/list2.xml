@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item><title>[B][COLOR yellow]• [B][COLOR white] LA 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1014.m3u8;streamtype=HLSRETRY&amp;name=LA 1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LA 1 (F4M source #01)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8$$lsname=LA 1 (HTTP source #01)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8$$lsname=LA 1 (HTTP source #02)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtve.es/directo/la-1/$$lsname=LA 1 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/la1.php$$lsname=LA 1 (SD source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LA1.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] LA 1 HD[/B][/COLOR]</title>
@@ -60,9 +58,6 @@
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8$$lsname=LA SEXTA HD (HTTP source #01)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/2698.m3u8$$lsname=LA SEXTA HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png</thumbnail></item>
-<item><title>[B][COLOR yellow]• [B][COLOR white] #0[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/mov0.php$$lsname=#0 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] #0 HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17641.m3u8;streamtype=HLSRETRY&amp;name=#0 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=#0 HD (F4M source #06)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/17641.m3u8$$lsname=#0 HD (HTTP source #01)</link>
@@ -77,10 +72,8 @@
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8$$lsname=LA OTRA (HTTP source #03)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LAOTRA.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] MOVISTAR SERIES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1058.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES (F4M source #05)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8$$lsname=MOVISTAR SERIES (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png</thumbnail></item>
 <item><title>[B][COLOR yellow]• [B][COLOR white] MOVISTAR SERIES HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2711.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES HD (F4M source #06)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/2711.m3u8$$lsname=MOVISTAR SERIES HD (HTTP source #01)</link>
