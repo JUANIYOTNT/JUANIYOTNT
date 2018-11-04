@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][COLOR blue]  +   [/COLOR][/B][B][COLOR white] Cine[/COLOR][/B]</title>
+<thumbnail>https://i1.wp.com/elnuevodiario.com.do/wp-content/uploads/2017/08/Festival-de-Cine-Global-1000x550.jpg</thumbnail>
+<fanart>http://www.lacalzada.com/wp-content/uploads/2016/08/cine-1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/ZQtsMWVq</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]  +   [/COLOR][/B][B][COLOR white] Series[/COLOR][/B]</title>
+<thumbnail>https://pbs.twimg.com/profile_images/3121099081/435e06fa0cdb34f2fc4a1b045993a030.png</thumbnail>
+<fanart>https://es.best-wallpaper.net/wallpaper/1920x1080/1304/The-Vampire-Diaries-TV-series-season-4-HD_1920x1080.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/FTeH0NY9</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR orange]  +   [/COLOR][/B][B][COLOR white] Anime[/COLOR][I][COLOR blue] [/COLOR][/I] [/B]</title>
+<thumbnail>https://i.ytimg.com/vi/d-7lrJM4Fts/maxresdefault.jpg</thumbnail>
+<fanart>https://media.shoanime.com/2018/03/Goku-ultra-instinto-fondo-de-pantalla.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/HQNQ4kiC</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR orangered]  +   [/COLOR][/B][B][COLOR white] Deportes[/COLOR][I][COLOR blue] [/COLOR][/I] [/B]</title>
+<thumbnail>http://a.espncdn.com/photo/2010/1111/la_i_hs_football_b1_576.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fenway_from_Legend%27s_Box.jpg/1200px-Fenway_from_Legend%27s_Box.jpg</fanart>
+ 
+ <link>$doregex[magyck]</link>
+ 
+<regex>
+<name>magyck</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR white] - [COLOR white][magyck.param3] -  [COLOR silver][magyck.param4][/COLOR][/B]</title>
+<thumbnail>[magyck.param5]</thumbnail>
+<fanart></fanart>
+<link>$doregex[id3]</link>  
+]]></listrepeat>
+<expres><![CDATA[(?i)<div class="td-module-thumb"><a href="http://fullmatchtv.com/index.php/(.*?)/(.*?)".*?title="(.*?)&.....;(.*?)".*?src="(.*?)".*]]></expres>
+<page>http://fullmatchtv.com/index.php/$doregex[categoria]/</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+
+ 
+ 
+ 
+  <regex>
+ 
+<name>categoria</name>
+ 
+ 
+ 
+<expres><![CDATA[#$pyFunction
+ 
+ 
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ 
+ 
+ import xbmcgui
+ 
+ 
+ 
+ dialog = xbmcgui.Dialog()
+ 
+ 
+ 
+ ret = dialog.select('[B][COLOR yellow]Escoge Categoria[/COLOR][/B]', ['[B][COLOR white]NBA[/COLOR][/B]', '[B][COLOR white]NHL[/COLOR][/B]', '[B][COLOR white]NFL[/COLOR][/B]', '[B][COLOR white]AFL[/COLOR][/B]', '[B][COLOR white]MLB[/COLOR][/B]', '[B][COLOR white]Rugby[/COLOR][/B]', '[B][COLOR white]WWE-MMA[/COLOR][/B]'])
+ 
+ lists = ['nba', 'nhl', 'nfl', 'afl', 'mlb', 'rugby', 'wwe-mma']
+ 
+ 
+ 
+ return lists[ret]
+ 
+ 
+ 
+]]></expres>
+ 
+ 
+ 
+<page></page>
+</regex>
+ 
+ 
+<regex>
+<name>magyck2</name>  
+<expres><![CDATA[(//ok.ru(.*?))"]]></expres>
+<page>http://fullmatchtv.com/index.php/[magyck.param1]/[magyck.param2]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = 'https:$doregex[magyck2]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = ''
+    return u
+]]></expres>
+<page></page>
+</regex>
+ 
+</item>
+
+
+
+<item>
+<title>[B][COLOR greenyellow]  +   [/COLOR][/B][B][COLOR white] Motor[/COLOR][I][COLOR blue] [/COLOR][/I] [/B]</title>
+<thumbnail>https://static.motor.es/fotos-noticias/2015/10/min450x299/ander-vilarino-tricampeon-de-la-nascar-whelen-euroseries-201523517_1.jpg</thumbnail>
+<fanart>http://www.competicionesdemotor.com/wp-content/uploads/2013/02/nascar21.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/6Lh3w0T5</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR red]  +   [/COLOR][/B][B][COLOR white] Musica[/COLOR][/B]</title>
+<link>na</link>
+<thumbnail>https://png.pngtree.com/element_origin_min_pic/17/03/16/06353a829e545c43b648a48d7a0e4fe3.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/qXmDPxsw</externallink> 
+</item>
+
+ <item>
+<title>[B][COLOR green]  +   [/COLOR][/B][B][COLOR white] Televisión +[/COLOR][COLOR deepskyblue] [/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Escoge lista', ['[COLOR yellow][B]Lista m3u8[/COLOR][/B]', '[COLOR yellow][B]Canales ArenaVision[/COLOR][/B]'])
+   lists = ['http://bit.ly/M3U-Variada', 'https://pastebin.com/raw/iVnkYW5w']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+
+</item>
+
