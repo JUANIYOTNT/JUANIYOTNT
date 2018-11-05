@@ -22,7 +22,7 @@
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] EUROSPORT 1 ES[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12707.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=EUROSPORT(F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5410.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=EUROSPORT(F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5410.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=EUROSPORT(F4M source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FUTBOL HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #05)</link>
