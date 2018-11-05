@@ -4,8 +4,6 @@
 <item><title>[B][COLOR red]• [B][COLOR white] LALIGA 123[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/18232.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17018.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #02)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17018.m3u8$$lsname=LALIGA 123 (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/laliga123.php$$lsname=LALIGA 123 (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] LALIGA TV HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
