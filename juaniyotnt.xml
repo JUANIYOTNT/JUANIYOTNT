@@ -17,14 +17,6 @@
 
 
 
-
-<item>
-<title>[B][COLOR gold][I]           ***SeriesJHG***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
-<link>ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>[B][COLOR deepskyblue]*SeriesJHG*[/COLOR][COLOR khaki] Por letra[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
  <link>$doregex[jhg]</link>
