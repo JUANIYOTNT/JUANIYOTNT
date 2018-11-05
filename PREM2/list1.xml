@@ -1,5 +1,395 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+
+
+
+	
+	
+		
+	 <item>
+        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] mantenimiento...NO TOCAR!!!!!!...[/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/MATANZA1.xml</externallink>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</item>
+	
+	
+	 <item>
+<title>[COLOR yellow] * pum pam pim [/COLOR][COLOR white] NO TOCAR!!!!!!!!!  [/COLOR]</title>
+<fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
+<thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/SERIES/BASESERIES.xml</externallink>
+</item>
+
+
+	
+	 <item>
+        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] JHG.MASTER [/COLOR][COLOR orange] NO TOCAR [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/IN1X.xml</externallink>
+        <thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
+        <fanart>https://i.imgur.com/JK14obf.jpg</fanart>
+</item>
+
+	 <item>
+<title>[COLOR yellow] Z [/COLOR][COLOR white] NO TOCAR!!!!!!!!!  [/COLOR]</title>
+<fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
+<thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://bit.ly/cristalazulmenu$$LSProEncKey= $$</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR gold][I]             ***SeriesBlanco***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]*SeriesBlanco*[/COLOR][COLOR pink] Buscador...[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+<link>$doregex[magyck2]</link>
+ 
+  <regex>
+<name>magyck2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR khaki][magyck2.param3] [/COLOR][/B]</title>
+<thumbnail>[magyck2.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck3]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href="https://seriesblanco.org/(.*?)">[^"]+.*src="(.*?)" title=.*?alt="(.*?)"]]></expres>
+<page>https://seriesblanco.org/?s=$doregex[search]</page>
+</regex>
+
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('buscar pelicula: ejemplo: gladiator', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+
+ 
+<regex>
+<name>magyck3</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR deepskyblue][magyck3.param2] -[COLOR khaki] [magyck3.param3] [/COLOR][/B]</title>
+<thumbnail>[magyck2.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck4]</link>  
+]]></listrepeat>
+<expres><![CDATA[<td><a href="https://seriesblanco.org(.*?)".*<span itemprop="episodeNumber">(.*?)</span>(.*?)</a]]></expres>
+<page>https://seriesblanco.org/[magyck2.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>magyck4</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR khaki][magyck4.param2] [/COLOR][/B]</title>
+<thumbnail>[magyck2.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[id3]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a class="open-link" data-enlace="(.*?)".*\s+<img.*\s+(.*?)(\W)]]></expres>
+<page>https://seriesblanco.org[magyck3.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '[magyck4.param1]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = ''
+    return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR deepskyblue]*SeriesBlanco*[/COLOR][COLOR khaki] Por genero[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+ <link>$doregex[magyck]</link>
+ 
+<regex>
+<name>magyck</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck.param2] [/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<li><a href="https://seriesblanco.org/genero/(.*?)">.*?</i>(.*?)</a]]></expres>
+<page>https://seriesblanco.org/</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>magyck2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck2.param3] [/COLOR][/B]</title>
+<thumbnail>[magyck2.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck3]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href="https://seriesblanco.org/(.*?)">[^"]+.*src="(.*?)".*[^"]+.*/capitulos/(.*?)/]]></expres>
+<page>https://seriesblanco.org/genero/[magyck.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>magyck3</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck3.param2] - [magyck3.param3] [/COLOR][/B]</title>
+<thumbnail>[magyck2.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck4]</link>  
+]]></listrepeat>
+<expres><![CDATA[<td><a href="https://seriesblanco.org(.*?)".*<span itemprop="episodeNumber">(.*?)</span>(.*?)</a]]></expres>
+<page>https://seriesblanco.org/[magyck2.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>magyck4</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck4.param2] [/COLOR][/B]</title>
+<thumbnail>[magyck2.param2]</thumbnail>
+<fanart></fanart>
+<urlsolve>[magyck4.param1]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<a class="open-link" data-enlace="(.*?)".*\s+<img.*\s+(.*?)(\W)]]></expres>
+<page>https://seriesblanco.org[magyck3.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail></thumbnail>
+</item>
+
+
+ 
+
+<item>
+
+<title>[B][COLOR deepskyblue]*SeriesBlanco*[/COLOR][COLOR khaki] Por letra[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+
+ <link>$doregex[magyck]</link> 
+
+<regex>
+
+<name>magyck</name>  
+
+<listrepeat><![CDATA[  
+
+<title>[B][COLOR white]Letra - [COLOR gold][magyck.param2][/COLOR][/B]</title>
+
+<thumbnail></thumbnail>
+
+<fanart></fanart>
+
+<link>$doregex[letra]</link>  
+
+]]></listrepeat>
+
+<expres><![CDATA[<a dir=".*href="(.*?)".*label-primary">(.*?)<]]></expres>
+
+<page>https://seriesblanco.org/lista-de-series/</page>
+
+<cookieJar></cookieJar>
+
+</regex>
+
+<regex>
+
+<name>letra</name>  
+
+<listrepeat><![CDATA[  
+
+<title>[B][COLOR white][letra.param3][/COLOR][/B]</title>
+
+<thumbnail>[letra.param2]</thumbnail>
+
+<fanart></fanart>
+
+<link>$doregex[magyck3]</link>  
+
+]]></listrepeat>
+
+<expres><![CDATA[<div style=.*[^"]+<a href="(.*?)">[^"]+.*src="(.*?)" title="(.*)" height]]></expres>
+
+<page>[magyck.param1]</page>
+
+<cookieJar></cookieJar>
+
+</regex> 
+
+<regex>
+
+<name>magyck3</name>  
+
+<listrepeat><![CDATA[  
+
+<title>[B][COLOR lime] - [COLOR white][magyck3.param2][/COLOR] - [COLOR greenyellow][magyck3.param3][/COLOR][/B]</title>
+
+<thumbnail></thumbnail>
+
+<fanart></fanart>
+
+<link>$doregex[magyck4]</link>  
+
+]]></listrepeat>
+
+<expres><![CDATA[<a href="(.*?)".*itemprop="episodeNumber">(.*?)</span>(.*?)<]]></expres>
+
+<page>[letra.param1]</page>
+
+<cookieJar></cookieJar>
+
+</regex>
+
+<regex>
+
+  <name>magyck4</name>  
+
+  <listrepeat><![CDATA[  
+
+<title>[B][COLOR lime] - [COLOR white][magyck4.param1][/COLOR][/B]</title>
+
+<thumbnail></thumbnail>
+
+<fanart></fanart>
+
+<urlsolve>[magyck4.param1]</urlsolve>  
+
+]]></listrepeat>
+
+<expres><![CDATA[<a class="open-link" data-enlace="(.*?)"]]></expres>
+
+<page>[magyck3.param1]</page>
+
+<cookieJar></cookieJar>
+
+</regex>
+<thumbnail>http://media.tvalacarta.info/pelisalacarta/squares/seriesblanco.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR gold][I]             ***SeriesDanko***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]*SeriesDanko*[/COLOR][COLOR khaki] Por letra[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+ <link>$doregex[magyck]</link>
+
+<regex>
+<name>magyck</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck.param2][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href='([^<]+)' title='Lista de series.*?'>([^<]+)<]]></expres>
+<page>http://seriesdanko.to/</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>magyck2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck2.param2][/COLOR][/B]</title>
+<thumbnail>[magyck2.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck3]</link>  
+]]></listrepeat>
+<expres><![CDATA[text-align:center;'><a href='([^<]+)' title='Capitulos de:([^<]+)'.*?src='([^<]+)']]></expres>
+<page>http://seriesdanko.to/[magyck.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>magyck3</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck3.param2][/COLOR][/B]</title>
+<thumbnail>[magyck3.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck4]</link>  
+]]></listrepeat>
+<expres><![CDATA[<br><a href='([^<]+)'>([^<]+)-.*?<img src=([^<]+) ]]></expres>
+<page>http://seriesdanko.to/[magyck2.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>magyck4</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR orangered][magyck4.param1] -[COLOR white] [magyck4.param2][/COLOR][/B]</title>
+<thumbnail>[magyck3.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck5]</link>  
+]]></listrepeat>
+<expres><![CDATA[<img src='/assets/img/banderas/(.*?).png.*?servidores/(.*?)\..*?href='(.*?)']]></expres>
+<page>http://seriesdanko.to/[magyck3.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+
+<regex>
+<name>magyck5</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck5.param2][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<urlsolve>[magyck5.param1]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<a target="_blank" href="(.*?)">.*?//(.*)\.]]></expres>
+<page>http://seriesdanko.to/[magyck4.param3]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<thumbnail>https://lh6.googleusercontent.com/-PRXvh5sIJZs/AAAAAAAAAAI/AAAAAAAAADU/ycYKKh9QIx0/il/photo.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV</title>
 <thumbnail></thumbnail>
