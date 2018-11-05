@@ -51,32 +51,22 @@
 
 
 
+<item><title>[B][COLOR red]• [B][COLOR white] NICK JR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/14247.m3u8;streamtype=HLSRETRY&amp;name=NICK JR [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=NICK JR (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png</thumbnail></item>
 
 
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
-<thumbnail></thumbnail></item>
-
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
-<thumbnail></thumbnail></item>
+<item><title>[B][COLOR red]• [B][COLOR white] Baby TV [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9427.m3u8;streamtype=HLSRETRY&amp;name=Baby TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Baby TV (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png</thumbnail></item>
 
 
+<item><title>[B][COLOR red]• [B][COLOR white] Boing [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9429.m3u8;streamtype=HLSRETRY&amp;name=Boing [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Boing (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png</thumbnail></item>
 
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
-<thumbnail></thumbnail></item>
 
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
-<thumbnail></thumbnail></item>
 
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
-<thumbnail></thumbnail></item>
+
+
 
