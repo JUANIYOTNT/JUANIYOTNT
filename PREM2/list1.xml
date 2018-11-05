@@ -1,6 +1,154 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+ <item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu_tdt.xml</externallink>
+</item>
 
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV MOVISTAR</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tv_channels_pmkmtpd6_plus.m3u</externallink>
+</item>
+
+
+<item>
+<title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR brown][COLOR brown]-[/COLOR]CAMARAS DEL MUNDO </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CAMARAS_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR purple][COLOR purple]-[/COLOR]MUSICA J.CARMONA </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/MUSICA_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][COLOR yellow]-[/COLOR]PELICULAS INOLVIDABLES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Peliculas_inolvidables_ryu.xml</externallink>
+</item>
+
+ <item>
+<title>[COLOR yellow][COLOR yellow]-[/COLOR]PELICULAS POR GENERO Y AÑO</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Pelisanos_ryu.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR orange][COLOR orange]-[/COLOR]PELICULAS DE ESTRENOS 2017</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/PELIS_ryu.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB POR GENEROS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_GENEROS_ryu.xml</externallink>
+</item>
+
+ <item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]SALAS DE CINE</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SALASCINE_ryu.xml</externallink>
+</item>
+
+
+
+ <item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB INFANTIL</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_INFANTIL.xml</externallink>
+</item>
+
+ <item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]SERIES INFANTILES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SERIES_INFANTIL_ryu.xml</externallink>
+</item>
+
+
+ <item>
+<title>[COLOR lime][COLOR lime]-[/COLOR]VIDEOCLUB ANIME</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_ANIME_ryu.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR lime][COLOR lime]-[/COLOR]LAS MEJORES SERIES DEL MOMENTO</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SERIES_ryu.xml</externallink>
+</item>
+
+ <item>
+<title>[COLOR red][COLOR red]-[/COLOR]TODAS LAS SERIES NETFLIX Y HBO</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Todas_series_RYU.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR red][COLOR red]-[/COLOR]SAGAS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SAGAS_ryu.xml</externallink>
+</item>
+ 
+ <item>
+<title>[COLOR white][COLOR white]-[/COLOR]DOCUMENTALES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DOCUMENTALES_ryu.xml</externallink>
+</item>
  
 <item>
 <title>[COLOR yellow]----MOVIESTAR LISTA 1---- [/COLOR]</title>
