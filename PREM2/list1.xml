@@ -1,72 +1,108 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+ 
+<item>
+<title>[COLOR yellow]----MOVIESTAR LISTA 1---- [/COLOR]</title>
+<thumbnail>http://www.movistar.es/estaticos/img/ico-app-mi-movistar-2017.png</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/ycBrXT5c</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]----MOVIESTAR LISTA 2 ESTABLE ON---- [/COLOR]</title>
+<thumbnail>http://www.movistar.es/estaticos/img/ico-app-mi-movistar-2017.png</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/WqbHT2RD</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]----MOVIESTAR LISTA 3---- [/COLOR]</title>
+<thumbnail>http://www.movistar.es/estaticos/img/ico-app-mi-movistar-2017.png</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/CQrSEvPf<externallink>
+</item>
+ 
+ <item>
+<title>[COLOR yellow]----MOVIESTAR LISTA 4---- [/COLOR]</title>
+<thumbnail>http://www.movistar.es/estaticos/img/ico-app-mi-movistar-2017.png</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/f9brNF8Z<externallink>
+</item>
+
+
+<item>
+<title>[COLOR yellow]----CANALES ACESTREAM---- [/COLOR]</title>
+<thumbnail>http://www.movistar.es/estaticos/img/ico-app-mi-movistar-2017.png</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/PyRJ3GrD</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow]----TDT Y AUTONOMICAS----[/COLOR]</title>
+<thumbnail>http://canaletestereo.com/wp-content/uploads/2018/01/tdt-en-colombia.jpg</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/DMgC0yJ1/</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow]----TODO EL DEPORTE AQUI MANTENIMIENTO----[/COLOR]</title>
+<thumbnail>https://www.afedecyl.com/wp-content/uploads/2018/04/logo-deportes.jpg</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/erzEC1P6/externallink>
+</item>
+
+ 
+<item>
+<title>[COLOR yellow]----PELICULAS----[/COLOR]</title>
+<thumbnail>http://alfaenlinea.com/wp-content/themes/alfa/images/ct/plus-cine.jpg</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/mwd25qYP</externallink>
+</item>
 
 
 
 
+<item>
+ <title>[COLOR yellow]----SERIES----[/COLOR]</title>
+<thumbnail>https://pm1.narvii.com/6438/35764c01c81a739a44b2ce72f10a18c56588203a_hq.jpg</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/MX8fHf8w</externallink>
+</item>
 
 
 
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar Xtra [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9412.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png</thumbnail></item>
-
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar Estrenos [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12722.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9415.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png</thumbnail></item>
+<item>
+<title>[COLOR yellow]----TELENOVELA---[/COLOR]</title>
+<thumbnail>http://teleprograma.diezminutos.es/var/plan_site/storage/images/telenovela/2016/septiembre/global-telenovelas-hd-venevision/11085554-1-esl-ES/llega-a-espana-global-telenovelas-hd_reference.jpg</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/r0b35wJ7</externallink>
+</item>
 
 
+<item>
+<title>[COLOR yellow]----TV DE AMERICA DEL SUR---- [/COLOR]</title>
+<thumbnail>https://previews.123rf.com/images/jegas/jegas1607/jegas160700603/59887882-les-membres-du-syndicat-de-l-association-latino-am%C3%A9ricaine-d-int%C3%A9gration-font-des-drapeaux-sur-les.jpg</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/eb3zrNEx</externallink>
+</item>
 
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12725.m3u8;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5461.m3u8;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png</thumbnail></item>
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar Comedia [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12726.m3u8;streamtype=HLSRETRY&amp;name=Movistar Comedia [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Comedia  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5462.m3u8;streamtype=HLSRETRY&amp;name=Movistar Comedia [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Comedia  (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png</thumbnail></item>
-
-
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar Accion [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12727.m3u8;streamtype=HLSRETRY&amp;name=Movistar Accion [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Accion (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5463.m3u8;streamtype=HLSRETRY&amp;name=Movistar Accion  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Accion  (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png</thumbnail></item>
-
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar Cine Ñ  [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5411.m3u8;streamtype=HLSRETRY&amp;name=Movistar Cine Ñ  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Cine Ñ  (F4M source #01)</link>
-<thumbnail>http://picon.space/movistarcineespagnol.png</thumbnail></item>
-
-
-
-
-
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] NICK JR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/14247.m3u8;streamtype=HLSRETRY&amp;name=NICK JR [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=NICK JR (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png</thumbnail></item>
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] Baby TV [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9427.m3u8;streamtype=HLSRETRY&amp;name=Baby TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Baby TV (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png</thumbnail></item>
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] Boing [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9429.m3u8;streamtype=HLSRETRY&amp;name=Boing [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Boing (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png</thumbnail></item>
-
-
-
-
-
-
+ 
+<item>
+<title>[COLOR yellow]----DOCUMENTALES---- [/COLOR]</title>
+<thumbnail>http://img2.rtve.es/v/4798298?w=1600&preview=1539879401914.jpg</thumbnail>
+<fanart>https://image.ibb.co/fFx5eK/TEVISON.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/GmLDrZTY</externallink>
+</item>
