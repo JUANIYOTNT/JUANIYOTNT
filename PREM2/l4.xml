@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12701.m3u8
 
-
+<item><title>[B][COLOR red]• [B][COLOR white] LALIGA 123[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/18232.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17018.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #02)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/17018.m3u8$$lsname=LALIGA 123 (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/laliga123.php$$lsname=LALIGA 123 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] LALIGA TV HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12718.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12701.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12701.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12700.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5436.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12700.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5436.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #03)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FUTBOL HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #05)</link>
@@ -94,11 +99,6 @@ http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12701.m3u8
 <link>http://iptvfree1.com:6969/live/0786/0786/5421.m3u8$$lsname=GOL (HTTP source #02)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-goltv-online-gratis-vivo/$$lsname=GOL (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] LALIGA 123[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17018.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17018.m3u8$$lsname=LALIGA 123 (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/laliga123.php$$lsname=LALIGA 123 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] LALIGA TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1022.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #05)</link>
