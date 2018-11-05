@@ -2,14 +2,105 @@
 
 
 
+#EXTINF:-1 tvg-ID="#0" tvg-name="ES:. #0 ES" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. #0 ES
+http://158.69.127.19:8000/live/usuario/usuario/14692.m3u8
+#EXTINF:-1 tvg-ID="AMC" tvg-name="ES:. AMC" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. AMC
+http://158.69.127.19:8000/live/usuario/usuario/14678.m3u8
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="ES:. Antena 3" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Antena 3
+http://158.69.127.19:8000/live/usuario/usuario/14696.m3u8
+#EXTINF:-1 tvg-ID="Atreseries" tvg-name="ES:. Atreseries" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Atreseries
+http://158.69.127.19:8000/live/usuario/usuario/14695.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="ES:. AXN" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. AXN
+http://158.69.127.19:8000/live/usuario/usuario/14671.m3u8
+#EXTINF:-1 tvg-ID="Movistar Acción" tvg-name="ES:. C Accion" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Accion
+http://158.69.127.19:8000/live/usuario/usuario/14683.m3u8
+#EXTINF:-1 tvg-ID="Movistar Comedia" tvg-name="ES:. C Comedia" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Comedia
+http://158.69.127.19:8000/live/usuario/usuario/14684.m3u8
+#EXTINF:-1 tvg-ID="Movistar DCine" tvg-name="ES:. C Dcine" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Dcine
+http://158.69.127.19:8000/live/usuario/usuario/14685.m3u8
+#EXTINF:-1 tvg-ID="Movistar Estrenos" tvg-name="ES:. C Estrenos" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Estrenos
+http://158.69.127.19:8000/live/usuario/usuario/14686.m3u8
+#EXTINF:-1 tvg-ID="Calle 13" tvg-name="ES:. CALLE 13" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. CALLE 13
+http://158.69.127.19:8000/live/usuario/usuario/14676.m3u8
+#EXTINF:-1 tvg-ID="Odisea" tvg-name="ES:. CANAL ODISEA" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. CANAL ODISEA
+http://158.69.127.19:8000/live/usuario/usuario/14666.m3u8
+#EXTINF:-1 tvg-ID="Caza y Pesca" tvg-name="ES:. CAZA Y PESCA" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. CAZA Y PESCA
+http://158.69.127.19:8000/live/usuario/usuario/14664.m3u8
+#EXTINF:-1 tvg-ID="Comedy Central" tvg-name="ES:. Comedy Central" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Comedy Central
+http://158.69.127.19:8000/live/usuario/usuario/14687.m3u8
+#EXTINF:-1 tvg-ID="Cosmopolitan" tvg-name="ES:. Cosmopolitan" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Cosmopolitan
+http://158.69.127.19:8000/live/usuario/usuario/14680.m3u8
+#EXTINF:-1 tvg-ID="Crimen Investigación" tvg-name="ES:. Crimen e Investigacion" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Crimen e Investigacion
+http://158.69.127.19:8000/live/usuario/usuario/14667.m3u8
+#EXTINF:-1 tvg-ID="Cuatro" tvg-name="ES:. Cuatro HD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Cuatro HD
+http://158.69.127.19:8000/live/usuario/usuario/14697.m3u8
+#EXTINF:-1 tvg-ID="FDF Telecinco" tvg-name="ES:. FDF" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. FDF
+http://158.69.127.19:8000/live/usuario/usuario/14691.m3u8
+#EXTINF:-1 tvg-ID="FOX" tvg-name="ES:. Fox HD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Fox HD
+http://158.69.127.19:8000/live/usuario/usuario/14673.m3u8
+#EXTINF:-1 tvg-ID="FOX Life" tvg-name="ES:. FOX Life" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. FOX Life
+http://158.69.127.19:8000/live/usuario/usuario/14672.m3u8
+#EXTINF:-1 tvg-ID="Historia" tvg-name="ES:. HISTORIA" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. HISTORIA
+http://158.69.127.19:8000/live/usuario/usuario/14668.m3u8
+#EXTINF:-1 tvg-ID="Hollywood" tvg-name="ES:. Hollywood" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Hollywood
+http://158.69.127.19:8000/live/usuario/usuario/14682.m3u8
+#EXTINF:-1 tvg-ID="Iberalia" tvg-name="ES:. IBERALIA TV" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. IBERALIA TV
+http://158.69.127.19:8000/live/usuario/usuario/14665.m3u8
+#EXTINF:-1 tvg-ID="La 1" tvg-name="ES:. La 1 HD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. La 1 HD
+http://158.69.127.19:8000/live/usuario/usuario/14698.m3u8
+#EXTINF:-1 tvg-ID="La Sexta" tvg-name="ES:. La Sexta" tvg-logo="" group-title="ESPANA",ES:. La Sexta
+http://158.69.127.19:8000/live/usuario/usuario/14693.m3u8
+#EXTINF:-1 tvg-ID="Mega" tvg-name="ES:. Mega" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Mega
+http://158.69.127.19:8000/live/usuario/usuario/14688.m3u8
+#EXTINF:-1 tvg-ID="Movistar Cine Español" tvg-name="ES:. Movistar Cine Español" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Movistar Cine Español
+http://158.69.127.19:8000/live/usuario/usuario/14681.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Disney" tvg-logo="" group-title="ESPANA",ES: Movistar Disney
+http://158.69.127.19:8000/live/usuario/usuario/15512.m3u8
+#EXTINF:-1 tvg-ID="Movistar Series" tvg-name="ES:. Movistar Series" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Movistar Series
+http://158.69.127.19:8000/live/usuario/usuario/14675.m3u8
+#EXTINF:-1 tvg-ID="Movistar Series Xtra" tvg-name="ES:. Movistar Series Xtra" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Movistar Series Xtra
+http://158.69.127.19:8000/live/usuario/usuario/14674.m3u8
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="ES:. Nat Geo" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Nat Geo
+http://158.69.127.19:8000/live/usuario/usuario/14669.m3u8
+#EXTINF:-1 tvg-ID="National Geographic Wild" tvg-name="ES:. NAT GEO WILD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. NAT GEO WILD
+http://158.69.127.19:8000/live/usuario/usuario/14670.m3u8
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES:. Neox" tvg-logo="" group-title="ESPANA",ES:. Neox
+http://158.69.127.19:8000/live/usuario/usuario/14689.m3u8
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES:. Nova" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Nova
+http://158.69.127.19:8000/live/usuario/usuario/14690.m3u8
+#EXTINF:-1 tvg-ID="Syfy" tvg-name="ES:. SYFY" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. SYFY
+http://158.69.127.19:8000/live/usuario/usuario/14677.m3u8
+#EXTINF:-1 tvg-ID="Telecinco" tvg-name="ES:. Telecinco" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Telecinco
+http://158.69.127.19:8000/live/usuario/usuario/14694.m3u8
+#EXTINF:-1 tvg-ID="TNT" tvg-name="ES:. TNT" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. TNT
+http://158.69.127.19:8000/live/usuario/usuario/14679.m3u8
+
+
+
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar Xtra HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9412.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png</thumbnail></item>
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar Estrenos HD HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12722.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9415.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
 http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12712.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
 http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9412.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
 http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12722.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos
 http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9415.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
 http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12725.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine
