@@ -45,6 +45,85 @@
 </item>
 
 
+<item>
+<title>[B][COLOR gold][I]        jhg     ***SeriesDankkko***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]*SeriesDanko*[/COLOR][COLOR khaki] Por letra[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+ <link>$doregex[jhg]</link>
+
+<regex>
+<name>jhg</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg.param2][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href='([^<]+)' title='Lista de series.*?'>([^<]+)<]]></expres>
+<page>http://seriesdanko.to/</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>jhg2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg2.param2][/COLOR][/B]</title>
+<thumbnail>[jhg2.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg3]</link>  
+]]></listrepeat>
+<expres><![CDATA[text-align:center;'><a href='([^<]+)' title='Capitulos de:([^<]+)'.*?src='([^<]+)']]></expres>
+<page>http://seriesdanko.to/[jhg.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>jhg3</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg3.param2][/COLOR][/B]</title>
+<thumbnail>[jhg3.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg4]</link>  
+]]></listrepeat>
+<expres><![CDATA[<br><a href='([^<]+)'>([^<]+)-.*?<img src=([^<]+) ]]></expres>
+<page>http://seriesdanko.to/[jhg2.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>jhg4</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR orangered][jhg4.param1] -[COLOR white] [jhg4.param2][/COLOR][/B]</title>
+<thumbnail>[jhg3.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg5]</link>  
+]]></listrepeat>
+<expres><![CDATA[<img src='/assets/img/banderas/(.*?).png.*?servidores/(.*?)\..*?href='(.*?)']]></expres>
+<page>http://seriesdanko.to/[jhg3.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+
+<regex>
+<name>jhg5</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg5.param2][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<urlsolve>[jhg5.param1]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<a target="_blank" href="(.*?)">.*?//(.*)\.]]></expres>
+<page>http://seriesdanko.to/[jhg4.param3]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<thumbnail>https://lh6.googleusercontent.com/-PRXvh5sIJZs/AAAAAAAAAAI/AAAAAAAAADU/ycYKKh9QIx0/il/photo.jpg</thumbnail>
+</item>
 
 <item>
 <title>[B][COLOR gold][I]             ***SeriesBlanco***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
@@ -55,15 +134,15 @@
 
 <item>
 <title>[B][COLOR deepskyblue]*SeriesBlanco*[/COLOR][COLOR pink] Buscador...[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
-<link>$doregex[magyck2]</link>
+<link>$doregex[jhg2]</link>
  
   <regex>
-<name>magyck2</name>  
+<name>jhg2</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR khaki][magyck2.param3] [/COLOR][/B]</title>
-<thumbnail>[magyck2.param2]</thumbnail>
+<title>[B][COLOR khaki][jhg2.param3] [/COLOR][/B]</title>
+<thumbnail>[jhg2.param2]</thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck3]</link>  
+<link>$doregex[jhg3]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<a href="https://seriesblanco.org/(.*?)">[^"]+.*src="(.*?)" title=.*?alt="(.*?)"]]></expres>
 <page>https://seriesblanco.org/?s=$doregex[search]</page>
@@ -86,28 +165,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <regex>
-<name>magyck3</name>  
+<name>jhg3</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR deepskyblue][magyck3.param2] -[COLOR khaki] [magyck3.param3] [/COLOR][/B]</title>
-<thumbnail>[magyck2.param2]</thumbnail>
+<title>[B][COLOR deepskyblue][jhg3.param2] -[COLOR khaki] [jhg3.param3] [/COLOR][/B]</title>
+<thumbnail>[jhg2.param2]</thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck4]</link>  
+<link>$doregex[jhg4]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<td><a href="https://seriesblanco.org(.*?)".*<span itemprop="episodeNumber">(.*?)</span>(.*?)</a]]></expres>
-<page>https://seriesblanco.org/[magyck2.param1]</page>
+<page>https://seriesblanco.org/[jhg2.param1]</page>
 <cookieJar></cookieJar>
 </regex>
  
 <regex>
-<name>magyck4</name>  
+<name>jhg4</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR khaki][magyck4.param2] [/COLOR][/B]</title>
-<thumbnail>[magyck2.param2]</thumbnail>
+<title>[B][COLOR khaki][jhg4.param2] [/COLOR][/B]</title>
+<thumbnail>[jhg2.param2]</thumbnail>
 <fanart></fanart>
 <link>$doregex[id3]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<a class="open-link" data-enlace="(.*?)".*\s+<img.*\s+(.*?)(\W)]]></expres>
-<page>https://seriesblanco.org[magyck3.param1]</page>
+<page>https://seriesblanco.org[jhg3.param1]</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -116,7 +195,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
     import urlresolver
-    url = '[magyck4.param1]'
+    url = '[jhg4.param1]'
     try:
         u = urlresolver.resolve(url)
     except:
@@ -132,15 +211,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[B][COLOR deepskyblue]*SeriesBlanco*[/COLOR][COLOR khaki] Por genero[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
- <link>$doregex[magyck]</link>
+ <link>$doregex[jhg]</link>
  
 <regex>
-<name>magyck</name>  
+<name>jhg</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck.param2] [/COLOR][/B]</title>
+<title>[B][COLOR gold][jhg.param2] [/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck2]</link>  
+<link>$doregex[jhg2]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<li><a href="https://seriesblanco.org/genero/(.*?)">.*?</i>(.*?)</a]]></expres>
 <page>https://seriesblanco.org/</page>
@@ -148,41 +227,41 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
  
 <regex>
-<name>magyck2</name>  
+<name>jhg2</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck2.param3] [/COLOR][/B]</title>
-<thumbnail>[magyck2.param2]</thumbnail>
+<title>[B][COLOR gold][jhg2.param3] [/COLOR][/B]</title>
+<thumbnail>[jhg2.param2]</thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck3]</link>  
+<link>$doregex[jhg3]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<a href="https://seriesblanco.org/(.*?)">[^"]+.*src="(.*?)".*[^"]+.*/capitulos/(.*?)/]]></expres>
-<page>https://seriesblanco.org/genero/[magyck.param1]</page>
+<page>https://seriesblanco.org/genero/[jhg.param1]</page>
 <cookieJar></cookieJar>
 </regex>
  
 <regex>
-<name>magyck3</name>  
+<name>jhg3</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck3.param2] - [magyck3.param3] [/COLOR][/B]</title>
-<thumbnail>[magyck2.param2]</thumbnail>
+<title>[B][COLOR gold][jhg3.param2] - [jhg3.param3] [/COLOR][/B]</title>
+<thumbnail>[jhg2.param2]</thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck4]</link>  
+<link>$doregex[jhg4]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<td><a href="https://seriesblanco.org(.*?)".*<span itemprop="episodeNumber">(.*?)</span>(.*?)</a]]></expres>
-<page>https://seriesblanco.org/[magyck2.param1]</page>
+<page>https://seriesblanco.org/[jhg2.param1]</page>
 <cookieJar></cookieJar>
 </regex>
  
 <regex>
-<name>magyck4</name>  
+<name>jhg4</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck4.param2] [/COLOR][/B]</title>
-<thumbnail>[magyck2.param2]</thumbnail>
+<title>[B][COLOR gold][jhg4.param2] [/COLOR][/B]</title>
+<thumbnail>[jhg2.param2]</thumbnail>
 <fanart></fanart>
-<urlsolve>[magyck4.param1]</urlsolve>  
+<urlsolve>[jhg4.param1]</urlsolve>  
 ]]></listrepeat>
 <expres><![CDATA[<a class="open-link" data-enlace="(.*?)".*\s+<img.*\s+(.*?)(\W)]]></expres>
-<page>https://seriesblanco.org[magyck3.param1]</page>
+<page>https://seriesblanco.org[jhg3.param1]</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -196,15 +275,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <title>[B][COLOR deepskyblue]*SeriesBlanco*[/COLOR][COLOR khaki] Por letra[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
 
- <link>$doregex[magyck]</link> 
+ <link>$doregex[jhg]</link> 
 
 <regex>
 
-<name>magyck</name>  
+<name>jhg</name>  
 
 <listrepeat><![CDATA[  
 
-<title>[B][COLOR white]Letra - [COLOR gold][magyck.param2][/COLOR][/B]</title>
+<title>[B][COLOR white]Letra - [COLOR gold][jhg.param2][/COLOR][/B]</title>
 
 <thumbnail></thumbnail>
 
@@ -234,13 +313,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <fanart></fanart>
 
-<link>$doregex[magyck3]</link>  
+<link>$doregex[jhg3]</link>  
 
 ]]></listrepeat>
 
 <expres><![CDATA[<div style=.*[^"]+<a href="(.*?)">[^"]+.*src="(.*?)" title="(.*)" height]]></expres>
 
-<page>[magyck.param1]</page>
+<page>[jhg.param1]</page>
 
 <cookieJar></cookieJar>
 
@@ -248,17 +327,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <regex>
 
-<name>magyck3</name>  
+<name>jhg3</name>  
 
 <listrepeat><![CDATA[  
 
-<title>[B][COLOR lime] - [COLOR white][magyck3.param2][/COLOR] - [COLOR greenyellow][magyck3.param3][/COLOR][/B]</title>
+<title>[B][COLOR lime] - [COLOR white][jhg3.param2][/COLOR] - [COLOR greenyellow][jhg3.param3][/COLOR][/B]</title>
 
 <thumbnail></thumbnail>
 
 <fanart></fanart>
 
-<link>$doregex[magyck4]</link>  
+<link>$doregex[jhg4]</link>  
 
 ]]></listrepeat>
 
@@ -272,23 +351,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <regex>
 
-  <name>magyck4</name>  
+  <name>jhg4</name>  
 
   <listrepeat><![CDATA[  
 
-<title>[B][COLOR lime] - [COLOR white][magyck4.param1][/COLOR][/B]</title>
+<title>[B][COLOR lime] - [COLOR white][jhg4.param1][/COLOR][/B]</title>
 
 <thumbnail></thumbnail>
 
 <fanart></fanart>
 
-<urlsolve>[magyck4.param1]</urlsolve>  
+<urlsolve>[jhg4.param1]</urlsolve>  
 
 ]]></listrepeat>
 
 <expres><![CDATA[<a class="open-link" data-enlace="(.*?)"]]></expres>
 
-<page>[magyck3.param1]</page>
+<page>[jhg3.param1]</page>
 
 <cookieJar></cookieJar>
 
@@ -306,15 +385,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[B][COLOR deepskyblue]*SeriesDanko*[/COLOR][COLOR khaki] Por letra[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
- <link>$doregex[magyck]</link>
+ <link>$doregex[jhg]</link>
 
 <regex>
-<name>magyck</name>  
+<name>jhg</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck.param2][/COLOR][/B]</title>
+<title>[B][COLOR gold][jhg.param2][/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck2]</link>  
+<link>$doregex[jhg2]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<a href='([^<]+)' title='Lista de series.*?'>([^<]+)<]]></expres>
 <page>http://seriesdanko.to/</page>
@@ -322,55 +401,55 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex> 
 
 <regex>
-<name>magyck2</name>  
+<name>jhg2</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck2.param2][/COLOR][/B]</title>
-<thumbnail>[magyck2.param3]</thumbnail>
+<title>[B][COLOR gold][jhg2.param2][/COLOR][/B]</title>
+<thumbnail>[jhg2.param3]</thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck3]</link>  
+<link>$doregex[jhg3]</link>  
 ]]></listrepeat>
 <expres><![CDATA[text-align:center;'><a href='([^<]+)' title='Capitulos de:([^<]+)'.*?src='([^<]+)']]></expres>
-<page>http://seriesdanko.to/[magyck.param1]</page>
+<page>http://seriesdanko.to/[jhg.param1]</page>
 <cookieJar></cookieJar>
 </regex> 
 
 <regex>
-<name>magyck3</name>  
+<name>jhg3</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck3.param2][/COLOR][/B]</title>
-<thumbnail>[magyck3.param3]</thumbnail>
+<title>[B][COLOR gold][jhg3.param2][/COLOR][/B]</title>
+<thumbnail>[jhg3.param3]</thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck4]</link>  
+<link>$doregex[jhg4]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<br><a href='([^<]+)'>([^<]+)-.*?<img src=([^<]+) ]]></expres>
-<page>http://seriesdanko.to/[magyck2.param1]</page>
+<page>http://seriesdanko.to/[jhg2.param1]</page>
 <cookieJar></cookieJar>
 </regex> 
 
 <regex>
-<name>magyck4</name>  
+<name>jhg4</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR orangered][magyck4.param1] -[COLOR white] [magyck4.param2][/COLOR][/B]</title>
-<thumbnail>[magyck3.param3]</thumbnail>
+<title>[B][COLOR orangered][jhg4.param1] -[COLOR white] [jhg4.param2][/COLOR][/B]</title>
+<thumbnail>[jhg3.param3]</thumbnail>
 <fanart></fanart>
-<link>$doregex[magyck5]</link>  
+<link>$doregex[jhg5]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<img src='/assets/img/banderas/(.*?).png.*?servidores/(.*?)\..*?href='(.*?)']]></expres>
-<page>http://seriesdanko.to/[magyck3.param1]</page>
+<page>http://seriesdanko.to/[jhg3.param1]</page>
 <cookieJar></cookieJar>
 </regex> 
 
 
 <regex>
-<name>magyck5</name>  
+<name>jhg5</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR gold][magyck5.param2][/COLOR][/B]</title>
+<title>[B][COLOR gold][jhg5.param2][/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<urlsolve>[magyck5.param1]</urlsolve>  
+<urlsolve>[jhg5.param1]</urlsolve>  
 ]]></listrepeat>
 <expres><![CDATA[<a target="_blank" href="(.*?)">.*?//(.*)\.]]></expres>
-<page>http://seriesdanko.to/[magyck4.param3]</page>
+<page>http://seriesdanko.to/[jhg4.param3]</page>
 <cookieJar></cookieJar>
 </regex> 
 

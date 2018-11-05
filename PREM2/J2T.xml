@@ -52,17 +52,11 @@
 </item>
 
 	
-<item>
-<title>[COLOR lime] LISTA PREMIUM 5 NUEVO!!!![/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
-</item>
+
 	
 	
 	
-	https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5
+	
 	
 	 <item>
         <title>[COLOR orange] CINE [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
@@ -72,7 +66,13 @@
         <fanart>https://i.imgur.com/JK14obf.jpg</fanart>
 </item>
 	
-
+<item>
+<title>[COLOR lime] PREPARANDO NUEVA SECCION [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
 	
 	 <item>
         <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] RADIOS [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
@@ -216,3 +216,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list1.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lime] LISTA PREMIUM 5 NUEVO!!!![/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
+</item>
