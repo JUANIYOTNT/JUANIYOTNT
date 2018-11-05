@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[B][COLOR gold][I]             ***Woopelis***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]*Woopelis*[/COLOR][COLOR pink] - Buscador...[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+<link>http://www.wopelis.com/venlaces.php?npl=$doregex[makelist2]</link>
+ 
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR khaki][makelist2.param3][/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres>(?s)id=([^"]+).*?src="([^"]+).*?title">([^<]+)</expres>
+<page>http://www.wopelis.com/buscar.php?texto=$doregex[search]</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('buscar pelicula: ejemplo: cars', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR gold][B] | [COLOR silver][makelist.param2][/COLOR][/B]</title>
+ <link>$doregex[id3]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres>"(https://openload.*?|https://powvideo.*?|https://streamango.*?|https://userscloud.*?|http://streamcloud.*?|http://uptobox.*?)" </expres>
+<page>http://www.wopelis.com/venlaces.php?npl=[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '[makelist.param1]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = ''
+    return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<thumbnail></thumbnail>
+<fanart></fanart>
+ </item>
+
+
+<item>
+<title>[B][COLOR gold][I]             ***Inkapelis***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]*Inkapelis*[/COLOR][COLOR pink] - Buscador...[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+<link>$doregex[makelist2]</link>
+ 
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR khaki][makelist2.param2][/COLOR][/B]</title>
+<link>$doregex[jhg3]</link>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres><![CDATA[<div class="poster-media-card Dvdrip"> <a href="https://www.inkapelis.com/(.*?)" title="(.*?)".*?<img src="(.*?)".*?</div]]></expres>
+<page>https://www.inkapelis.com/?s=$doregex[search]</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('buscar pelicula: ejemplo: jumanji', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>jhg3</name>
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold] - [COLOR white][jhg3.param2] - [COLOR silver][jhg3.param3] - [COLOR white][jhg3.param4][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[id3]</link>  
+]]></listrepeat>
+<expres><![CDATA[<td><a href="(.*?)".*?</span>(.*?)<.*?title="(.*?)".*?<td>(.*?)</td><td>(.*?)<]]></expres>
+<page>https://www.inkapelis.com/[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '[jhg3.param1]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = ''
+    return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<thumbnail></thumbnail>
+<fanart></fanart>
+ </item>
+
+ 
+<item>
+<title>[B][COLOR deepskyblue]*Inkapelis*[/COLOR][COLOR khaki] - Por genero[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+ <link>$doregex[jhg]</link>
+ 
+<regex>
+<name>jhg</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold] - [COLOR silver][jhg.param2] [/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href="https://www.inkapelis.com/genero/(.*?)".*?>(.*?) <]]></expres>
+<page>https://www.inkapelis.com/</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+<regex>
+<name>jhg2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold] - [COLOR silver][jhg2.param2][/COLOR][/B]</title>
+<thumbnail>[jhg2.param1]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg3]</link>  
+]]></listrepeat>
+<expres><![CDATA[src="(.*?)" title="(.*?)".*?href="https://www.inkapelis.com/(.*?)"]]></expres>
+<page>https://www.inkapelis.com/genero/[jhg.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>jhg3</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold] - [COLOR yellow][jhg3.param2] - [COLOR gold][jhg3.param3] - [COLOR yellow][jhg3.param4][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<urlsolve>[jhg3.param1]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<td><a href="(.*?)".*?</span>(.*?)<.*?title="(.*?)".*?<td>(.*?)</td><td>(.*?)<]]></expres>
+<page>https://www.inkapelis.com/[jhg2.param3]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://2.bp.blogspot.com/-aIsX8PhrV1A/WoHKASoTMSI/AAAAAAAAABI/3GmPT5v3v0s4O1SKniuD1BX9sXudQKavACLcBGAs/s1600/inkapelis.jpg</thumbnail>
+</item>
+
+
+ 
+<item>
+<title>[B][COLOR gold][I]             ***Cuevana***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]*Cuevana*[/COLOR][COLOR pink] - Buscador...[/COLOR][I][COLOR gold] [/I][/COLOR][/B]</title>
+<link>$doregex[makelist2]</link>
+ 
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][B][makelist2.param3] - [COLOR gold][makelist2.param4][/COLOR][/B]</title>
+<link>$doregex[jhg3]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres><![CDATA[<a href="https://www.cuevana3.co/(.*?)">\s<div.*src="(.*?)".*\s+.*\s<h2 class="Title">([^<]+).*\s<span class="Year">([^<]+).*]]></expres>
+<page>https://www.cuevana3.co/?s=$doregex[search]</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('buscar pelicula: ejemplo: gladiator', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>jhg3</name>
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold] - [COLOR yellow][jhg3.param2] [/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[id3]</link>  
+]]></listrepeat>
+<expres><![CDATA[<img src=".*domain=(.*?)".*\s+.*\s<span>([^<]+).*]]></expres>
+<page>https://www.cuevana3.co/[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '[jhg3.param1]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = ''
+    return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<thumbnail></thumbnail>
+<fanart></fanart>
+ </item>
+
+
+<item>
+<title>[B][COLOR deepskyblue]*Cuevana*[/COLOR][COLOR khaki] - Generos[/COLOR][I][COLOR gold] [/I][/COLOR][/B]</title>
+ <link>$doregex[jhg]</link>
+ 
+ <regex>
+<name>jhg</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR silver][jhg.param3] [/COLOR][COLOR khaki] [jhg.param4][/COLOR] [/B]</title>
+<thumbnail>[jhg.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href="https://www.cuevana3.co/(.*?)">\s<div.*src="(.*?)".*\s+.*\s<h2 class="Title">([^<]+).*\s<span class="Year">([^<]+).*]]></expres>
+<page>https://www.cuevana3.co/$doregex[genero]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+ <regex>
+<name>jhg2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR khaki][jhg2.param2] [/COLOR][/B]</title>
+<thumbnail>[jhg.param1]</thumbnail>
+<fanart></fanart>
+<urlsolve>$doregex[id3]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<img src=".*domain=(.*?)".*\s+.*\s<span>([^<]+).*]]></expres>
+<page>https://www.cuevana3.co/[jhg.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+ <regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '[jhg2.param1]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = ''
+    return u
+]]></expres>
+<page></page>
+</regex>
+
+
+<regex>
+ 
+<name>genero</name>
+ 
+<expres><![CDATA[#$pyFunction
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ import xbmcgui
+ 
+ dialog = xbmcgui.Dialog()
+ 
+ ret = dialog.select('[B][COLOR yellow]seleccione un genero[/COLOR][/B]', ['[COLOR white]Accion[/COLOR]', '[COLOR white]Animacion[/COLOR]', '[COLOR white]Aventura[/COLOR]', '[COLOR white]Ciencia ficcion[/COLOR]', '[COLOR white]Comedia[/COLOR]', '[COLOR white]crimen[/COLOR]', '[COLOR white]Documentales[/COLOR]', '[COLOR white]Drama[/COLOR]', '[COLOR white]Bélico (guerra)[/COLOR]', '[COLOR white]Familiar[/COLOR]', '[COLOR white]Fantasia[/COLOR]', '[COLOR white]Misterio[/COLOR]', '[COLOR white]Musical[/COLOR]', '[COLOR white]Romance[/COLOR]', '[COLOR white]Suspenso[/COLOR]', '[COLOR white]Terror[/COLOR]'])
+ lists = ['', 'category/accion', 'category/animacion', 'category/aventura', 'category/ciencia-ficcion', 'category/comedia', 'category/crimen', 'category/documentales', 'category/drama', 'category/belico-guerra', 'category/familiar', 'category/fantasia', 'category/Misterio', 'category/Musical', 'category/romance', 'category/suspenso', 'category/terror']
+ 
+ return lists[ret]
+ 
+]]></expres>
+ 
+<page></page>
+ 
+</regex>
+
+ 
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR deepskyblue]*Cuevana*[/COLOR][COLOR khaki] - Categorias[/COLOR][I][COLOR gold]    [/I][/COLOR][/B]</title>
+ <link>$doregex[jhg]</link>
+ 
+ <regex>
+<name>jhg</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR silver][jhg.param3] [/COLOR][COLOR khaki] [jhg.param4][/COLOR] [/B]</title>
+<thumbnail>[jhg.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href="https://www.cuevana3.co/(.*?)">\s<div.*src="(.*?)".*\s+.*\s<h2 class="Title">([^<]+).*\s<span class="Year">([^<]+).*]]></expres>
+<page>https://www.cuevana3.co/$doregex[categoria]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+   <regex>
+ 
+<name>categoria</name>
+ 
+<expres><![CDATA[#$pyFunction
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ import xbmcgui
+ 
+ dialog = xbmcgui.Dialog()
+ 
+ ret = dialog.select('[B][COLOR yellow]Que quieres ver?[/COLOR][/B]', ['[B][COLOR white]Estrenos[/COLOR][/B]', '[B][COLOR white]Mas vistas[/COLOR][/B]', '[B][COLOR white]Mas valoradas[/COLOR][/B]'])
+ 
+ lists = ['estrenos', 'peliculas-mas-vistas', 'peliculas-mas-valoradas']
+ 
+ return lists[ret]
+ 
+]]></expres>
+ 
+<page></page>
+</regex>
+ 
+ 
+ 
+ <regex>
+<name>jhg2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR khaki][jhg2.param2] [/COLOR][/B]</title>
+<thumbnail>[jhg.param1]</thumbnail>
+<fanart></fanart>
+<urlsolve>$doregex[id3]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<img src=".*domain=(.*?)".*\s+.*\s<span>([^<]+).*]]></expres>
+<page>https://www.cuevana3.co/[jhg.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+<regex>
+ 
+<name>id3</name>
+ 
+<expres><![CDATA[#$pyFunction
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+    import urlresolver
+ 
+    url = '[jhg2.param1]'
+ 
+    try:
+ 
+        u = urlresolver.resolve(url)
+ 
+    except:
+ 
+        u = ''
+ 
+    return u
+ 
+]]></expres>
+ 
+<page></page>
+ 
+</regex>
+ 
+<thumbnail></thumbnail>
+</item>
