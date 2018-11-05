@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar Xtra [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9412.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png</thumbnail></item>
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar Estrenos [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12722.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9415.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png</thumbnail></item>
+
+
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12725.m3u8;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5461.m3u8;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png</thumbnail></item>
+
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar Comedia [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12726.m3u8;streamtype=HLSRETRY&amp;name=Movistar Comedia [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Comedia  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5462.m3u8;streamtype=HLSRETRY&amp;name=Movistar Comedia [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Comedia  (F4M source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png</thumbnail></item>
+
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
+<thumbnail></thumbnail></item>
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
+<thumbnail></thumbnail></item>
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
+<thumbnail></thumbnail></item>
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
+<thumbnail></thumbnail></item>
+
+<item><title>[B][COLOR red]• [B][COLOR white] Movistar DCINE [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=Movistar DCine  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar DCine  (F4M source #02)</link>
+<thumbnail></thumbnail></item>
+
+
