@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+
+<item>
+<title>[B][COLOR gold][I]           ***SeriesJHG***        [/COLOR][COLOR gold][/B][/I][/COLOR]</title>
+<link>ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]*SeriesJHG*[/COLOR][COLOR khaki] Por letra[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+ <link>$doregex[jhg]</link>
+
+<regex>
+<name>jhg</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg.param2][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href='([^<]+)' title='Lista de series.*?'>([^<]+)<]]></expres>
+<page>http://seriesdanko.to/</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>jhg2</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg2.param2][/COLOR][/B]</title>
+<thumbnail>[jhg2.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg3]</link>  
+]]></listrepeat>
+<expres><![CDATA[text-align:center;'><a href='([^<]+)' title='Capitulos de:([^<]+)'.*?src='([^<]+)']]></expres>
+<page>http://seriesdanko.to/[jhg.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>jhg3</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg3.param2][/COLOR][/B]</title>
+<thumbnail>[jhg3.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg4]</link>  
+]]></listrepeat>
+<expres><![CDATA[<br><a href='([^<]+)'>([^<]+)-.*?<img src=([^<]+) ]]></expres>
+<page>http://seriesdanko.to/[jhg2.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<regex>
+<name>jhg4</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR orangered][jhg4.param1] -[COLOR white] [jhg4.param2][/COLOR][/B]</title>
+<thumbnail>[jhg3.param3]</thumbnail>
+<fanart></fanart>
+<link>$doregex[jhg5]</link>  
+]]></listrepeat>
+<expres><![CDATA[<img src='/assets/img/banderas/(.*?).png.*?servidores/(.*?)\..*?href='(.*?)']]></expres>
+<page>http://seriesdanko.to/[jhg3.param1]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+
+<regex>
+<name>jhg5</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][jhg5.param2][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<urlsolve>[jhg5.param1]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<a target="_blank" href="(.*?)">.*?//(.*)\.]]></expres>
+<page>http://seriesdanko.to/[jhg4.param3]</page>
+<cookieJar></cookieJar>
+</regex> 
+
+<thumbnail>https://lh6.googleusercontent.com/-PRXvh5sIJZs/AAAAAAAAAAI/AAAAAAAAADU/ycYKKh9QIx0/il/photo.jpg</thumbnail>
+</item>
