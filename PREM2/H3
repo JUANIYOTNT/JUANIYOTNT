@@ -1213,3 +1213,144 @@ plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=HLSRETRY&amp;ur
 
 #EXTINF:-1,Sport TV 5
 plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=HLSRETRY&amp;url=http://rb-group-server.com:25461/live/karim123/karim123/5031.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12701.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14979.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12700.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14967.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12723.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14966.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12724.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga FHD
+http://bestbuyiptv.link:6969/a.sus.gordy@gmail.com/5oadj9gc6d/8677
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13932.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga 1 HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/8676.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2691.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14992.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 1 BAR HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13940.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 1 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13700.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 2 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13699.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 3 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13698.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 4 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13697.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 5 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13696.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 6 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13695.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 7 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13694.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 8 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13693.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/52087.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/52088.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/52089.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14990.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12721.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14980.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12716.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/18684.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones 1 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13948.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones 2 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13947.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones 3 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13946.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones 4 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13945.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones 5 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13944.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones 8 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13941.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14988.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12707.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
+http://www.sansat.net:25461/live/021434618008/021434618008/14986.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14993.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6724.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16875.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5422.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1 HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16877.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16876.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2 HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16879.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16878.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max3
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16880.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1 FHD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16860.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16859.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2 FHD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16863.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16862.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 3
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16864.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 4
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16865.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 5
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16866.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 6
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16867.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN Laliga Max 7
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16868.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 4
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16869.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 5
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16870.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 6
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16871.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 7
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16872.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16873.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
+http://www.sansat.net:25461/live/021434618008/021434618008/15027.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/13659.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
+http://www.sansat.net:25461/live/021434618008/021434618008/15007.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte
+rtp://@239.0.0.188:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
+rtp://@239.0.0.179:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
+rtp://@239.0.0.7:8208
+#EXTINF:-1 tvg-id="" tvg-name="Movistar ESports ES" tvg-logo="" group-title="Spain",Movistar ESports ES
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/19150.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14978.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
+http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12713.m3u8
