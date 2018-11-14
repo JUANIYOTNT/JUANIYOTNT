@@ -1,495 +1,171 @@
 #EXTM3U
 
+#EXTINF:-1,.:Actualizada el 13/11/2018:.
 
 
-
-
-
-
-#EXTINF:-1 tvg-ID="#0" tvg-name="ES:. #0 ES" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. #0 ES
-http://158.69.127.19:8000/live/usuario/usuario/14692.m3u8
-#EXTINF:-1 tvg-ID="AMC" tvg-name="ES:. AMC" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. AMC
-http://158.69.127.19:8000/live/usuario/usuario/14678.m3u8
-#EXTINF:-1 tvg-ID="Antena 3" tvg-name="ES:. Antena 3" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Antena 3
-http://158.69.127.19:8000/live/usuario/usuario/14696.m3u8
-#EXTINF:-1 tvg-ID="Atreseries" tvg-name="ES:. Atreseries" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Atreseries
-http://158.69.127.19:8000/live/usuario/usuario/14695.m3u8
-#EXTINF:-1 tvg-ID="AXN" tvg-name="ES:. AXN" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. AXN
-http://158.69.127.19:8000/live/usuario/usuario/14671.m3u8
-#EXTINF:-1 tvg-ID="Movistar Acción" tvg-name="ES:. C Accion" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Accion
-http://158.69.127.19:8000/live/usuario/usuario/14683.m3u8
-#EXTINF:-1 tvg-ID="Movistar Comedia" tvg-name="ES:. C Comedia" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Comedia
-http://158.69.127.19:8000/live/usuario/usuario/14684.m3u8
-#EXTINF:-1 tvg-ID="Movistar DCine" tvg-name="ES:. C Dcine" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Dcine
-http://158.69.127.19:8000/live/usuario/usuario/14685.m3u8
-#EXTINF:-1 tvg-ID="Movistar Estrenos" tvg-name="ES:. C Estrenos" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. C Estrenos
-http://158.69.127.19:8000/live/usuario/usuario/14686.m3u8
-#EXTINF:-1 tvg-ID="Calle 13" tvg-name="ES:. CALLE 13" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. CALLE 13
-http://158.69.127.19:8000/live/usuario/usuario/14676.m3u8
-#EXTINF:-1 tvg-ID="Odisea" tvg-name="ES:. CANAL ODISEA" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. CANAL ODISEA
-http://158.69.127.19:8000/live/usuario/usuario/14666.m3u8
-#EXTINF:-1 tvg-ID="Caza y Pesca" tvg-name="ES:. CAZA Y PESCA" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. CAZA Y PESCA
-http://158.69.127.19:8000/live/usuario/usuario/14664.m3u8
-#EXTINF:-1 tvg-ID="Comedy Central" tvg-name="ES:. Comedy Central" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Comedy Central
-http://158.69.127.19:8000/live/usuario/usuario/14687.m3u8
-#EXTINF:-1 tvg-ID="Cosmopolitan" tvg-name="ES:. Cosmopolitan" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Cosmopolitan
-http://158.69.127.19:8000/live/usuario/usuario/14680.m3u8
-#EXTINF:-1 tvg-ID="Crimen Investigación" tvg-name="ES:. Crimen e Investigacion" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Crimen e Investigacion
-http://158.69.127.19:8000/live/usuario/usuario/14667.m3u8
-#EXTINF:-1 tvg-ID="Cuatro" tvg-name="ES:. Cuatro HD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Cuatro HD
-http://158.69.127.19:8000/live/usuario/usuario/14697.m3u8
-#EXTINF:-1 tvg-ID="FDF Telecinco" tvg-name="ES:. FDF" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. FDF
-http://158.69.127.19:8000/live/usuario/usuario/14691.m3u8
-#EXTINF:-1 tvg-ID="FOX" tvg-name="ES:. Fox HD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Fox HD
-http://158.69.127.19:8000/live/usuario/usuario/14673.m3u8
-#EXTINF:-1 tvg-ID="FOX Life" tvg-name="ES:. FOX Life" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. FOX Life
-http://158.69.127.19:8000/live/usuario/usuario/14672.m3u8
-#EXTINF:-1 tvg-ID="Historia" tvg-name="ES:. HISTORIA" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. HISTORIA
-http://158.69.127.19:8000/live/usuario/usuario/14668.m3u8
-#EXTINF:-1 tvg-ID="Hollywood" tvg-name="ES:. Hollywood" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Hollywood
-http://158.69.127.19:8000/live/usuario/usuario/14682.m3u8
-#EXTINF:-1 tvg-ID="Iberalia" tvg-name="ES:. IBERALIA TV" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. IBERALIA TV
-http://158.69.127.19:8000/live/usuario/usuario/14665.m3u8
-#EXTINF:-1 tvg-ID="La 1" tvg-name="ES:. La 1 HD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. La 1 HD
-http://158.69.127.19:8000/live/usuario/usuario/14698.m3u8
-#EXTINF:-1 tvg-ID="La Sexta" tvg-name="ES:. La Sexta" tvg-logo="" group-title="ESPANA",ES:. La Sexta
-http://158.69.127.19:8000/live/usuario/usuario/14693.m3u8
-#EXTINF:-1 tvg-ID="Mega" tvg-name="ES:. Mega" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Mega
-http://158.69.127.19:8000/live/usuario/usuario/14688.m3u8
-#EXTINF:-1 tvg-ID="Movistar Cine Español" tvg-name="ES:. Movistar Cine Español" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Movistar Cine Español
-http://158.69.127.19:8000/live/usuario/usuario/14681.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Disney" tvg-logo="" group-title="ESPANA",ES: Movistar Disney
-http://158.69.127.19:8000/live/usuario/usuario/15512.m3u8
-#EXTINF:-1 tvg-ID="Movistar Series" tvg-name="ES:. Movistar Series" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Movistar Series
-http://158.69.127.19:8000/live/usuario/usuario/14675.m3u8
-#EXTINF:-1 tvg-ID="Movistar Series Xtra" tvg-name="ES:. Movistar Series Xtra" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Movistar Series Xtra
-http://158.69.127.19:8000/live/usuario/usuario/14674.m3u8
-#EXTINF:-1 tvg-ID="National Geographic" tvg-name="ES:. Nat Geo" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Nat Geo
-http://158.69.127.19:8000/live/usuario/usuario/14669.m3u8
-#EXTINF:-1 tvg-ID="National Geographic Wild" tvg-name="ES:. NAT GEO WILD" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. NAT GEO WILD
-http://158.69.127.19:8000/live/usuario/usuario/14670.m3u8
-#EXTINF:-1 tvg-ID="Neox" tvg-name="ES:. Neox" tvg-logo="" group-title="ESPANA",ES:. Neox
-http://158.69.127.19:8000/live/usuario/usuario/14689.m3u8
-#EXTINF:-1 tvg-ID="Nova" tvg-name="ES:. Nova" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Nova
-http://158.69.127.19:8000/live/usuario/usuario/14690.m3u8
-#EXTINF:-1 tvg-ID="Syfy" tvg-name="ES:. SYFY" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. SYFY
-http://158.69.127.19:8000/live/usuario/usuario/14677.m3u8
-#EXTINF:-1 tvg-ID="Telecinco" tvg-name="ES:. Telecinco" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. Telecinco
-http://158.69.127.19:8000/live/usuario/usuario/14694.m3u8
-#EXTINF:-1 tvg-ID="TNT" tvg-name="ES:. TNT" tvg-logo="http://158.69.127.19/oscuros/espana.jpg" group-title="ESPANA",ES:. TNT
-http://158.69.127.19:8000/live/usuario/usuario/14679.m3u8
-
-
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar Xtra HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9412.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR  Xtra HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR  Xtra (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png</thumbnail></item>
-
-<item><title>[B][COLOR red]• [B][COLOR white] Movistar Estrenos HD HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12722.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9415.m3u8;streamtype=HLSRETRY&amp;name=Movistar Estrenos  [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=Movistar Estrenos  (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12712.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9412.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12722.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9415.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12725.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5461.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12726.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5462.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12727.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5463.m3u8
-#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="Movistar Cine Ñ ES" tvg-logo="http://picon.space/movistarcineespagnol.png" group-title="Spain",Movistar Cine Ñ ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5411.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12695.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9445.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
-rtp://@239.0.9.132:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Network
-rtp://@239.0.0.90:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
-rtp://@239.0.5.76:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
-rtp://@239.0.5.250:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
-rtp://@239.0.5.83:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
-rtp://@239.0.5.74:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
-rtp://@239.0.5.87:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
-rtp://@239.0.9.131:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12730.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5470.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
-rtp://@239.0.9.134:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
-rtp://@239.0.0.165:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12696.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5417.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
-rtp://@239.0.0.174:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5474.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9433.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
-rtp://@239.0.5.71:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/20431.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17733.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12717.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9424.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9441.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5455.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12698.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet ES" tvg-logo="http://picon.space/animalplanet.png" group-title="Spain",Animal Planet ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/11606.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9425.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2703.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,Discovery
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5448.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blaze España ES" tvg-logo="" group-title="Spain",Blaze España ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21523.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5460.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5456.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6720.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9448.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
-rtp://@239.0.3.31:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5408.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries FHD
-rtp://@239.0.0.190:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5411.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5410.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6696.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD
-rtp://@239.0.0.182:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
-rtp://@239.0.0.26:8208
-#EXTINF:-1 tvg-id="MezzoLive.es" tvg-name="Mezzo Live HD ES" tvg-logo="http://picon.space/mezzolivehd.png" group-title="Spain",Mezzo Live HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12702.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucía
-rtp://@239.0.0.1:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,Galicia TV Europa
-rtp://@239.0.3.37:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/extremadura.png" ,Canal Extremadura SAT
-rtp://@239.0.0.52:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3CAT
-rtp://@239.0.3.36:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/etb.png" ,ETB Sat
-rtp://@239.0.0.60:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
-rtp://@239.0.0.81:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/14247.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9430.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9431.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5446.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17471.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9418.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12697.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
-rtp://@239.0.0.184:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9429.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9427.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/vamos.png" ,Movistar Vamos HD
-rtp://@239.0.5.197:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12701.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5445.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12700.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5436.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12723.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5465.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12724.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9419.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/8677.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16861.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5423.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16858.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga 1 HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/8676.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2691.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12718.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/18232.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12721.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5459.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5447.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Partidazo 4K ES" tvg-logo="http://picon.space/movistarpartidazo.png" group-title="Spain",Movistar Partidazo 4K ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/22849.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12707.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5410.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/16844.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/11776.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6724.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16875.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5422.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1 HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16877.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16876.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2 HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16879.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16878.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max3
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16880.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1 FHD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16860.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16859.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2 FHD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16863.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16862.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 3
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16864.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 4
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16865.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 5
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16866.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 6
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16867.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN Laliga Max 7
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16868.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 4
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16869.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 5
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16870.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 6
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16871.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 7
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16872.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16873.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9408.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/13659.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9426.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2723.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5420.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
-rtp://@239.0.0.7:8208
-#EXTINF:-1 tvg-id="" tvg-name="Movistar ESports ES" tvg-logo="" group-title="Spain",Movistar ESports ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19150.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17369.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12713.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5437.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5458.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 1 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17489.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 10 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17480.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 2 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17488.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 3 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17487.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 4 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17486.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 5 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17485.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 6 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17484.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 7 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17483.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 8 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17482.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 9 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17481.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 1
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17479.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 2
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17478.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 3
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17477.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 4
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17476.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 5
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17475.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 1
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17474.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 2
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17473.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 3
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17472.ts
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 1 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 2 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 3 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 3 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 4 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 4 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 5 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 6 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 6 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="? For Adults [18+] ?" tvg-logo="http://picon.space/onlyadults.png" group-title="For Adults",? For Adults [18+] ?
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/16509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse 1 HD (18+) US" tvg-logo="http://picon.space/penthouse1hd.png" group-title="For Adults",Penthouse 1 HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse 2 HD (18+) US" tvg-logo="http://picon.space/penthouse2hd.png" group-title="For Adults",Penthouse 2 HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Redlight HD (18+) IT" tvg-logo="http://picon.space/redlighthd.png" group-title="For Adults",Redlight HD (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hustler HD (18+) US" tvg-logo="http://picon.space/hustlerhd.png" group-title="For Adults",Hustler HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hustler TV (18+) US" tvg-logo="http://picon.space/hustler.png" group-title="For Adults",Hustler TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beate-Uhse.TV (18+) DE" tvg-logo="http://picon.space/beateuhsetv.png" group-title="For Adults",Beate-Uhse.TV (18+) DE
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV (18+) NL" tvg-logo="http://picon.space/dorcel.png" group-title="For Adults",Dorcel TV (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV (18+) US" tvg-logo="http://picon.space/brazzerstv.png" group-title="For Adults",Brazzers TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Private TV (18+) NL" tvg-logo="http://picon.space/privatetv.png" group-title="For Adults",Private TV (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Private TV HD (18+) NL" tvg-logo="http://picon.space/privatetv.png" group-title="For Adults",Private TV HD (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reality Kings TV (18+) US" tvg-logo="http://picon.space/realitykings.png" group-title="For Adults",Reality Kings TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Evil Angel TV (18+) US" tvg-logo="http://picon.space/evilangeltv.png" group-title="For Adults",Evil Angel TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dusk TV (18+) NL" tvg-logo="http://picon.space/dusk.png" group-title="For Adults",Dusk TV (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venus (18+) AR" tvg-logo="http://picon.space/venus.png" group-title="For Adults",Venus (18+) AR
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCT (18+) IT" tvg-logo="http://picon.space/sct.png" group-title="For Adults",SCT (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCT HD (18+) IT" tvg-logo="http://picon.space/sct.png" group-title="For Adults",SCT HD (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sexto Senso (18+) IT" tvg-logo="http://picon.space/sextosenso.png" group-title="For Adults",Sexto Senso (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CENTO X CENTO TV (18+) IT" tvg-logo="http://picon.space/centopercentotv.png" group-title="For Adults",CENTO X CENTO TV (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOT TV (18+) PT" tvg-logo="http://picon.space/hottv.png" group-title="For Adults",HOT TV (18+) PT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink' o TV (18+) IT" tvg-logo="http://picon.space/pinkotv.png" group-title="For Adults",Pink' o TV (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PASSION XXX (18+) IT" tvg-logo="http://picon.space/passionxxx.png" group-title="For Adults",PASSION XXX (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperOne (18+) HU" tvg-logo="http://picon.space/superone.png" group-title="For Adults",SuperOne (18+) HU
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15900.m3u8
-#EXTINF:-1 tvg-id="Leo TV CZ" tvg-name="Leo TV (18+) CZ" tvg-logo="http://picon.space/leotv.png" group-title="For Adults",Leo TV (18+) CZ
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/14301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV (18+) ES" tvg-logo="http://picon.space/playboy.png" group-title="For Adults",Playboy TV (18+) ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV HD (18+) ES" tvg-logo="http://picon.space/playboy.png" group-title="For Adults",Playboy TV HD (18+) ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vivid (18+) US" tvg-logo="http://picon.space/vivid.png" group-title="For Adults",Vivid (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/16580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vivid Red HD (18+) US" tvg-logo="" group-title="For Adults",Vivid Red HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/23418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 (18+ at night) DE" tvg-logo="http://picon.space/sport1-wispelutri.png" group-title="For Adults",Sport 1 (18+ at night) DE
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/7324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic (18+) RS" tvg-logo="http://picon.space/pinkeroticrs.png" group-title="For Adults",Pink Erotic (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 2 (18+) RS" tvg-logo="http://picon.space/pinkerotic2rs.png" group-title="For Adults",Pink Erotic 2 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 3 (18+) RS" tvg-logo="http://picon.space/pinkerotic3rs.png" group-title="For Adults",Pink Erotic 3 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 4 (18+) RS" tvg-logo="http://picon.space/pinkerotic4rs.png" group-title="For Adults",Pink Erotic 4 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Stripe Club (18+) US" tvg-logo="" group-title="For Adults",Live Stripe Club (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/18325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Hot 2 (18+) RS" tvg-logo="" group-title="For Adults",Balkan Hot 2 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Meiden van Holland Hard (18+) NL" tvg-logo="" group-title="For Adults",Meiden van Holland Hard (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XMUVI (18+) IT" tvg-logo="" group-title="For Adults",XMUVI (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel XXX FHD (18+) NL" tvg-logo="" group-title="For Adults",Dorcel XXX FHD (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EroXXX FHD (18+) NL" tvg-logo="" group-title="For Adults",EroXXX FHD (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19025.m3u8
+#EXTINF:-1,Movistar Fútbol
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts
+#EXTINF:-1,Eurosport 2
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/133.ts
+#EXTINF:-1,beIN La Liga HD (Opcion2)
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts
+#EXTINF:-1,beIN La Liga HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts
+#EXTINF:-1,#Vamos HD (Opcion2)
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/130.ts
+#EXTINF:-1,AMC HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/125.ts
+#EXTINF:-1,AXN
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/124.ts
+#EXTINF:-1,Movistar Halloween HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/119.ts
+#EXTINF:-1,Movistar - Disney
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/107.ts
+#EXTINF:-1,BeMad
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/123.ts
+#EXTINF:-1,Movistar  Series Xtra
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/69.ts
+#EXTINF:-1,Baby TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/85.ts
+#EXTINF:-1,ANDALUCIA TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/61.ts
+#EXTINF:-1,#0 HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/58.ts
+#EXTINF:-1,Movistar  Series HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/68.ts
+#EXTINF:-1,Movistar  GP HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/66.ts
+#EXTINF:-1,Movistar  Golf
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/65.ts
+#EXTINF:-1,Movistar  Estrenos
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/64.ts
+#EXTINF:-1,Liga de Campeones
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/92.ts
+#EXTINF:-1,LaLiga TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/63.ts
+#EXTINF:-1,La Liga 123
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/97.ts
+#EXTINF:-1,Eurosport HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/62.ts
+#EXTINF:-1,CAZA Y PESCA
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/84.ts
+#EXTINF:-1,Nonstop People
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/79.ts
+#EXTINF:-1,Nickelodeon HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/78.ts
+#EXTINF:-1,Nick Jr
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/77.ts
+#EXTINF:-1,National Geografic
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/75.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/74.ts
+#EXTINF:-1,Movistar Toros
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/99.ts
+#EXTINF:-1,Movistar Moto GP
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/73.ts
+#EXTINF:-1,Movistar F1
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/72.ts
+#EXTINF:-1,Movistar eSports HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/95.ts
+#EXTINF:-1,Movistar  Series Xtra HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/70.ts
+#EXTINF:-1,UFC TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/100.ts
+#EXTINF:-1,UFC Network HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/93.ts
+#EXTINF:-1,PANDA
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/83.ts
+#EXTINF:-1,Odissea
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/81.ts
+#EXTINF:-1,TNT
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/24.ts
+#EXTINF:-1,TELEDEPORTE
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/26.ts
+#EXTINF:-1,TELECINCO
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/7.ts
+#EXTINF:-1,SYFY
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/42.ts
+#EXTINF:-1,REAL MADRID TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/33.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/23.ts
+#EXTINF:-1,NEOX
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/43.ts
+#EXTINF:-1,MTV ESPANA
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/56.ts
+#EXTINF:-1,Movistar Formula 1 HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/36.ts
+#EXTINF:-1,MOVISTAR GP HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/35.ts
+#EXTINF:-1,Movistar SERIES HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/5.ts
+#EXTINF:-1,Movistar XTRA
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/38.ts
+#EXTINF:-1,#Vamos HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/32.ts
+#EXTINF:-1,Movistar Deportes 1 HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/31.ts
+#EXTINF:-1,Movistar Comedia HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/37.ts
+#EXTINF:-1,Movistar Accion HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/27.ts
+#EXTINF:-1,LA LIGA TV HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/30.ts
+#EXTINF:-1,LA 2
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/2.ts
+#EXTINF:-1,LA 1
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/1.ts
+#EXTINF:-1,IBERALIA TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/54.ts
+#EXTINF:-1,HOLLYWOOD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/40.ts
+#EXTINF:-1,HISTORIA
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/46.ts
+#EXTINF:-1,GOL TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
+#EXTINF:-1,FOX LIFE
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/22.ts
+#EXTINF:-1,FDF
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/12.ts
+#EXTINF:-1,DMAX.HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/11.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/48.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/44.ts
+#EXTINF:-1,DECASA HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/21.ts
+#EXTINF:-1,CRIME & INVESTIGACION
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/20.ts
+#EXTINF:-1,COSMO TV HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/53.ts
+#EXTINF:-1,CLAN TVE
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/39.ts
+#EXTINF:-1,CANAL SUR A.
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/14.ts
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/13.ts
+#EXTINF:-1,Movistar EstrenoS
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/49.ts
+#EXTINF:-1,Movistar DCINE
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/50.ts
+#EXTINF:-1,CANAL   GOLF
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/51.ts
+#EXTINF:-1,CALLE 13
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/17.ts
+#EXTINF:-1,BEINSPORT-S
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/29.ts
+#EXTINF:-1,AXN WHITE
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/55.ts
+#EXTINF:-1,ANTENA 3
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/4.ts
+#EXTINF:-1,TAQUILLA 1
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/134.ts
+#EXTINF:-1,TAQUILLA 2
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/135.ts
+#EXTINF:-1,TAQUILLA 3
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/136.ts
+#EXTINF:-1,TAQUILLA 4
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/137.ts
+#EXTINF:-1,TAQUILLA 5
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/138.ts
