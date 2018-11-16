@@ -1,6 +1,23 @@
 #EXTM3U
 
-#EXTM3U
+#EXTINF:-1,#0 HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/58.ts
+#EXTINF:-1,Movistar  Series HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/68.ts
+#EXTINF:-1,Movistar  GP HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/66.ts
+#EXTINF:-1,Movistar  Golf
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/65.ts
+#EXTINF:-1,Movistar  Estrenos
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/64.ts
+#EXTINF:-1,Liga de Campeones
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/92.ts
+#EXTINF:-1,LaLiga TV
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/63.ts
+#EXTINF:-1,La Liga 123
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/97.ts
+#EXTINF:-1,Eurosport HD
+http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/62.ts
 #EXTINF:-1,------▼|ES|-LISTA 1.1|▼------
 http://king365tv.podzone.org:2103/live/nani27/nani27/368.ts
 #EXTINF:-1,|ES|TVE_LA_1_HD JHG.MASTER
