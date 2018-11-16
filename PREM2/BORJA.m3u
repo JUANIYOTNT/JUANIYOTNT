@@ -1,0 +1,565 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="««------ESPAÑA------»»" tvg-logo="https://imgur.com/pCgTFXl.png" group-title="SPANISH",««------ESPAÑA------»»
+#EXTINF:-1,(ES) LA 1
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1802.ts
+#EXTINF:-1,(ES) LA 2
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1099.ts
+#EXTINF:-1,(ES) Antena 3 HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13182.ts
+#EXTINF:-1,(ES) Antena 3
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/847.ts
+#EXTINF:-1,(ES) Cuatro
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1100.ts
+#EXTINF:-1,(ES) Telecinco HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1101.ts
+#EXTINF:-1,(ES) La Sexta
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1803.ts
+#EXTINF:-1,(ES) TV 3 Cat.
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16533.ts
+#EXTINF:-1,(ES) 24 Horas
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/10714.ts
+#EXTINF:-1,(ES) Andalucia TV
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/27176.ts
+#EXTINF:-1,|=| ES - OTHER |=|
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/7128.ts
+#EXTINF:-1,(ES) Comedy Central HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13178.ts
+#EXTINF:-1,(ES) Comedy Central
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/930.ts
+#EXTINF:-1,(ES) Cosmo HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13153.ts
+#EXTINF:-1,(ES) #0 HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1103.ts
+#EXTINF:-1,(ES) #0
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13172.ts
+#EXTINF:-1,(ES) Divinity
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/10716.ts
+#EXTINF:-1,(ES) Energy
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13176.ts
+#EXTINF:-1,(ES) Mega
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1805.ts
+#EXTINF:-1,(ES) Nova
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1102.ts
+#EXTINF:-1,(ES) Canal Cocina
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1806.ts
+#EXTINF:-1,(ES) Canal Iberalia
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/7885.ts
+#EXTINF:-1,(ES) Esperanza TV
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16519.ts
+#EXTINF:-1,(ES) Extremadura TV
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16525.ts
+#EXTINF:-1,(ES) Galicia TV
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16534.ts
+#EXTINF:-1,(ES) Mezzo Live HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16521.ts
+#EXTINF:-1,|=| ES - KIDS |=|
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/7127.ts
+#EXTINF:-1,(ES) Boing
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16518.ts
+#EXTINF:-1,(ES) Disney Channel HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16528.ts
+#EXTINF:-1,(ES) Disney Junior
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/3283.ts
+#EXTINF:-1,(ES) Disney XD
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/835.ts
+#EXTINF:-1,(ES) Neox
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/10715.ts
+#EXTINF:-1,(ES) Nickelodeon HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/3281.ts
+#EXTINF:-1,(ES) Nick JR
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/931.ts
+#EXTINF:-1,|=| ES - DOCU |=|
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/7125.ts
+#EXTINF:-1,(ES) A&E
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1106.ts
+#EXTINF:-1,(ES) Caza y Pesca HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13168.ts
+#EXTINF:-1,(ES) Crimen + Investigacion
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16531.ts
+#EXTINF:-1,(ES) Discovery Channel
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16530.ts
+#EXTINF:-1,(ES) Historia
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/3282.ts
+#EXTINF:-1,(ES) National Geographic HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16522.ts
+#EXTINF:-1,(ES) NatGeo Wild HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16524.ts
+#EXTINF:-1,(ES) Non Stop People
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16529.ts
+#EXTINF:-1,(ES) Odisea
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/7886.ts
+#EXTINF:-1,(ES) Viajar HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/933.ts
+#EXTINF:-1,(ES) AMC
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16516.ts
+#EXTINF:-1,(ES) AMC ESP audio
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1810.ts
+#EXTINF:-1,(ES) AXN HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13167.ts
+#EXTINF:-1,(ES) AXN White HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13175.ts
+#EXTINF:-1,(ES) AXN
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/849.ts
+#EXTINF:-1,(ES) Fox HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13171.ts
+#EXTINF:-1,(ES) Fox
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1112.ts
+#EXTINF:-1,(ES) Fox Life
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1113.ts
+#EXTINF:-1,(ES) FDF
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16537.ts
+#EXTINF:-1,(ES) Syfy HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1812.ts
+#EXTINF:-1,(ES) TCM
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1811.ts
+#EXTINF:-1,(ES) TNT
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1110.ts
+#EXTINF:-1,(ES) Movistar Action HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13164.ts
+#EXTINF:-1,(ES) Movistar Comedia HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13162.ts
+#EXTINF:-1,(ES) Movistar DCine HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13160.ts
+#EXTINF:-1,(ES) Movistar Estrenos HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16504.ts
+#EXTINF:-1,(ES) Movistar Series HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16505.ts
+#EXTINF:-1,(ES) Movistar Series Xtra HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1809.ts
+#EXTINF:-1,(ES) Movistar Xtra HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16513.ts
+#EXTINF:-1,(ES) Movistar Action
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1108.ts
+#EXTINF:-1,(ES) Movistar Estrenos
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/1807.ts
+#EXTINF:-1,(ES) Bein Sports HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16538.ts
+#EXTINF:-1,(ES) Bein Sports La Liga HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16539.ts
+#EXTINF:-1,(ES) Eurosport 1 HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13173.ts
+#EXTINF:-1,(ES) Gol
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16514.ts
+#EXTINF:-1,(ES) Movistar Futbol
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16510.ts
+#EXTINF:-1,(ES) Movistar Deportes 1 HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/560.ts
+#EXTINF:-1,(ES) Movistar Deportes 2 HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16512.ts
+#EXTINF:-1,(ES) Movistar Partidazo HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/39939.ts
+#EXTINF:-1,(ES) Movistar F1 HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16508.ts
+#EXTINF:-1,(ES) Movistar MotoGP HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16507.ts
+#EXTINF:-1,(ES) Movistar Golf HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/16509.ts
+#EXTINF:-1,(ES) Movistar Golf
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/842.ts
+#EXTINF:-1,(ES) Teledeporte
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/13155.ts
+#EXTINF:-1,(ES) Toros TV HD+
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/841.ts
+#EXTINF:-1,(ES) Barca TV
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/846.ts
+#EXTINF:-1,(ES) Real Madrid TV
+http://iptv.jinbox.nl:1339/live/ibrahim12345/ibrahim12345/845.ts
+http://topiptv.net:5890/55555/55555/3107
+#EXTINF:-1 tvg-ID="LA 1 ES" tvg-name="LA 1 HD ES" tvg-logo="https://imgur.com/1eAc9O2.png" group-title="SPANISH",LA 1 HD ES
+http://topiptv.net:5890/55555/55555/3022
+#EXTINF:-1 tvg-ID="LA 1 ES" tvg-name="LA 1 ES" tvg-logo="https://imgur.com/1eAc9O2.png" group-title="SPANISH",LA 1 ES
+http://topiptv.net:5890/55555/55555/490
+#EXTINF:-1 tvg-ID="LA 2 ES" tvg-name="LA 2 ES" tvg-logo="https://imgur.com/vp2Osui.png" group-title="SPANISH",LA 2 ES
+http://topiptv.net:5890/55555/55555/489
+#EXTINF:-1 tvg-ID="Antena 3 ES" tvg-name="ANTENA 3 HD ES" tvg-logo="https://imgur.com/I6J1SMy.png" group-title="SPANISH",ANTENA 3 HD ES
+http://topiptv.net:5890/55555/55555/2933
+#EXTINF:-1 tvg-ID="Antena 3 ES" tvg-name="ANTENA 3 ES" tvg-logo="https://imgur.com/I6J1SMy.png" group-title="SPANISH",ANTENA 3 ES
+http://topiptv.net:5890/55555/55555/545
+#EXTINF:-1 tvg-ID="Cuatro ES" tvg-name="CUATRO HD ES" tvg-logo="https://imgur.com/NSvQk1N.png" group-title="SPANISH",CUATRO HD ES
+http://topiptv.net:5890/55555/55555/2986
+#EXTINF:-1 tvg-ID="Cuatro ES" tvg-name="CUATRO ES" tvg-logo="https://imgur.com/NSvQk1N.png" group-title="SPANISH",CUATRO ES
+http://topiptv.net:5890/55555/55555/817
+#EXTINF:-1 tvg-ID="Telecinco ES" tvg-name="TELECINCO HD ES" tvg-logo="https://imgur.com/w4KVSyo.png" group-title="SPANISH",TELECINCO HD ES
+http://topiptv.net:5890/55555/55555/3085
+#EXTINF:-1 tvg-ID="Telecinco ES" tvg-name="TELECINCO ES" tvg-logo="https://imgur.com/w4KVSyo.png" group-title="SPANISH",TELECINCO ES
+http://topiptv.net:5890/55555/55555/818
+#EXTINF:-1 tvg-ID="La Sexta ES" tvg-name="LA SEXTA HD ES" tvg-logo="https://imgur.com/ESpNXa2.png" group-title="SPANISH",LA SEXTA HD ES
+http://topiptv.net:5890/55555/55555/3025
+#EXTINF:-1 tvg-ID="La Sexta ES" tvg-name="LA SEXTA ES" tvg-logo="https://imgur.com/ESpNXa2.png" group-title="SPANISH",LA SEXTA ES
+http://topiptv.net:5890/55555/55555/527
+#EXTINF:-1 tvg-ID="Neox ES" tvg-name="NEOX ES" tvg-logo="https://imgur.com/F8WhnWx.png" group-title="SPANISH",NEOX ES
+http://topiptv.net:5890/55555/55555/1002
+#EXTINF:-1 tvg-ID="Nova ES" tvg-name="NOVA ES" tvg-logo="https://imgur.com/HtJIUTL.png" group-title="SPANISH",NOVA ES
+http://topiptv.net:5890/55555/55555/1003
+#EXTINF:-1 tvg-ID="" tvg-name="ATRE SERIES HD ES" tvg-logo="https://imgur.com/95IptBZ.png" group-title="SPANISH",ATRE SERIES HD ES
+http://topiptv.net:5890/55555/55555/912
+#EXTINF:-1 tvg-ID="Mega.es" tvg-name="MEGA HD ES" tvg-logo="https://imgur.com/e4VlCsJ.png" group-title="SPANISH",MEGA HD ES
+http://topiptv.net:5890/55555/55555/3115
+#EXTINF:-1 tvg-ID="Mega.es" tvg-name="MEGA ES" tvg-logo="https://imgur.com/e4VlCsJ.png" group-title="SPANISH",MEGA ES
+http://topiptv.net:5890/55555/55555/526
+#EXTINF:-1 tvg-ID="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="https://imgur.com/TcL1fHU.png" group-title="SPANISH",TV Galicia ES
+http://topiptv.net:5890/55555/55555/3015
+#EXTINF:-1 tvg-ID="Divinity ES" tvg-name="DIVINITY ES" tvg-logo="https://imgur.com/UKKHu93.png" group-title="SPANISH",DIVINITY ES
+http://topiptv.net:5890/55555/55555/1384
+#EXTINF:-1 tvg-ID="Energy ES" tvg-name="ENERGY ES" tvg-logo="https://imgur.com/O2zliYY.png" group-title="SPANISH",ENERGY ES
+http://topiptv.net:5890/55555/55555/1383
+#EXTINF:-1 tvg-ID="" tvg-name="XTRM ES" tvg-logo="https://imgur.com/1xxJyCH.png" group-title="SPANISH",XTRM ES
+http://topiptv.net:5890/55555/55555/1389
+#EXTINF:-1 tvg-ID="Canal 24 horas ES" tvg-name="24 HORAS ES" tvg-logo="https://imgur.com/ZE0H9Lk.png" group-title="SPANISH",24 HORAS ES
+http://topiptv.net:5890/55555/55555/3006
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE TV ES" tvg-logo="https://imgur.com/3dQgQUN.png" group-title="SPANISH",SUNDANCE TV ES
+http://topiptv.net:5890/55555/55555/5224
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SUR 1 HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal_Sur_1_-_2017_logo.png/125px-Canal_Sur_1_-_2017_logo.png" group-title="SPANISH",CANAL SUR 1 HD ES
+http://topiptv.net:5890/55555/55555/13435
+#EXTINF:-1 tvg-ID="Canal Sur Andalucia ES" tvg-name="CANAL SUR A. ES" tvg-logo="https://imgur.com/UirASp1.png" group-title="SPANISH",CANAL SUR A. ES
+http://topiptv.net:5890/55555/55555/1377
+#EXTINF:-1 tvg-ID="" tvg-name="LA OTRA ES" tvg-logo="https://imgur.com/7E3ifTp.png" group-title="SPANISH",LA OTRA ES
+http://topiptv.net:5890/55555/55555/1005
+#EXTINF:-1 tvg-ID="" tvg-name="Tele Madrid ES" tvg-logo="http://static2.telemadrid.es/static/BB3HTML/images/logo.png?hash=dcdede14b767968b29028761f31fe79e" group-title="SPANISH",Tele Madrid ES
+http://topiptv.net:5890/55555/55555/13434
+#EXTINF:-1 tvg-ID="" tvg-name="Antena3 /24 ES" tvg-logo="https://imgur.com/I6J1SMy.png" group-title="SPANISH",Antena3 /24 ES
+http://topiptv.net:5890/55555/55555/1006
+#EXTINF:-1 tvg-ID="" tvg-name="ARAGON TV ES" tvg-logo="https://imgur.com/onPYqRi.png" group-title="SPANISH",ARAGON TV ES
+http://topiptv.net:5890/55555/55555/14197
+#EXTINF:-1 tvg-ID="" tvg-name="BE MAD HD ES" tvg-logo="http://i4.yhk0.net/cha/es/beMad-60x51.png" group-title="SPANISH",BE MAD HD ES
+http://topiptv.net:5890/55555/55555/14193
+#EXTINF:-1 tvg-ID="" tvg-name="CMM TV ES" tvg-logo="https://1.bp.blogspot.com/-yqFgqJI0cM4/V93ELnE1DCI/AAAAAAAABdo/XmB2bcffdbQ_qJyQ9cjDS2-lFz3sBn_qgCLcB/s320/cmm.png" group-title="SPANISH",CMM TV ES
+http://topiptv.net:5890/55555/55555/14201
+#EXTINF:-1 tvg-ID="" tvg-name="ETB 1 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/langfr-200px-ETB1_Spain.svg.png" group-title="SPANISH",ETB 1 ES
+http://topiptv.net:5890/55555/55555/14200
+#EXTINF:-1 tvg-ID="" tvg-name="TV 7 MURCIA ES" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/logo1.png" group-title="SPANISH",TV 7 MURCIA ES
+http://topiptv.net:5890/55555/55555/14198
+#EXTINF:-1 tvg-ID="" tvg-name="TV CANARIAS ES" tvg-logo="https://imgur.com/uf3ytFx.png" group-title="SPANISH",TV CANARIAS ES
+http://topiptv.net:5890/55555/55555/14202
+#EXTINF:-1 tvg-ID="" tvg-name="INTERCONOMIA TV ES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7a/Intereconomia_2012.png/150px-Intereconomia_2012.png" group-title="SPANISH",INTERCONOMIA TV ES
+http://topiptv.net:5890/55555/55555/14199
+#EXTINF:-1 tvg-ID="" tvg-name="--Deportes|Full¡1080p|--" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",--Deportes|Full¡1080p|--
+http://topiptv.net:5890/55555/55555/3108
+#EXTINF:-1 tvg-ID="Movistar Deportes 2 ES" tvg-name="#VAMOS HD ES" tvg-logo="http://i5.satexpat.com/cha/es/vamos-95x29.png" group-title="SPANISH",#VAMOS HD ES
+http://topiptv.net:5890/55555/55555/3032
+#EXTINF:-1 tvg-ID="Movistar Deportes 2 ES" tvg-name="#VAMOS ES" tvg-logo="http://i5.satexpat.com/cha/es/vamos-95x29.png" group-title="SPANISH",#VAMOS ES
+http://topiptv.net:5890/55555/55555/1817
+#EXTINF:-1 tvg-ID="GOL ES" tvg-name="GOL TV HD ES" tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/gol-hd-sm.png" group-title="SPANISH",GOL TV HD ES
+http://topiptv.net:5890/55555/55555/7760
+#EXTINF:-1 tvg-ID="GOL ES" tvg-name="GOL TV ES" tvg-logo="https://imgur.com/5loYVLK.png" group-title="SPANISH",GOL TV ES
+http://topiptv.net:5890/55555/55555/2038
+#EXTINF:-1 tvg-ID="LaLiga.es" tvg-name="LaLigatv bar HD ES" tvg-logo="https://imgur.com/eFTaPxB.png" group-title="SPANISH",LaLigatv bar HD ES
+http://topiptv.net:5890/55555/55555/3027
+#EXTINF:-1 tvg-ID="LaLiga.es" tvg-name="LaLigatv bar ES" tvg-logo="https://imgur.com/eFTaPxB.png" group-title="SPANISH",LaLigatv bar ES
+http://topiptv.net:5890/55555/55555/534
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga 1|2|3 TV ES" tvg-logo="http://i5.satexpat.com/cha/es/laLiga123-85x55.png" group-title="SPANISH",LaLiga 1|2|3 TV ES
+http://topiptv.net:5890/55555/55555/5096
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga 1|2|3 TV M1 ES" tvg-logo="http://i5.satexpat.com/cha/es/laLiga123-85x55.png" group-title="SPANISH",LaLiga 1|2|3 TV M1 ES
+http://topiptv.net:5890/55555/55555/14190
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga 1|2|3 TV M2 ES" tvg-logo="http://i5.satexpat.com/cha/es/laLiga123-85x55.png" group-title="SPANISH",LaLiga 1|2|3 TV M2 ES
+http://topiptv.net:5890/55555/55555/14191
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga 1|2|3 TV M3 ES" tvg-logo="http://i5.satexpat.com/cha/es/laLiga123-85x55.png" group-title="SPANISH",LaLiga 1|2|3 TV M3 ES
+http://topiptv.net:5890/55555/55555/14192
+#EXTINF:-1 tvg-ID="Movistar Deportes 1 ES" tvg-name="Movistar Deportes 1 HD ES" tvg-logo="https://imgur.com/n1xklJb.png" group-title="SPANISH",Movistar Deportes 1 HD ES
+http://topiptv.net:5890/55555/55555/3031
+#EXTINF:-1 tvg-ID="Movistar Deportes 1 ES" tvg-name="Movistar Deportes 1 ES" tvg-logo="https://imgur.com/n1xklJb.png" group-title="SPANISH",Movistar Deportes 1 ES
+http://topiptv.net:5890/55555/55555/536
+#EXTINF:-1 tvg-ID="Movistar Partidazo ES" tvg-name="Movistar Partidazo HD ES" tvg-logo="http://i5.satexpat.com/cha/es/mpartidazo-95x28.png" group-title="SPANISH",Movistar Partidazo HD ES
+http://topiptv.net:5890/55555/55555/3042
+#EXTINF:-1 tvg-ID="Movistar Partidazo ES" tvg-name="Movistar Partidazo ES" tvg-logo="http://i5.satexpat.com/cha/es/mpartidazo-95x28.png" group-title="SPANISH",Movistar Partidazo ES
+http://topiptv.net:5890/55555/55555/1386
+#EXTINF:-1 tvg-ID="Movistar Golf ES" tvg-name="Movistar GOLF HD ES" tvg-logo="https://imgur.com/2lRvXmv.png" group-title="SPANISH",Movistar GOLF HD ES
+http://topiptv.net:5890/55555/55555/3055
+#EXTINF:-1 tvg-ID="Golf.sp" tvg-name="Movistar GOLF ES" tvg-logo="https://imgur.com/2lRvXmv.png" group-title="SPANISH",Movistar GOLF ES
+http://topiptv.net:5890/55555/55555/1549
+#EXTINF:-1 tvg-ID="Movistar MotoGP ES" tvg-name="Movistar MotoGP HD ES" tvg-logo="https://imgur.com/srkCfk2.png" group-title="SPANISH",Movistar MotoGP HD ES
+http://topiptv.net:5890/55555/55555/3057
+#EXTINF:-1 tvg-ID="Movistar MotoGP ES" tvg-name="Movistar MotoGP ES" tvg-logo="https://imgur.com/srkCfk2.png" group-title="SPANISH",Movistar MotoGP ES
+http://topiptv.net:5890/55555/55555/1247
+#EXTINF:-1 tvg-ID="Movistar Formula 1 ES" tvg-name="M.FORMULA 1 HD ES" tvg-logo="https://imgur.com/3WVz8Sp.png" group-title="SPANISH",M.FORMULA 1 HD ES
+http://topiptv.net:5890/55555/55555/3053
+#EXTINF:-1 tvg-ID="Movistar Formula 1 ES" tvg-name="Movistar FORMULA 1 ES" tvg-logo="https://imgur.com/3WVz8Sp.png" group-title="SPANISH",Movistar FORMULA 1 ES
+http://topiptv.net:5890/55555/55555/1246
+#EXTINF:-1 tvg-ID="beIN Sports ES" tvg-name="M.LIGA CAMPEONES HD ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES HD ES
+http://topiptv.net:5890/55555/55555/2944
+#EXTINF:-1 tvg-ID="BeINSports.es" tvg-name="M.LIGA CAMPEONES ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES ES
+http://topiptv.net:5890/55555/55555/2213
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES1 HD ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones1-95x38.png" group-title="SPANISH",M.LIGA CAMPEONES1 HD ES
+http://topiptv.net:5890/55555/55555/2945
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES1 ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones1-95x38.png" group-title="SPANISH",M.LIGA CAMPEONES1 ES
+http://topiptv.net:5890/55555/55555/2947
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES2 HD ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES2 HD ES
+http://topiptv.net:5890/55555/55555/2948
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES2 ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES2 ES
+http://topiptv.net:5890/55555/55555/2950
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES3 ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES3 ES
+http://topiptv.net:5890/55555/55555/2951
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES4 ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES4 ES
+http://topiptv.net:5890/55555/55555/2952
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES5 ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES5 ES
+http://topiptv.net:5890/55555/55555/2953
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES6 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="SPANISH",M.LIGA CAMPEONES6 ES
+http://topiptv.net:5890/55555/55555/2954
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES7 ES" tvg-logo="http://i5.satexpat.com/cha/es/ligaCampeones-95x37.png" group-title="SPANISH",M.LIGA CAMPEONES7 ES
+http://topiptv.net:5890/55555/55555/2955
+#EXTINF:-1 tvg-ID="" tvg-name="M.LIGA CAMPEONES8 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="SPANISH",M.LIGA CAMPEONES8 ES
+http://topiptv.net:5890/55555/55555/2956
+#EXTINF:-1 tvg-ID="Movistar Futbol ES" tvg-name="beIN LALIGA MAX HD ES" tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-max-1-sm.png" group-title="SPANISH",beIN LALIGA MAX HD ES
+http://topiptv.net:5890/55555/55555/3054
+#EXTINF:-1 tvg-ID="Movistar Futbol ES" tvg-name="beIN LALIGA MAX ES" tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-sm.png" group-title="SPANISH",beIN LALIGA MAX ES
+http://topiptv.net:5890/55555/55555/535
+#EXTINF:-1 tvg-ID="beIN Sports LaLiga ES" tvg-name="beIN LALIGA HD ES" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png" group-title="SPANISH",beIN LALIGA HD ES
+http://topiptv.net:5890/55555/55555/2942
+#EXTINF:-1 tvg-ID="BeINLaLiga.es" tvg-name="beIN LALIGA ES" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png" group-title="SPANISH",beIN LALIGA ES
+http://topiptv.net:5890/55555/55555/1410
+#EXTINF:-1 tvg-ID="Bein LaLiga 1 ES" tvg-name="beIN LaLiga 1 HD ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG1.png" group-title="SPANISH",beIN LaLiga 1 HD ES
+http://topiptv.net:5890/55555/55555/2957
+#EXTINF:-1 tvg-ID="Bein LaLiga 1 ES" tvg-name="beIN LALIGA 1 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG1.png" group-title="SPANISH",beIN LALIGA 1 ES
+http://topiptv.net:5890/55555/55555/2959
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 2 HD ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG2.png" group-title="SPANISH",beIN LALIGA 2 HD ES
+http://topiptv.net:5890/55555/55555/2958
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 2 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG2.png" group-title="SPANISH",beIN LALIGA 2 ES
+http://topiptv.net:5890/55555/55555/2960
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 3 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG3.png" group-title="SPANISH",beIN LALIGA 3 ES
+http://topiptv.net:5890/55555/55555/2961
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 4 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG4.png" group-title="SPANISH",beIN LALIGA 4 ES
+http://topiptv.net:5890/55555/55555/2962
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 5 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG5.png" group-title="SPANISH",beIN LALIGA 5 ES
+http://topiptv.net:5890/55555/55555/2963
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 6 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG6.png" group-title="SPANISH",beIN LALIGA 6 ES
+http://topiptv.net:5890/55555/55555/2964
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 7 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG7.png" group-title="SPANISH",beIN LALIGA 7 ES
+http://topiptv.net:5890/55555/55555/2965
+#EXTINF:-1 tvg-ID="" tvg-name="beIN LALIGA 8 ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIG8.png" group-title="SPANISH",beIN LALIGA 8 ES
+http://topiptv.net:5890/55555/55555/2966
+#EXTINF:-1 tvg-ID="Eurosport 1 ES" tvg-name="EUROSPORT1 HD ES" tvg-logo="https://imgur.com/JDMPFa2.png" group-title="SPANISH",EUROSPORT1 HD ES
+http://topiptv.net:5890/55555/55555/3103
+#EXTINF:-1 tvg-ID="Eurosport 1 ES" tvg-name="EUROSPORT1 ES" tvg-logo="https://imgur.com/JDMPFa2.png" group-title="SPANISH",EUROSPORT1 ES
+http://topiptv.net:5890/55555/55555/2504
+#EXTINF:-1 tvg-ID="Eurosport2.es" tvg-name="EUROSPORT2 ES" tvg-logo="https://imgur.com/zFxkEO8.png" group-title="SPANISH",EUROSPORT2 ES
+http://topiptv.net:5890/55555/55555/3075
+#EXTINF:-1 tvg-ID="Teledeporte ES" tvg-name="TELEDEPORTE HD ES" tvg-logo="https://imgur.com/OIwAIL2.png" group-title="SPANISH",TELEDEPORTE HD ES
+http://topiptv.net:5890/55555/55555/1380
+#EXTINF:-1 tvg-ID="Teledeporte ES" tvg-name="TELEDEPORTE ES" tvg-logo="https://imgur.com/OIwAIL2.png" group-title="SPANISH",TELEDEPORTE ES
+http://topiptv.net:5890/55555/55555/1379
+#EXTINF:-1 tvg-ID="Toros TV ES" tvg-name="TOROS HD ES" tvg-logo="https://imgur.com/dnbJomF.png" group-title="SPANISH",TOROS HD ES
+http://topiptv.net:5890/55555/55555/3091
+#EXTINF:-1 tvg-ID="Toros TV ES" tvg-name="TOROS TV ES" tvg-logo="https://imgur.com/dnbJomF.png" group-title="SPANISH",TOROS TV ES
+http://topiptv.net:5890/55555/55555/1453
+#EXTINF:-1 tvg-ID="Real Madrid TV ES" tvg-name="R. MADRID ES" tvg-logo="https://imgur.com/rKOasPI.png" group-title="SPANISH",R. MADRID ES
+http://topiptv.net:5890/55555/55555/491
+#EXTINF:-1 tvg-ID="Barca TV ES" tvg-name="Barça TV ES" tvg-logo="https://imgur.com/PZsN0hk.png" group-title="SPANISH",Barça TV ES
+http://topiptv.net:5890/55555/55555/542
+#EXTINF:-1 tvg-ID="M.eSports.sp" tvg-name="M. eSports ES" tvg-logo="https://imgur.com/ktGaW3r.png" group-title="SPANISH",M. eSports ES
+http://topiptv.net:5890/55555/55555/3060
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIDEP .1 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIDEP .1 ES
+http://topiptv.net:5890/55555/55555/3061
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIDEP .2 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIDEP .2 ES
+http://topiptv.net:5890/55555/55555/3062
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIDEP .3 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIDEP .3 ES
+http://topiptv.net:5890/55555/55555/3063
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIDEP .4 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIDEP .4 ES
+http://topiptv.net:5890/55555/55555/3064
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIDEP .5 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIDEP .5 ES
+http://topiptv.net:5890/55555/55555/3065
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIFUT 1 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIFUT 1 ES
+http://topiptv.net:5890/55555/55555/3059
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIFUT 2 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIFUT 2 ES
+http://topiptv.net:5890/55555/55555/3058
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIFUT 3 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIFUT 3 ES
+http://topiptv.net:5890/55555/55555/3056
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIFUT 4 ES" tvg-logo="https://imgur.com/WRI4LSa.png" group-title="SPANISH",MULTIFUT 4 ES
+http://topiptv.net:5890/55555/55555/3052
+#EXTINF:-1 tvg-ID="" tvg-name="--Cine-|Full¡1080p|--" tvg-logo="https://imgur.com/f6qCmB0.png" group-title="SPANISH",--Cine-|Full¡1080p|--
+http://topiptv.net:5890/55555/55555/3109
+#EXTINF:-1 tvg-ID="0 Number ES" tvg-name="#0 HD ES" tvg-logo="https://imgur.com/T5C0C5u.png" group-title="SPANISH",#0 HD ES
+http://topiptv.net:5890/55555/55555/2928
+#EXTINF:-1 tvg-ID="0 Number ES" tvg-name="#0 ES" tvg-logo="https://imgur.com/T5C0C5u.png" group-title="SPANISH",#0 ES
+http://topiptv.net:5890/55555/55555/815
+#EXTINF:-1 tvg-ID="Movistar Estrenos ES" tvg-name="M.ESTRENOS HD ES" tvg-logo="https://imgur.com/e60nVSm.png" group-title="SPANISH",M.ESTRENOS HD ES
+http://topiptv.net:5890/55555/55555/3035
+#EXTINF:-1 tvg-ID="Movistar Estrenos ES" tvg-name="M.ESTRENOS ES" tvg-logo="https://imgur.com/e60nVSm.png" group-title="SPANISH",M.ESTRENOS ES
+http://topiptv.net:5890/55555/55555/814
+#EXTINF:-1 tvg-ID="Movistar Comedia ES" tvg-name="M.COMEDIA HD ES" tvg-logo="https://imgur.com/GvYG5ui.png" group-title="SPANISH",M.COMEDIA HD ES
+http://topiptv.net:5890/55555/55555/3048
+#EXTINF:-1 tvg-ID="Movistar Comedia ES" tvg-name="M.COMEDIA ES" tvg-logo="https://imgur.com/GvYG5ui.png" group-title="SPANISH",M.COMEDIA ES
+http://topiptv.net:5890/55555/55555/540
+#EXTINF:-1 tvg-ID="Movistar Accion ES" tvg-name="M.ACCI©N HD ES" tvg-logo="https://imgur.com/gkoATki.png" group-title="SPANISH",M.ACCI©N HD ES
+http://topiptv.net:5890/55555/55555/3046
+#EXTINF:-1 tvg-ID="Movistar Accion ES" tvg-name="M.ACCI©N ES" tvg-logo="https://imgur.com/gkoATki.png" group-title="SPANISH",M.ACCI©N ES
+http://topiptv.net:5890/55555/55555/541
+#EXTINF:-1 tvg-ID="Movistar DCine ES" tvg-name="M.Drama HD ES" tvg-logo="http://i5.satexpat.com/cha/es/mdrama-95x33.png" group-title="SPANISH",M.Drama HD ES
+http://topiptv.net:5890/55555/55555/3049
+#EXTINF:-1 tvg-ID="Movistar DCine ES" tvg-name="M.Drama ES" tvg-logo="http://i5.satexpat.com/cha/es/mdrama-95x33.png" group-title="SPANISH",M.Drama ES
+http://topiptv.net:5890/55555/55555/539
+#EXTINF:-1 tvg-ID="Movistar Xtra ES" tvg-name="M.Cine Doc& Roll HD ES" tvg-logo="http://i5.satexpat.com/cha/es/mcinedocroll-95x22.png" group-title="SPANISH",M.Cine Doc& Roll HD ES
+http://topiptv.net:5890/55555/55555/3034
+#EXTINF:-1 tvg-ID="Movistar Xtra ES" tvg-name="M.Cine Doc& Roll ES" tvg-logo="http://i5.satexpat.com/cha/es/mcinedocroll-95x22.png" group-title="SPANISH",M.Cine Doc& Roll ES
+http://topiptv.net:5890/55555/55555/531
+#EXTINF:-1 tvg-ID="Movistar Cine N ES" tvg-name="M.Cine Español ES" tvg-logo="https://imgur.com/69lTR3B.png" group-title="SPANISH",M.Cine Español ES
+http://topiptv.net:5890/55555/55555/2508
+#EXTINF:-1 tvg-ID="CLASSICA ES" tvg-name="Movistar Disney HD ES" tvg-logo="https://imgur.com/Axs8l7a.png" group-title="SPANISH",Movistar Disney HD ES
+http://topiptv.net:5890/55555/55555/2981
+#EXTINF:-1 tvg-ID="Movistar Series ES" tvg-name="M.SERIES HD ES" tvg-logo="https://imgur.com/8OjHgM5.png" group-title="SPANISH",M.SERIES HD ES
+http://topiptv.net:5890/55555/55555/3033
+#EXTINF:-1 tvg-ID="Movistar Series ES" tvg-name="M.SERIES ES" tvg-logo="https://imgur.com/8OjHgM5.png" group-title="SPANISH",M.SERIES ES
+http://topiptv.net:5890/55555/55555/532
+#EXTINF:-1 tvg-ID="Movistar Series Xtra ES" tvg-name="M.Series Mania HD ES" tvg-logo="http://i5.satexpat.com/cha/es/mseriesmania-95x23.png" group-title="SPANISH",M.Series Mania HD ES
+http://topiptv.net:5890/55555/55555/3045
+#EXTINF:-1 tvg-ID="CanalPlusSeriesXtra.sp" tvg-name="M.Series Mania ES" tvg-logo="http://i5.satexpat.com/cha/es/mseriesmania-95x23.png" group-title="SPANISH",M.Series Mania ES
+http://topiptv.net:5890/55555/55555/1991
+#EXTINF:-1 tvg-ID="TNT ES" tvg-name="TNT HD ES" tvg-logo="https://imgur.com/TThrYQB.png" group-title="SPANISH",TNT HD ES
+http://topiptv.net:5890/55555/55555/3089
+#EXTINF:-1 tvg-ID="TNT ES" tvg-name="TNT ES" tvg-logo="https://imgur.com/TThrYQB.png" group-title="SPANISH",TNT ES
+http://topiptv.net:5890/55555/55555/1016
+#EXTINF:-1 tvg-ID="Syfy ES" tvg-name="SYFY HD ES" tvg-logo="https://imgur.com/HkTfg45.png" group-title="SPANISH",SYFY HD ES
+http://topiptv.net:5890/55555/55555/3106
+#EXTINF:-1 tvg-ID="Syfy ES" tvg-name="SYFY ES" tvg-logo="https://imgur.com/HkTfg45.png" group-title="SPANISH",SYFY ES
+http://topiptv.net:5890/55555/55555/487
+#EXTINF:-1 tvg-ID="TCM ES" tvg-name="TCM HD ES" tvg-logo="https://imgur.com/q5y2HEI.png" group-title="SPANISH",TCM HD ES
+http://topiptv.net:5890/55555/55555/3083
+#EXTINF:-1 tvg-ID="AMC ES" tvg-name="AMC HD ES" tvg-logo="https://imgur.com/8TaPhFo.png" group-title="SPANISH",AMC HD ES
+http://topiptv.net:5890/55555/55555/2931
+#EXTINF:-1 tvg-ID="AMC ES" tvg-name="AMC ES" tvg-logo="https://imgur.com/8TaPhFo.png" group-title="SPANISH",AMC ES
+http://topiptv.net:5890/55555/55555/1388
+#EXTINF:-1 tvg-ID="FOX ES" tvg-name="FOX HD ES" tvg-logo="https://imgur.com/yHKQaLY.png" group-title="SPANISH",FOX HD ES
+http://topiptv.net:5890/55555/55555/2999
+#EXTINF:-1 tvg-ID="FOX ES" tvg-name="FOX ES" tvg-logo="https://imgur.com/yHKQaLY.png" group-title="SPANISH",FOX ES
+http://topiptv.net:5890/55555/55555/488
+#EXTINF:-1 tvg-ID="FOX Life ES" tvg-name="FOX LIFE HD ES" tvg-logo="https://imgur.com/f7KVqed.png" group-title="SPANISH",FOX LIFE HD ES
+http://topiptv.net:5890/55555/55555/3001
+#EXTINF:-1 tvg-ID="FOX Life ES" tvg-name="FOX LIFE ES" tvg-logo="https://imgur.com/f7KVqed.png" group-title="SPANISH",FOX LIFE ES
+http://topiptv.net:5890/55555/55555/1108
+#EXTINF:-1 tvg-ID="Hollywood ES" tvg-name="HOLLYWOOD HD ES" tvg-logo="https://imgur.com/wfiP9tS.png" group-title="SPANISH",HOLLYWOOD HD ES
+http://topiptv.net:5890/55555/55555/3019
+#EXTINF:-1 tvg-ID="Hollywood ES" tvg-name="HOLLYWOOD ES" tvg-logo="https://imgur.com/wfiP9tS.png" group-title="SPANISH",HOLLYWOOD ES
+http://topiptv.net:5890/55555/55555/529
+#EXTINF:-1 tvg-ID="COSMO ES" tvg-name="COSMO HD ES" tvg-logo="https://imgur.com/0N6Ee9m.png" group-title="SPANISH",COSMO HD ES
+http://topiptv.net:5890/55555/55555/2984
+#EXTINF:-1 tvg-ID="COSMO ES" tvg-name="COSMO ES" tvg-logo="https://imgur.com/0N6Ee9m.png" group-title="SPANISH",COSMO ES
+http://topiptv.net:5890/55555/55555/816
+#EXTINF:-1 tvg-ID="Comedy Central ES" tvg-name="COMEDY CENTRAL HD ES" tvg-logo="https://imgur.com/lDs4aK2.png" group-title="SPANISH",COMEDY CENTRAL HD ES
+http://topiptv.net:5890/55555/55555/2982
+#EXTINF:-1 tvg-ID="Comedy Central ES" tvg-name="COMEDY CENTRAL ES" tvg-logo="https://imgur.com/lDs4aK2.png" group-title="SPANISH",COMEDY CENTRAL ES
+http://topiptv.net:5890/55555/55555/1820
+#EXTINF:-1 tvg-ID="Calle 13 ES" tvg-name="CALLE 13 HD ES" tvg-logo="https://imgur.com/0VLoEMX.png" group-title="SPANISH",CALLE 13 HD ES
+http://topiptv.net:5890/55555/55555/2971
+#EXTINF:-1 tvg-ID="Calle 13 ES" tvg-name="CALLE 13 ES" tvg-logo="https://imgur.com/0VLoEMX.png" group-title="SPANISH",CALLE 13 ES
+http://topiptv.net:5890/55555/55555/538
+#EXTINF:-1 tvg-ID="AXN White ES" tvg-name="AXN WHITE HD ES" tvg-logo="https://imgur.com/YhCnpTV.png" group-title="SPANISH",AXN WHITE HD ES
+http://topiptv.net:5890/55555/55555/2938
+#EXTINF:-1 tvg-ID="AXN White ES" tvg-name="AXN WHITE ES" tvg-logo="https://imgur.com/YhCnpTV.png" group-title="SPANISH",AXN WHITE ES
+http://topiptv.net:5890/55555/55555/543
+#EXTINF:-1 tvg-ID="AXN ES" tvg-name="AXN HD ES" tvg-logo="https://imgur.com/QibwRW6.png" group-title="SPANISH",AXN HD ES
+http://topiptv.net:5890/55555/55555/2936
+#EXTINF:-1 tvg-ID="AXN ES" tvg-name="AXN ES" tvg-logo="https://imgur.com/QibwRW6.png" group-title="SPANISH",AXN ES
+http://topiptv.net:5890/55555/55555/544
+#EXTINF:-1 tvg-ID="Paramount Channel ES" tvg-name="PARAMOUNT ES" tvg-logo="https://imgur.com/nI7pchV.png" group-title="SPANISH",PARAMOUNT ES
+http://topiptv.net:5890/55555/55555/3076
+#EXTINF:-1 tvg-ID="" tvg-name="--Culturales|Full¡1080p|--" tvg-logo="http://i5.satexpat.com/cha/es/movistar-plus-95x20.png" group-title="SPANISH",--Culturales|Full¡1080p|--
+http://topiptv.net:5890/55555/55555/3110
+#EXTINF:-1 tvg-ID="Viajar ES" tvg-name="VIAJAR HD ES" tvg-logo="https://imgur.com/uDupNl7.png" group-title="SPANISH",VIAJAR HD ES
+http://topiptv.net:5890/55555/55555/3093
+#EXTINF:-1 tvg-ID="Viajar ES" tvg-name="VIAJAR ES" tvg-logo="https://imgur.com/uDupNl7.png" group-title="SPANISH",VIAJAR ES
+http://topiptv.net:5890/55555/55555/1382
+#EXTINF:-1 tvg-ID="NationalGeographic.sp" tvg-name="NAT GEO HD ES" tvg-logo="https://imgur.com/54YTsnN.png" group-title="SPANISH",NAT GEO HD ES
+http://topiptv.net:5890/55555/55555/3069
+#EXTINF:-1 tvg-ID="NationalGeographic.sp" tvg-name="NAT GEOGRAPH ES" tvg-logo="https://imgur.com/54YTsnN.png" group-title="SPANISH",NAT GEOGRAPH ES
+http://topiptv.net:5890/55555/55555/1109
+#EXTINF:-1 tvg-ID="National Geographic ES" tvg-name="NAT GEO WILD HD ES" tvg-logo="https://imgur.com/o3pYNl5.png" group-title="SPANISH",NAT GEO WILD HD ES
+http://topiptv.net:5890/55555/55555/3104
+#EXTINF:-1 tvg-ID="Nat Geo Wild ES" tvg-name="NAT GEO WILD ES" tvg-logo="https://imgur.com/o3pYNl5.png" group-title="SPANISH",NAT GEO WILD ES
+http://topiptv.net:5890/55555/55555/924
+#EXTINF:-1 tvg-ID="Iberalia TV ES" tvg-name="IBERALIA TV ES" tvg-logo="https://imgur.com/7HUVEqM.png" group-title="SPANISH",IBERALIA TV ES
+http://topiptv.net:5890/55555/55555/3072
+#EXTINF:-1 tvg-ID="Caza y Pesca ES" tvg-name="CAZA Y PESCA HD ES" tvg-logo="https://imgur.com/WEBoeDf.png" group-title="SPANISH",CAZA Y PESCA HD ES
+http://topiptv.net:5890/55555/55555/2979
+#EXTINF:-1 tvg-ID="Caza y Pesca ES" tvg-name="CAZA Y PESCA ES" tvg-logo="https://imgur.com/WEBoeDf.png" group-title="SPANISH",CAZA Y PESCA ES
+http://topiptv.net:5890/55555/55555/981
+#EXTINF:-1 tvg-ID="" tvg-name="Blaze ES" tvg-logo="http://www.blaze.tv/assets/blaze/images/logo_blaze.png" group-title="SPANISH",Blaze ES
+http://topiptv.net:5890/55555/55555/1007
+#EXTINF:-1 tvg-ID="" tvg-name="DMAX ES" tvg-logo="https://imgur.com/MhVvzJF.png" group-title="SPANISH",DMAX ES
+http://topiptv.net:5890/55555/55555/1385
+#EXTINF:-1 tvg-ID="Canal Cocina ES" tvg-name="Canal Cocina ES" tvg-logo="https://imgur.com/4CRVZfc.png" group-title="SPANISH",Canal Cocina ES
+http://topiptv.net:5890/55555/55555/1818
+#EXTINF:-1 tvg-ID="Odisea ES" tvg-name="Od!sea ES" tvg-logo="https://imgur.com/Y0dVM1a.png" group-title="SPANISH",Od!sea ES
+http://topiptv.net:5890/55555/55555/915
+#EXTINF:-1 tvg-ID="Crimen Investigacion ES" tvg-name="CRIMEN+INVES ES" tvg-logo="https://imgur.com/PTyymgO.png" group-title="SPANISH",CRIMEN+INVES ES
+http://topiptv.net:5890/55555/55555/2503
+#EXTINF:-1 tvg-ID="Canal Decasa ES" tvg-name="DECASA ES" tvg-logo="https://imgur.com/yuwNNnw.png" group-title="SPANISH",DECASA ES
+http://topiptv.net:5890/55555/55555/2507
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel HD ES" tvg-logo="https://imgur.com/fVvgs8Z.png" group-title="SPANISH",Discovery Channel HD ES
+http://topiptv.net:5890/55555/55555/5999
+#EXTINF:-1 tvg-ID="Discovery Channel ES" tvg-name="Discovery Channel ES" tvg-logo="https://imgur.com/fVvgs8Z.png" group-title="SPANISH",Discovery Channel ES
+http://topiptv.net:5890/55555/55555/2509
+#EXTINF:-1 tvg-ID="Historia ES" tvg-name="HISTORIA ES" tvg-logo="https://imgur.com/PDHyUtY.png" group-title="SPANISH",HISTORIA ES
+http://topiptv.net:5890/55555/55555/1387
+#EXTINF:-1 tvg-ID="" tvg-name="DKISS ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/langfr-150px-DKiss.svg.png" group-title="SPANISH",DKISS ES
+http://topiptv.net:5890/55555/55555/14194
+#EXTINF:-1 tvg-ID="" tvg-name="TEN ES" tvg-logo="http://tentv.es/wp-content/themes/ten/logo.png" group-title="SPANISH",TEN ES
+http://topiptv.net:5890/55555/55555/14196
+#EXTINF:-1 tvg-ID="" tvg-name="--Ninios|Full¡1080p|--" tvg-logo="http://i5.satexpat.com/cha/es/movistar-plus-95x20.png" group-title="SPANISH",--Ninios|Full¡1080p|--
+http://topiptv.net:5890/55555/55555/3111
+#EXTINF:-1 tvg-ID="FDF ES" tvg-name="FDF ES" tvg-logo="https://imgur.com/i6wr5BB.png" group-title="SPANISH",FDF ES
+http://topiptv.net:5890/55555/55555/1868
+#EXTINF:-1 tvg-ID="Boing ES" tvg-name="BOING ES" tvg-logo="https://imgur.com/CiejqXR.png" group-title="SPANISH",BOING ES
+http://topiptv.net:5890/55555/55555/2001
+#EXTINF:-1 tvg-ID="Clan TVE ES" tvg-name="Clan TVE ES" tvg-logo="https://imgur.com/Gb1evVt.png" group-title="SPANISH",Clan TVE ES
+http://topiptv.net:5890/55555/55555/1866
+#EXTINF:-1 tvg-ID="Nickelodeon ES" tvg-name="NICKELODEON HD ES" tvg-logo="https://imgur.com/csibIFP.png" group-title="SPANISH",NICKELODEON HD ES
+http://topiptv.net:5890/55555/55555/3105
+#EXTINF:-1 tvg-ID="Nickelodeon ES" tvg-name="NICKELODEON ES" tvg-logo="https://imgur.com/csibIFP.png" group-title="SPANISH",NICKELODEON ES
+http://topiptv.net:5890/55555/55555/3071
+#EXTINF:-1 tvg-ID="Disney Channel ES" tvg-name="DISNEY CHANNEL HD ES" tvg-logo="https://imgur.com/2kcFXIT.png" group-title="SPANISH",DISNEY CHANNEL HD ES
+http://topiptv.net:5890/55555/55555/3102
+#EXTINF:-1 tvg-ID="DisneyChannel.sp" tvg-name="DISNEY CHANNEL ES" tvg-logo="https://imgur.com/2kcFXIT.png" group-title="SPANISH",DISNEY CHANNEL ES
+http://topiptv.net:5890/55555/55555/1990
+#EXTINF:-1 tvg-ID="DisneyXD.sp" tvg-name="Disney XD ES" tvg-logo="https://imgur.com/Y6FLvMg.png" group-title="SPANISH",Disney XD ES
+http://topiptv.net:5890/55555/55555/1992
+#EXTINF:-1 tvg-ID="DisneyJr.sp" tvg-name="DISNEY JR ES" tvg-logo="https://imgur.com/8HzQ7WD.png" group-title="SPANISH",DISNEY JR ES
+http://topiptv.net:5890/55555/55555/874
+#EXTINF:-1 tvg-ID="Canal Panda ES" tvg-name="Panda ES" tvg-logo="https://imgur.com/nqtT0au.png" group-title="SPANISH",Panda ES
+http://topiptv.net:5890/55555/55555/2500
+#EXTINF:-1 tvg-ID="" tvg-name="BAYBY TV ES" tvg-logo="http://i4.yhk0.net/cha/es/Baby_TV_62x50.png" group-title="SPANISH",BAYBY TV ES
+http://topiptv.net:5890/55555/55555/14195
+#EXTINF:-1 tvg-ID="" tvg-name="--Musica||Full¡1080p|--" tvg-logo="http://i5.satexpat.com/cha/es/movistar-plus-95x20.png" group-title="SPANISH",--Musica||Full¡1080p|--
+http://topiptv.net:5890/55555/55555/3112
+#EXTINF:-1 tvg-ID="Non Stop People ES" tvg-name="Non Stop People ES" tvg-logo="https://imgur.com/xPrZ2If.png" group-title="SPANISH",Non Stop People ES
+http://topiptv.net:5890/55555/55555/3073
+#EXTINF:-1 tvg-ID="MTV ES" tvg-name="MTV ES" tvg-logo="https://imgur.com/HVHZPK5.png" group-title="SPANISH",MTV ES
+http://topiptv.net:5890/55555/55555/3066
+#EXTINF:-1 tvg-ID="Mezzo ES" tvg-name="MEZZO LIVE HD ES" tvg-logo="https://imgur.com/04otu7g.png" group-title="SPANISH",MEZZO LIVE HD ES
+http://topiptv.net:5890/55555/55555/3037
+#EXTINF:-1 tvg-ID="Mezzo ES" tvg-name="MEZZO LIVE ES" tvg-logo="https://imgur.com/04otu7g.png" group-title="SPANISH",MEZZO LIVE ES
+http://topiptv.net:5890/55555/55555/3036
+#EXTINF:-1 tvg-ID="" tvg-name="LOS 40 HD ES" tvg-logo="https://imgur.com/GVk5jym.png" group-title="SPANISH",LOS 40 HD ES
+http://topiptv.net:5890/55555/55555/3028
+#EXTINF:-1 tvg-ID="" tvg-name="40 TV HD ES" tvg-logo="https://imgur.com/GVk5jym.png" group-title="SPANISH",40 TV HD ES
+http://topiptv.net:5890/55555/55555/2994
+#EXTINF:-1 tvg-ID="" tvg-name="--PPV|Full¡1080p|--" tvg-logo="http://i5.satexpat.com/cha/es/movistar-plus-95x20.png" group-title="SPANISH",--PPV|Full¡1080p|--
+http://topiptv.net:5890/55555/55555/3114
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 1 HD ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 1 HD ES
+http://topiptv.net:5890/55555/55555/3094
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 2 HD ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 2 HD ES
+http://topiptv.net:5890/55555/55555/3095
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 5 HD ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 5 HD ES
+http://topiptv.net:5890/55555/55555/3098
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 3 HD ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 3 HD ES
+http://topiptv.net:5890/55555/55555/3096
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 4 HD ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 4 HD ES
+http://topiptv.net:5890/55555/55555/3097
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 6 HD ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 6 HD ES
+http://topiptv.net:5890/55555/55555/3099
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 7 HD ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 7 HD ES
+http://topiptv.net:5890/55555/55555/3100
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 1 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 1 ES
+http://topiptv.net:5890/55555/55555/1896
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 2 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 2 ES
+http://topiptv.net:5890/55555/55555/2002
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 3 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 3 ES
+http://topiptv.net:5890/55555/55555/2003
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 4 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 4 ES
+http://topiptv.net:5890/55555/55555/2004
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 5 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 5 ES
+http://topiptv.net:5890/55555/55555/2005
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 6 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 6 ES
+http://topiptv.net:5890/55555/55555/2006
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 7 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 7 ES
+http://topiptv.net:5890/55555/55555/2007
+#EXTINF:-1 tvg-ID="" tvg-name="ALQUILER 8 ES" tvg-logo="https://imgur.com/wrw9e8B.png" group-title="SPANISH",ALQUILER 8 ES
+http://topiptv.net:5890/55555/55555/2008
