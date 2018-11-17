@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/11251.m3u8;streamtype=HLSRETRY&amp;name=NATIONAL GEOGRAPHIC [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NATIONAL GEOGRAPHIC (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8;streamtype=HLSRETRY&amp;name=NATIONAL GEOGRAPHIC HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NATIONAL GEOGRAPHIC HD (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2702.m3u8;streamtype=HLSRETRY&amp;name=NATIONAL GEOGRAPHIC HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NATIONAL GEOGRAPHIC HD (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8$$lsname=NATIONAL GEOGRAPHIC HD (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/2702.m3u8$$lsname=NATIONAL GEOGRAPHIC HD (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATGEO WILD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/2643.m3u8;streamtype=HLSRETRY&amp;name=NATGEO WILD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NATGEO WILD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8;streamtype=HLSRETRY&amp;name=NATGEO WILD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NATGEO WILD (F4M source #05)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8$$lsname=NATGEO WILD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATGEO WILD HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2701.m3u8;streamtype=HLSRETRY&amp;name=NATGEO WILD HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NATGEO WILD HD (F4M source #06)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/2701.m3u8$$lsname=NATGEO WILD HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HISTORIA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=HISTORIA (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2728.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=HISTORIA (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.m3u8$$lsname=HISTORIA (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/2728.m3u8$$lsname=HISTORIA (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/2650.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DISCOVERY (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DISCOVERY (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2704.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DISCOVERY (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8$$lsname=DISCOVERY (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/2704.m3u8$$lsname=DISCOVERY (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2703.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DISCOVERY HD (F4M source #06)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/2703.m3u8$$lsname=DISCOVERY HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ODISEA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/11270.m3u8;streamtype=HLSRETRY&amp;name=ODISEA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=ODISEA (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17734.m3u8;streamtype=HLSRETRY&amp;name=ODISEA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=ODISEA (F4M source #06)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/17734.m3u8$$lsname=ODISEA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] A&E[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5414.m3u8;streamtype=HLSRETRY&amp;name=A&E [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=A&E (F4M source #06)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/5414.m3u8$$lsname=A&E (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VIAJAR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.m3u8;streamtype=HLSRETRY&amp;name=VIAJAR [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=VIAJAR (F4M source #05)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.m3u8$$lsname=VIAJAR (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAJAR.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VIAJAR HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2722.m3u8;streamtype=HLSRETRY&amp;name=VIAJAR HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=VIAJAR HD (F4M source #06)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/2722.m3u8$$lsname=VIAJAR HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAJAR.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DMAX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17733.m3u8;streamtype=HLSRETRY&amp;name=DMAX [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DMAX (F4M source #06)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/17733.m3u8$$lsname=DMAX (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CRIMEN & INVESTIGATION[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8;streamtype=HLSRETRY&amp;name=CRIMEN & INVESTIGATION [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=CRIMEN & INVESTIGATION (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/6984.m3u8;streamtype=HLSRETRY&amp;name=CRIMEN & INVESTIGATION [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=CRIMEN & INVESTIGATION (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8$$lsname=CRIMEN & INVESTIGATION (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/6984.m3u8$$lsname=CRIMEN & INVESTIGATION (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL COCINA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=CANAL COCINA (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5425.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=CANAL COCINA (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.m3u8$$lsname=CANAL COCINA (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/5425.m3u8$$lsname=CANAL COCINA (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALCOCINA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DECASA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/11268.m3u8;streamtype=HLSRETRY&amp;name=DECASA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DECASA (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/765.m3u8;streamtype=HLSRETRY&amp;name=DECASA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DECASA (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5426.m3u8;streamtype=HLSRETRY&amp;name=DECASA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DECASA (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/765.m3u8$$lsname=DECASA (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/5426.m3u8$$lsname=DECASA (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DECASA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DIVINITY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/801.m3u8;streamtype=HLSRETRY&amp;name=DIVINITY [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DIVINITY (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5410.m3u8;streamtype=HLSRETRY&amp;name=DIVINITY [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=DIVINITY (F4M source #06)</link>
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8$$lsname=DIVINITY (HTTP source #01)</link>
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8$$lsname=DIVINITY (HTTP source #02)</link>
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8$$lsname=DIVINITY (HTTP source #03)</link>
+<link>http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8$$lsname=DIVINITY (HTTP source #04)</link>
+<link>plugin://program.plexus/?url=acestream://2a85a10881e1c9ed67396143674193e660062302&amp;mode=1&amp;name=Acestream+DIVINITY$$lsname=DIVINITY (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOVA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8;streamtype=HLSRETRY&amp;name=NOVA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NOVA (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5409.m3u8;streamtype=HLSRETRY&amp;name=NOVA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NOVA (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8$$lsname=NOVA (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/5409.m3u8$$lsname=NOVA (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOVA HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8;streamtype=HLSRETRY&amp;name=NOVA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NOVA (F4M source #05)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5409.m3u8;streamtype=HLSRETRY&amp;name=NOVA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NOVA (F4M source #06)</link>
+<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8$$lsname=NOVA (HTTP source #01)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/5409.m3u8$$lsname=NOVA (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MEGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2724.m3u8;streamtype=HLSRETRY&amp;name=MEGA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MEGA (F4M source #06)</link>
+<link>http://iptvfree1.com:6969/live/0786/0786/2724.m3u8$$lsname=MEGA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BE MAD[/B][/COLOR]</title>
+<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8$$lsname=BE MAD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EL GARAGE TV[/B][/COLOR]</title>
+<link>http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8$$lsname=EL GARAGE TV (HTTP source #01)</link>
+<link>http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1689374521_b1412000_sleng.m3u8$$lsname=EL GARAGE TV (HTTP source #02)</link>
+<link>http://186.0.233.76:1935/Garage/garage.smil/chunklist_w818144510_b446000_sleng.m3u8$$lsname=EL GARAGE TV (HTTP source #03)</link>
+<link>http://201.251.65.100:9981/stream/channelid/355187059$$lsname=EL GARAGE TV (HTTP source #04)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png</thumbnail></item>
