@@ -46,8 +46,8 @@
 
 <item>
 <title>[COLOR gold] ****MOVISTAR 1.0 (NUEVO) [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/7.xml</externallink>
 </item>
@@ -57,31 +57,12 @@
 
 
 
-<item>
-<title>[COLOR lime] AUTONOMICAS** [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/autonomicos.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime] TDT [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/cd.m3u</externallink>
-</item>
-
-
-
-
 
 
 <item>
 <title>[COLOR lime] LISTA PREMIUM 2 [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
+<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list2.xml</externallink>
 </item>
@@ -89,8 +70,8 @@
 
 <item>
 <title>[COLOR lime] LISTA PREMIUM 3[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/WGtmKdJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/WGtmKdJ.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/H3</externallink>
 </item>
@@ -112,7 +93,7 @@
 	
 	
 	 <item>
-        <title>[COLOR orange] CINE [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+        <title>[COLOR gold] CINE [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CINE/BASECINE.xml</externallink>
         <thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
