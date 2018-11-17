@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SPANISH CHANNELS ☆▆ ▅ ▄ ▂ ▁
-http://
+
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆[COLOR gold] SPANISH CHANNELS [/COLOR]☆  ☆▆ ▅ ▄ ▂ ▁
+
 #EXTINF:-1,ES:LA 1
 http://iptvtool.es:9977/live/FELIX/IPTV/37103.ts
 #EXTINF:-1,ES:LA 1 FHD
