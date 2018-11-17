@@ -44,16 +44,16 @@
 
 
 
+
+
+
 <item>
-<title>[COLOR gold] ****MOVISTAR 1.0 (NUEVO) [/COLOR]</title>
-<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
-<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
+<title>[COLOR gold] **** MOVISTAR 1  [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/7.xml</externallink>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
 </item>
-
-
-
 
 
 
@@ -248,6 +248,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
 </item>
 
+<item>
+<title>[COLOR gold] ****MOVISTAR .....) [/COLOR]</title>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/7.xml</externallink>
+</item>
 	
 <item>
 <title>[COLOR lime] LISTA PREMIUM(OFF) [/COLOR]</title>
