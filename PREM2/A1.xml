@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR SERIES[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES (F4M source #05)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8$$lsname=MOVISTAR SERIES (HTTP source #01)</link>
