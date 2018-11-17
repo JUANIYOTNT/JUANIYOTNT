@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] #0 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17641.m3u8;streamtype=HLSRETRY&amp;name=#0 HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=#0 HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17641.m3u8$$lsname=#0 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEMADRID[/B][/COLOR]</title>
-<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8$$lsname=TELEMADRID (HTTP source #01)</link>
-<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8$$lsname=TELEMADRID (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEMADRID.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LA OTRA[/B][/COLOR]</title>
-<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8$$lsname=LA OTRA (HTTP source #01)</link>
-<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8$$lsname=LA OTRA (HTTP source #02)</link>
-<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8$$lsname=LA OTRA (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LAOTRA.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR SERIES[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR SERIES (F4M source #05)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8$$lsname=MOVISTAR SERIES (HTTP source #01)</link>
@@ -121,34 +108,6 @@
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/773.m3u8;streamtype=HLSRETRY&amp;name=NON STOP PEOPLE [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NON STOP PEOPLE (F4M source #05)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/773.m3u8$$lsname=NON STOP PEOPLE (HTTP source #01)</link>
 <thumbnail>http://www.atm-es.com/r03000340/images/public/sections/nstp.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FDF[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.m3u8;streamtype=HLSRETRY&amp;name=FDF [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=FDF (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5411.m3u8;streamtype=HLSRETRY&amp;name=FDF [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=FDF (F4M source #06)</link>
-<link>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8$$lsname=FDF (HTTP source #01)</link>
-<link>http://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8$$lsname=FDF (HTTP source #02)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.m3u8$$lsname=FDF (HTTP source #03)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NEOX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5408.m3u8;streamtype=HLSRETRY&amp;name=NEOX [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NEOX (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/5408.m3u8$$lsname=NEOX (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NEOX HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5408.m3u8;streamtype=HLSRETRY&amp;name=NEOX [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=NEOX (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/5408.m3u8$$lsname=NEOX (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ATRESERIES[/B][/COLOR]</title>
-<link>https://livepull1.secure.footprint.net/a3seriesmpp/bitrate_2.m3u8$$lsname=ATRESERIES (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ATRESERIES HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17112.m3u8;streamtype=HLSRETRY&amp;name=ATRESERIES HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=ATRESERIES HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/17112.m3u8$$lsname=ATRESERIES HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ENERGY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/800.m3u8;streamtype=HLSRETRY&amp;name=ENERGY [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=ENERGY (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/6696.m3u8;streamtype=HLSRETRY&amp;name=ENERGY [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=ENERGY (F4M source #06)</link>
-<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8$$lsname=ENERGY (HTTP source #01)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/6696.m3u8$$lsname=ENERGY (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ESTRENOS HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ESTRENOS HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ESTRENOS HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2718.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ESTRENOS HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR ESTRENOS HD (F4M source #06)</link>
