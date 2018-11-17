@@ -242,3 +242,60 @@
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.m3u8;streamtype=HLSRETRY&amp;name=MULTIFUTBOL 3 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MULTIFUTBOL 3 (F4M source #05)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.m3u8$$lsname=MULTIFUTBOL 3 (HTTP source #01)</link>
 <thumbnail>http://www.mundoplus.tv/img/3cb3bdeb0528f7a479f9b0665bb8c1f8</thumbnail></item>
+
+#EXTINF:-1,CALLE 13 HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.ts
+
+#EXTINF:-1,TCM HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.ts
+
+#EXTINF:-1,TNT HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.ts
+
+#EXTINF:-1,SYFY HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.ts
+
+#EXTINF:-1,AXN WHITE HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.ts
+
+#EXTINF:-1,AXN HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.ts
+
+#EXTINF:-1,AMC HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.ts
+
+#EXTINF:-1,FOX LIFE HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.ts
+
+#EXTINF:-1,FOX HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.ts
+
+#EXTINF:-1,HOLLYWOOD HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.ts
+
+#EXTINF:-1,COMEDY CENTRAL HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.ts
+
+#EXTINF:-1,M. SERIES XTRA HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.ts
+
+#EXTINF:-1,M. SERIES (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.ts
+
+#EXTINF:-1,M. XTRA (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.ts
+
+#EXTINF:-1,M CINE ESPANOL (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.ts
+
+#EXTINF:-1,M. DCINE HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.ts
+
+#EXTINF:-1,M. COMEDIA HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.ts
+
+#EXTINF:-1,M. ACCION HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.ts
+
+#EXTINF:-1,M. ESTRENOS HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.ts
