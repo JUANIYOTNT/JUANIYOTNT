@@ -49,8 +49,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/7.xml</externallink>
 </item>
+
+
+
 
 
 
@@ -256,7 +259,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 </item>
 	
-	
+	<item>
+<title>[COLOR gold] ****MOVISTAR 1.0 (NUEVO) [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
+</item>
+
 	
 <item>
 <title>[COLOR lime] LISTA PREMIUM(OFF) [/COLOR]</title>
