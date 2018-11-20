@@ -331,3 +331,146 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 
 #EXTINF:-1 tvg-logo="",NAT GEO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2755
+
+
+
+#EXTINF:-1,****Moto GP  HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.ts
+
+#EXTINF:-1,Movistar F1 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.ts
+
+#EXTINF:-1,CANAL PANDA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/758.ts
+
+#EXTINF:-1,CLAN TVE (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/760.ts
+
+#EXTINF:-1,DISNEY XD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts
+
+#EXTINF:-1,DISNEY CHANNEL (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts
+
+#EXTINF:-1,CANAL ORBE 21 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/764.ts
+
+#EXTINF:-1,CANAL DECASA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/765.ts
+
+#EXTINF:-1,CANAL COCINA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.ts
+
+#EXTINF:-1,COSMO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/767.ts
+
+#EXTINF:-1,MTV (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/769.ts
+
+#EXTINF:-1,MEZZO (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/771.ts
+
+#EXTINF:-1,VIAJAR (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.ts
+
+#EXTINF:-1,NON STOP PEOPLE (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/773.ts
+
+#EXTINF:-1,HISTORIA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.ts
+
+#EXTINF:-1,CRIME & INVESTIGATION (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.ts
+
+#EXTINF:-1,DISCOVERY (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.ts
+
+#EXTINF:-1,NAT GEO WILD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.ts
+
+#EXTINF:-1,NAT GEO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.ts
+
+#EXTINF:-1,CALLE 13 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.ts
+
+#EXTINF:-1,TCM HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.ts
+
+#EXTINF:-1,TNT HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.ts
+
+#EXTINF:-1,SYFY HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.ts
+
+#EXTINF:-1,AXN WHITE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.ts
+
+#EXTINF:-1,AXN HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.ts
+
+#EXTINF:-1,AMC HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.ts
+
+#EXTINF:-1,FOX LIFE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.ts
+
+#EXTINF:-1,FOX HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.ts
+
+#EXTINF:-1,HOLLYWOOD HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.ts
+
+#EXTINF:-1,COMEDY CENTRAL HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.ts
+
+#EXTINF:-1,M. SERIES XTRA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.ts
+
+#EXTINF:-1,M. SERIES (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.ts
+
+#EXTINF:-1,M. XTRA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.ts
+
+#EXTINF:-1,M. DCINE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.ts
+
+#EXTINF:-1,M. COMEDIA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.ts
+
+#EXTINF:-1,M. ACCION HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.ts
+
+#EXTINF:-1,M. ESTRENOS HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.ts
+
+#EXTINF:-1,ANDALUCIA TV (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/798.ts
+
+#EXTINF:-1,ENERGY (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/800.ts
+
+#EXTINF:-1,FDF (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.ts
+
+#EXTINF:-1,NOVA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.ts
+
+#EXTINF:-1,LA SEXTA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.ts
+
+#EXTINF:-1,TELECINCO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/805.ts
+
+#EXTINF:-1,CUATRO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/806.ts
+
+#EXTINF:-1,ANTENA 3 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/807.ts
+
+#EXTINF:-1,LA2 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/808.ts
+
+#EXTINF:-1,LA1 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.ts
