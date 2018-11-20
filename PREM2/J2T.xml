@@ -49,7 +49,7 @@
 
 
 <item>
-<title>[COLOR gold] **** MOVISTAR 1 (actualizada) [/COLOR]</title>
+<title>[COLOR gold] **** MOVISTAR 1 **** [/COLOR]</title>
 <thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
 <fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 <link>http://ignoreme</link>
@@ -87,8 +87,15 @@
 </item>
 
 	
+<item>
+<title>[COLOR red] ***PROGRAMAS TV[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/CINTATV.xml</externallink>
+</item>
 
-	
+
 	
 	
 	
