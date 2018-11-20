@@ -3,6 +3,121 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR lightcyan]TV[/COLOR] [COLOR lightgray]LISTAS IPTV[/COLOR] [I]Con F4MTESTER[/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR dodgerblue]Servidor:[/COLOR][COLOR deepskyblue] [makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+ <fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/TV/IPTVListServer.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR dodgerblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lightblue]DJLIPTV[/COLOR] [makelist.param1]</link>
+ <thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+ <fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+<fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+</item> 
+
+<item>
+	<title>[COLOR lightcyan]TV[/COLOR] [COLOR lightgray]TDT SPAIN[/COLOR]</title>
+	<link>http://ignorame</link>
+	<thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+	<fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+	<externallink>http://91.121.64.179/tdt_project/output/channels.m3u8</externallink> <!--- https://pastebin.com/raw/fWeGMryE --->
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR lightcyan]TV[/COLOR] [COLOR lightgray]LISTAS IPTV M3U[/COLOR] [I]Con F4MTESTER[/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR dodgerblue]Servidor:[/COLOR][COLOR deepskyblue] [makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+ <fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+ ]]></listrepeat>
+<expres>Serverm3u:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/TV/IPTVListServer.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR dodgerblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lightblue]DJLIPTV[/COLOR] [makelist.param1]</link>
+ <thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+ <fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+<fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR lightcyan]TV[/COLOR] [COLOR lightgray]LISTAS IPTV[/COLOR] [I]Sin F4MTESTER[/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR dodgerblue]Servidor:[/COLOR][COLOR deepskyblue] [makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+ <fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/TV/IPTVListServer.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR dodgerblue][makelist.param1][/COLOR]</title>
+ <link>[makelist.param2]</link>
+ <thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+ <fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://www.pvhc.net/img22/bmgqrahfpzrruxfuquvl.png</thumbnail>
+<fanart>https://hdwallsource.com/img/2016/8/fedora-linux-desktop-wallpaper-51274-52970-hd-wallpapers.jpg</fanart>
+</item> 
+
 <item>
 <title>[COLOR lime]•[/COLOR] TV</title>
 <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
