@@ -3,7 +3,59 @@
 
 
 
+<item>
+<title>[B][COLOR deepskyblue]*Dkiss/Dplay*[/COLOR][COLOR khaki] Todas[/COLOR][I][COLOR gold] [/COLOR][/I][/B]</title>
+ <link>$doregex[magyck3]</link>
+ 
+<regex>
+<name>magyck3</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck3.param3][/COLOR][/B]</title>
+<thumbnail>[magyck3.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck4]</link>  
+]]></listrepeat>
+<expres><![CDATA[a href="(.*?)">\s+.*\s+.*\s+.*lazy-src="(.*?)\?.*\s+.*\s+.*">([^<]+)<]]></expres>
+<page>https://es.dplay.com/series/</page>
+<cookieJar></cookieJar>
+</regex>
 
+<regex>
+<name>magyck4</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR gold][magyck4.param3][/COLOR][/B]</title>
+<thumbnail>[magyck4.param2]</thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist8]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">\s+<div.*\s+<figure.*\s+<div.*\s+<img.*\s+data-flickity-lazyload="(.*?)\?.*\s+</div>\s+<fig.*\s+<h4 class="e-grid-episode__title">([^<]+)]]></expres>
+<page>https://es.dplay.com/[magyck3.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+ 
+<name>makelist5</name>
+ 
+<expres><![CDATA[(?s)playback_json_url: '([^'<"]*).*?]]></expres>
+ 
+<page>http://es.dplay.com[magyck4.param1]</page>
+ 
+</regex>
+ 
+ 
+ 
+ <regex>
+ 
+<name>makelist8</name>
+ 
+<expres><![CDATA[(?s)url." : ."([^&'<"]*).*?]]></expres>
+ 
+<page>https://es.dplay.com$doregex[makelist5]</page>
+ 
+</regex> 
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
