@@ -49,9 +49,9 @@
 
 
 <item>
-<title>[COLOR gold] **** MOVISTAR 1  [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR gold] **** MOVISTAR 1 (actualizada) [/COLOR]</title>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
 </item>
@@ -240,14 +240,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
  </regex>
 <thumbnail></thumbnail>
 </item>
-	
-	<item>
-<title>[COLOR gold] ****MOVISTAR listas de prueva [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
-</item>
+
+
+
+
 
 <item>
 <title>[COLOR gold] ****MOVISTAR .....) [/COLOR]</title>
@@ -258,7 +254,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 	
 <item>
-<title>[COLOR lime] LISTA PREMIUM(OFF) [/COLOR]</title>
+<title>[COLOR lime] LISTA 1 PREMIUM(OFF) [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
