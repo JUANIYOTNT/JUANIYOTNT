@@ -99,7 +99,90 @@
 </item>
 
 
+<item>
+ <title>[COLOR lightskyblue]Tv premium [COLOR white]Movistar Lista [/COLOR]</title>
+ <link>$doregex[makelist2]</link>
+ <regex> 
+ <name>makelist2</name>
+ <listrepeat><![CDATA[
+ <title>[COLOR lightskyblue][CAPITALIZE][makelist2.param1][/CAPITALIZE][/COLOR]</title>
+ <link>https:$doregex[get-id]|User-Agent=iPad</link>
+ <thumbnail>[makelist2.param2]</thumbnail>
+ <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
+ ]]></listrepeat>
+ <expres><![CDATA[(?s)"name": "(.*?)".*?"image": "(.*?)".*?"url": "(.*?)".*?]]></expres>
+ <page>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/lista%20opcional</page>
+ </regex>
+ <regex>
+ <name>get-id</name>
+ <expres>[",\'](//.*m3u8.*?)[",']</expres>
+ <rawpost>password=12345</rawpost>
+ <connection>keep-alive</connection>
+ <accept>*/*</accept>
+ <X-Req>XMLHttpRequest</X-Req>
+ <cookieJar></cookieJar>
+ <page>[makelist2.param3]</page>
+ <referer>https://verliga1.net/</referer>
+ <agent>iPad</agent>
+ </regex>
+ <thumbnail>https://i.imgur.com/yGTsSPk.jpg</thumbnail>  
+ <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
+</item>
 
+
+
+
+
+
+<item>
+<title>[COLOR white][B]Seccion Deportes [/B][COLOR orange][/COLOR][/COLOR]</title>
+<link>$doregex</link>
+<page></page>
+<thumbnail>http://www.gruponetai.com/imagenes/deportes.png</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]*[/COLOR][COLOR white]IPTV[/COLOR][B][COLOR lime][/B] Premium ES [/COLOR]</title>
+<parentalblock>true</parentalblock>
+<link>ignore</link>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/88/63/be8863ac-9930-12fe-10d7-b3a1379193d6/source/512x512bb.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/UNKgwNt7</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]*[/COLOR][COLOR white]IPTV[/COLOR][B][COLOR lime][/B] DEPORTES[/COLOR]</title>
+<parentalblock>true</parentalblock>
+<link>ignore</link>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/88/63/be8863ac-9930-12fe-10d7-b3a1379193d6/source/512x512bb.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/bBE5XGrk</externallink>
+</item>
+
+<item>
+<title>[COLOR red]*[/COLOR][COLOR white]IPTV[/COLOR][B][COLOR orange][/B] LATINOS[/COLOR]</title>
+<parentalblock>true</parentalblock>
+<link>ignore</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/11/mejor-lista-iptv-latina-en-la-hi-207x191.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/NmgN8NYU</externallink>
+</item>
+
+<item>
+<title>[COLOR orange][B]+Avezy[/B][COLOR gold] Addon Requerido[/COLOR][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
+<fanart>https://raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/Andorth/ArenaSports/master/avezy.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock> 
+<title>[COLOR white][B]Deportes[/B] [COLOR orange] Plexus + Acestream  [/COLOR]</title>
+<link>http://ignorame</link>
+<info>Cortesia de Adryanlist </info>
+<thumbnail>http://www.gruponetai.com/imagenes/deportes.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/Andorth/Hercules/master/imagenes/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Andorth/hercules/master/deportes/livefootball.xml</externallink>
+</item>
 
 
 
