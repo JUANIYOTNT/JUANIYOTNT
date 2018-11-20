@@ -1,331 +1,95 @@
 #EXTM3U
 
 
-#EXTINF:-1,SP: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12532.m3u8
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7661.m3u8
-#EXTINF:-1,SP: LA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15907.m3u8
-#EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7660.m3u8
-#EXTINF:-1,SP: Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7710.m3u8
-#EXTINF:-1,SP: Antena 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15474.m3u8
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15411.m3u8
-#EXTINF:-1,SP: Cuatro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7686.m3u8
-#EXTINF:-1,SP: TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15412.m3u8
-#EXTINF:-1,SP: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/10008.m3u8
-#EXTINF:-1,SP: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7601.m3u8
-#EXTINF:-1,SP: Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7640.m3u8
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7714.m3u8
-#EXTINF:-1,SP: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7668.m3u8
-#EXTINF:-1,SP: Mega Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7713.m3u8
-#EXTINF:-1,SP: Neox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/14970.m3u8
-#EXTINF:-1,SP: Fdf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7679.m3u8
-#EXTINF:-1,SP: Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7681.m3u8
-#EXTINF:-1,SP: Azteca Noticias
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7638.m3u8
-#EXTINF:-1,SP: TELEVISA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7657.m3u8
-#EXTINF:-1,====== ESTILO DE VIDA======
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12539.m3u8
-#EXTINF:-1,SP: Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13704.m3u8
-#EXTINF:-1,SP: Cosmo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7621.m3u8
-#EXTINF:-1,SP: Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7629.m3u8
-#EXTINF:-1,SP: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13003.m3u8
-#EXTINF:-1,====== INFANTILES ======
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12536.m3u8
-#EXTINF:-1,SP: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15910.m3u8
-#EXTINF:-1,SP: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7684.m3u8
-#EXTINF:-1,SP: Disney Jr.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7683.m3u8
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7682.m3u8
-#EXTINF:-1,SP: Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7720.m3u8
-#EXTINF:-1,SP: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7707.m3u8
-#EXTINF:-1,SP: Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7670.m3u8
-#EXTINF:-1,SP: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7669.m3u8
-#EXTINF:-1,====== DOCUMENTALES ======
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12537.m3u8
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7676.m3u8
-#EXTINF:-1,SP: Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12542.m3u8
-#EXTINF:-1,SP: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7620.m3u8
-#EXTINF:-1,SP: National Geo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13706.m3u8
-#EXTINF:-1,SP: National Geo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7671.m3u8
-#EXTINF:-1,SP: National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13707.m3u8
-#EXTINF:-1,SP: National Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7672.m3u8
-#EXTINF:-1,SP: Crime + Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13004.m3u8
-#EXTINF:-1,SP: NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15427.m3u8
-#EXTINF:-1,====== CINE ======
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12538.m3u8
-#EXTINF:-1,SP: M. ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15414.m3u8
-#EXTINF:-1,SP: M.Estrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7703.m3u8
-#EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15415.m3u8
-#EXTINF:-1,SP: M. Accion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7698.m3u8
-#EXTINF:-1,SP: M. COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15416.m3u8
-#EXTINF:-1,SP: M. Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7697.m3u8
-#EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15417.m3u8
-#EXTINF:-1,SP: M. Dcine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7652.m3u8
-#EXTINF:-1,SP: M. XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15418.m3u8
-#EXTINF:-1,SP: M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7649.m3u8
-#EXTINF:-1,SP: M. SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15419.m3u8
-#EXTINF:-1,SP: M. Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7691.m3u8
-#EXTINF:-1,SP: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15420.m3u8
-#EXTINF:-1,SP: M. Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7690.m3u8
-#EXTINF:-1,SP: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13710.m3u8
-#EXTINF:-1,SP: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7687.m3u8
-#EXTINF:-1,SP: Hollywood FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7689.m3u8
-#EXTINF:-1,SP: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7643.m3u8
-#EXTINF:-1,SP: Fox.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7678.m3u8
-#EXTINF:-1,SP: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13711.m3u8
-#EXTINF:-1,SP: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7677.m3u8
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15421.m3u8
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7653.m3u8
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7709.m3u8
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7708.m3u8
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7594.m3u8
-#EXTINF:-1,SP: SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7666.m3u8
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15423.m3u8
-#EXTINF:-1,SP: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7665.m3u8
-#EXTINF:-1,SP: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7663.m3u8
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15422.m3u8
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7705.m3u8
-#EXTINF:-1,SP: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7716.m3u8
-#EXTINF:-1,====== EXTRA ======
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15476.m3u8
-#EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15424.m3u8
-#EXTINF:-1,SP: Toros Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7701.m3u8
-#EXTINF:-1,SP: Caza Y Pesca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7688.m3u8
-#EXTINF:-1,SP: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15425.m3u8
-#EXTINF:-1,====== DEPORTES ======
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12541.m3u8
-#EXTINF:-1,SP:  M. MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15438.m3u8
-#EXTINF:-1,SP: M. MotoGp HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7616.m3u8
-#EXTINF:-1,SP: Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7715.m3u8
-#EXTINF:-1,SP: Gol TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7702.m3u8
-#EXTINF:-1,SP: M.  FUTBOL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15433.m3u8
-#EXTINF:-1,SP: M. Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13008.m3u8
-#EXTINF:-1,SP: M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13010.m3u8
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15434.m3u8
-#EXTINF:-1,SP: M. Depotes 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13009.m3u8
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15435.m3u8
-#EXTINF:-1,SP: M. Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12545.m3u8
-#EXTINF:-1,SP: M. Formula 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15437.m3u8
-#EXTINF:-1,SP: M. Formula 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7617.m3u8
-#EXTINF:-1,SP: M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15436.m3u8
-#EXTINF:-1,SP: M. PARTIDAZO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15431.m3u8
-#EXTINF:-1,SP: Real Madrid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7614.m3u8
-#EXTINF:-1,SP: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7662.m3u8
-#EXTINF:-1,SP: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15439.m3u8
-#EXTINF:-1,SP: Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7680.m3u8
-#EXTINF:-1,SP: Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15475.m3u8
-#EXTINF:-1,SP: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15440.m3u8
-#EXTINF:-1,SP: BeIN Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13279.m3u8
-#EXTINF:-1,SP: Bein LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13709.m3u8
-#EXTINF:-1,SP: beIN La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12497.m3u8
-#EXTINF:-1,SP: La Liga TV Bar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13006.m3u8
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15429.m3u8
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15430.m3u8
-#EXTINF:-1,SP: LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15428.m3u8
-#EXTINF:-1,SP: LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15441.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19249.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19248.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19247.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19246.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19245.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19244.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19243.m3u8
-#EXTINF:-1,SP: BEIN LA LIGA 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19242.m3u8
-#EXTINF:-1,SP: Bein La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/16981.m3u8
-#EXTINF:-1,SP: BEIN MAX 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19241.m3u8
-#EXTINF:-1,SP: BEIN MAX 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19240.m3u8
-#EXTINF:-1,SP: BEIN MAX 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19239.m3u8
-#EXTINF:-1,SP: BEIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19238.m3u8
-#EXTINF:-1,SP: BEIN MAX 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19237.m3u8
-#EXTINF:-1,SP: BEIN MAX 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19236.m3u8
-#EXTINF:-1,SP: BEIN MAX 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19235.m3u8
-#EXTINF:-1,SP: BEIN MAX 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19234.m3u8
-#EXTINF:-1,SP: MULTIFUT. 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19233.m3u8
-#EXTINF:-1,SP: MULTIFUT. 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19232.m3u8
-#EXTINF:-1,SP: MULTIFUT. 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/19231.m3u8
-#EXTINF:-1,SP: MULTIDEPORTES 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15463.m3u8
-#EXTINF:-1,SP: Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7658.m3u8
-#EXTINF:-1,SP: Sol Musica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7721.m3u8
-#EXTINF:-1,SP: MTV Espana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12535.m3u8
-#EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7591.m3u8
-#EXTINF:-1,SP: 3/24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7642.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="",Movistar #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/152
-
-#EXTINF:-1 tvg-logo="",Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/159
-
-#EXTINF:-1 tvg-logo="",Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/31
-
-#EXTINF:-1 tvg-logo="",Movistar Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/155
-
-#EXTINF:-1 tvg-logo="",Movistar Cine ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/33
-
-#EXTINF:-1 tvg-logo="",Movistar Dcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/156
-
-#EXTINF:-1 tvg-logo="",Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/35
-
-#EXTINF:-1 tvg-logo="",Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8
-
-#EXTINF:-1 tvg-logo="",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1601
-
-#EXTINF:-1 tvg-logo="",FOX 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1592
-
-#EXTINF:-1 tvg-logo="",FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/753
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJfQLPV.jpg",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/157
-
-#EXTINF:-1 tvg-logo="",CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1039
-
-#EXTINF:-1 tvg-logo="",Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1597
-
-#EXTINF:-1 tvg-logo="",ODISEA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/154
-
-#EXTINF:-1 tvg-logo="",NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2755
+#EXTINF:-1 tvg-ID="" tvg-name="----------| SPAIN |----------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png" group-title="SPAIN",----------| SPAIN |----------
+http://formen1.com:8080/live/angel35/35angel/2669.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | La 1" tvg-logo="" group-title="SPAIN",Sp | La 1
+http://formen1.com:8080/live/angel35/35angel/11242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | La 2" tvg-logo="" group-title="SPAIN",Sp | La 2
+http://formen1.com:8080/live/angel35/35angel/11243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | La Sexta" tvg-logo="" group-title="SPAIN",Sp | La Sexta
+http://formen1.com:8080/live/angel35/35angel/11244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Andalucia Tv" tvg-logo="" group-title="SPAIN",Sp | Andalucia Tv
+http://formen1.com:8080/live/angel35/35angel/11245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Antena 3" tvg-logo="" group-title="SPAIN",Sp | Antena 3
+http://formen1.com:8080/live/angel35/35angel/11241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Antena Nova" tvg-logo="" group-title="SPAIN",Sp | Antena Nova
+http://formen1.com:8080/live/angel35/35angel/11255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Axn Spain" tvg-logo="" group-title="SPAIN",Sp | Axn Spain
+http://formen1.com:8080/live/angel35/35angel/11256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Axn White Spain" tvg-logo="" group-title="SPAIN",Sp | Axn White Spain
+http://formen1.com:8080/live/angel35/35angel/11257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | C AcciÓn" tvg-logo="" group-title="SPAIN",Sp | C AcciÓn
+http://formen1.com:8080/live/angel35/35angel/11258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | C Comedia" tvg-logo="" group-title="SPAIN",Sp | C Comedia
+http://formen1.com:8080/live/angel35/35angel/11259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | C Dcine" tvg-logo="" group-title="SPAIN",Sp | C Dcine
+http://formen1.com:8080/live/angel35/35angel/11264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Calle 13" tvg-logo="" group-title="SPAIN",Sp | Calle 13
+http://formen1.com:8080/live/angel35/35angel/11260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Deportes" tvg-logo="" group-title="SPAIN",Sp | Canal Deportes
+http://formen1.com:8080/live/angel35/35angel/11261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Golf" tvg-logo="" group-title="SPAIN",Sp | Canal Golf
+http://formen1.com:8080/live/angel35/35angel/11263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Liga" tvg-logo="" group-title="SPAIN",Sp | Canal Liga
+http://formen1.com:8080/live/angel35/35angel/11266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Xtra" tvg-logo="" group-title="SPAIN",Sp | Canal Xtra
+http://formen1.com:8080/live/angel35/35angel/11267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Decasa" tvg-logo="" group-title="SPAIN",Sp | Canal Decasa
+http://formen1.com:8080/live/angel35/35angel/11268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Hollywood" tvg-logo="" group-title="SPAIN",Sp | Canal Hollywood
+http://formen1.com:8080/live/angel35/35angel/2656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal+ Comedia Hd" tvg-logo="" group-title="SPAIN",Sp | Canal+ Comedia Hd
+http://formen1.com:8080/live/angel35/35angel/2640.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal+ Deportes" tvg-logo="" group-title="SPAIN",Sp | Canal+ Deportes
+http://formen1.com:8080/live/angel35/35angel/2661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal+ Liga Hd" tvg-logo="" group-title="SPAIN",Sp | Canal+ Liga Hd
+http://formen1.com:8080/live/angel35/35angel/2663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla1" tvg-logo="" group-title="SPAIN",Sp | Taquilla1
+http://formen1.com:8080/live/angel35/35angel/2647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla2" tvg-logo="" group-title="SPAIN",Sp | Taquilla2
+http://formen1.com:8080/live/angel35/35angel/2646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla3" tvg-logo="" group-title="SPAIN",Sp | Taquilla3
+http://formen1.com:8080/live/angel35/35angel/2645.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla4" tvg-logo="" group-title="SPAIN",Sp | Taquilla4
+http://formen1.com:8080/live/angel35/35angel/2644.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Clan Tve" tvg-logo="" group-title="SPAIN",Sp | Clan Tve
+http://formen1.com:8080/live/angel35/35angel/11247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Disney Junior Spain" tvg-logo="" group-title="SPAIN",Sp | Disney Junior Spain
+http://formen1.com:8080/live/angel35/35angel/11265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Fox Life Portugal" tvg-logo="" group-title="SPAIN",Sp | Fox Life Portugal
+http://formen1.com:8080/live/angel35/35angel/11253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Fox Spain" tvg-logo="" group-title="SPAIN",Sp | Fox Spain
+http://formen1.com:8080/live/angel35/35angel/11252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Movistar F1" tvg-logo="" group-title="SPAIN",Sp | Movistar F1
+http://formen1.com:8080/live/angel35/35angel/11273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Movistar Moto Gp" tvg-logo="" group-title="SPAIN",Sp | Movistar Moto Gp
+http://formen1.com:8080/live/angel35/35angel/11272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Natgeo Wild" tvg-logo="" group-title="SPAIN",Sp | Natgeo Wild
+http://formen1.com:8080/live/angel35/35angel/11250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Odisea" tvg-logo="" group-title="SPAIN",Sp | Odisea
+http://formen1.com:8080/live/angel35/35angel/11270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Syfy Universal Spain" tvg-logo="" group-title="SPAIN",Sp | Syfy Universal Spain
+http://formen1.com:8080/live/angel35/35angel/11248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Telecinco" tvg-logo="" group-title="SPAIN",Sp | Telecinco
+http://formen1.com:8080/live/angel35/35angel/11246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Tnt" tvg-logo="" group-title="SPAIN",Sp | Tnt
+http://formen1.com:8080/live/angel35/35angel/11249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Tve Internacional" tvg-logo="" group-title="SPAIN",Sp | Tve Internacional
+http://formen1.com:8080/live/angel35/35angel/11239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Dcine" tvg-logo="" group-title="SPAIN",Sp | Dcine
+http://formen1.com:8080/live/angel35/35angel/2651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Cuatro" tvg-logo="" group-title="SPAIN",Sp | Cuatro
+http://formen1.com:8080/live/angel35/35angel/2652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Antena 3 Hd" tvg-logo="" group-title="SPAIN",Sp | Antena 3 Hd
+http://formen1.com:8080/live/angel35/35angel/2659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Tve La1" tvg-logo="" group-title="SPAIN",Sp | Tve La1
+http://formen1.com:8080/live/angel35/35angel/2666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Bein Sport Es" tvg-logo="" group-title="SPAIN",Sp | Bein Sport Es
+http://formen1.com:8080/live/angel35/35angel/2639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | National Geographic Spain" tvg-logo="" group-title="SPAIN",Sp | National Geographic Spain
+http://formen1.com:8080/live/angel35/35angel/11251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Discovery Channel" tvg-logo="" group-title="SPAIN",Sp | Discovery Channel
+http://formen1.com:8080/live/angel35/35angel/2650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sp | Nat Geo Wild" tvg-logo="" group-title="SPAIN",Sp | Nat Geo Wild
+http://formen1.com:8080/live/angel35/35angel/2643.ts
