@@ -91,3 +91,8 @@
                     "embed": true
 
 
+"name": "Movistar Moto GP",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+                    "url": "https://vertelevision.tv/",
+                    "referer": "https://vertelevision.tv/tv/deportes/motogp.php",
+                   "embed": true
