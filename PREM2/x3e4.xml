@@ -1,6 +1,31 @@
 
 
 
+"name": "                [COLOR gold]*^Deportes^*[/COLOR]"",
+                    "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+                    "url": "https://vergol.com/live3/verliga.php",
+                    "referer": "https://verliga1.net/tv/deportes/multi-liga.php",
+                    "embed": true
+
+
+"name": "Bein La Liga",
+                    "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+                    "url": "https://vergol.com/live3/verliga.php",
+                    "referer": "https://verliga1.net/tv/deportes/multi-liga.php",
+                    "embed": true
+
+
+
+
+
+
+"name": "LaLiga 123",
+                    "image": "http://files.laliga.es/seccion_logos/laliga-123-v-600x600.png",
+                    "url": "https://vergol.com/live3/liga123.php",
+                    "referer": "https://verliga1.net/tv/deportes/liga123.php",
+                    "embed": true
+
+
 
 
 
@@ -45,31 +70,6 @@
                                   
 
 
-"name": "                [COLOR gold]*^Deportes^*[/COLOR]"",
-                    "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
-                    "url": "https://vergol.com/live3/verliga.php",
-                    "referer": "https://verliga1.net/tv/deportes/multi-liga.php",
-                    "embed": true
-
-
-
-
-"name": "Bein La Liga",
-                    "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
-                    "url": "https://vergol.com/live3/verliga.php",
-                    "referer": "https://verliga1.net/tv/deportes/multi-liga.php",
-                    "embed": true
-
-
-
-
-
-
-"name": "LaLiga 123",
-                    "image": "http://files.laliga.es/seccion_logos/laliga-123-v-600x600.png",
-                    "url": "https://vergol.com/live3/liga123.php",
-                    "referer": "https://verliga1.net/tv/deportes/liga123.php",
-                    "embed": true
 
 
 
