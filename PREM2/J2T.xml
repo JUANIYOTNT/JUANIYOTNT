@@ -226,7 +226,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
- <title>[COLOR lime] *** [/COLOR] [COLOR lime] ** FRA** [/COLOR]  </title>
+ <title>[COLOR lime] *** [/COLOR] [COLOR lime] ** DEPORTES** [/COLOR]  </title>
  <link>$doregex[makelist2]</link>
  <regex> 
  <name>makelist2</name>
@@ -251,8 +251,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <referer>https://verliga1.net/</referer>
  <agent>iPad</agent>
  </regex>
- <thumbnail>https://i.imgur.com/yGTsSPk.jpg</thumbnail>  
- <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
+ <thumbnail>https://i.imgur.com/PmUvfHc.jpg</thumbnail>  
+ <fanart>https://i.imgur.com/PmUvfHc.jpg</fanart>
 </item>
 
 
