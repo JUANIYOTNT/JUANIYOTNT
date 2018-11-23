@@ -99,15 +99,7 @@
         <fanart>https://i.imgur.com/wLWTPZB.jpg</fanart>
 </item>
 	
-  
 
-	 <item>
-        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] DOCUMENTALES [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/new%20424.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</item>
 	
   
 	 <item>
@@ -223,7 +215,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 </item>
 
+  
 
+	 <item>
+        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] DOCUMENTALES [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/new%20424.xml</externallink>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</item>
 
 <item>
  <title>[COLOR lime] *** [/COLOR] [COLOR lime] ** FRA** [/COLOR]  </title>
@@ -259,8 +259,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR gold] ****MOVISTAR .....) [/COLOR]</title>
-<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
-<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
+<thumbnail>https://i.imgur.com/7WAlNM0.jpg</thumbnail>
+<fanart>https://i.imgur.com/7WAlNM0.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/7.xml</externallink>
 </item>
