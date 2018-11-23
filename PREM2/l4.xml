@@ -5,34 +5,17 @@
 
 
 
-
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] LIGA CAMPEONES [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://eurotvpro.com:25461/live/Teste63373/NGC4hm6apr/1857.ts;streamtype=HLSRETRY&amp;name=LIGA CAMPEONES [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LIGA CAMPEONES (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LIGA CAMPEONES (F4M source #02)</link>
-<thumbnail></thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] LALIGA 123[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/18232.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17018.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] LALIGA TV HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12718.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12701.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://king365tv.podzone.org:2103/live/nani27/nani27/622.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5436.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #03)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] EUROSPORT 1 ES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12707.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=EUROSPORT(F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5410.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=EUROSPORT(F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FUTBOL HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2692.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #06)</link>
@@ -50,21 +33,7 @@
 <item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS LALIGA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #05)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1003.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/5422.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS HD (F4M source #06)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/5422.m3u8$$lsname=BEIN SPORTS HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS MAX 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/744.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS MAX 1 HD (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/744.m3u8$$lsname=BEIN SPORTS MAX 1 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1MAX.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS MAX 2 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/743.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 2 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS MAX 2 HD (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/743.m3u8$$lsname=BEIN SPORTS MAX 2 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2MAX.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR DEPORTES 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1012.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2693.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #06)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8$$lsname=MOVISTAR DEPORTES 1 HD (HTTP source #01)</link>
@@ -77,11 +46,6 @@
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8$$lsname=MOVISTAR DEPORTES 1 HD (HTTP source #01)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/2693.m3u8$$lsname=MOVISTAR DEPORTES 1 HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR DEPORTES 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-deporte-2-online/$$lsname=MOVISTAR DEPORTES 2 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR DEPORTES 2 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/2590.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 2 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 2 HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 2 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 2 HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2694.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 2 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 2 HD (F4M source #06)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8$$lsname=MOVISTAR DEPORTES 2 HD (HTTP source #01)</link>
@@ -211,98 +175,98 @@
 
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR gold] MOVISTAR FUTBOL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3695.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR FUTBOL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3695.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-canal-movistar-futbol-online-gratis-vivo/$$lsname=MOVISTAR FUTBOL (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FUTBOL HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1008.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1008.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/canal+futbol.php$$lsname=MOVISTAR FUTBOL HD (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR PARTIDAZO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4218.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR PARTIDAZO [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR PARTIDAZO (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4218.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR PARTIDAZO [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR PARTIDAZO (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-canal-movistar-partidazo-online-gratis-vivo/$$lsname=MOVISTAR PARTIDAZO (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR PARTIDAZO HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1011.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR PARTIDAZO HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR PARTIDAZO HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1011.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR PARTIDAZO HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR PARTIDAZO HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS LALIGA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/974.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/974.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/beinlaliga.php$$lsname=BEIN SPORTS LALIGA (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS LALIGA MAX 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/972.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA MAX 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BEIN SPORTS LALIGA MAX 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/972.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA MAX 1 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA MAX 1 (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGAMAX1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS LALIGA MAX 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/973.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA MAX 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BEIN SPORTS LALIGA MAX 2 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/973.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA MAX 2 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA MAX 2 (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGAMAX2.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/978.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BEIN SPORTS (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/978.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS (F4M source #01)</link>
 <link>https://tinyurl.com/y9dsqtxz$$lsname=BEIN SPORTS (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/979.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BEIN SPORTS HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/979.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS MAX 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/976.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BEIN SPORTS MAX 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/976.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 1 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS MAX 1 (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1MAX.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS MAX 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/977.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BEIN SPORTS MAX 2 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/977.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 2 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS MAX 2 (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2MAX.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3692.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3692.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 (F4M source #01)</link>
 <link>http://181.224.164.249:8000/play/a013$$lsname=MOVISTAR DEPORTES 1 (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/movistar-deporte-1-online-gratis-vivo/$$lsname=MOVISTAR DEPORTES 1 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/deporte1.php$$lsname=MOVISTAR DEPORTES 1 (SD source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1004.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1004.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 1 FHD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1004.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1004.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-deporte-2-online/$$lsname=MOVISTAR DEPORTES 2 (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3694.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR FORMULA 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3694.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-f1-online/$$lsname=MOVISTAR FORMULA 1 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/f1.php$$lsname=MOVISTAR FORMULA 1 (SD source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1007.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1007.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3697.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR MOTO GP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3697.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/movistar-motogp-online-vivo-gratis/$$lsname=MOVISTAR MOTO GP (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/motogp.php$$lsname=MOVISTAR MOTO GP (SD source #02)</link>
 <link>plugin://program.plexus/?url=acestream://895563e994af1251767014960e1efdf38c875bda&amp;mode=1&amp;name=Acestream+MOVISTAR MOTO GP$$lsname=MOVISTAR MOTO GP (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1010.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1010.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR GOLF[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3696.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR GOLF [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR GOLF (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3696.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR GOLF [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR GOLF (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR GOLF HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1009.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR GOLF HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MOVISTAR GOLF HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1009.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR GOLF HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR GOLF HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GOL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3100.m3u8;streamtype=HLSRETRY&amp;name=GOL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GOL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3100.m3u8;streamtype=HLSRETRY&amp;name=GOL [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=GOL (F4M source #01)</link>
 <link>http://swf.x10.bz/swe/twich.php?canal=pirataloco1&f=.m3u8$$lsname=GOL (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-goltv-online-gratis-vivo/$$lsname=GOL (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA 123[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4792.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4792.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/laliga123.php$$lsname=LALIGA 123 (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/997.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/997.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA TV HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/997.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/997.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REAL MADRID TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/99.m3u8;streamtype=HLSRETRY&amp;name=REAL MADRID TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=REAL MADRID TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/99.m3u8;streamtype=HLSRETRY&amp;name=REAL MADRID TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=REAL MADRID TV (F4M source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REAL MADRID TV HD[/B][/COLOR]</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8$$lsname=REAL MADRID TV HD (HTTP source #01)</link>
@@ -313,19 +277,19 @@
 <link>plugin://program.plexus/?url=acestream://c5e4a5e918f0d228d3fa22706579ebe10350894c&amp;mode=1&amp;name=Acestream+REAL MADRID TV HD$$lsname=REAL MADRID TV HD (PLEXUS source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BARCA TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3084.m3u8;streamtype=HLSRETRY&amp;name=BARCA TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BARCA TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3084.m3u8;streamtype=HLSRETRY&amp;name=BARCA TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BARCA TV (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 1 ES[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/eurosport.php$$lsname=EUROSPORT 1 ES (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 1 HD ES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/990.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 1 HD ES [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 1 HD ES (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/990.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 1 HD ES [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=EUROSPORT 1 HD ES (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2 ES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3090.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 2 ES [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 2 ES (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3090.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 2 ES [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=EUROSPORT 2 ES (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEDEPORTE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3101.m3u8;streamtype=HLSRETRY&amp;name=TELEDEPORTE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TELEDEPORTE (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3101.m3u8;streamtype=HLSRETRY&amp;name=TELEDEPORTE [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=TELEDEPORTE (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtve.es/directo/teledeporte/$$lsname=TELEDEPORTE (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEDEPORTE.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEDEPORTE HD[/B][/COLOR]</title>
