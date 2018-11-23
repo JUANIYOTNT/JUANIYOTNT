@@ -3,11 +3,11 @@
 
 
 
-
-
-<item><title>[B][COLOR red]• [B][COLOR white] LALIGA TV HD[/B][/COLOR]</title>
+<item><title>[B][COLOR lawngreen]• [B][COLOR gold] LALIGA TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/997.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
+
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
@@ -232,12 +232,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4792.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/laliga123.php$$lsname=LALIGA 123 (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/997.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA TV HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/997.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REAL MADRID TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/99.m3u8;streamtype=HLSRETRY&amp;name=REAL MADRID TV [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=REAL MADRID TV (F4M source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205</thumbnail></item>
