@@ -12,6 +12,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4792.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]• [B][COLOR gold] BEIN SPORTS LALIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/974.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
 
 
 <item><title>[B][COLOR red]• [B][COLOR red] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
@@ -35,6 +38,9 @@
 <link>http://iptvfree1.com:6969/live/0786/0786/2692.m3u8$$lsname=MOVISTAR FUTBOL HD (HTTP source #02)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/canal+futbol.php$$lsname=MOVISTAR FUTBOL HD (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png</thumbnail></item>
+
+
+
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR PARTIDAZO[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-canal-movistar-partidazo-online-gratis-vivo/$$lsname=MOVISTAR PARTIDAZO (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png</thumbnail></item>
@@ -42,15 +48,18 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/17141.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR PARTIDAZO HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR PARTIDAZO HD (F4M source #06)</link>
 <link>http://iptvfree1.com:6969/live/0786/0786/17141.m3u8$$lsname=MOVISTAR PARTIDAZO HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png</thumbnail></item>
+
+
 <item><title>[B][COLOR red]• [B][COLOR white] BEIN SPORTS LALIGA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #05)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
+
+
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR DEPORTES 1 HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #05)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2693.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #06)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8$$lsname=MOVISTAR DEPORTES 1 HD (HTTP source #01)</link>
-<link>http://iptvfree1.com:6969/live/0786/0786/2693.m3u8$$lsname=MOVISTAR DEPORTES 1 HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
+
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR DEPORTES 1 FHD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1012.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #05)</link>
@@ -174,10 +183,8 @@
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR PARTIDAZO HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1011.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR PARTIDAZO HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR PARTIDAZO HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS LALIGA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/974.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/beinlaliga.php$$lsname=BEIN SPORTS LALIGA (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS LALIGA MAX 1[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/972.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA MAX 1 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=BEIN SPORTS LALIGA MAX 1 (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGAMAX1.png</thumbnail></item>
