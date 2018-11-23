@@ -77,7 +77,6 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-goltv-online-gratis-vivo/$$lsname=GOL (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png</thumbnail></item>
 <item><title>[B][COLOR red]• [B][COLOR white] LALIGA TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/thankyou/123/1022.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=LALIGA TV (F4M source #05)</link>
 <link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8$$lsname=LALIGA TV (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
@@ -145,32 +144,6 @@
 <link>https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8$$lsname=MOVISTAR ESPORTS (HTTP source #01)</link>
 <link>https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b348000.m3u8$$lsname=MOVISTAR ESPORTS (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESPORTS.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MULTIDEPORTE 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/741.m3u8;streamtype=HLSRETRY&amp;name=MULTIDEPORTE 1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MULTIDEPORTE 1 (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/741.m3u8$$lsname=MULTIDEPORTE 1 (HTTP source #01)</link>
-<thumbnail>http://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MULTIDEPORTE 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/740.m3u8;streamtype=HLSRETRY&amp;name=MULTIDEPORTE 2 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MULTIDEPORTE 2 (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/740.m3u8$$lsname=MULTIDEPORTE 2 (HTTP source #01)</link>
-<thumbnail>http://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MULTIDEPORTE 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/739.m3u8;streamtype=HLSRETRY&amp;name=MULTIDEPORTE 3 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MULTIDEPORTE 3 (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/739.m3u8$$lsname=MULTIDEPORTE 3 (HTTP source #01)</link>
-<thumbnail>http://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MULTIFUTBOL 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/738.m3u8;streamtype=HLSRETRY&amp;name=MULTIFUTBOL 1 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MULTIFUTBOL 1 (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/738.m3u8$$lsname=MULTIFUTBOL 1 (HTTP source #01)</link>
-<thumbnail>http://www.mundoplus.tv/img/1bcb34978a93a6722fe65b4d2fb3f529</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MULTIFUTBOL 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/737.m3u8;streamtype=HLSRETRY&amp;name=MULTIFUTBOL 2 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MULTIFUTBOL 2 (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/737.m3u8$$lsname=MULTIFUTBOL 2 (HTTP source #01)</link>
-<thumbnail>http://www.mundoplus.tv/img/a93e34b3aaeca25434cfe25c0a31aae2</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MULTIFUTBOL 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.m3u8;streamtype=HLSRETRY&amp;name=MULTIFUTBOL 3 [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MULTIFUTBOL 3 (F4M source #05)</link>
-<link>http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.m3u8$$lsname=MULTIFUTBOL 3 (HTTP source #01)</link>
-<thumbnail>http://www.mundoplus.tv/img/3cb3bdeb0528f7a479f9b0665bb8c1f8</thumbnail></item>
-
-
 
 
 
