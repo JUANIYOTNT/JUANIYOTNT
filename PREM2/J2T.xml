@@ -227,7 +227,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <title>[COLOR lightskyblue][CAPITALIZE][makelist2.param1][/CAPITALIZE][/COLOR]</title>
  <link>https:$doregex[get-id]|User-Agent=iPad</link>
  <thumbnail>[makelist2.param2]</thumbnail>
- <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
+ <fanart>https://i.imgur.com/PmUvfHc.jpg</fanart>
  ]]></listrepeat>
  <expres><![CDATA[(?s)"name": "(.*?)".*?"image": "(.*?)".*?"url": "(.*?)".*?]]></expres>
  <page>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/x3e4.xml</page>
