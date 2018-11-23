@@ -119,8 +119,8 @@
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ARENAVISION [/COLOR][COLOR orange] CANALES DEPORTES (NUEVO) [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/RoKJ9OP.jpg</thumbnail>
-<fanart>https://i.imgur.com/RoKJ9OP.jpg</fanart>
+<thumbnail>https://i.imgur.com/0Ff84GM.jpg</thumbnail>
+<fanart>https://i.imgur.com/0Ff84GM.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/Arenavision1.xml</externallink>
 </item>	
 
@@ -150,8 +150,8 @@
 			<page></page>
 			</regex>
 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/GuB2cHy.jpg</thumbnail>
+<fanart>https://i.imgur.com/GuB2cHy.jpg</fanart>
 
 </item>
 ]]></listrepeat>
@@ -176,7 +176,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 
-</regex><thumbnail></thumbnail>
+</regex><thumbnail>https://i.imgur.com/GuB2cHy.jpg</thumbnail>
 </item>
 
 
@@ -203,7 +203,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<page></page>
 			</regex>
 
-			<thumbnail></thumbnail>
+			<thumbnail>https://i.imgur.com/0Ff84GM.jpg</thumbnail>
 
 ]]></listrepeat>
 <expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,52}"(>[0-9]+)]]></expres>
@@ -212,7 +212,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <referer>http://cdn.arenavision.biz</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/0Ff84GM.jpg</thumbnail>
 </item>
 
   
