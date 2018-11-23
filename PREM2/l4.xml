@@ -14,14 +14,20 @@
 
 
 
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
+<item><title>[B][COLOR red]• [B][COLOR red] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1007.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
-<item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
+
+
+<item><title>[B][COLOR red]• [B][COLOR red] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://king365tv.podzone.org:2103/live/nani27/nani27/622.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5436.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3697.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
+
+
+
+
 <item><title>[B][COLOR red]• [B][COLOR white] MOVISTAR FUTBOL HD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #05)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/0786/0786/2692.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #06)</link>
@@ -206,23 +212,7 @@
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-deporte-2-online/$$lsname=MOVISTAR DEPORTES 2 (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3694.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-f1-online/$$lsname=MOVISTAR FORMULA 1 (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/f1.php$$lsname=MOVISTAR FORMULA 1 (SD source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1007.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3697.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/movistar-motogp-online-vivo-gratis/$$lsname=MOVISTAR MOTO GP (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/motogp.php$$lsname=MOVISTAR MOTO GP (SD source #02)</link>
-<link>plugin://program.plexus/?url=acestream://895563e994af1251767014960e1efdf38c875bda&amp;mode=1&amp;name=Acestream+MOVISTAR MOTO GP$$lsname=MOVISTAR MOTO GP (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1010.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR GOLF[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3696.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR GOLF [COLOR deepskyblue](by JHG.MASTER)[/COLOR]$$lsname=MOVISTAR GOLF (F4M source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png</thumbnail></item>
