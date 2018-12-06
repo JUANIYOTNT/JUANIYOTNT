@@ -51,6 +51,8 @@
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M03_TV04_ES.xml</externallink>
 </item>
 
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LA 1[/B][/COLOR]</title>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8$$lsname=LA 1 (HTTP source #01)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8$$lsname=LA 1 (HTTP source #02)</link>
@@ -71,6 +73,7 @@
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ANTENA 3 HD[/B][/COLOR]</title>
 <link>https://antena3-pull2b-a3player.secure.footprint.net/antena3/bitrate_2.m3u8$$lsname=ANTENA 3 HD (HTTP source #01)</link>
+<link>https://tinyurl.com/ANTENA3HD-index-m3u8$$lsname=ANTENA 3 HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CUATRO[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/la4.php$$lsname=CUATRO (SD source #01)</link>
@@ -330,11 +333,7 @@
 <link>http://181.224.164.249:8000/play/a00w$$lsname=DISNEY XD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1 EUROPE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://url.switchtv.net:8080/live/vT1hq1RX6/c5oP7mnJ31/61.m3u8;streamtype=HLSRETRY&amp;name=VH1 EUROPE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=VH1 EUROPE (F4M source #05)</link>
-<link>http://80.87.208.158:80/dna-71-tv-pc.m3u8$$lsname=VH1 EUROPE (HTTP source #01)</link>
-<link>http://url.switchtv.net:8080/live/vT1hq1RX6/c5oP7mnJ31/61.m3u8$$lsname=VH1 EUROPE (HTTP source #02)</link>
-<link>http://188.93.238.40:8000/play/a05m/index.m3u8$$lsname=VH1 EUROPE (HTTP source #03)</link>
-<link>http://188.93.238.62:8000/play/a053$$lsname=VH1 EUROPE (HTTP source #04)</link>
+<link>http://188.93.238.40:8000/play/a05m/index.m3u8$$lsname=VH1 EUROPE (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.elementfx.com/hls?vid=photocall.elementfx.com/u3eyuzdwym/kr?ch=VH1_HD$$lsname=VH1 EUROPE (SD source #01)</link>
 <link>plugin://program.plexus/?url=acestream://bb866041a3de03ad49a8d9652e2a8b615bbf1e29&amp;mode=1&amp;name=Acestream+VH1 EUROPE$$lsname=VH1 EUROPE (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png</thumbnail></item>
@@ -353,15 +352,15 @@
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8$$lsname=TVE 24H (HTTP source #03)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TV GALICIA[/B][/COLOR]</title>
-<link>http://europa-crtvg.flumotion.com/playlist.m3u8$$lsname=TV GALICIA (HTTP source #01)</link>
-<link>http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8$$lsname=TV GALICIA (HTTP source #02)</link>
+<link>http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8$$lsname=TV GALICIA (HTTP source #01)</link>
+<link>http://91.229.60.228:9000/play/a06o$$lsname=TV GALICIA (HTTP source #02)</link>
+<link>http://87.221.92.177:8000/play/a005/index.m3u8$$lsname=TV GALICIA (HTTP source #03)</link>
 <link>rtmp://media1.crtvg.es:80/live/tvge$$lsname=TV GALICIA (RTMP source #01)</link>
 <link>plugin://program.plexus/?url=acestream://cfb54f699664cd66a0db9c9268c3295ccc9677f9&amp;mode=1&amp;name=Acestream+TV GALICIA$$lsname=TV GALICIA (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC WORLD NEWS[/B][/COLOR]</title>
 <link>http://jabber.divan.tv:8009/tv.m3u8$$lsname=BBC WORLD NEWS (HTTP source #01)</link>
 <link>http://188.93.238.40:8000/play/a05t/index.m3u8$$lsname=BBC WORLD NEWS (HTTP source #02)</link>
-<link>http://188.93.238.62:8000/play/a05a$$lsname=BBC WORLD NEWS (HTTP source #03)</link>
 <link>plugin://program.plexus/?url=acestream://bc07a6fd97dc26f12b11e5842007065d43d10dda&amp;mode=1&amp;name=Acestream+BBC WORLD NEWS$$lsname=BBC WORLD NEWS (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CNN[/B][/COLOR]</title>
@@ -397,7 +396,6 @@
 <link>http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8$$lsname=BLOOMBERG (HTTP source #01)</link>
 <link>https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8$$lsname=BLOOMBERG (HTTP source #02)</link>
 <link>http://188.93.238.40:8000/play/a032/index.m3u8$$lsname=BLOOMBERG (HTTP source #03)</link>
-<link>http://188.93.238.62:8000/play/a073$$lsname=BLOOMBERG (HTTP source #04)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DW LATINO[/B][/COLOR]</title>
 <link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8$$lsname=DW LATINO (HTTP source #01)</link>
@@ -406,5 +404,7 @@
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELESUR[/B][/COLOR]</title>
 <link>https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8$$lsname=TELESUR (HTTP source #01)</link>
+<link>http://91.229.60.228:9000/play/a06m$$lsname=TELESUR (HTTP source #02)</link>
 <link>plugin://program.plexus/?url=acestream://f59aea91eec5e9a28fce651fd8563bc7c2523f7e&amp;mode=1&amp;name=Acestream+TELESUR$$lsname=TELESUR (PLEXUS source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png</thumbnail></item>
+Copyright © 2018 - JHG.MASTER
