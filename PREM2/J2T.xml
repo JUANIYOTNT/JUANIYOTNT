@@ -18,20 +18,18 @@
 
 
 
+
 <item>
-<title>[COLOR lime] LISTA PREMIUM 5 NUEVO!!!![/COLOR]</title>
-<thumbnail>https://i.imgur.com/7WAlNM0.jpg</thumbnail>
-<fanart>https://i.imgur.com/7WAlNM0.jpg</fanart>
+<title>[COLOR lime] LISTA PREMIUM 3[/COLOR]</title>
+<thumbnail>https://i.imgur.com/WGtmKdJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/WGtmKdJ.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/H3</externallink>
 </item>
 
 
-
-
-
 <item>
-<title>[COLOR gold] **** MOVISTAR 1 **** [/COLOR]</title>
+<title>[COLOR gold] **** MOVISTAR 1 *DEPORTES*** [/COLOR]</title>
 <thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
 <fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 <link>http://ignoreme</link>
@@ -51,13 +49,7 @@
 </item>
 
 
-<item>
-<title>[COLOR lime] LISTA PREMIUM 3[/COLOR]</title>
-<thumbnail>https://i.imgur.com/WGtmKdJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/WGtmKdJ.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/H3</externallink>
-</item>
+
 
 
 <item>
@@ -282,6 +274,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+<item>
+<title>[COLOR lime] LISTA PREMIUM 5 NUEVO!!!![/COLOR]</title>
+<thumbnail>https://i.imgur.com/7WAlNM0.jpg</thumbnail>
+<fanart>https://i.imgur.com/7WAlNM0.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
+</item>
 
 
  <item>
