@@ -1,370 +1,102 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="----------| SPAIN |----------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png" group-title="SPAIN",----------| SPAIN |----------
-http://formen1.com:8080/live/angel35/35angel/2669.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | La 1" tvg-logo="" group-title="SPAIN",Sp | La 1
-http://formen1.com:8080/live/angel35/35angel/11242.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | La 2" tvg-logo="" group-title="SPAIN",Sp | La 2
-http://formen1.com:8080/live/angel35/35angel/11243.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | La Sexta" tvg-logo="" group-title="SPAIN",Sp | La Sexta
-http://formen1.com:8080/live/angel35/35angel/11244.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Andalucia Tv" tvg-logo="" group-title="SPAIN",Sp | Andalucia Tv
-http://formen1.com:8080/live/angel35/35angel/11245.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Antena 3" tvg-logo="" group-title="SPAIN",Sp | Antena 3
-http://formen1.com:8080/live/angel35/35angel/11241.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Antena Nova" tvg-logo="" group-title="SPAIN",Sp | Antena Nova
-http://formen1.com:8080/live/angel35/35angel/11255.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Axn Spain" tvg-logo="" group-title="SPAIN",Sp | Axn Spain
-http://formen1.com:8080/live/angel35/35angel/11256.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Axn White Spain" tvg-logo="" group-title="SPAIN",Sp | Axn White Spain
-http://formen1.com:8080/live/angel35/35angel/11257.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | C AcciÓn" tvg-logo="" group-title="SPAIN",Sp | C AcciÓn
-http://formen1.com:8080/live/angel35/35angel/11258.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | C Comedia" tvg-logo="" group-title="SPAIN",Sp | C Comedia
-http://formen1.com:8080/live/angel35/35angel/11259.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | C Dcine" tvg-logo="" group-title="SPAIN",Sp | C Dcine
-http://formen1.com:8080/live/angel35/35angel/11264.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Calle 13" tvg-logo="" group-title="SPAIN",Sp | Calle 13
-http://formen1.com:8080/live/angel35/35angel/11260.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Deportes" tvg-logo="" group-title="SPAIN",Sp | Canal Deportes
-http://formen1.com:8080/live/angel35/35angel/11261.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Golf" tvg-logo="" group-title="SPAIN",Sp | Canal Golf
-http://formen1.com:8080/live/angel35/35angel/11263.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Liga" tvg-logo="" group-title="SPAIN",Sp | Canal Liga
-http://formen1.com:8080/live/angel35/35angel/11266.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Xtra" tvg-logo="" group-title="SPAIN",Sp | Canal Xtra
-http://formen1.com:8080/live/angel35/35angel/11267.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Decasa" tvg-logo="" group-title="SPAIN",Sp | Canal Decasa
-http://formen1.com:8080/live/angel35/35angel/11268.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal Hollywood" tvg-logo="" group-title="SPAIN",Sp | Canal Hollywood
-http://formen1.com:8080/live/angel35/35angel/2656.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal+ Comedia Hd" tvg-logo="" group-title="SPAIN",Sp | Canal+ Comedia Hd
-http://formen1.com:8080/live/angel35/35angel/2640.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal+ Deportes" tvg-logo="" group-title="SPAIN",Sp | Canal+ Deportes
-http://formen1.com:8080/live/angel35/35angel/2661.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Canal+ Liga Hd" tvg-logo="" group-title="SPAIN",Sp | Canal+ Liga Hd
-http://formen1.com:8080/live/angel35/35angel/2663.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla1" tvg-logo="" group-title="SPAIN",Sp | Taquilla1
-http://formen1.com:8080/live/angel35/35angel/2647.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla2" tvg-logo="" group-title="SPAIN",Sp | Taquilla2
-http://formen1.com:8080/live/angel35/35angel/2646.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla3" tvg-logo="" group-title="SPAIN",Sp | Taquilla3
-http://formen1.com:8080/live/angel35/35angel/2645.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Taquilla4" tvg-logo="" group-title="SPAIN",Sp | Taquilla4
-http://formen1.com:8080/live/angel35/35angel/2644.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Clan Tve" tvg-logo="" group-title="SPAIN",Sp | Clan Tve
-http://formen1.com:8080/live/angel35/35angel/11247.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Disney Junior Spain" tvg-logo="" group-title="SPAIN",Sp | Disney Junior Spain
-http://formen1.com:8080/live/angel35/35angel/11265.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Fox Life Portugal" tvg-logo="" group-title="SPAIN",Sp | Fox Life Portugal
-http://formen1.com:8080/live/angel35/35angel/11253.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Fox Spain" tvg-logo="" group-title="SPAIN",Sp | Fox Spain
-http://formen1.com:8080/live/angel35/35angel/11252.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Movistar F1" tvg-logo="" group-title="SPAIN",Sp | Movistar F1
-http://formen1.com:8080/live/angel35/35angel/11273.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Movistar Moto Gp" tvg-logo="" group-title="SPAIN",Sp | Movistar Moto Gp
-http://formen1.com:8080/live/angel35/35angel/11272.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Natgeo Wild" tvg-logo="" group-title="SPAIN",Sp | Natgeo Wild
-http://formen1.com:8080/live/angel35/35angel/11250.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Odisea" tvg-logo="" group-title="SPAIN",Sp | Odisea
-http://formen1.com:8080/live/angel35/35angel/11270.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Syfy Universal Spain" tvg-logo="" group-title="SPAIN",Sp | Syfy Universal Spain
-http://formen1.com:8080/live/angel35/35angel/11248.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Telecinco" tvg-logo="" group-title="SPAIN",Sp | Telecinco
-http://formen1.com:8080/live/angel35/35angel/11246.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Tnt" tvg-logo="" group-title="SPAIN",Sp | Tnt
-http://formen1.com:8080/live/angel35/35angel/11249.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Tve Internacional" tvg-logo="" group-title="SPAIN",Sp | Tve Internacional
-http://formen1.com:8080/live/angel35/35angel/11239.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Dcine" tvg-logo="" group-title="SPAIN",Sp | Dcine
-http://formen1.com:8080/live/angel35/35angel/2651.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Cuatro" tvg-logo="" group-title="SPAIN",Sp | Cuatro
-http://formen1.com:8080/live/angel35/35angel/2652.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Antena 3 Hd" tvg-logo="" group-title="SPAIN",Sp | Antena 3 Hd
-http://formen1.com:8080/live/angel35/35angel/2659.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Tve La1" tvg-logo="" group-title="SPAIN",Sp | Tve La1
-http://formen1.com:8080/live/angel35/35angel/2666.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Bein Sport Es" tvg-logo="" group-title="SPAIN",Sp | Bein Sport Es
-http://formen1.com:8080/live/angel35/35angel/2639.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | National Geographic Spain" tvg-logo="" group-title="SPAIN",Sp | National Geographic Spain
-http://formen1.com:8080/live/angel35/35angel/11251.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Discovery Channel" tvg-logo="" group-title="SPAIN",Sp | Discovery Channel
-http://formen1.com:8080/live/angel35/35angel/2650.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sp | Nat Geo Wild" tvg-logo="" group-title="SPAIN",Sp | Nat Geo Wild
-http://formen1.com:8080/live/angel35/35angel/2643.m3u8
+#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8
 
-#EXTINF:-1,es: beIN LA Liga FHD ES
-http://162.218.64.156:83/aviator2/aviator/92738.m3u8
-#EXTINF:-1,es: Real Madrid Channel ES
-http://162.218.64.156:83/aviator2/aviator/92739.m3u8
-#EXTINF:-1,es: MOVISTAR F1 ES
-http://162.218.64.156:83/aviator2/aviator/92740
-#EXTINF:-1,es: MOVISTAR FORMULA 1 ES
-http://162.218.64.156:83/aviator2/aviator/92741
-#EXTINF:-1,es: MTV ESPANA ES
-http://162.218.64.156:83/aviator2/aviator/92744
-#EXTINF:-1,es: Paramount ES
-http://162.218.64.156:83/aviator2/aviator/92746
-#EXTINF:-1,es: Canal de las Estrellas ES
-http://162.218.64.156:83/aviator2/aviator/92747
-#EXTINF:-1,es: Comedy Central ES
-http://162.218.64.156:83/aviator2/aviator/92750
-#EXTINF:-1,es: Barça TV ES
-http://162.218.64.156:83/aviator2/aviator/92751
-#EXTINF:-1,es: 24 Horas ES
-http://162.218.64.156:83/aviator2/aviator/92753
-#EXTINF:-1,es: EuroSp0rt 1 ES
-http://162.218.64.156:83/aviator2/aviator/92755
-#EXTINF:-1,es: Energy ES
-http://162.218.64.156:83/aviator2/aviator/92756
-#EXTINF:-1,es: #0 ES
-http://162.218.64.156:83/aviator2/aviator/92760
-#EXTINF:-1,es: A&E ES
-http://162.218.64.156:83/aviator2/aviator/92761
-#EXTINF:-1,es: AMC ES
-http://162.218.64.156:83/aviator2/aviator/92762
-#EXTINF:-1,es: AXN ES
-http://162.218.64.156:83/aviator2/aviator/92763
-#EXTINF:-1,es: Bein Liga ES
-http://162.218.64.156:83/aviator2/aviator/92764
-#EXTINF:-1,es: Boing ES
-http://162.218.64.156:83/aviator2/aviator/92766
-#EXTINF:-1,es: Canal Cocina ES
-http://162.218.64.156:83/aviator2/aviator/92767
-#EXTINF:-1,es: Canal Decasa ES
-http://162.218.64.156:83/aviator2/aviator/92768
-#EXTINF:-1,es: Canal SERIES ES
-http://162.218.64.156:83/aviator2/aviator/92769
-#EXTINF:-1,es: Caza y Pesca ES
-http://162.218.64.156:83/aviator2/aviator/92770
-#EXTINF:-1,es: Clan TVE ES
-http://162.218.64.156:83/aviator2/aviator/92771
-#EXTINF:-1,es: Cosmo ES
-http://162.218.64.156:83/aviator2/aviator/92772
-#EXTINF:-1,es: Divinity ES
-http://162.218.64.156:83/aviator2/aviator/92773
-#EXTINF:-1,es: FDF ES
-http://162.218.64.156:83/aviator2/aviator/92774
-#EXTINF:-1,es: GOL Tv ES
-http://162.218.64.156:83/aviator2/aviator/92775
-#EXTINF:-1,es: IBERALIA ES
-http://162.218.64.156:83/aviator2/aviator/92776
-#EXTINF:-1,es: LA 2 ES
-http://162.218.64.156:83/aviator2/aviator/92777
-#EXTINF:-1,es: Neox ES
-http://162.218.64.156:83/aviator2/aviator/92779
-#EXTINF:-1,es: Nickelodeon ES
-http://162.218.64.156:83/aviator2/aviator/92780
-#EXTINF:-1,es: Nova ES
-http://162.218.64.156:83/aviator2/aviator/92781
-#EXTINF:-1,es: Odisea ES
-http://162.218.64.156:83/aviator2/aviator/92782
-#EXTINF:-1,es: PANDA ES
-http://162.218.64.156:83/aviator2/aviator/92783
-#EXTINF:-1,es: SyFy ES
-http://162.218.64.156:83/aviator2/aviator/92784
-#EXTINF:-1,es: TNT ES
-http://162.218.64.156:83/aviator2/aviator/92785
-#EXTINF:-1,es: Antena 3 ES
-http://162.218.64.156:83/aviator2/aviator/92786
-#EXTINF:-1,es: AXN White ES
-http://162.218.64.156:83/aviator2/aviator/92787
-#EXTINF:-1,es: Calle 13 ES
-http://162.218.64.156:83/aviator2/aviator/92788
-#EXTINF:-1,es: CANALACTION ES
-http://162.218.64.156:83/aviator2/aviator/92789
-#EXTINF:-1,es: CanalCOMEDIA ES
-http://162.218.64.156:83/aviator2/aviator/92790
-#EXTINF:-1,es: Canal DCINE ES
-http://162.218.64.156:83/aviator2/aviator/92791
-#EXTINF:-1,es: CanalDEPORTES 2 ES
-http://162.218.64.156:83/aviator2/aviator/92792
-#EXTINF:-1,es: CanalDEPORTES ES
-http://162.218.64.156:83/aviator2/aviator/92793
-#EXTINF:-1,es: CanalESTRENOS ES
-http://162.218.64.156:83/aviator2/aviator/92794
-#EXTINF:-1,es: CanalFUTBOL ES
-http://162.218.64.156:83/aviator2/aviator/92795
-#EXTINF:-1,es: CanalGOLF ES
-http://162.218.64.156:83/aviator2/aviator/92796
-#EXTINF:-1,es: CanalLIGA ES
-http://162.218.64.156:83/aviator2/aviator/92798
-#EXTINF:-1,es: CanalSERIES XTRA ES
-http://162.218.64.156:83/aviator2/aviator/92799
-#EXTINF:-1,es: CanalTOROS ES
-http://162.218.64.156:83/aviator2/aviator/92800
-#EXTINF:-1,es: CanalXTRA ES
-http://162.218.64.156:83/aviator2/aviator/92801
-#EXTINF:-1,es: Cuatro ES
-http://162.218.64.156:83/aviator2/aviator/92802
-#EXTINF:-1,es: Discovery Channel ES
-http://162.218.64.156:83/aviator2/aviator/92803
-#EXTINF:-1,es: DISCOVERY ES
-http://162.218.64.156:83/aviator2/aviator/92804
-#EXTINF:-1,es: Disney Channel ES
-http://162.218.64.156:83/aviator2/aviator/92805
-#EXTINF:-1,es: Disney Junior ES
-http://162.218.64.156:83/aviator2/aviator/92806
-#EXTINF:-1,es: Disney XD ES
-http://162.218.64.156:83/aviator2/aviator/92807
-#EXTINF:-1,es: Fox ES
-http://162.218.64.156:83/aviator2/aviator/92808
-#EXTINF:-1,es: Fox Life ES
-http://162.218.64.156:83/aviator2/aviator/92809
-#EXTINF:-1,es: Historia ES
-http://162.218.64.156:83/aviator2/aviator/92810
-#EXTINF:-1,es: Hollywood ES
-http://162.218.64.156:83/aviator2/aviator/92811
-#EXTINF:-1,es: LA 1 ES
-http://162.218.64.156:83/aviator2/aviator/92812
-#EXTINF:-1,es: La Sexta ES
-http://162.218.64.156:83/aviator2/aviator/92813
-#EXTINF:-1,es: Mega ES
-http://162.218.64.156:83/aviator2/aviator/92814
-#EXTINF:-1,es: Nat Geo Wild ES
-http://162.218.64.156:83/aviator2/aviator/92815
-#EXTINF:-1,es: NATIONAL GEOGRAPHIC ES
-http://162.218.64.156:83/aviator2/aviator/92816
-#EXTINF:-1,es: Nick Jr ES
-http://162.218.64.156:83/aviator2/aviator/92817
-#EXTINF:-1,es: TCM ES
-http://162.218.64.156:83/aviator2/aviator/92818
-#EXTINF:-1,es: Telecinco ES
-http://162.218.64.156:83/aviator2/aviator/92819
-#EXTINF:-1,es: Teledeporte ES
-http://162.218.64.156:83/aviator2/aviator/92820
-#EXTINF:-1,es: Viajar ES
-http://162.218.64.156:83/aviator2/aviator/92821
-#EXTINF:-1,es: ES:  Fox HD
-http://162.218.64.156:83/aviator2/aviator/256861
-#EXTINF:-1,es: ES:  LA 1 Full HD
-http://162.218.64.156:83/aviator2/aviator/256846
-#EXTINF:-1,es: ES:  Movistar Golf
-http://162.218.64.156:83/aviator2/aviator/256852
-#EXTINF:-1,es: ES:  Real Madrid TV
-http://162.218.64.156:83/aviator2/aviator/256853
-#EXTINF:-1,es: ES: #0 HD
-http://162.218.64.156:83/aviator2/aviator/256865
-#EXTINF:-1,es: ES: A&E
-http://162.218.64.156:83/aviator2/aviator/256856
-#EXTINF:-1,es: ES: AMC
-http://162.218.64.156:83/aviator2/aviator/256869
-#EXTINF:-1,es: ES: Antena 3 FHD
-http://162.218.64.156:83/aviator2/aviator/256867
-#EXTINF:-1,es: ES: AXN HD
-http://162.218.64.156:83/aviator2/aviator/256871
-#EXTINF:-1,es: ES: AXN WHITE Full HD
-http://162.218.64.156:83/aviator2/aviator/256870
-#EXTINF:-1,es: ES: BABY TV
-http://162.218.64.156:83/aviator2/aviator/256873
-#EXTINF:-1,es: ES: Barca TV
-http://162.218.64.156:83/aviator2/aviator/256872
-#EXTINF:-1,es: ES: BOING
-http://162.218.64.156:83/aviator2/aviator/256876
-#EXTINF:-1,es: ES: Calle 13 HD
-http://162.218.64.156:83/aviator2/aviator/256911
-#EXTINF:-1,es: ES: Canal Cocina
-http://162.218.64.156:83/aviator2/aviator/256912
-#EXTINF:-1,es: ES: Canal De Las Estrellas
-http://162.218.64.156:83/aviator2/aviator/256913
-#EXTINF:-1,es: ES: CANAL ODISEA
-http://162.218.64.156:83/aviator2/aviator/256880
-#EXTINF:-1,es: ES: CANAL SUR ANDALUCIA
-http://162.218.64.156:83/aviator2/aviator/256868
-#EXTINF:-1,es: ES: Caza Y Pesca HD
-http://162.218.64.156:83/aviator2/aviator/256864
-#EXTINF:-1,es: ES: Clan TVE
-http://162.218.64.156:83/aviator2/aviator/256863
-#EXTINF:-1,es: ES: COMEDY CENTRAL HD
-http://162.218.64.156:83/aviator2/aviator/256862
-#EXTINF:-1,es: ES: COSMO
-http://162.218.64.156:83/aviator2/aviator/256860
-#EXTINF:-1,es: ES: Crimen & Investigation
-http://162.218.64.156:83/aviator2/aviator/256859
-#EXTINF:-1,es: ES: Cuatro HD
-http://162.218.64.156:83/aviator2/aviator/256858
-#EXTINF:-1,es: ES: DIscovery Channel HD
-http://162.218.64.156:83/aviator2/aviator/256857
-#EXTINF:-1,es: ES: Disney Channel
-http://162.218.64.156:83/aviator2/aviator/256908
-#EXTINF:-1,es: ES: Disney Junior
-http://162.218.64.156:83/aviator2/aviator/256909
-#EXTINF:-1,es: ES: Disney XD
-http://162.218.64.156:83/aviator2/aviator/256905
-#EXTINF:-1,es: ES: DIVINITY
-http://162.218.64.156:83/aviator2/aviator/256878
-#EXTINF:-1,es: ES: Energy tv
-http://162.218.64.156:83/aviator2/aviator/256874
-#EXTINF:-1,es: ES: Estrenos HD
-http://162.218.64.156:83/aviator2/aviator/256866
-#EXTINF:-1,es: ES: EuroSp0rt 1
-http://162.218.64.156:83/aviator2/aviator/256850
-#EXTINF:-1,es: ES: EuroSp0rt 2
-http://162.218.64.156:83/aviator2/aviator/256849
-#EXTINF:-1,es: ES: FoxLife HD
-http://162.218.64.156:83/aviator2/aviator/256854
-#EXTINF:-1,es: ES: Gol TV
-http://162.218.64.156:83/aviator2/aviator/256855
-#EXTINF:-1,es: ES: Historia
-http://162.218.64.156:83/aviator2/aviator/256851
-#EXTINF:-1,es: ES: Hollywood
-http://162.218.64.156:83/aviator2/aviator/256847
-#EXTINF:-1,es: ES: LA 2
-http://162.218.64.156:83/aviator2/aviator/256848
-#EXTINF:-1,es: ES: La Liga TV
-http://162.218.64.156:83/aviator2/aviator/256910
-#EXTINF:-1,es: ES: La Sexta HD
-http://162.218.64.156:83/aviator2/aviator/256907
-#EXTINF:-1,es: ES: Movistar Accion Full HD
-http://162.218.64.156:83/aviator2/aviator/256906
-#EXTINF:-1,es: ES: Movistar Cine N
-http://162.218.64.156:83/aviator2/aviator/256903
-#EXTINF:-1,es: ES: Movistar Comedia HD
-http://162.218.64.156:83/aviator2/aviator/256904
-#EXTINF:-1,es: ES: Movistar Dcine HD
-http://162.218.64.156:83/aviator2/aviator/256901
-#EXTINF:-1,es: ES: Movistar Deportes 2
-http://162.218.64.156:83/aviator2/aviator/256902
-#EXTINF:-1,es: ES: Movistar Deportes HD
-http://162.218.64.156:83/aviator2/aviator/256899
-#EXTINF:-1,es: ES: Movistar F1 FullHd
-http://162.218.64.156:83/aviator2/aviator/256900
-#EXTINF:-1,es: ES: Movistar F1 SD
-http://162.218.64.156:83/aviator2/aviator/256897
-#EXTINF:-1,es: ES: Movistar Futbol
-http://162.218.64.156:83/aviator2/aviator/256898
-#EXTINF:-1,es: ES: Movistar MotoGP FullHD
-http://162.218.64.156:83/aviator2/aviator/256895
-#EXTINF:-1,es: ES: Movistar Series Hd
-http://162.218.64.156:83/aviator2/aviator/256896
-#EXTINF:-1,es: ES: Movistar Xtra HD
-http://162.218.64.156:83/aviator2/aviator/256893
-#EXTINF:-1,es: ES: MTV ESPANA
-http://162.218.64.156:83/aviator2/aviator/256894
-#EXTINF:-1,es: ES: NAT GEO WILD HD
-http://162.218.64.156:83/aviator2/aviator/256891
-#EXTINF:-1,es: ES: National Geographic HD
-http://162.218.64.156:83/aviator2/aviator/256892
-#EXTINF:-1,es: ES: Nick Jr
-http://162.218.64.156:83/aviator2/aviator/256889
-#EXTINF:-1,es: ES: Nickelodeon
-http://162.218.64.156:83/aviator2/aviator/256890
-#EXTINF:-1,es: ES: Nova
-http://162.218.64.156:83/aviator2/aviator/256887
-#EXTINF:-1,es: ES: Real Madrid TV
-http://162.218.64.156:83/aviator2/aviator/256888
-#EXTINF:-1,es: ES: Series Xtra HD
-http://162.218.64.156:83/aviator2/aviator/256885
-#EXTINF:-1,es: ES: Syfy
-http://162.218.64.156:83/aviator2/aviator/256886
-#EXTINF:-1,es: ES: Syfy FHD
-http://162.218.64.156:83/aviator2/aviator/256883
-#EXTINF:-1,es: ES: TCM HD
-http://162.218.64.156:83/aviator2/aviator/256884
-#EXTINF:-1,es: ES: Telecinco
-http://162.218.64.156:83/aviator2/aviator/256881
-#EXTINF:-1,es: ES: TNT
-http://162.218.64.156:83/aviator2/aviator/256882
-#EXTINF:-1,es: ES: Toros TV
-http://162.218.64.156:83/aviator2/aviator/256877
+#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13006.ts
+
+
+#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts
+
+#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
+
+#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7702.ts
+
+#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
+
+#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15433.ts
+
+#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8
+
+#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
+
+#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/72.ts
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/36.ts
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15437.ts
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/35.ts
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/73.ts
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12541.ts
+
+#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
+
+#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/92.ts
+
+#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/141.ts
+
+#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
+
+#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
+
+#EXTINF:-1 tvg-id="Bein Max ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2016/02/Bein-Sport-Max.jpg" group-title="Generalistas",Bein Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13008.ts
+
+#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://cdntumarc01.azureedge.net/live/t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts
+
+#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts
+
+#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7680.ts
+
+#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15475.ts
+
+#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=hhttp://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.m3u8
+
+#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/100.ts
+
+#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=painfree.blackeviltv.com:9000/live/blackeviltv/gratis/93.ts
