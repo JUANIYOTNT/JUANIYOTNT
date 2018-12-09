@@ -1,828 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1,LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4383.ts
-#EXTINF:-1,LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4384.ts
-#EXTINF:-1,La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4382.ts
-#EXTINF:-1,#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4367.ts
-#EXTINF:-1,FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4379.ts
-#EXTINF:-1,Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4385.ts
-#EXTINF:-1,Movistar Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4386.ts
-#EXTINF:-1,Movistar Dcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4387.ts
-#EXTINF:-1,Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4390.ts
-#EXTINF:-1,Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4392.ts
-#EXTINF:-1,Clan TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4374.ts
-#EXTINF:-1,Disney ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4378.ts
-#EXTINF:-1,Bein La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4370.ts
-#EXTINF:-1,Bein Sports ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4371.ts
-#EXTINF:-1,Gol TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4380.ts
-#EXTINF:-1,la Liga  tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4381.ts
-#EXTINF:-1,Movistar Deportes1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4388.ts
-#EXTINF:-1,Movistar Deportes2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4389.ts
-#EXTINF:-1,Movistar Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4391.ts
-#EXTINF:-1,Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4369.ts
-#EXTINF:-1,Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4395.ts
-#EXTINF:-1,Caza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4373.ts
-#EXTINF:-1,Discovery Es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4377.ts
-#EXTINF:-1,Nat geo es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4393.ts
-#EXTINF:-1,Nat Geo Wild es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4394.ts
-#EXTINF:-1,Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4397.ts
-#EXTINF:-1,ES | BEIN Sports LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15604
-#EXTINF:-1,ES | Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15606
-#EXTINF:-1,ES | Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15609
-#EXTINF:-1,ES | Deportes 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15608
-#EXTINF:-1,ES | Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15610
-#EXTINF:-1,ES | M Liga de Campeones HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15607
-#EXTINF:-1,ES | M Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15611
-#EXTINF:-1,ES | M. FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15605
-#EXTINF:-1,ES | Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15613
-#EXTINF:-1,ES | Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15615
-#EXTINF:-1,ES | Movistar Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15612
-#EXTINF:-1,ES | Movistar Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15614
-#EXTINF:-1,ES | Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15616
-#EXTINF:-1,ES |Bein Sport Espanol N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15603
-#EXTINF:-1,ES |La LIGA BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15602
-#EXTINF:-1,ES |Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15601
-#EXTINF:-1,ES |Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15600
-#EXTINF:-1,ES |Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15599
-#EXTINF:-1,ES |Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15598
-#EXTINF:-1,ES |Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://195.154.214.187:2086/house/house/15597
-#EXTINF:-1,ES: 24 Horas HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141410
-#EXTINF:-1,ES: A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/117808
-#EXTINF:-1,ES: Al Jazeera HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141416
-#EXTINF:-1,ES: AMC FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141411
-#EXTINF:-1,ES: ANTENA 3 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141412
-#EXTINF:-1,ES: ARIRANG WORLD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141413
-#EXTINF:-1,ES: AXN HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141414
-#EXTINF:-1,ES: AXN White HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141415
-#EXTINF:-1,ES: BABY TV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141417
-#EXTINF:-1,ES: Barca TV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141422
-#EXTINF:-1,ES: BBC Entertainment 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141418
-#EXTINF:-1,ES: BBC World News 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141419
-#EXTINF:-1,ES: BE MAD FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141420
-#EXTINF:-1,ES: beIN Sports LaLiga HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141520
-#EXTINF:-1,ES: Blaze 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141423
-#EXTINF:-1,ES: Bloomberg 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141424
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78540
-#EXTINF:-1,ES: BOING 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141421
-#EXTINF:-1,ES: C-Music 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141425
-#EXTINF:-1,ES: CALLE 13 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141426
-#EXTINF:-1,ES: CANAL COCINA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141427
-#EXTINF:-1,ES: CANAL DE CASA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141428
-#EXTINF:-1,ES: Canal Extremadura SAT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141438
-#EXTINF:-1,ES: Canal Odisea HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141439
-#EXTINF:-1,ES: CANAL SUR ANDALUCIA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141429
-#EXTINF:-1,ES: Caza y Pesca HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141440
-#EXTINF:-1,ES: CBN SPANISH 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141430
-#EXTINF:-1,ES: CLAN TVE 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141431
-#EXTINF:-1,ES: CNBC Europe 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141432
-#EXTINF:-1,ES: COMEDIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141433
-#EXTINF:-1,ES: COMEDY CENTRAL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141434
-#EXTINF:-1,ES: COSMO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141435
-#EXTINF:-1,ES: COSMOPOLITAN HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141436
-#EXTINF:-1,ES: Crime & Investigation 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141441
-#EXTINF:-1,ES: CUATRO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141437
-#EXTINF:-1,ES: DEPORTES 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141442
-#EXTINF:-1,ES: Deutsche Welle 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141445
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141443
-#EXTINF:-1,ES: Disney JR 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141447
-#EXTINF:-1,ES: Disney XD HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141448
-#EXTINF:-1,ES: Divinity HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141449
-#EXTINF:-1,ES: DW 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141444
-#EXTINF:-1,ES: ENERGY HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141450
-#EXTINF:-1,ES: ESTRENOS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141451
-#EXTINF:-1,ES: ETB Sat 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141452
-#EXTINF:-1,ES: EUROSPORT 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141453
-#EXTINF:-1,ES: EUROSPORT HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141454
-#EXTINF:-1,ES: F1 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141455
-#EXTINF:-1,ES: FDF HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141456
-#EXTINF:-1,ES: Fox Channel HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141459
-#EXTINF:-1,ES: FOX LIFE FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141457
-#EXTINF:-1,ES: Fox News 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141460
-#EXTINF:-1,ES: FRANCE 24 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141458
-#EXTINF:-1,ES: GOLF HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141461
-#EXTINF:-1,ES: GolTV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141462
-#EXTINF:-1,ES: HISTORY 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141463
-#EXTINF:-1,ES: HOLLYWOOD HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141464
-#EXTINF:-1,ES: IBERALIA TV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141465
-#EXTINF:-1,ES: Jim Jam 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141466
-#EXTINF:-1,ES: La 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141470
-#EXTINF:-1, LA 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141467
-#EXTINF:-1,ES: LA LIGA 123 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141468
-#EXTINF:-1,ES: La Liga TV BAR FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141471
-#EXTINF:-1,ES: La Liga TV FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141472
-#EXTINF:-1,ES: La Ocho 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141473
-#EXTINF:-1,ES: LA SEXTA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141469
-#EXTINF:-1,ES: MCM POP 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141485
-#EXTINF:-1,ES: Mezzo 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141489
-#EXTINF:-1,ES: MEZZO LIVE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141486
-#EXTINF:-1,ES: Mijas 3.40 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141490
-#EXTINF:-1,MOTOGP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141487
-#EXTINF:-1,ES: Moviestar Accino HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141474
-#EXTINF:-1,ES: Moviestar Accion FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141475
-#EXTINF:-1,ES: Moviestar Cine Doc&Roll 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141476
-#EXTINF:-1,ES: Moviestar Deportes 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141477
-#EXTINF:-1,ES: Moviestar Disney 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141478
-#EXTINF:-1,ES: Moviestar Drama FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141479
-#EXTINF:-1,ES: Moviestar Futbool HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141480
-#EXTINF:-1,ES: Moviestar LCAMPEON ES 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141481
-#EXTINF:-1,ES: Moviestar Liga de Campeones HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141482
-#EXTINF:-1,ES: Moviestar Series Mania HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141484
-#EXTINF:-1,ES: MTV ESPAÑA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141488
-#EXTINF:-1,ES: NAT GEO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141491
-#EXTINF:-1,ES: NAT GEO Wild HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141492
-#EXTINF:-1,ES: NHK WORLD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141493
-#EXTINF:-1,ES: Nickelodeon HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141495
-#EXTINF:-1,ES: Nickelodeon Junior HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141496
-#EXTINF:-1,ES: NOVA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141494
-#EXTINF:-1,ES: PANDA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141497
-#EXTINF:-1,ES: PARAMOUNT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141498
-#EXTINF:-1,ES: Real Madrid HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141501
-#EXTINF:-1,ES: RT DOC 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141499
-#EXTINF:-1,ES: RT NEWS ENG 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141500
-#EXTINF:-1,ES: Series 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141505
-#EXTINF:-1,ES: Series Xtra 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141506
-#EXTINF:-1,ES: Sky News 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141507
-#EXTINF:-1,ES: SKY TG24 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141502
-#EXTINF:-1,ES: SKYNET SPORTS 1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/142067
-#EXTINF:-1,ES: SKYNET SPORTS 3 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/142068
-#EXTINF:-1,ES: SKYNET SPORTS 4 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/142069
-#EXTINF:-1,ES: SKYNET SPORTS 5 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/142070
-#EXTINF:-1,ES: SKYNET SPORTS 6 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/142071
-#EXTINF:-1,ES: SKYNET SPORTS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/142072
-#EXTINF:-1,ES: Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/114849
-#EXTINF:-1,ES: Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/114848
-#EXTINF:-1,ES: Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/114850
-#EXTINF:-1,ES: Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/114847
-#EXTINF:-1,ES: SUNDANCE TV 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141503
-#EXTINF:-1,ES: SYFY FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141504
-#EXTINF:-1,ES: TCM FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141508
-#EXTINF:-1,ES: TELE MADRID HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141509
-#EXTINF:-1,ES: Telecinco HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141515
-#EXTINF:-1,ES: Teledeporte HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141516
-#EXTINF:-1,ES: TELEMUNDO EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/117815
-#EXTINF:-1,ES: Telesur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70854
-#EXTINF:-1,TNT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141510
-#EXTINF:-1,ES: TOROS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141511
-#EXTINF:-1,ES: TV5 Monde 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141512
-#EXTINF:-1,ES: TVE Internacional 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141513
-#EXTINF:-1,ES: TVE LA2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70897
-#EXTINF:-1,ES: TVM 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141514
-#EXTINF:-1,ES: Univision Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/117814
-#EXTINF:-1,ES: Vamos HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141519
-#EXTINF:-1,ES: VH1 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141517
-#EXTINF:-1,ES: VH1 Classic 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141518
-#EXTINF:-1,###### SPAIN ######
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144767
-#EXTINF:-1,###### SPAIN VIP ######
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144768
-#EXTINF:-1,ES: #0 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88901
-#EXTINF:-1,ES: 24 Horas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88902
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81341
-#EXTINF:-1,ES: A3 ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107615
-#EXTINF:-1,ES: A3 SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99711
-#EXTINF:-1,ES: ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/125610
-#EXTINF:-1,ES: Alfa TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130304
-#EXTINF:-1,ES: All Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/126820
-#EXTINF:-1,ES: Alquiler 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88903
-#EXTINF:-1,ES: Alquiler 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88904
-#EXTINF:-1,ES: Alquiler 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88905
-#EXTINF:-1,ES: Alquiler 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88906
-#EXTINF:-1,ES: Alquiler 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88907
-#EXTINF:-1,ES: Alquiler 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88908
-#EXTINF:-1,ES: Alquiler 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107629
-#EXTINF:-1,ES: Alquiler 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107630
-#EXTINF:-1,ES: AMC Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/142703
-#EXTINF:-1,ES: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88178
-#EXTINF:-1,ES: Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70852
-#EXTINF:-1,ES: ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64213
-#EXTINF:-1,ES: ARAGON TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/113068
-#EXTINF:-1,ES: Atres Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/116180
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78536
-#EXTINF:-1,AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64211
-#EXTINF:-1,ES: Azteca Honduras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70857
-#EXTINF:-1,ES: Azteca Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70856
-#EXTINF:-1,ES: Azteca Trece
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/94139
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78537
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/141373
-#EXTINF:-1,ES: BarçaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81344
-#EXTINF:-1,ES: BE MAD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99710
-#EXTINF:-1,ES: Bein LA-Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70874
-#EXTINF:-1,ES: beIN Sports ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/104206
-#EXTINF:-1,beIN Sports 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/131988
-#EXTINF:-1,ES: beIN Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99724
-#EXTINF:-1,ES: beIN Sports LA LIGA TV 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130013
-#EXTINF:-1,beIN Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70909
-#EXTINF:-1,ES: beIN Sports MAX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130015
-#EXTINF:-1,ES: beIN Sports MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130016
-#EXTINF:-1,beIN Sports n
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64208
-#EXTINF:-1,ES: beIN Sports Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/106859
-#EXTINF:-1,CALLE 13 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64206
-#EXTINF:-1,ES: Canal 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/104521
-#EXTINF:-1,ES: Canal 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144545
-#EXTINF:-1,ES: CANAL 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107610
-#EXTINF:-1,ES: Canal 3/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/131987
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78542
-#EXTINF:-1,ES: Canal Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/125606
-#EXTINF:-1,ES: CANAL DE CASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78543
-#EXTINF:-1,ES: CANAL DE HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107639
-#EXTINF:-1,ES: Canal de las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/92746
-#EXTINF:-1,ES: CANAL DEPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/100382
-#EXTINF:-1,ES: CANAL EXTREMADURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/119474
-#EXTINF:-1,ES: CANAL FUTBAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/91954
-#EXTINF:-1,ES: Canal Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/104523
-#EXTINF:-1,ES: CANAL HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107631
-#EXTINF:-1,ES: Canal Odisea HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/97487
-#EXTINF:-1,ES: CANAL ORBE 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/134604
-#EXTINF:-1,ES: CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107634
-#EXTINF:-1,ES: CANAL SUR ANDALUCIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81410
-#EXTINF:-1,ES: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/94143
-#EXTINF:-1,ES: Caza y Pesca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/88183
-#EXTINF:-1,ES: Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145132
-#EXTINF:-1,ES: CLAN TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81364
-#EXTINF:-1,ES: Clane TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144549
-#EXTINF:-1,ES: CLASSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107329
-#EXTINF:-1,ES: CMM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/109624
-#EXTINF:-1,ES: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101301
-#EXTINF:-1,ES: CNN en Espanol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/134046
-#EXTINF:-1,ES: Comedy Central España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78544
-#EXTINF:-1,ES: COSMO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64199
-#EXTINF:-1,ES: Crimen Investigación
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70860
-#EXTINF:-1,ES: CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78546
-#EXTINF:-1,ES: Dcasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/116201
-#EXTINF:-1,ES: DCINE ESPANOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/104531
-#EXTINF:-1,ES: DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/103210
-#EXTINF:-1,ES: DECASA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99733
-#EXTINF:-1,ES: Desney Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144569
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81418
-#EXTINF:-1,ES: DISCOVERY MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99553
-#EXTINF:-1,ES: Disney Channel Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/123993
-#EXTINF:-1,ES: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70885
-#EXTINF:-1,ES: Disney JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78547
-#EXTINF:-1,ES: Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78548
-#EXTINF:-1,ES: Divinity HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81421
-#EXTINF:-1,ES: DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/109618
-#EXTINF:-1,ES: DMax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130266
-#EXTINF:-1,ES: Dolce Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/94106
-#EXTINF:-1,ES: ENERGY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78549
-#EXTINF:-1,ES: Esperanza TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/131982
-#EXTINF:-1,ES: ESTERNOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101645
-#EXTINF:-1,ES: ETB Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/114396
-#EXTINF:-1,ES: EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107641
-#EXTINF:-1,ES: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70840
-#EXTINF:-1,ES: EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81427
-#EXTINF:-1,ES: Extremadura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/116161
-#EXTINF:-1,ES: FDF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/97478
-#EXTINF:-1,ES: Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/116191
-#EXTINF:-1,ES: Fox Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64190
-#EXTINF:-1,ES: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64189
-#EXTINF:-1,ES: Fox News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130305
-#EXTINF:-1,ES: GALICIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/100377
-#EXTINF:-1,ES: Gol TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70912
-#EXTINF:-1,ES: GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101647
-#EXTINF:-1,ES: HBO East FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145133
-#EXTINF:-1,ES: HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145134
-#EXTINF:-1,ES: HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145135
-#EXTINF:-1,ES: HBO Plus West FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145136
-#EXTINF:-1,ES: HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145137
-#EXTINF:-1,ES: Historia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78552
-#EXTINF:-1,ES: History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/104537
-#EXTINF:-1,Hollyood 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144554
-#EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64187
-#EXTINF:-1,ES: IB3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/126674
-#EXTINF:-1,ES: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81433
-#EXTINF:-1,ES: INTERECONOMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/109621
-#EXTINF:-1,ES: La 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144232
-#EXTINF:-1,ES: LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81373
-#EXTINF:-1,ES: LA LIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/108459
-#EXTINF:-1,ES: LA LIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/108460
-#EXTINF:-1,ES: LA LIGA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/108461
-#EXTINF:-1,ES: LA LIGA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/108462
-#EXTINF:-1,ES: LA LIGA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/108465
-#EXTINF:-1,ES: LA LIGA 123
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/140470
-#EXTINF:-1,ES: La Liga TV BAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/97947
-#EXTINF:-1,ES: La Liga TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70911
-#EXTINF:-1,ES: LA SEXTA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64184
-#EXTINF:-1,ES: La7 RM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/116203
-#EXTINF:-1,ES: LaLigaTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/140435
-#EXTINF:-1,ES: M Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144560
-#EXTINF:-1,ES: M+ Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/140469
-#EXTINF:-1,ES: MEGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70862
-#EXTINF:-1,ES: MELILLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99717
-#EXTINF:-1,ES: Mezzo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/143723
-#EXTINF:-1,ES: MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107646
-#EXTINF:-1,MOTOGP 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/109655
-#EXTINF:-1,ES: Moviestar Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70880
-#EXTINF:-1,ES: Moviestar Cine Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/87425
-#EXTINF:-1,ES: Moviestar Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70879
-#EXTINF:-1,ES: Moviestar COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/102299
-#EXTINF:-1,ES: Moviestar Dcine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70878
-#EXTINF:-1,ES: Moviestar Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/123971
-#EXTINF:-1,ES: Moviestar Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/92754
-#EXTINF:-1,ES: Moviestar Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70903
-#EXTINF:-1,ES: Moviestar Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/123977
-#EXTINF:-1,ES: Moviestar Doc&Roll HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130289
-#EXTINF:-1,ES: Moviestar Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130291
-#EXTINF:-1,ES: Moviestar eSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/128380
-#EXTINF:-1,ES: Moviestar ESTRENOS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/113800
-#EXTINF:-1,Movistar Formula1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70900
-#EXTINF:-1,ES: Moviestar Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70902
-#EXTINF:-1,ES: Moviestar LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/129567
-#EXTINF:-1,ES: Moviestar Liga de Campeones HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130309
-#EXTINF:-1,Movistar MotoGP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70858
-#EXTINF:-1,ES: Moviestar PARTIDAZO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81444
-#EXTINF:-1,ES: Moviestar SERIES EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/102306
-#EXTINF:-1,ES: Moviestar Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70869
-#EXTINF:-1,ES: Moviestar Series Mania HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130287
-#EXTINF:-1,ES: Moviestar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70876
-#EXTINF:-1,ES: Moviestar TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107628
-#EXTINF:-1,ES: Moviestar XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70877
-#EXTINF:-1,ES: Movistar Cine Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130280
-#EXTINF:-1,ES: Movistar Esternos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/143740
-#EXTINF:-1,ES: Movistar Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144234
-#EXTINF:-1,ES: Movistar GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/131968
-#EXTINF:-1,ES: MTV ESPAÑA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/109646
-#EXTINF:-1,ES: MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70861
-#EXTINF:-1,ES: MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/109658
-#EXTINF:-1,ES: N Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70893
-#EXTINF:-1,ES: NAT GEO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78561
-#EXTINF:-1,ES: NAT GEO Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78560
-#EXTINF:-1,ES: NEOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70866
-#EXTINF:-1,ES: Nick Jr Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/131963
-#EXTINF:-1,ES: Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78562
-#EXTINF:-1,ES: Nickelodeon Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99558
-#EXTINF:-1,ES: NICKLODEAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/102308
-#EXTINF:-1,ES: NONSTOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/117826
-#EXTINF:-1,ES: NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81469
-#EXTINF:-1,ES: NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78563
-#EXTINF:-1,ES: ODESIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/144572
-#EXTINF:-1,ES: Odisea TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70863
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81470
-#EXTINF:-1,ES: Paramount Channel Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70872
-#EXTINF:-1,ES: Premium Joy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101637
-#EXTINF:-1,ES: Premium Stories
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101640
-#EXTINF:-1,ES: Premium Stories 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101641
-#EXTINF:-1,ES: PROYECTO 40 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78564
-#EXTINF:-1,ES: Real Madird TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/128372
-#EXTINF:-1,ES: Real Madrid HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64163
-#EXTINF:-1,ES: RTVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70889
-#EXTINF:-1,ES: SERIES EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101649
-#EXTINF:-1,ES: Sevilla Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70855
-#EXTINF:-1,ES: Sevilla FC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/115539
-#EXTINF:-1,ES: SHOWTIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145138
-#EXTINF:-1,ES: Showtime West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145140
-#EXTINF:-1,ES: SKYNET SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/94098
-#EXTINF:-1,ES: Starz Cinema FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145141
-#EXTINF:-1,ES: Starz East FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145142
-#EXTINF:-1,ES: Starz Edge FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145143
-#EXTINF:-1,ES: Starz Encore Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145144
-#EXTINF:-1,ES: Starz Encore Classic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145145
-#EXTINF:-1,ES: Starz Encore Suspense FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145146
-#EXTINF:-1,ES: Starz Encore Western FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145147
-#EXTINF:-1,ES: Starz Kids & Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/145148
-#EXTINF:-1,ES: SUNDANCE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99559
-#EXTINF:-1,ES: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78565
-#EXTINF:-1,ES: SYFY UNIVERSEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107636
-#EXTINF:-1,ES: TAQUILLA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70850
-#EXTINF:-1,ES: TAQUILLA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70849
-#EXTINF:-1,ES: TAQUILLA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70848
-#EXTINF:-1,ES: TAQUILLA 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70847
-#EXTINF:-1,ES: TAQUILLA 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70846
-#EXTINF:-1,ES: TAQUILLA 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70845
-#EXTINF:-1,ES: TAQUILLA 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70844
-#EXTINF:-1,ES: Taquilla 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70843
-#EXTINF:-1,ES: TAQUILLA 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70842
-#EXTINF:-1,ES: TAQUILLA 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70841
-#EXTINF:-1,ES: TCM Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/123980
-#EXTINF:-1,ES: TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81377
-#EXTINF:-1,ES: TELE MADRID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78567
-#EXTINF:-1,ES: Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64160
-#EXTINF:-1,ES: Teledeporte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/77767
-#EXTINF:-1,ES: Telemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/114742
-#EXTINF:-1,ES: TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/119361
-#EXTINF:-1,ES: TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/128373
-#EXTINF:-1,ES: TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/78569
-#EXTINF:-1,ES: TOROS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99560
-#EXTINF:-1,ES: TV Assembleia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/68834
-#EXTINF:-1,ES: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/81380
-#EXTINF:-1,ES: TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101042
-#EXTINF:-1,ES: TV3 24H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/107611
-#EXTINF:-1,ES: TV3 Catalynia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70896
-#EXTINF:-1,ES: TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/118083
-#EXTINF:-1,ES: TVE Clan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70867
-#EXTINF:-1,ES: TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/130260
-#EXTINF:-1,ES: TVE LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/70898
-#EXTINF:-1,ES: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/101044
-#EXTINF:-1,ES: Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/64157
-#EXTINF:-1,ES: Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/126751
-#EXTINF:-1,ES: XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG.MASTER[/COLOR];url=http://niobzca.cf:8080/joas/1234/99561
+
+
+#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8
+
+#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13006.ts
+
+
+#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts
+
+#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
+
+#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7702.ts
+
+#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
+
+#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15433.ts
+
+#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8
+
+#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
+
+#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/72.ts
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/36.ts
+
+#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15437.ts
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/35.ts
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/73.ts
+
+#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12541.ts
+
+#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
+
+#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/92.ts
+
+#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/141.ts
+
+#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
+
+#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
+
+#EXTINF:-1 tvg-id="Bein Max ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2016/02/Bein-Sport-Max.jpg" group-title="Generalistas",Bein Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13008.ts
+
+#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://cdntumarc01.azureedge.net/live/t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts
+
+#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts
+
+#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7680.ts
+
+#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15475.ts
+
+#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=hhttp://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.m3u8
+
+#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/100.ts
+
+#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=painfree.blackeviltv.com:9000/live/blackeviltv/gratis/93.ts
