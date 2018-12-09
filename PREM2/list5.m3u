@@ -1,102 +1,85 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8
-
-#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13006.ts
-
-
-#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts
-
-#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
-
-#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7702.ts
-
-#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
-
-#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15433.ts
-
-#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8
-
-#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
-
-#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/72.ts
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/36.ts
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15437.ts
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/35.ts
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/73.ts
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12541.ts
-
-#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
-
-#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/92.ts
-
-#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/141.ts
-
-#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
-
-#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
-
-#EXTINF:-1 tvg-id="Bein Max ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2016/02/Bein-Sport-Max.jpg" group-title="Generalistas",Bein Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13008.ts
-
-#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://cdntumarc01.azureedge.net/live/t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts
-
-#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts
-
-#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7680.ts
-
-#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15475.ts
-
-#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=hhttp://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.m3u8
-
-#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/100.ts
-
-#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=painfree.blackeviltv.com:9000/live/blackeviltv/gratis/93.ts
+#EXTINF:-1,LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4383.ts
+#EXTINF:-1,LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4384.ts
+#EXTINF:-1,La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4382.ts
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4379.ts
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4367.ts
+#EXTINF:-1,Movistar Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8
+#EXTINF:-1,Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4390.ts
+#EXTINF:-1,Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4385.ts
+#EXTINF:-1,Movistar Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8
+#EXTINF:-1,Movistar Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://niobzca.cf:8080/joas/1234/125606
+#EXTINF:-1,Movistar cine ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4391.ts
+#EXTINF:-1,Movistar Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4387.ts
+#EXTINF:-1,Movistar Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8
+#EXTINF:-1,Movistar Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4392.ts
+#EXTINF:-1,AXN  
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8
+#EXTINF:-1,AXN WHITE 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8
+#EXTINF:-1,AMC 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.m3u8
+#EXTINF:-1,FOX HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8
+#EXTINF:-1,FOX LIFE 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.m3u8
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.m3u8
+#EXTINF:-1,TNT 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
+#EXTINF:-1,CALLE 13 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.m3u8
+#EXTINF:-1,HOLLYWOOD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.m3u8
+#EXTINF:-1,CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/731.m3u8
+#EXTINF:-1,Caza Y Pesca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4373.ts
+#EXTINF:-1,Discovery 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4377.ts
+#EXTINF:-1,Nat geo 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4393.ts
+#EXTINF:-1,Nat Geo Wild 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4394.ts
+#EXTINF:-1,Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4397.ts
+#EXTINF:-1,Bein La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4370.ts
+#EXTINF:-1,la Liga  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4381.ts
+#EXTINF:-1,LA LIGA TV BAR 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8
+#EXTINF:-1,Bein Sports 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4371.ts
+#EXTINF:-1,M Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
+#EXTINF:-1,Gol TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4380.ts
+#EXTINF:-1,Movistar Deportes1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4388.ts
+#EXTINF:-1,Movistar Deportes2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]JHG[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4389.ts
+#EXTINF:-1,Movistar MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
+#EXTINF:-1,Movistar MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
+#EXTINF:-1,Movistar Motogp
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
+#EXTINF:-1,Movistar MotoGP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR lime]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
