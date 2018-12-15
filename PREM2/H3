@@ -1,77 +1,263 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="AMC ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Generalistas",Amc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2729
-
-#EXTINF:-1 tvg-id="AMC ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Generalistas",Amc
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.m3u8
-
-#EXTINF:-1 tvg-id="Axn ASTRA HD 1.sp" tvg-logo="http://images.indulgexpress.com/uploads/user/imagelibrary/2017/11/1/original/AXN-India.jpg" group-title="Generalistas",Axn
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8
-
-#EXTINF:-1 tvg-id="Axn White ASTRA HD 1.sp" tvg-logo="https://www.elpublicista.es/adjuntos/fichero_7025_20120416.jpg" group-title="Generalistas",Axn White
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8
-
-#EXTINF:-1 tvg-id="Syfy ASTRA HD 1.sp" tvg-logo="https://yt3.ggpht.com/a-/AN66SAxcR90v7zwa8GTwihS5osxIoyIbh34Z6HlGoA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Generalistas",Syfy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.m3u8
-
-#EXTINF:-1 tvg-id="Paramount Channel ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1052px-Paramount_Channel.svg.png" group-title="Generalistas",Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://paylasmak-guzeldir.homelinux.org:8080/turan40/turan40/18286
-
-#EXTINF:-1 tvg-id="Hollywood ASTRA HD 1.sp" tvg-logo="http://www.todotele.com/wp-content/uploads/2010/08/canal_hollywood.png" group-title="Generalistas",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/40.ts
-
-#EXTINF:-1 tvg-id="Hollywood ASTRA HD 1.sp" tvg-logo="http://www.todotele.com/wp-content/uploads/2010/08/canal_hollywood.png" group-title="Generalistas",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://paylasmak-guzeldir.homelinux.org:8080/turan40/turan40/18399
-
-#EXTINF:-1 tvg-id="Tcm ASTRA HD 1.sp" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tcm_m.png" group-title="Generalistas",Tcm
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.m3u8
-
-#EXTINF:-1 tvg-id="Fox ASTRA HD 1.sp" tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="Generalistas",Fox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8
-
-#EXTINF:-1 tvg-id="Fox Life ASTRA HD 1.sp" tvg-logo="https://cdn.colombia.com/sdi/2013/11/15/4cfd0fda1a5041488239d694278cab08.jpg" group-title="Generalistas",Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/22.ts
-
-#EXTINF:-1 tvg-id="Fox Life ASTRA HD 1.sp" tvg-logo="https://cdn.colombia.com/sdi/2013/11/15/4cfd0fda1a5041488239d694278cab08.jpg" group-title="Generalistas",Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://paylasmak-guzeldir.homelinux.org:8080/turan40/turan40/18314
-
-#EXTINF:-1 tvg-id="Calle 13 ASTRA HD 1.sp" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/Calle_13_logo.png/revision/latest?cb=20151012192846&path-prefix=es" group-title="Generalistas",Calle 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.m3u8
-
-#EXTINF:-1 tvg-id="#0 ASTRA HD 1.sp" tvg-logo="https://i.ytimg.com/vi/893uz4471CY/maxresdefault.jpg" group-title="Generalistas",#0 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4367.ts
-
-#EXTINF:-1 tvg-id="Movistar series HD 1.sp" tvg-logo="https://media.metrolatam.com/2018/02/19/movistarseries700x394-1200x600.jpg" group-title="Generalistas",Movistar series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8
-
-#EXTINF:-1 tvg-id="Movistar seriesmania HD 1.sp" tvg-logo="http://xn--fotocit-hya.com/M.Seriesmania.png" group-title="Generalistas",Movistar seriesmania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/70.ts
-
-#EXTINF:-1 tvg-id="Movistar seriesmania HD 1.sp" tvg-logo="http://xn--fotocit-hya.com/M.Seriesmania.png" group-title="Generalistas",Movistar seriesmania
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8
-
-#EXTINF:-1 tvg-id="Movistar Estrenos HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg" group-title="Generalistas",Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://paylasmak-guzeldir.homelinux.org:8080/turan40/turan40/18301
-
-#EXTINF:-1 tvg-id="Movistar Estrenos HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg" group-title="Generalistas",Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8
-
-#EXTINF:-1 tvg-id="Movistar Drama HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/bbf9b4c28189eb84713fb1ccf9e6ce0e" group-title="Generalistas",Movistar Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/50.ts
-
-#EXTINF:-1 tvg-id="Movistar Drama HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/bbf9b4c28189eb84713fb1ccf9e6ce0e" group-title="Generalistas",Movistar Drama
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.m3u8
-
-#EXTINF:-1 tvg-id="Movistar Comedia HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.zZUxRAcn7e.jpg" group-title="Generalistas",Movistar Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8
-
-#EXTINF:-1 tvg-id="Movistar Accion HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.8XNnGybpzf.jpg" group-title="Generalistas",Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8
-
-#EXTINF:-1 tvg-id="Movistar Cine ñ 1.sp" tvg-logo="https://www.mundoplus.tv/img/09e36d541ca3c99272d22cf62bce1091" group-title="Generalistas",Movistar Cine ñ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.m3u8
-
-#EXTINF:-1 tvg-id="Somos 1.sp" tvg-logo="http://epsmotiongraphics.com/wp-content/uploads/2016/09/9_SOMOS_01.jpg" group-title="Generalistas",Somos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG.MASTER[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/13120
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13278.ts
+#EXTINF:-1,ES: #0 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13277.ts
+#EXTINF:-1,ES: #VAMOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13293.ts
+#EXTINF:-1,ES: 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13243.ts
+#EXTINF:-1,ES: 3/24 CAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13214.ts
+#EXTINF:-1,ES: 33 CAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13213.ts
+#EXTINF:-1,ES: 7 TV Murcia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13242.ts
+#EXTINF:-1,ES: 8TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13212.ts
+#EXTINF:-1,ES: A3Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/4331.ts
+#EXTINF:-1,ES: Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13211.ts
+#EXTINF:-1,ES: Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/11254.ts
+#EXTINF:-1,ES: Antena 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13241.ts
+#EXTINF:-1,ES: Aragon TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13210.ts
+#EXTINF:-1,ES: AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13276.ts
+#EXTINF:-1,ES: AXN White SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13275.ts
+#EXTINF:-1,ES: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13251.ts
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13306.ts
+#EXTINF:-1,ES: Bein Sports LaLiga SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13303.ts
+#EXTINF:-1,ES: Betis TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13302.ts
+#EXTINF:-1,ES: Blaze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13263.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13240.ts
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13274.ts
+#EXTINF:-1,ES: Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13256.ts
+#EXTINF:-1,ES: Canal Costa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13239.ts
+#EXTINF:-1,ES: Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13250.ts
+#EXTINF:-1,ES: Canal Parlamento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13238.ts
+#EXTINF:-1,ES: Canal Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13209.ts
+#EXTINF:-1,ES: Canal Sur Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13208.ts
+#EXTINF:-1,ES: Canal Sur Flamenco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13230.ts
+#EXTINF:-1,ES: Canal Sur La Banda TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13207.ts
+#EXTINF:-1,ES: Canal Sur Turismo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13206.ts
+#EXTINF:-1,ES: Castilla La Mancha Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13205.ts
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13237.ts
+#EXTINF:-1,ES: Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13273.ts
+#EXTINF:-1,ES: Cosmo TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13272.ts
+#EXTINF:-1,ES: Crime & Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13255.ts
+#EXTINF:-1,ES: Cuatro SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13236.ts
+#EXTINF:-1,ES: Dark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13289.ts
+#EXTINF:-1,ES: Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13254.ts
+#EXTINF:-1,ES: Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13262.ts
+#EXTINF:-1,ES: Discovery Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13235.ts
+#EXTINF:-1,ES: Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13249.ts
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13248.ts
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13247.ts
+#EXTINF:-1,ES: Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13234.ts
+#EXTINF:-1,ES: Dkiss
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13253.ts
+#EXTINF:-1,ES: DW en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13204.ts
+#EXTINF:-1,ES: El Garaje TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13252.ts
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13233.ts
+#EXTINF:-1,ES: Esport 3 CAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13301.ts
+#EXTINF:-1,ES: ETB Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13203.ts
+#EXTINF:-1,ES: Euronews HD en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13202.ts
+#EXTINF:-1,ES: Eurosport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13295.ts
+#EXTINF:-1,ES: Extremadura TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13201.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13232.ts
+#EXTINF:-1,ES: Fox Life SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13270.ts
+#EXTINF:-1,ES: Fox SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13271.ts
+#EXTINF:-1,ES: Galicia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13200.ts
+#EXTINF:-1,ES: Gol SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13231.ts
+#EXTINF:-1,ES: Hispan TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13199.ts
+#EXTINF:-1,ES: Historia HD/SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13261.ts
+#EXTINF:-1,ES: Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13288.ts
+#EXTINF:-1,ES: IB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13198.ts
+#EXTINF:-1,ES: Iberalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13305.ts
+#EXTINF:-1,ES: intereconomia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13229.ts
+#EXTINF:-1,ES: LA 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13228.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13227.ts
+#EXTINF:-1,ES: La 8 Mediterráneo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13197.ts
+#EXTINF:-1,ES: La Liga TV BAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13300.ts
+#EXTINF:-1,ES: La Otra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13196.ts
+#EXTINF:-1,ES: Lancelot TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13195.ts
+#EXTINF:-1,ES: Levante TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13194.ts
+#EXTINF:-1,ES: Libertad Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13225.ts
+#EXTINF:-1,ES: Mega SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13224.ts
+#EXTINF:-1,ES: Mezzo Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13188.ts
+#EXTINF:-1,ES: Mezzo Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13187.ts
+#EXTINF:-1,ES: Movistar  Accion SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13287.ts
+#EXTINF:-1,ES: Movistar  Cine N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13286.ts
+#EXTINF:-1,ES: Movistar  Comedia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13285.ts
+#EXTINF:-1,ES: Movistar  Deportes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13294.ts
+#EXTINF:-1,ES: Movistar  Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13283.ts
+#EXTINF:-1,ES: Movistar  Estrenos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13282.ts
+#EXTINF:-1,ES: Movistar  Formula 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13292.ts
+#EXTINF:-1,ES: Movistar  Futbol SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13299.ts
+#EXTINF:-1,ES: Movistar  Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13291.ts
+#EXTINF:-1,ES: Movistar  Moto GP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13290.ts
+#EXTINF:-1,ES: Movistar  Partidazo SD (LIVE DURING MATCH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13296.ts
+#EXTINF:-1,ES: Movistar  Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13269.ts
+#EXTINF:-1,ES: Movistar CineDoc&Roll
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13281.ts
+#EXTINF:-1,ES: Movistar Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/14863.ts
+#EXTINF:-1,ES: Movistar Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/14868.ts
+#EXTINF:-1,ES: Movistar Drama SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13284.ts
+#EXTINF:-1,ES: Movistar Formula 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/14867.ts
+#EXTINF:-1,ES: Movistar Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/14866.ts
+#EXTINF:-1,ES: Movistar Golf FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/14865.ts
+#EXTINF:-1,ES: Movistar Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/14864.ts
+#EXTINF:-1,ES: Movistar Seriesmanía SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13268.ts
+#EXTINF:-1,ES: MTV Espana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13267.ts
+#EXTINF:-1,ES: Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13260.ts
+#EXTINF:-1,ES: National Geoghraphic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13259.ts
+#EXTINF:-1,ES: Neox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13223.ts
+#EXTINF:-1,ES: Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13246.ts
+#EXTINF:-1,ES: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13245.ts
+#EXTINF:-1,ES: Nonstopeople
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13266.ts
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13222.ts
+#EXTINF:-1,ES: Nova HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/4310.ts
+#EXTINF:-1,ES: Odisea SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13258.ts
+#EXTINF:-1,ES: Onda Azul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13193.ts
+#EXTINF:-1,ES: Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13221.ts
+#EXTINF:-1,ES: Real Madrid SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13298.ts
+#EXTINF:-1,ES: Sevilla FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13297.ts
+#EXTINF:-1,ES: Sundance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13280.ts
+#EXTINF:-1,ES: Super3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13244.ts
+#EXTINF:-1,ES: SyFy SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13265.ts
+#EXTINF:-1,ES: TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13279.ts
+#EXTINF:-1,ES: Telecinco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13220.ts
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13219.ts
+#EXTINF:-1,ES: Teledeporte SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13218.ts
+#EXTINF:-1,ES: TeleMadrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13191.ts
+#EXTINF:-1,ES: TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13217.ts
+#EXTINF:-1,ES: TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13264.ts
+#EXTINF:-1,ES: Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13304.ts
+#EXTINF:-1,ES: Trece
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13216.ts
+#EXTINF:-1,ES: TV Canaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13215.ts
+#EXTINF:-1,ES: TV3. CAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13190.ts
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13186.ts
+#EXTINF:-1,ES: VH1 Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13185.ts
+#EXTINF:-1,ES: Viajar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13257.ts
+#EXTINF:-1,ES: XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13189.ts
+#EXTINF:-1,España | Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13065.ts
