@@ -1,102 +1,437 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8
-
-#EXTINF:-1 tvg-id="La Liga ASTRA HD 1.sp" tvg-logo="https://static.beinconnect.es/uploads/beinsports/web/img/competiciones/laliga-santander.png" group-title="Generalistas",La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13006.ts
-
-
-#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts
-
-#EXTINF:-1 tvg-id="Futbol ASTRA HD 1.sp" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-futbol.jpg.pagespeed.ic.U_EKMck1i1.jpg" group-title="Generalistas",Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
-
-#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7702.ts
-
-#EXTINF:-1 TVtvg-id="Gol ASTRA HD 1.sp" tvg-logo="http://teleprograma.diezminutos.es/var/plan_site/storage/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible_gallery_a.jpg" group-title="Generalistas",Gol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
-
-#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15433.ts
-
-#EXTINF:-1 tvg-id="Vamos ASTRA HD 1.sp" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="Generalistas",Vamos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8
-
-#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
-
-#EXTINF:-1 tvg-id="Deportes ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="Generalistas",Deportes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/72.ts
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/36.ts
-
-#EXTINF:-1 tvg-id="Formula 1 ASTRA HD 1.sp" tvg-logo="http://lh6.ggpht.com/_gKQKwLZ8XUs/TIvsZTMx7tI/AAAAAAAADyE/53Jr585dfOM/s800/logos-hidden-symbolism-f-1.jpg" group-title="Generalistas",Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15437.ts
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/35.ts
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/73.ts
-
-#EXTINF:-1 tvg-id="Moto GP ASTRA HD 1.sp" tvg-logo="https://okdiario.com/img/2016/04/moto-gp-655x368.png" group-title="Generalistas",Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/12541.ts
-
-#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
-
-#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/92.ts
-
-#EXTINF:-1 tvg-id="Liga de Campeones ASTRA HD 1.sp" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg" group-title="Generalistas",Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/141.ts
-
-#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
-
-#EXTINF:-1 tvg-id="Golf ASTRA HD 1.sp" tvg-logo="https://pbs.twimg.com/profile_images/907902602322616320/VQY1WSLe_400x400.jpg" group-title="Generalistas",Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
-
-#EXTINF:-1 tvg-id="Bein Max ASTRA HD 1.sp" tvg-logo="https://satcesc.com/web/wp-content/uploads/2016/02/Bein-Sport-Max.jpg" group-title="Generalistas",Bein Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/13008.ts
-
-#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://cdntumarc01.azureedge.net/live/t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts
-
-#EXTINF:-1 tvg-id="Bein Sport La liga ASTRA HD 1.sp" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/bein-laliga.jpg" group-title="Generalistas",Bein Sport La liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts
-
-#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/7680.ts
-
-#EXTINF:-1 tvg-id="Eurosport 1 ASTRA HD 1.sp" tvg-logo="https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg" group-title="Generalistas",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://esun-tv.ddns.net:6500/live/12esun0919c6/4twUXJxa4b/15475.ts
-
-#EXTINF:-1 tvg-id="Eurosport 2 ASTRA HD 1.sp" tvg-logo="https://png2.kisspng.com/20180623/fpp/kisspng-eurosport-1-eurosport-2-television-channel-channel-7-5b2e9e6fe11c51.8595981115297818719221.png" group-title="Generalistas",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]JHG[/COLOR];url=hhttp://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.m3u8
-
-#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/100.ts
-
-#EXTINF:-1 tvg-id="Ufc ASTRA HD 1.sp" tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="Generalistas",Ufc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=painfree.blackeviltv.com:9000/live/blackeviltv/gratis/93.ts
+#EXTINF:-1,=======ESPANA=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4759
+#EXTINF:-1,ES:LA_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4758
+#EXTINF:-1,ES:LA_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4757
+#EXTINF:-1,ES:LA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4756
+#EXTINF:-1,ES:LA_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4755
+#EXTINF:-1,ES:ANTENA_3_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4754
+#EXTINF:-1,ES:ANTENA_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4753
+#EXTINF:-1,ES:CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4752
+#EXTINF:-1,ES:CUATRO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4751
+#EXTINF:-1,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4750
+#EXTINF:-1,ES:TELECINCO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4749
+#EXTINF:-1,ES:LA_SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4748
+#EXTINF:-1,ES:LA_SEXTA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4747
+#EXTINF:-1,ES:CANALSUR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4746
+#EXTINF:-1,ES:CANALSUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4745
+#EXTINF:-1,ES:CANALSUR_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4744
+#EXTINF:-1,ES:TELENOVELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4743
+#EXTINF:-1,ES:ETB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4742
+#EXTINF:-1,ES:CANAL_ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4741
+#EXTINF:-1,ES:CANAL_ANDALUCIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4740
+#EXTINF:-1,ES:A3SERIES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4739
+#EXTINF:-1,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4738
+#EXTINF:-1,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4737
+#EXTINF:-1,ES:NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4736
+#EXTINF:-1,ES:NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4735
+#EXTINF:-1,ES:BEMAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4734
+#EXTINF:-1,ES:BEMAD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4733
+#EXTINF:-1,ES:TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4732
+#EXTINF:-1,ES:CANAL_COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4870
+#EXTINF:-1,ES:DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4731
+#EXTINF:-1,ES:DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4730
+#EXTINF:-1,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4729
+#EXTINF:-1,ES:IBERALIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4728
+#EXTINF:-1,ES:CLASICA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4727
+#EXTINF:-1,ES:ARAGON_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4726
+#EXTINF:-1,ES:CASTILLA_LA_MANCHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4725
+#EXTINF:-1,ES:CLAN_TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4724
+#EXTINF:-1,ES:CLAN_TVE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4723
+#EXTINF:-1,ES:TVM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4722
+#EXTINF:-1,ES:ANDORRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4721
+#EXTINF:-1,ES:7RM_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4720
+#EXTINF:-1,ES:POPULAR_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4719
+#EXTINF:-1,ES:BOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4718
+#EXTINF:-1,ES:TRECE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4717
+#EXTINF:-1,ES:MURCIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4716
+#EXTINF:-1,ES:24_HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4715
+#EXTINF:-1,ES:CUBAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4714
+#EXTINF:-1,ES:3/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4713
+#EXTINF:-1,ES:FOX_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4861
+#EXTINF:-1,ES:RTVCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4712
+#EXTINF:-1,ES:TELE_ASTURIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4711
+#EXTINF:-1,ES:CANAL_EXTREMADURA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4710
+#EXTINF:-1,ES:BETIS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4709
+#EXTINF:-1,=======CINE=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4806
+#EXTINF:-1,ES:#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4804
+#EXTINF:-1,ES:#0_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4805
+#EXTINF:-1,ES:#0+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8447
+#EXTINF:-1,ES:MOVISTAR_COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4803
+#EXTINF:-1,ES:MOVISTAR_COMEDIA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4802
+#EXTINF:-1,ES:MOVISTAR_COMEDIA+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8427
+#EXTINF:-1,ES:MOVISTAR_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4801
+#EXTINF:-1,ES:MOVISTAR_DRAMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4800
+#EXTINF:-1,ES:MOVISTAR_DRAMA+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8426
+#EXTINF:-1,ES:M.CINEDOC&ROLL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4796
+#EXTINF:-1,ES:M.CINEDOC&ROLL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4797
+#EXTINF:-1,ES:M.CINEDOC&ROLL+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8425
+#EXTINF:-1,ES:SERIESMANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4799
+#EXTINF:-1,ES:SERIESMANIA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4798
+#EXTINF:-1,ES:SERIESMANIA+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8424
+#EXTINF:-1,ES:MOVISTAR_ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4795
+#EXTINF:-1,ES:MOVISTAR_ESTRENOS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4794
+#EXTINF:-1,ES:MOVISTAR_ESTRENOS+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8423
+#EXTINF:-1,ES:MOVISTAR_ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4793
+#EXTINF:-1,ES:MOVISTAR_ACCION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4792
+#EXTINF:-1,ES:MOVISTAR_ACCION+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8422
+#EXTINF:-1,ES:MOVISTAR_SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4790
+#EXTINF:-1,ES:MOVISTAR_SERIES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4791
+#EXTINF:-1,ES:MOVISTAR_SERIES+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8421
+#EXTINF:-1,ES:MOVISTAR_CINE_N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4789
+#EXTINF:-1,ES:MOVISTAR_CINE_N+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8420
+#EXTINF:-1,ES:HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4788
+#EXTINF:-1,ES:HOLLYWOOD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4787
+#EXTINF:-1,ES:HOLLYWOOD+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8441
+#EXTINF:-1,ES:XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4780
+#EXTINF:-1,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4771
+#EXTINF:-1,ES:AMC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4770
+#EXTINF:-1,ES:AMC+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8446
+#EXTINF:-1,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4775
+#EXTINF:-1,ES:AXN_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4774
+#EXTINF:-1,ES:AXN+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8445
+#EXTINF:-1,ES:AXN_WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4773
+#EXTINF:-1,ES:AXN_WHITE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4772
+#EXTINF:-1,ES:AXN_WHITE+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8444
+#EXTINF:-1,ES:CALLE_13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4778
+#EXTINF:-1,ES:CALLE_13_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4777
+#EXTINF:-1,ES:CALLE_13+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8443
+#EXTINF:-1,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4763
+#EXTINF:-1,ES:FOX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4762
+#EXTINF:-1,ES:FOX+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8442
+#EXTINF:-1,ES:FOX_LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4765
+#EXTINF:-1,ES:FOX_LIFE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4764
+#EXTINF:-1,ES:SYFY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4767
+#EXTINF:-1,ES:SYFY+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8439
+#EXTINF:-1,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4786
+#EXTINF:-1,ES:TCM_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4785
+#EXTINF:-1,ES:TCM+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8438
+#EXTINF:-1,ES:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4776
+#EXTINF:-1,ES:SUNDANCE+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8440
+#EXTINF:-1,ES:TNT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4784
+#EXTINF:-1,ES:TNT+2H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8437
+#EXTINF:-1,ES:PARAMOUNT_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4768
+#EXTINF:-1,ES:CANAL_DE_LAS_ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4779
+#EXTINF:-1,ES:COMEDY_CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4769
+#EXTINF:-1,ES:COSMO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4761
+#EXTINF:-1,ES:DARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4782
+#EXTINF:-1,ES:DE_PELICULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4781
+#EXTINF:-1,ES:MEGA_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4766
+#EXTINF:-1,ES:SOMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4783
+#EXTINF:-1,=======DEPORTE=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4859
+#EXTINF:-1,ES:BEIN_LA_LIGA_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4835
+#EXTINF:-1,ES:BEIN_LA_LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8475
+#EXTINF:-1,ES:BEIN_LA_LIGA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4836
+#EXTINF:-1,ES:LA_LIGATVBAR_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4838
+#EXTINF:-1,ES:LA_LIGATVBAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8474
+#EXTINF:-1,ES:LA_LIGATVBAR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4839
+#EXTINF:-1,ES:LA_LIGA123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4823
+#EXTINF:-1,ES:M.LCAMPEONES_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4847
+#EXTINF:-1,ES:M.LCAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8473
+#EXTINF:-1,ES:M.LCAMPEONES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4848
+#EXTINF:-1,ES:VAMOS_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/5598
+#EXTINF:-1,ES:VAMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8489
+#EXTINF:-1,ES:VAMOS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/5599
+#EXTINF:-1,ES:MOVISTAR_DEPORTES_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4812
+#EXTINF:-1,ES:MOVISTAR_DEPORTES_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4811
+#EXTINF:-1,ES:MOVISTAR_F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4852
+#EXTINF:-1,ES:MOVISTAR_F1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4851
+#EXTINF:-1,ES:MOVISTAR_GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4810
+#EXTINF:-1,ES:MOVISTAR_GOLF_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4815
+#EXTINF:-1,ES:MOVISTAR_MOTO_GP_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4853
+#EXTINF:-1,ES:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4850
+#EXTINF:-1,ES:M.ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4816
+#EXTINF:-1,ES:EUROSPORT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4819
+#EXTINF:-1,ES:EUROSPORT_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4818
+#EXTINF:-1,ES:EUROSPORT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4817
+#EXTINF:-1,ES:GOL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4856
+#EXTINF:-1,ES:BARCA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4809
+#EXTINF:-1,ES:REAL_MADRID_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4808
+#EXTINF:-1,ES:REAL_MADRID_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4807
+#EXTINF:-1,ES:SEVILLA_FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4857
+#EXTINF:-1,ES:TDP_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4849
+#EXTINF:-1,ES:TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4873
+#EXTINF:-1,ES:TOROS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4872
+#EXTINF:-1,=======SOLO_PARTIDO=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4858
+#EXTINF:-1,ES:MOVISTAR_PARTIZADO_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4855
+#EXTINF:-1,ES:MOVISTAR_PARTIZADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8472
+#EXTINF:-1,ES:MOVISTAR_PARTIDAZO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4854
+#EXTINF:-1,ES:LA_LIGA_TVBAR_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4837
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_1_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8463
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8477
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4846
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_2_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4845
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8476
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4844
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_3_LBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4843
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8490
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4842
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4841
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8465
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8464
+#EXTINF:-1,ES:M.LIGA_DE_CAMPEONES_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4840
+#EXTINF:-1,ES:MULTI_FUTBOL_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4824
+#EXTINF:-1,ES:BEIN_LA_LIGA_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4834
+#EXTINF:-1,ES:BEIN_LA_LIGA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4833
+#EXTINF:-1,ES:BEIN_LA_LIGA_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4832
+#EXTINF:-1,ES:BEIN_LA_LIGA_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4831
+#EXTINF:-1,ES:BEIN_LA_LIGA_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4830
+#EXTINF:-1,ES:BEIN_LA_LIGA_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4829
+#EXTINF:-1,ES:LALIGA_123_TV_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4822
+#EXTINF:-1,ES:LALIGA_123_TV_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4821
+#EXTINF:-1,ES:LALIGA_123_TV_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4820
+#EXTINF:-1,ES:MULTI_DEPORTE_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4828
+#EXTINF:-1,ES:MULTI_DEPORTE_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4827
+#EXTINF:-1,ES:MULTI_DEPORTE_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4826
+#EXTINF:-1,ES:MULTI_DEPORTE_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4825
+#EXTINF:-1,======DOCUMENTO=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4877
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4866
+#EXTINF:-1,ES:NAT_GEO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4865
+#EXTINF:-1,ES:NATIONAL_GEO_WILD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4864
+#EXTINF:-1,ES:DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4867
+#EXTINF:-1,ES:CRIMEN INVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4869
+#EXTINF:-1,ES:BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4868
+#EXTINF:-1,ES:CANAL_DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4862
+#EXTINF:-1,ES:CAZAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4874
+#EXTINF:-1,ES:CAZA_Y_PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4876
+#EXTINF:-1,ES:CAZA_Y_PESCA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4875
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4863
+#EXTINF:-1,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4860
+#EXTINF:-1,ES:VIAJAR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4871
+#EXTINF:-1,=======NINO=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4887
+#EXTINF:-1,ES:MOVISTAR_DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4886
+#EXTINF:-1,ES:DISNEY_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4880
+#EXTINF:-1,ES:DISNEY_CHANNEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4879
+#EXTINF:-1,ES:DISNEY_JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4878
+#EXTINF:-1,ES:NICKELODEON_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4885
+#EXTINF:-1,ES:NICK_JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4884
+#EXTINF:-1,ES:BABY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4883
+#EXTINF:-1,ES:BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4882
+#EXTINF:-1,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4881
+#EXTINF:-1,======MUSICA======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4894
+#EXTINF:-1,ES:MTV_ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4893
+#EXTINF:-1,ES:SOL_MUSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4888
+#EXTINF:-1,ES:VIRGIN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4891
+#EXTINF:-1,ES:CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4890
+#EXTINF:-1,ES:RITMOSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4889
+#EXTINF:-1,ES:TELEHIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/4892
+#EXTINF:-1,ES:VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8495
+#EXTINF:-1,ES:VH1_CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ch.xtra7tv.com:8000/6fdmv54u/2mnpujup/8494
