@@ -1,336 +1,212 @@
 #EXTM3U
 
-#EXTINF:-1,ES | 24 Horas-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16359
-#EXTINF:-1,ES | A&E-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1207
-#EXTINF:-1,ES | AXN 720P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/288466
-#EXTINF:-1,ES | AMC-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25571
-#EXTINF:-1,ES | Antena 3 HD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1160
-#EXTINF:-1,ES | Antena 3 720P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283564
-#EXTINF:-1,ES | Cuatro HD 720P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283565
-#EXTINF:-1,ES | AXN HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16354
-#EXTINF:-1,ES | AXN WHITE HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1205
-#EXTINF:-1,ES | Baby TV-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/7785
-#EXTINF:-1,ES | Barca TV-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1232
-#EXTINF:-1,ES | beIN La Liga123 HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11815
-#EXTINF:-1,ES | A3SERIES HD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/266099
-#EXTINF:-1,ES | beIN Max 1 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11814
-#EXTINF:-1,ES | beIN Max 2 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11816
-#EXTINF:-1,ES | beIN Max 3 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11818
-#EXTINF:-1,ES | beIN Max 4 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11819
-#EXTINF:-1,ES | beIN Max 5 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11820
-#EXTINF:-1,ES | beIN Max 6 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11821
-#EXTINF:-1,ES | beIN Max 7 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11822
-#EXTINF:-1,ES | beIN Max 8 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11823
-#EXTINF:-1,ES | Bein Sports HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1225
-#EXTINF:-1,ES | BOING-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25564
-#EXTINF:-1,ES | Calle 13-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1209
-#EXTINF:-1,ES | Canal #0 HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16360
-#EXTINF:-1,ES | CANAL COCINA-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16331
-#EXTINF:-1,ES | Canal  DEPORTES HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16340
-#EXTINF:-1,ES | Canal Odisea-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1241
-#EXTINF:-1,ES | Canal SUR-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11808
-#EXTINF:-1,ES | Canal  TOROS HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16333
-#EXTINF:-1,ES | Caza Y Pesca-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1243
-#EXTINF:-1,ES | Clan TVE-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1168
-#EXTINF:-1,ES | COSMO HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16324
-#EXTINF:-1,ES | CRIMEN INVESTIGACION-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25557
-#EXTINF:-1,ES | CUATRO FHD 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25559
-#EXTINF:-1,ES | Decasa-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1174
-#EXTINF:-1,ES | DISCOVERY CHANNEL HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16320
-#EXTINF:-1,ES | DISNEY CHANNEL HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/21511
-#EXTINF:-1,ES | DISNEY JUNIOR-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/21438
-#EXTINF:-1,ES | Disney XD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1206
-#EXTINF:-1,ES | DISNEY XD 1080P-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25554
-#EXTINF:-1,ES | Divinity-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1187
-#EXTINF:-1,ES | Energy-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1211
-#EXTINF:-1,ES | EUROSPORT 1-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16314
-#EXTINF:-1,ES | FDF-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16312
-#EXTINF:-1,ES | Fox LIFE HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1199
-#EXTINF:-1,ES | GOL-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/34086
-#EXTINF:-1,ES | HISTORIA-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16308
-#EXTINF:-1,ES | HOLLYWOOD HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16307
-#EXTINF:-1,ES | LA 1 HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16305
-#EXTINF:-1,ES | La 2-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1159
-#EXTINF:-1,ES | La Liga HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1169
-#EXTINF:-1,ES | La Sexta-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1164
-#EXTINF:-1,ES | Mega HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25539
-#EXTINF:-1,ES | Miami TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1181
-#EXTINF:-1,ES | Miami TV ESP HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1182
-#EXTINF:-1,ES | Movistar Accion-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1175
-#EXTINF:-1,ES | Movistar COMEDIA-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25536
-#EXTINF:-1,ES | Movistar DCine-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1179
-#EXTINF:-1,ES | Movistar DEPORTES 2-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25534
-#EXTINF:-1,ES | Movistar ESTRENOS-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25533
-#EXTINF:-1,ES | Movistar F1 HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16300
-#EXTINF:-1,ES | Movistar Futbol HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1215
-#EXTINF:-1,ES | Movistar Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1223
-#EXTINF:-1,ES | Movistar MotoGP HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1227
-#EXTINF:-1,ES | Movistar Series Xtra-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1185
-#EXTINF:-1,ES | Movistar Series Xtra HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1186
-#EXTINF:-1,ES | MTV ESPANA-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16296
-#EXTINF:-1,ES | Multideporte 1 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11825
-#EXTINF:-1,ES | Multideporte 2 {Live match}-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/11826
-#EXTINF:-1,ES | Nat Geo-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1233
-#EXTINF:-1,ES | NAT GEO WILD HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1236
-#EXTINF:-1,ES | NEOX-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16293
-#EXTINF:-1,ES | Nick jr-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1234
-#EXTINF:-1,ES | NICKELODEON HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16291
-#EXTINF:-1,ES | Nova-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1165
-#EXTINF:-1,ES | PANDA-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16287
-#EXTINF:-1,ES | Paramount-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1194
-#EXTINF:-1,ES | Real Madrid TV HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1231
-#EXTINF:-1,ES | SYFY-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25513
-#EXTINF:-1,ES | TCM-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1191
-#EXTINF:-1,ES | Telecinco-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1162
-#EXTINF:-1,ES | TELEDEPORTE HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/16282
-#EXTINF:-1,ES | TNT HD-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/7861
-#EXTINF:-1,ES | TV Galicia-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/34092
-#EXTINF:-1,ES | VIAJAR-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/25506
-#EXTINF:-1,ES | Fox HD 1080P-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/1195
-#EXTINF:-1,ES | EUROSPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/21432
-#EXTINF:-1,ES | La Liga Bar 1 UHD 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283293
-#EXTINF:-1,ES | La Liga 123 Multi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283295
-#EXTINF:-1,ES | LA LIGA 123 MULTI 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283296
-#EXTINF:-1,ES | LA LIGA 123 MULTI 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283297
-#EXTINF:-1,ES | BEIN LALIGA3 (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283298
-#EXTINF:-1,ES | BEIN LALIGA2 (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283299
-#EXTINF:-1,ES | BEIN LALIGA1 (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283300
-#EXTINF:-1,ES | MULTIFUT. 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283301
-#EXTINF:-1,ES | MULTIFUT. 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283302
-#EXTINF:-1,ES | MULTIFUT. 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283303
-#EXTINF:-1,ES | MULTIFUT. 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283304
-#EXTINF:-1,ES | MULTIDEP.5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283305
-#EXTINF:-1,ES | MULTIDEP.4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283306
-#EXTINF:-1,ES | MULTIDEP.3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283307
-#EXTINF:-1,ES | MULTIDEP.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283308
-#EXTINF:-1,ES | MULTIDEP.1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283309
-#EXTINF:-1,ES | M.Partidazo HD 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283310
-#EXTINF:-1,ES | M.Partidazo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283311
-#EXTINF:-1,ES | BEINLALIGA8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283312
-#EXTINF:-1,ES | BEINLALIGA7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283313
-#EXTINF:-1,ES | BEINLALIGA6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283314
-#EXTINF:-1,ES | BEINLALIGA5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283315
-#EXTINF:-1,ES | BEINLALIGA4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283316
-#EXTINF:-1,ES | BEINLALIGA3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283317
-#EXTINF:-1,ES | BEINLALIGA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283318
-#EXTINF:-1,ES | BEINLALIGA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283319
-#EXTINF:-1,ES | Liga de Campeones 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283320
-#EXTINF:-1,ES | Liga de Campeones 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283321
-#EXTINF:-1,ES | Liga de Campeones 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283322
-#EXTINF:-1,ES | Liga de Campeones 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283323
-#EXTINF:-1,ES | Liga de Campeones 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283324
-#EXTINF:-1,ES | Liga de Campeones 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283325
-#EXTINF:-1,ES | Liga de Campeones 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283326
-#EXTINF:-1,ES | Liga de Campeones 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283327
-#EXTINF:-1,ES | Partidazo HD ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283328
-#EXTINF:-1,ES | MULTIFUTBOL  8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283329
-#EXTINF:-1,ES | MULTIFUTBOL  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283330
-#EXTINF:-1,ES | MULTIFUTBOL  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283331
-#EXTINF:-1,ES | MULTIFUTBOL  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283332
-#EXTINF:-1,ES | MULTIFUTBOL  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283333
-#EXTINF:-1,ES | MULTIFUTBOL  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283334
-#EXTINF:-1,ES | MULTIFUTBOL  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283335
-#EXTINF:-1,ES | MULTIFUTBOL  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283336
-#EXTINF:-1,ES | MULTIDEPORTE  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283337
-#EXTINF:-1,ES | MULTIDEPORTE  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283338
-#EXTINF:-1,ES | MULTIDEPORTE  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283339
-#EXTINF:-1,ES | MULTIDEPORTE  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283340
-#EXTINF:-1,ES | MULTIDEPORTE  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283341
-#EXTINF:-1,ES | MULTIDEPORTE  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283342
-#EXTINF:-1,ES | MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283343
-#EXTINF:-1,ES | MULTI DEPORTE  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283344
-#EXTINF:-1,ES | LIGA DE CAMPEONES4  ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283345
-#EXTINF:-1,ES | LIGA DE CAMPEONES UHD 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283346
-#EXTINF:-1,ES | LIGA DE CAMPEONES 8 ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283347
-#EXTINF:-1,ES | LIGA DE CAMPEONES 7  ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283348
-#EXTINF:-1,ES | LIGA DE CAMPEONES 6  ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283349
-#EXTINF:-1,ES | LIGA DE CAMPEONES 5  ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283350
-#EXTINF:-1,ES | LIGA DE CAMPEONES 3  ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283351
-#EXTINF:-1,ES | LIGA DE CAMPEONES 2  ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283352
-#EXTINF:-1,ES | LIGA DE CAMPEONES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283353
-#EXTINF:-1,ES | LIGA DE CAMPEONES 1 ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283354
-#EXTINF:-1,ES | LIGA CAMPEONES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283355
-#EXTINF:-1,ES | LIGA CAMPEONES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283356
-#EXTINF:-1,ES | LIGA CAMPEONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283357
-#EXTINF:-1,ES | LA LIGATV BAR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283358
-#EXTINF:-1,ES | BEIN LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283359
-#EXTINF:-1,ES | BEIN LALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283360
-#EXTINF:-1,ES | BEIN LALIGA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283361
-#EXTINF:-1,ES | BEIN LALIGA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283362
-#EXTINF:-1,ES | BEIN LALIGA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283363
-#EXTINF:-1,ES | BEIN LALIGA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283364
-#EXTINF:-1,ES | BEIN LALIGA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283365
-#EXTINF:-1,ES | BEIN LALIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283366
-#EXTINF:-1,ES | BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283367
-#EXTINF:-1,ES | BEIN  LALIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283368
-#EXTINF:-1,ES | BEIN LALIGA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283369
-#EXTINF:-1,ES | BEIN  LALIGA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283370
-#EXTINF:-1,ES | BEIN  LALIGA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/283371
-#EXTINF:-1,ES | La Liga 123 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]MiraTV[/COLOR];url=http://158.69.54.221:25461/100/100/290898
+#EXTM3U
+#EXTINF:-1,************Primera Opción************
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2966
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://iptv.wtf:25461/live/Mpedreros/Morreiro1/13271.ts
+#EXTINF:-1,FOX Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2965
+#EXTINF:-1,Hollywood 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2962
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/3000
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2998
+#EXTINF:-1,SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2924
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2996
+#EXTINF:-1,AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2995
+#EXTINF:-1,Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2989
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2981
+#EXTINF:-1,TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2912
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2911
+
+
+
+#EXTINF:-1,Movistar Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2954
+#EXTINF:-1,Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2953
+#EXTINF:-1,Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2952
+#EXTINF:-1,Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2946
+#EXTINF:-1,Movistar Series 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2941
+#EXTINF:-1,Movistar Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2940
+#EXTINF:-1,Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2939
+#EXTINF:-1,Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2938
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/3003
+#EXTINF:-1,#0 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/3002
+
+#EXTINF:-1,DeCasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2988
+#EXTINF:-1,Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2986
+#EXTINF:-1,Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2983
+#EXTINF:-1,Cosmopolitan TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2980
+#EXTINF:-1,Crimen Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2979
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2935
+#EXTINF:-1,Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2936
+#EXTINF:-1,Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2908
+#EXTINF:-1,Toros Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2910
+
+#EXTINF:-1,beIN La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2992
+#EXTINF:-1,beIN La LigaTV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2959
+#EXTINF:-1,Bein LaLIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2991
+#EXTINF:-1,Bein Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2990
+#EXTINF:-1,Canal  Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2987
+#EXTINF:-1,Gol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2964
+#EXTINF:-1,Movistar Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2948
+#EXTINF:-1,Movistar Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2947
+#EXTINF:-1,Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2945
+#EXTINF:-1,Movistar Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2944
+
+#EXTINF:-1,************Segunda Opción************
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://tv.hotboxtv.net:8000/fred/fred/2
+
+#EXTINF:-1,Movistar #0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/35.ts
+#EXTINF:-1,#Vamos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/46.ts
+#EXTINF:-1,BeMad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/49.ts
+#EXTINF:-1,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/57.ts
+#EXTINF:-1,BeiN La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/59.ts
+#EXTINF:-1,beIN La Liga (Opcion2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/47.ts
+#EXTINF:-1,Movistar Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/78.ts
+#EXTINF:-1,La Liga TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/42.ts
+#EXTINF:-1,LA LIGA TV (opcion2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/74.ts
+#EXTINF:-1,LaLiga 123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/58.ts
+#EXTINF:-1,La Liga 123 (Opcion2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/73.ts
+#EXTINF:-1,Movistar Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/34.ts
+#EXTINF:-1,Movistar Liga de Campeones (Opcion2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/50.ts
+#EXTINF:-1,Movistar Partidazo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/79.ts
+#EXTINF:-1,Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/44.ts
+#EXTINF:-1,GoL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/60.ts
+#EXTINF:-1,Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/55.ts
+#EXTINF:-1,Movistar Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/22.ts
+#EXTINF:-1,FIGHT CANAL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/70.ts
+#EXTINF:-1,FIGHT CANAL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/71.ts
+#EXTINF:-1,FIGHT CANAL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/72.ts
+#EXTINF:-1,Movistar Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/52.ts
+#EXTINF:-1,Movistar Formula 1 (Opcion2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/53.ts
+#EXTINF:-1,Movistar Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/69.ts
+#EXTINF:-1,Movistar DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/15.ts
+#EXTINF:-1,Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/16.ts
+#EXTINF:-1,Movistar Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/45.ts
+#EXTINF:-1,Movistar Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/12.ts
+#EXTINF:-1,Movistar Serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/13.ts
+#EXTINF:-1,Movistar Series xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/14.ts
+#EXTINF:-1,Movistar Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/19.ts
+#EXTINF:-1,GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/43.ts
+#EXTINF:-1,Movistar Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/41.ts
+#EXTINF:-1,Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/26.ts
+#EXTINF:-1,Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/24.ts
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/10.ts
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/11.ts
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/54.ts
+#EXTINF:-1,DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/36.ts
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/29.ts
+#EXTINF:-1,Baby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/21.ts
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/37.ts
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/38.ts
+#EXTINF:-1,National GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/32.ts
+#EXTINF:-1,NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/33.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/40.ts
+#EXTINF:-1,DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/39.ts
+#EXTINF:-1,Iberalia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/77.ts
+#EXTINF:-1,Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/56.ts
+#EXTINF:-1,Crime Investigacion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/28.ts
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/27.ts
+#EXTINF:-1,Canal Odesea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/8.ts
+#EXTINF:-1,Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/18.ts
+#EXTINF:-1,AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/30.ts
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/31.ts
+#EXTINF:-1,Andalucia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/7.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white]JHG[/COLOR];url=http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/20.ts
