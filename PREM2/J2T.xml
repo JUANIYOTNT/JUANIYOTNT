@@ -45,8 +45,8 @@
 
 <item>
 <title>[COLOR lime] LISTA 2 [/COLOR]</title>
-<thumbnail>https://i.imgur.com/7WAlNM0.jpg</thumbnail>
-<fanart>https://i.imgur.com/7WAlNM0.jpg</fanart>
+<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
+<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
 </item>
@@ -68,14 +68,35 @@
 
 <item>
 <title>[COLOR lime] LISTA 5 [/COLOR]</title>
-<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
-<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list2.xml</externallink>
 </item>
 
 
 
+  
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] CANALES JHG [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['LISTA 1','LISTA 2','LISTA 3',])
+   lists = ['https://bit.ly/2EIIEVp', 'https://bit.ly/2V0YRKk', 'https://bit.ly/2GwbdqH',]
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/bHGVK2G.jpg</thumbnail>
+<fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
+</item>
 
 	
 <item>
