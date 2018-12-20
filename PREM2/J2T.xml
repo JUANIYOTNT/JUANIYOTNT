@@ -15,8 +15,19 @@
 </item>
 
 
+
  <item>
-        <title>[COLOR blue]  lista 1 nuevo....[/COLOR]</title>
+        <title>[COLOR blue] CANALES DEPORTES (NUEVO)[/COLOR]</title>
+        <link>_</link>
+        <externallink>https://freeiptv.io/xml/vpi43_sport.php?c=SP</externallink>
+         <thumbnail></thumbnail>
+        <fanart></fanart>
+</item>
+
+
+
+ <item>
+        <title>[COLOR blue]  CANALES VARIADOS [/COLOR]</title>
         <link>_</link>
         <externallink>https://freeiptv.io/xml/r2g6e_normal.php?c=SP</externallink>
         <thumbnail></thumbnail>
@@ -33,7 +44,7 @@
 
 
 <item>
-<title>[COLOR lime] LISTA PREMIUM 5 [/COLOR]</title>
+<title>[COLOR lime] LISTA 2 [/COLOR]</title>
 <thumbnail>https://i.imgur.com/7WAlNM0.jpg</thumbnail>
 <fanart>https://i.imgur.com/7WAlNM0.jpg</fanart>
 <link>http://ignoreme</link>
@@ -56,22 +67,16 @@
 
 
 <item>
-<title>[COLOR lime] LISTA PREMIUM 2 [/COLOR]</title>
+<title>[COLOR lime] LISTA 5 [/COLOR]</title>
 <thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
 <fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list2.xml</externallink>
 </item>
 
- <item>
-        <title>[COLOR blue] NUEVO (Deportes)[/COLOR]</title>
-        <link>_</link>
-        <externallink>https://freeiptv.io/xml/vpi43_sport.php?c=SP</externallink>
-         <thumbnail></thumbnail>
-        <fanart></fanart>
-</item>
 
-https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l1.m3u
+
+
 
 <item>
 <title>[COLOR lime] LISTA PREMIUM 4 deportes[/COLOR]</title>
