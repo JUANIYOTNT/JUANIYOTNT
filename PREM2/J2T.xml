@@ -109,7 +109,53 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 	
-	
+	<item>
+<title>[B][COLOR white]Televisión España SD[/B][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param2] </title>
+<link>https:$doregex[get-id]|Referer=https://vergol.com/canales/live3/beinsport.php&amp;User-Agent=Mozilla/5.0</link>
+<thumbnail>https:[makelist2.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="([^"]+)"*.title="(.*?)".*src="(.*?)"]]></expres>
+<page>https://verliga1.net/</page>
+</regex>
+ 
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<rawpost>password=12345</rawpost>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+<page>https:$doregex[page2]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+ 
+<regex>
+<name>page2</name>
+<expres>src="([^"]+)</expres>
+<page>https://verliga1.net$doregex[page3]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+ 
+<regex>
+<name>page3</name>
+<expres>450" src="([^"]+)</expres>
+<page>[makelist2.param1]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+ 
+<page>http://verliga.net/</page>
+<agent>Mozilla/5.0</agent>
+</regex>
+</item>
 	
 	
 	 <item>
