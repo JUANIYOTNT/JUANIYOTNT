@@ -89,7 +89,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
    ret = dialog.select('Seleciona un Servidor ', ['LISTA 1','LISTA 2','LISTA 3','LISTA 4','LISTA 5','DEPORTES',])
-   lists = ['https://bit.ly/2EIIEVp', 'https://bit.ly/2V0YRKk', 'https://bit.ly/2GwbdqH','https://bit.ly/2V0qYt5','https://bit.ly/2GwbdqH','https://bit.ly/2T7CUHV',]
+   lists = ['https://bit.ly/2EJDsAq', 'https://bit.ly/2V0YRKk', 'https://bit.ly/2GwbdqH','https://bit.ly/2V0qYt5','https://bit.ly/2GwbdqH','https://bit.ly/2T7CUHV',]
    return lists[ret]
 ]]></expres>
 <page></page>
@@ -98,14 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
 </item>
 
-	
-<item>
-<title>[COLOR red] ***PROGRAMAS TV[/COLOR]</title>
-<thumbnail>https://i.imgur.com/Xrx6r3Z.jpg</thumbnail>
-<fanart>https://i.imgur.com/Xrx6r3Z.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/CINTATV.xml</externallink>
-</item>
+
 
 
 	
@@ -172,6 +165,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/SERIES/SERDANK.xml</externallink>
+</item>
+	
+		
+<item>
+<title>[COLOR red] ***PROGRAMAS TV[/COLOR]</title>
+<thumbnail>https://i.imgur.com/Xrx6r3Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/Xrx6r3Z.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/CINTATV.xml</externallink>
 </item>
 	
 	 <item>
