@@ -20,8 +20,8 @@
         <title>[COLOR blue] CANALES DEPORTES (NUEVO)[/COLOR]</title>
         <link>_</link>
         <externallink>https://freeiptv.io/xml/vpi43_sport.php?c=SP</externallink>
-         <thumbnail></thumbnail>
-        <fanart></fanart>
+         <thumbnail>https://i.imgur.com/PmUvfHc.jpg</thumbnail>
+        <fanart>https://i.imgur.com/PmUvfHc.jpg</fanart>
 </item>
 
 
@@ -76,15 +76,6 @@
 
 
 
-
-
-<item>
-<title>[COLOR lime] LISTA PREMIUM 4 deportes[/COLOR]</title>
-<thumbnail>https://i.imgur.com/PmUvfHc.jpg</thumbnail>
-<fanart>https://i.imgur.com/PmUvfHc.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l4.xml</externallink>
-</item>
 
 	
 <item>
