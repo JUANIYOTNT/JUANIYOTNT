@@ -28,7 +28,7 @@
 <thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
 <fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l1.m3u</externallink>
 </item>
 
 
@@ -71,7 +71,7 @@
         <fanart></fanart>
 </item>
 
-
+https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l1.m3u
 
 <item>
 <title>[COLOR lime] LISTA PREMIUM 4 deportes[/COLOR]</title>
@@ -311,4 +311,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/new%20424.xml</externallink>
         <thumbnail></thumbnail>
         <fanart></fanart>
+</item>
+<item>
+<title>[COLOR gold] **** MOVISTAR 1  [/COLOR]</title>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
 </item>
