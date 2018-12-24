@@ -16,23 +16,6 @@
 
 
 
- <item>
-        <title>[COLOR blue] CANALES DEPORTES (NUEVO)[/COLOR]</title>
-        <link>_</link>
-        <externallink>https://freeiptv.io/xml/vpi43_sport.php?c=SP</externallink>
-         <thumbnail>https://i.imgur.com/PmUvfHc.jpg</thumbnail>
-        <fanart>https://i.imgur.com/PmUvfHc.jpg</fanart>
-</item>
-
-
-
- <item>
-        <title>[COLOR blue]  CANALES VARIADOS [/COLOR]</title>
-        <link>_</link>
-        <externallink>https://freeiptv.io/xml/r2g6e_normal.php?c=SP</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</item>
 
 <item>
 <title>[COLOR gold] **** MOVISTAR 1  [/COLOR]</title>
@@ -75,6 +58,23 @@
 </item>
 
 
+ <item>
+        <title>[COLOR blue] CANALES DEPORTES (NUEVO)[/COLOR]</title>
+        <link>_</link>
+        <externallink>https://freeiptv.io/xml/vpi43_sport.php?c=SP</externallink>
+         <thumbnail>https://i.imgur.com/PmUvfHc.jpg</thumbnail>
+        <fanart>https://i.imgur.com/PmUvfHc.jpg</fanart>
+</item>
+
+
+
+ <item>
+        <title>[COLOR blue]  CANALES VARIADOS [/COLOR]</title>
+        <link>_</link>
+        <externallink>https://freeiptv.io/xml/r2g6e_normal.php?c=SP</externallink>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</item>
 
 
   
