@@ -3,712 +3,104 @@
 
 
 
+#EXTINF:-1,#0
+http://5.189.191.35:8801/play/a06x
+#EXTINF:-1,24 HORAS
+http://5.189.191.35:8801/play/a02h
+#EXTINF:-1,A&E
+http://5.189.191.35:8801/play/a02a
+#EXTINF:-1,AXN
+http://5.189.191.35:8801/play/a06w
+#EXTINF:-1,AXN WHITE
+http://5.189.191.35:8801/play/a06v
+#EXTINF:-1, LALIGA
+http://5.189.191.35:8801/play/a04x
 
-#EXTINF:0,ES:LA 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37103
-#EXTINF:0,ES:LA 1 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37102
-#EXTINF:0,ES:LA 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37100
-#EXTINF:0,ES:La 2 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37099
-#EXTINF:0,ES:ANTENA 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37097
-#EXTINF:0,ES:ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37096
-#EXTINF:0,ES:LA CUATRO
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37094
-#EXTINF:0,ES:LA CUATRO FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37093
-#EXTINF:0,ES:TELECINCO
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37091
-#EXTINF:0,ES:TELECINCO FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37090
-#EXTINF:0,ES:LA SEXTA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37088
-#EXTINF:0,ES:LA SEXTA  FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37087
-#EXTINF:0,MOVISTAR HALLOWEEN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/43761
-#EXTINF:0,ES:MOVISTAR  0#
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37046
-#EXTINF:0,ES:Movistar Acion
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37037
-#EXTINF:0,ES:MOVISTAR  DISNEY
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37043
-#EXTINF:0,ES:MOVISTAR 0# FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37044
-#EXTINF:0,ES:MOVISTAR 0# HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37045
-#EXTINF:0,ES:MOVISTAR ACCION FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37035
-#EXTINF:0,ES:MOVISTAR ACCION HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37036
-#EXTINF:0,ES:MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37033
-#EXTINF:0,ES:MOVISTAR COMEDIA FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37032
-#EXTINF:0,ES:MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37031
-#EXTINF:0,ES:MOVISTAR DCINE  ?
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37029
-#EXTINF:0,ES:MOVISTAR DCINE FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37030
-#EXTINF:0,ES:MOVISTAR ESPORTS
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36971
-#EXTINF:0,ES:MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37041
-#EXTINF:0,ES:MOVISTAR ESTRENOS FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37039
-#EXTINF:0,ES:MOVISTAR ESTRENOS HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37040
-#EXTINF:0,ES:MOVISTAR ESTRENOS PARA MOVILE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37042
-#EXTINF:0,ES:MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37025
-#EXTINF:0,ES:MOVISTAR SERIES FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37024
-#EXTINF:0,ES:MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37022
-#EXTINF:0,ES:MOVISTAR SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37019
-#EXTINF:0,ES:MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37028
-#EXTINF:0,ES:MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37027
-#EXTINF:0,ES:NAT GEO
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37002
-#EXTINF:0,ES:NAT GEO  WILD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37000
-#EXTINF:0,ES:NAT GEO FULLHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37003
-#EXTINF:0,ES:NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37001
-#EXTINF:0,ES:NEOX
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37055
-#EXTINF:0,ES:NICK JR
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37004
-#EXTINF:0,ES:NICKELODEON
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37005
-#EXTINF:0,ES:NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37006
-#EXTINF:0,ES:ODISEA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36989
-#EXTINF:0,ES:PANDA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37018
-#EXTINF:0,ES:PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37061
-#EXTINF:0,ES:SOMOS
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37047
-#EXTINF:0,ES:SUNDANCE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36976
-#EXTINF:0,ES:SUNDANCE FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36975
-#EXTINF:0,ES:SYFY
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37067
-#EXTINF:0,ES:SYFY FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37066
-#EXTINF:0,ES:TCM
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37059
-#EXTINF:0,ES:TCM FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37058
-#EXTINF:0,ES:TEN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36982
-#EXTINF:0,ES:TNT
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37073
-#EXTINF:0,ES:TNT FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37072
-#EXTINF:0,ES:TV 13
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37053
-#EXTINF:0,ES:Viajar
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36996
-#EXTINF:0,ES:VIAJAR FULLHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36995
-#EXTINF:0,ES:XTRM
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37048
-#EXTINF:0,ES:HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37071
-#EXTINF:0,ES: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37070
-#EXTINF:0,ES: BOING
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37016
-#EXTINF:0,ES: NOVA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37054
-#EXTINF:0,ES:24 HORAS
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36981
-#EXTINF:0,ES:8Tv
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36980
-#EXTINF:0,ES:A3SERIES
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37056
-#EXTINF:0,ES:AMC
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37080
-#EXTINF:0,ES:AMC FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37079
-#EXTINF:0,ES:ANDALUCIA TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36979
-#EXTINF:0,ES:ARAGON TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36978
-#EXTINF:0,ES:AXN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37085
-#EXTINF:0,ES:AXN  WHITE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37083
-#EXTINF:0,ES:AXN  WHITE FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37082
-#EXTINF:0,ES:AXN FULL HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37084
-#EXTINF:0,ES:BABY  TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37007
-#EXTINF:0,ES:BARCA TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37020
-#EXTINF:0,ES:BE MAD FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36985
-#EXTINF:0,ES:BLAZE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36969
-#EXTINF:0,ES:CALLE 13
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37069
-#EXTINF:0,ES:CALLE 13 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37068
-#EXTINF:0,ES:CAZA  Y PESCA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36994
-#EXTINF:0,ES:CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36993
-#EXTINF:0,ES:CI
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36997
-#EXTINF:0,ES:CLAN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37009
-#EXTINF:0,ES:CLAN HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37008
-#EXTINF:0,ES:COCINA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36991
-#EXTINF:0,ES:COCINA FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36990
-#EXTINF:0,ES:COMEDY  CENTRAL
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37063
-#EXTINF:0,ES:COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37062
-#EXTINF:0,ES:COSMOPOLITAN  FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37064
-#EXTINF:0,ES:COSMOS
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37065
-#EXTINF:0,ES:DARK
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37049
-#EXTINF:0,ES:DECASA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36988
-#EXTINF:0,ES:DISCOVERY  CHANNEL
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36992
-#EXTINF:0,ES:DISNEY  JUNIOR
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37013
-#EXTINF:0,ES:DISNEY  XD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37014
-#EXTINF:0,ES:DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37011
-#EXTINF:0,ES:DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37010
-#EXTINF:0,ES:DIVINITY
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37057
-#EXTINF:0,ES:DKISS
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36977
-#EXTINF:0,ES:DMAX
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36984
-#EXTINF:0,ES:ENERGY
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37051
-#EXTINF:0,ES:FDF
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37052
-#EXTINF:0,ES:FOX
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37077
-#EXTINF:0,ES:FOX FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37076
-#EXTINF:0,ES:FOX LIFE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37075
-#EXTINF:0,ES:FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37074
-#EXTINF:0,ES:HIT TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36986
-#EXTINF:0,ES:MEGA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37050
-#EXTINF:0,ES:MEZZO LIVE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36973
-#EXTINF:0,ES:MEZZO LIVE FULL HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36972
-#EXTINF:0,? ? ? ? ?? SPANISH SPORT?? ? ? ? ?
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://
-#EXTINF:0,ES SP:BEIN LALIGA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37190
-#EXTINF:0,ES SP:BEIN LALIGA HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37189
-#EXTINF:0,ES SP:BEIN LALIGA FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37188
-#EXTINF:0,ES SP:BEIN LALIGA 1 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37147
-#EXTINF:0,ES SP:BEIN LALIGA 2 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37145
-#EXTINF:0,ES SP:LIGA 123 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37177
-#EXTINF:0,ES SP:LIGA 123 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37178
-#EXTINF:0,ES SP:LIGA 123 MULTI 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37176
-#EXTINF:0,ES SP:LIGA 123 MULTI 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37175
-#EXTINF:0,ES SP:LIGA 123 MULTI 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37174
-#EXTINF:0,ES SP:LIGA 123 SD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37179
-#EXTINF:0,ES SP:LIGA TV HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37182
-#EXTINF:0,ES SP:LIGATV FULL HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37181
-#EXTINF:0,ES SP:LIGATV SD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37183
-#EXTINF:0,ES SP:MOVISTAR  DEPORTE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37203
-#EXTINF:0,ES SP:Partidazo HD ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37206
-#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37207
-#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37205
-#EXTINF:0,ES SP:LIGA CAMPEONES
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37187
-#EXTINF:0,ES SP:LIGA CAMPEONES HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37186
-#EXTINF:0,ES SP:LIGA DE CAMPEONES FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37185
-#EXTINF:0,ES SP:LIGA CAMPEONES 2 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37136
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37138
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 Espa?a
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37137
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 2  Espa?a
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37135
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 3  Espa?a
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37134
-#EXTINF:0,ES SP:LIGA DE CAMPEONES4  Espa?a
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37133
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 5  Espa?a
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37132
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 6  Espa?a
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37131
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 7  Espa?a
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37130
-#EXTINF:0,ES SP:LIGA DE CAMPEONES 8 ESPA?A
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37129
-#EXTINF:0,ES:MOVISTAR  DEPORTE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62615
-#EXTINF:0,ES:MOVISTAR DEPORTE HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62616
-#EXTINF:0,MOVISTAR DEPORTE 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62611
-#EXTINF:0,MOVISTAR DEPORTE 1 FULLHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62617
-#EXTINF:0,MOVISTAR DEPORTE 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62610
-#EXTINF:0,MOVISTAR DEPORTE 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62609
-#EXTINF:0,MOVISTAR DEPORTE 4
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62608
-#EXTINF:0,MULTIDEPORTE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62614
-#EXTINF:0,MULTIDEPORTE 5
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/62607
-#EXTINF:0,ES SP:MOVISTAR  #Vamos
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37199
-#EXTINF:0,ES SP:MOVISTAR VAMOS HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37198
-#EXTINF:0,ES SP:MOVISTAR VAMOS FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37197
-#EXTINF:0,ES SP:LA LIGATV BAR 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37149
-#EXTINF:0,ES SP: BEIN  LALIGA 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37144
-#EXTINF:0,ES SP: BEIN  LALIGA 4
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37143
-#EXTINF:0,ES SP: BEIN LALIGA 5
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37142
-#EXTINF:0,ES SP:BEIN  LALIGA 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37146
-#EXTINF:0,ES SP:BEIN LALIGA 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37148
-#EXTINF:0,ES SP:BEIN LALIGA 6
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37141
-#EXTINF:0,ES SP:BEIN LALIGA 7
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37140
-#EXTINF:0,ES SP:BEIN LALIGA 8
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37139
-#EXTINF:0,ES SP:CLASSICA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37110
-#EXTINF:0,ES SP:ESPORT 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37113
-#EXTINF:0,ES SP:Eurosport  2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37154
-#EXTINF:0,ES SP:EUROSPORT  ES
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37157
-#EXTINF:0,ES SP:EUROSPORT 1 FULL HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37156
-#EXTINF:0,ES SP:Extreme EMEA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37112
-#EXTINF:0,ES SP:GOL TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37173
-#EXTINF:0,ES SP:HISTORIA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37160
-#EXTINF:0,ES SP:HISTORIA FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37159
-#EXTINF:0,ES SP:Iberalia
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37153
-#EXTINF:0,ES SP:MOVISTAR  FUTBOL
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37194
-#EXTINF:0,ES SP:MOVISTAR  GOLF
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37161
-#EXTINF:0,ES SP:MOVISTAR  MOTO GP
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37167
-#EXTINF:0,ES SP:MOVISTAR  TOROS TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37163
-#EXTINF:0,ES SP:MOVISTAR DEPORTE 1 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37201
-#EXTINF:0,ES SP:MOVISTAR DEPORTE HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37202
-#EXTINF:0,ES SP:MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37169
-#EXTINF:0,ES SP:MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37170
-#EXTINF:0,ES SP:MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37193
-#EXTINF:0,ES SP:MOVISTAR FUTBOLL FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37192
-#EXTINF:0,ES SP:MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37158
-#EXTINF:0,ES SP:MOVISTAR MOTO GP FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37165
-#EXTINF:0,ES SP:MOVISTAR MOTO GP HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37166
-#EXTINF:0,ES SP:REAL MADRID TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37152
-#EXTINF:0,ES SP:TELEDEPORTE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37151
-#EXTINF:0,ES SP:TELEDEPORTE FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37150
-#EXTINF:0,ES SP:MOVISTAR TOROS HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37162
-#EXTINF:0,ES SP:MULTIDEPORTE
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37196
-#EXTINF:0,***** AUTON?MICOS *****
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/42689
-#EXTINF:0,ES:13 TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36968
-#EXTINF:0,ES:7RM FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36967
-#EXTINF:0,ES:CANAL SUR FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36966
-#EXTINF:0,ES:CMM HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36965
-#EXTINF:0,ES:ETB 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36964
-#EXTINF:0,ES:EXTREMADURA TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36963
-#EXTINF:0,ES:LA OTRA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36962
-#EXTINF:0,ES:INTERECONOMIA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36961
-#EXTINF:0,ES:TELEMADRID FHD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36960
-#EXTINF:0,ES:CANAL ORBE21
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36970
-#EXTINF:0,FOX NEWS
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/42688
-#EXTINF:0,ES:Extreme EMEA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/42599
-#EXTINF:0,ES:CLASSICA
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/42687
-#EXTINF:0,? ? ? ? ?? TAQUILLA ?? ? ? ? ?
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://
-#EXTINF:0,TAQUILLA 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36959
-#EXTINF:0,TAQUILLA 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36958
-#EXTINF:0,TAQUILLA 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36957
-#EXTINF:0,TAQUILLA 4
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36956
-#EXTINF:0,TAQUILLA 5
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36955
-#EXTINF:0,TAQUILLA 6
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/36954
-#EXTINF:0,ES1:Taquilla 7
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37213
-#EXTINF:0,ES1:Taquilla 8
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37212
-#EXTINF:0,ES1:Taquilla-9
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37211
-#EXTINF:0,ES1:Taquilla-10
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Mario/m3H2kUdZm7/37210
-#EXTINF:0,(ES) #0
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50918.ts
-#EXTINF:0,(ES) #0 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50917.ts
-#EXTINF:0,(ES) 24 Horas
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50916.ts
-#EXTINF:0,(ES) A&E
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50915.ts
-#EXTINF:0,(ES) AMC
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50914.ts
-#EXTINF:0,(ES) AMC HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50913.ts
-#EXTINF:0,(ES) Antena 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50912.ts
-#EXTINF:0,(ES) Antena 3 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50911.ts
-#EXTINF:0,(ES) Aragon Tv
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50910.ts
-#EXTINF:0,(ES) Atres Series HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50909.ts
-#EXTINF:0,(ES) AXN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50908.ts
-#EXTINF:0,(ES) AXN HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50907.ts
-#EXTINF:0,(ES) AXN White
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50906.ts
-#EXTINF:0,(ES) AXN White HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50905.ts
-#EXTINF:0,(ES) Baby Tv
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50904.ts
-#EXTINF:0,(ES) Barca TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50903.ts
-#EXTINF:0,(ES) BeIN La Liga
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50902.ts
-#EXTINF:0,(ES) BeIN La Liga HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50901.ts
-#EXTINF:0,(ES) BeIN Sports HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50900.ts
-#EXTINF:0,(ES) Boing
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50899.ts
-#EXTINF:0,(ES) Calle 13
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50898.ts
-#EXTINF:0,(ES) Calle 13 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50897.ts
-#EXTINF:0,(ES) Canal Cocina
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50896.ts
-#EXTINF:0,(ES) Canal Decasa
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50895.ts
-#EXTINF:0,(ES) Canal Odisea
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50894.ts
-#EXTINF:0,(ES) Canal Orbe 21
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50893.ts
-#EXTINF:0,(ES) Canal Panda
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50892.ts
-#EXTINF:0,(ES) Caza Y Pesca
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50891.ts
-#EXTINF:0,(ES) Caza Y Pesca HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50890.ts
-#EXTINF:0,(ES) Clan Tve
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50889.ts
-#EXTINF:0,(ES) Comedy Central HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50887.ts
-#EXTINF:0,(ES) Cosmo
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50886.ts
-#EXTINF:0,(ES) Cosmo HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50885.ts
-#EXTINF:0,(ES) Crimen inves
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50884.ts
-#EXTINF:0,(ES) Cuatro HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50883.ts
-#EXTINF:0,(ES) Discovery
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50882.ts
-#EXTINF:0,(ES) Disney Ch
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50881.ts
-#EXTINF:0,(ES) Disney Ch HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50880.ts
-#EXTINF:0,(ES) Disney Jr
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50879.ts
-#EXTINF:0,(ES) Disney Xd
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50878.ts
-#EXTINF:0,(ES) DMAX
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50876.ts
-#EXTINF:0,(ES) Eurosport 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50875.ts
-#EXTINF:0,(ES) Eurosport 1 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50874.ts
-#EXTINF:0,(ES) Eurosport 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50873.ts
-#EXTINF:0,(ES) FDF
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50872.ts
-#EXTINF:0,(ES) FOX
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50871.ts
-#EXTINF:0,(ES) FOX HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50870.ts
-#EXTINF:0,(ES) FOX Life
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50869.ts
-#EXTINF:0,(ES) FOX Life HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50868.ts
-#EXTINF:0,(ES) Gol
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50867.ts
-#EXTINF:0,(ES) Historia
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50866.ts
-#EXTINF:0,(ES) Hollywood
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50865.ts
-#EXTINF:0,(ES) Hollywood HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50864.ts
-#EXTINF:0,(ES) Iberalia Tv
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50863.ts
-#EXTINF:0,(ES) La 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50862.ts
-#EXTINF:0,(ES) La 1 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50861.ts
-#EXTINF:0,(ES) La 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50860.ts
-#EXTINF:0,(ES) La Sexta HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50859.ts
-#EXTINF:0,(ES) Movistar Accion
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50857.ts
-#EXTINF:0,(ES) Movistar Cine ?
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50856.ts
-#EXTINF:0,(ES) Movistar Comedia
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50855.ts
-#EXTINF:0,(ES) Movistar Comedia HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50854.ts
-#EXTINF:0,(ES) Movistar Dcine
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50853.ts
-#EXTINF:0,(ES) Movistar Dep 1 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50852.ts
-#EXTINF:0,(ES) Movistar Dep 2 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50851.ts
-#EXTINF:0,(ES) Movistar Deportes 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50850.ts
-#EXTINF:0,(ES) Movistar Deportes 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50849.ts
-#EXTINF:0,(ES) Movistar Estrenos
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50848.ts
-#EXTINF:0,(ES) Movistar F.tbol
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50847.ts
-#EXTINF:0,(ES) Movistar F.tbol HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50846.ts
-#EXTINF:0,(ES) Movistar Formula 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50845.ts
-#EXTINF:0,(ES) Movistar Formula 1 HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50844.ts
-#EXTINF:0,(ES) Movistar Golf
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50843.ts
-#EXTINF:0,(ES) Movistar Golf HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50842.ts
-#EXTINF:0,(ES) Movistar MotoGP
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50841.ts
-#EXTINF:0,(ES) Movistar MotoGP HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50840.ts
-#EXTINF:0,(ES) Movistar Series
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50839.ts
-#EXTINF:0,(ES) Movistar Series HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50838.ts
-#EXTINF:0,(ES) Movistar Series Xtra
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50837.ts
-#EXTINF:0,(ES) Movistar Series Xtra HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50836.ts
-#EXTINF:0,(ES) Movistar Toros HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50835.ts
-#EXTINF:0,(ES) Movistar Xtra
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50834.ts
-#EXTINF:0,(ES) Movistar Xtra HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50833.ts
-#EXTINF:0,(ES) Nat Geo
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50831.ts
-#EXTINF:0,(ES) Nat Geo HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50830.ts
-#EXTINF:0,(ES) Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50829.ts
-#EXTINF:0,(ES) Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50828.ts
-#EXTINF:0,(ES) Neox
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50827.ts
-#EXTINF:0,(ES) Nick Jr
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50826.ts
-#EXTINF:0,(ES) Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50825.ts
-#EXTINF:0,(ES) Nova
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50824.ts
-#EXTINF:0,(ES) Paramount
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50823.ts
-#EXTINF:0,(ES) Real Madrid TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50822.ts
-#EXTINF:0,(ES) Sundance
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50821.ts
-#EXTINF:0,(ES) Syfy
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50820.ts
-#EXTINF:0,(ES) Syfy HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50819.ts
-#EXTINF:0,(ES) TCM HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50818.ts
-#EXTINF:0,(ES) Telecinco
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50817.ts
-#EXTINF:0,(ES) Telecinco HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50816.ts
-#EXTINF:0,(ES) Teledeporte
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50815.ts
-#EXTINF:0,(ES) Ten
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50814.ts
-#EXTINF:0,(ES) TNT
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50813.ts
-#EXTINF:0,(ES) TNT HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50812.ts
-#EXTINF:0,(ES) Viajar
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50811.ts
-#EXTINF:0,(ES) Viajar HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50810.ts
-#EXTINF:0,BTSport ESPN FHD OWN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/38184.ts
-#EXTINF:0,BTSport ESPN HD OWN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/38186.ts
-#EXTINF:0,BTSport ESPN HD25 OWN
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/38185.ts
-#EXTINF:0,CBeebies'
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/19983.ts
-#EXTINF:0,Crime Investigation'
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/19924.ts
-#EXTINF:0,ES: Antena 3
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50807.ts
-#EXTINF:0,ES: Barsa TV
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50796.ts
-#EXTINF:0,ES: Bein Sport ES HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50795.ts
-#EXTINF:0,ES: Canal   Liga
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50804.ts
-#EXTINF:0,ES: Canal  Accion
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50802.ts
-#EXTINF:0,ES: Canal  Comedia
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50801.ts
-#EXTINF:0,ES: Canal  Dcine
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50800.ts
-#EXTINF:0,ES: Canal  Deportes HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50799.ts
-#EXTINF:0,ES: Canal  Estrenos HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50798.ts
-#EXTINF:0,ES: Canal  Futpol
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50797.ts
-#EXTINF:0,ES: Canal  Golf
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50793.ts
-#EXTINF:0,ES: Canal  HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50792.ts
-#EXTINF:0,ES: Canal  Series
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50791.ts
-#EXTINF:0,ES: Canal  Toros
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50790.ts
-#EXTINF:0,ES: Canal Plus Series Xtra
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50803.ts
-#EXTINF:0,ES: Disney Channel
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50789.ts
-#EXTINF:0,ES: LA 1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50809.ts
-#EXTINF:0,ES: LA 2
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50808.ts
-#EXTINF:0,ES: La Sexta HD
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50806.ts
-#EXTINF:0,ES: Movi Star F1
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50788.ts
-#EXTINF:0,ES: Movis Star Moto Gp
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50787.ts
-#EXTINF:0,ES: National Geographic
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50786.ts
-#EXTINF:0,ES: Real Madrid
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50794.ts
-#EXTINF:0,ES: Syfy
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50785.ts
-#EXTINF:0,ES: Teleticino
-plugin://plugin.video.f4mTester/?name=JHG&streamtype=TSDOWNLOADER&amp;url=http://omegastreams.pw:8080/live/tiaNzak/F9bv4hfpno/50805.ts
+#EXTINF:-1,CALLE 13
+http://5.189.191.35:8801/play/a04t
+#EXTINF:-1,Satellite TV
+http://5.189.191.35:8801/play/a04v
+#EXTINF:-1,Satellite TV
+http://5.189.191.35:8801/play/a04o
+#EXTINF:-1,Satellite TV
+http://5.189.191.35:8801/play/a027
+#EXTINF:-1,CAZA Y PESCA
+http://5.189.191.35:8801/play/a029
+#EXTINF:-1,COSMO
+http://5.189.191.35:8801/play/a02d
+#EXTINF:-1,CRIMEN+INVES
+http://5.189.191.35:8801/play/a02f
+#EXTINF:-1,DCINE ESPA¹OL
+http://5.189.191.35:8801/play/a02g
+#EXTINF:-1,DISCOVERY
+http://5.189.191.35:8801/play/a02c
+#EXTINF:-1,DISNEY JR
+http://5.189.191.35:8801/play/a06q
+#EXTINF:-1,DISNEY XD
+http://5.189.191.35:8801/play/a028
+#EXTINF:-1,FOX
+http://5.189.191.35:8801/play/a06u
+#EXTINF:-1,FOX LIFE
+http://5.189.191.35:8801/play/a06n
+#EXTINF:-1,HISTORIA
+http://5.189.191.35:8801/play/a02e
+#EXTINF:-1,HOLLYWOODHD
+http://5.189.191.35:8801/play/a09v
+#EXTINF:-1,IBERALIA TV
+http://5.189.191.35:8801/play/a06p
+#EXTINF:-1,LALIGA123TVM1
+http://5.189.191.35:8801/play/a09a
+#EXTINF:-1,LALIGA123TVM2
+http://5.189.191.35:8801/play/a096
+#EXTINF:-1,LALIGATV BAR
+http://5.189.191.35:8801/play/a09p
+#EXTINF:-1,M. ACCI©N
+http://5.189.191.35:8801/play/a06r
+#EXTINF:-1,M. ACCI©N HD
+http://5.189.191.35:8801/play/a09t
+#EXTINF:-1,M. COMEDIA
+http://5.189.191.35:8801/play/a06s
+#EXTINF:-1,M. DCINE
+http://5.189.191.35:8801/play/a06t
+#EXTINF:-1,M. DEPORTES
+http://5.189.191.35:8801/play/a09o
+#EXTINF:-1,M. DEPORTES1
+http://5.189.191.35:8801/play/a091
+#EXTINF:-1,M. DEPORTES2
+http://5.189.191.35:8801/play/a092
+#EXTINF:-1,M. DEPORTES3
+http://5.189.191.35:8801/play/a095
+#EXTINF:-1,M. DEPORTES4
+http://5.189.191.35:8801/play/a097
+#EXTINF:-1,M. DEPORTES7
+http://5.189.191.35:8801/play/a099
+#EXTINF:-1,M. DRAMA HD
+http://5.189.191.35:8801/play/a09u
+#EXTINF:-1,M. GOLF
+http://5.189.191.35:8801/play/a04n
+#EXTINF:-1,M. MOTOGP
+http://5.189.191.35:8801/play/a02i
+#EXTINF:-1,ON1
+http://5.189.191.35:8801/play/a09c
+#EXTINF:-1,ON3
+http://5.189.191.35:8801/play/a09h
+#EXTINF:-1,ON5
+http://5.189.191.35:8801/play/a09f
+#EXTINF:-1,ON6
+http://5.189.191.35:8801/play/a09e
+#EXTINF:-1,ON7
+http://5.189.191.35:8801/play/a09k
+#EXTINF:-1,ON8
+http://5.189.191.35:8801/play/a098
+#EXTINF:-1,ONES
+http://5.189.191.35:8801/play/a09d
+#EXTINF:-1,NAT GEOGRAPH
+http://5.189.191.35:8801/play/a04q
+#EXTINF:-1,NONSTOPEOPLE
+http://5.189.191.35:8801/play/a02b
+#EXTINF:-1,NOVA
+http://5.189.191.35:8801/play/a06o
+#EXTINF:-1,SYFY
+http://5.189.191.35:8801/play/a04w
+#EXTINF:-1,TOROS
+http://5.189.191.35:8801/play/a094
