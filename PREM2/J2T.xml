@@ -41,15 +41,7 @@
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/SERIES/SERDANK.xml</externallink>
 </item>
 
-	
-<item>
-<title>[COLOR orange] ****mmm*** [/COLOR]</title>
-<thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail>
-<fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/juaniyotnt.xml</externallink>
-</item>
-	
+
 	
 		
 <item>
@@ -252,7 +244,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
 </item>
-
+	
+<item>
+<title>[COLOR orange] ****mmm*** [/COLOR]</title>
+<thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail>
+<fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/juaniyotnt.xml</externallink>
+</item>
+	
 
  <item>
         <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] DOCUMENTALES [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
