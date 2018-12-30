@@ -15,151 +15,15 @@
 </item>
 
 
-
-
 <item>
-<title>[COLOR gold] **** MOVISTAR 1  [/COLOR]</title>
-<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
-<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l1.m3u</externallink>
-</item>
-
-
-<item>
-<title>[COLOR lime] LISTA 2 [/COLOR]</title>
-<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
-<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR lime] LISTA PREMIUM 3[/COLOR]</title>
-<thumbnail>https://i.imgur.com/WGtmKdJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/WGtmKdJ.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/H3</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR lime] LISTA PREMIUM 4 [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/L4.m3u</externallink>
-</item>
-
-
-
-
-<item>
-<title>[COLOR lime] LISTA 5 [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list2.xml</externallink>
-</item>
-
-
- <item>
-        <title>[COLOR blue] CANALES DEPORTES (NUEVO)[/COLOR]</title>
-        <link>_</link>
-        <externallink>https://freeiptv.io/xml/vpi43_sport.php?c=SP</externallink>
-         <thumbnail>https://i.imgur.com/PmUvfHc.jpg</thumbnail>
-        <fanart>https://i.imgur.com/PmUvfHc.jpg</fanart>
-</item>
-
-
-
- <item>
-        <title>[COLOR blue]  CANALES VARIADOS [/COLOR]</title>
-        <link>_</link>
-        <externallink>https://freeiptv.io/xml/r2g6e_normal.php?c=SP</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</item>
-
-
-  
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] CANALES JHG [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
-
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('Seleciona un Servidor ', ['LISTA 1','LISTA 2','LISTA 3','LISTA 4','LISTA 5','DEPORTES',])
-   lists = ['https://bit.ly/2V0YRKk', 'https://bit.ly/2EEXJXd', 'https://bit.ly/2GwbdqH','https://bit.ly/2V0qYt5','https://bit.ly/2GwbdqH','https://bit.ly/2T7CUHV',]
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
+<title>[COLOR gold] CANALES TV [/COLOR]</title>
 <thumbnail>https://i.imgur.com/bHGVK2G.jpg</thumbnail>
 <fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CT.xml</externallink>
 </item>
 
 
-
-
-
-	
-	<item>
-<title>[B][COLOR white]Televisión España SD[/B][/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[makelist2.param2] </title>
-<link>https:$doregex[get-id]|Referer=https://vergol.com/canales/live3/beinsport.php&amp;User-Agent=Mozilla/5.0</link>
-<thumbnail>https:[makelist2.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="([^"]+)"*.title="(.*?)".*src="(.*?)"]]></expres>
-<page>https://verliga1.net/</page>
-</regex>
- 
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<rawpost>password=12345</rawpost>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-<page>https:$doregex[page2]</page>
-<referer>https://verliga1.net/</referer>
-<agent>Mozilla/5.0</agent>
-</regex>
- 
-<regex>
-<name>page2</name>
-<expres>src="([^"]+)</expres>
-<page>https://verliga1.net$doregex[page3]</page>
-<referer>https://verliga1.net/</referer>
-<agent>Mozilla/5.0</agent>
-</regex>
- 
-<regex>
-<name>page3</name>
-<expres>450" src="([^"]+)</expres>
-<page>[makelist2.param1]</page>
-<referer>https://verliga1.net/</referer>
-<agent>Mozilla/5.0</agent>
-</regex>
- 
-<page>http://verliga.net/</page>
-<agent>Mozilla/5.0</agent>
-</regex>
-</item>
-	
 	
 	 <item>
         <title>[COLOR gold] CINE [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
