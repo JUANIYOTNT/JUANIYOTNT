@@ -11,16 +11,24 @@
 
 
 <item>
-<title>[COLOR gold] **** MOVISTAR 1  [/COLOR]</title>
+<title>[COLOR gold] LISTA 1  [/COLOR]</title>
 <thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
 <fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l1.m3u</externallink>
 </item>
 
+<item>
+<title>[COLOR gold] LISTA 2  [/COLOR]</title>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
+</item>
+
 
 <item>
-<title>[COLOR lime] LISTA 2 [/COLOR]</title>
+<title>[COLOR lime] LISTA 3 [/COLOR]</title>
 <thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
 <fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
 <link>http://ignoreme</link>
@@ -30,7 +38,7 @@
 
 
 <item>
-<title>[COLOR lime] LISTA PREMIUM 3[/COLOR]</title>
+<title>[COLOR lime] LISTA 4 [/COLOR]</title>
 <thumbnail>https://i.imgur.com/WGtmKdJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/WGtmKdJ.jpg</fanart>
 <link>http://ignoreme</link>
