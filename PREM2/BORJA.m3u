@@ -1,453 +1,421 @@
-#EXTM3U
-#EXTINF:-1,ES | LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9796
-#EXTINF:-1,ES | LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9795
-#EXTINF:-1,ES | LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9794
-#EXTINF:-1,ES | La 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9793
-#EXTINF:-1,ES | ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9792
-#EXTINF:-1,ES | ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9791
-#EXTINF:-1,ES | LA CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9790
-#EXTINF:-1,ES | LA CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9789
-#EXTINF:-1,ES | TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9788
-#EXTINF:-1,ES | TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9787
-#EXTINF:-1,ES | LA SEXTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9786
-#EXTINF:-1,ES | LA SEXTA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9785
-#EXTINF:-1,ES | LA OTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9602
-#EXTINF:-1,ES | MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9684
-#EXTINF:-1,ES | MEZZO LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9683
-#EXTINF:-1,ES | MEZZO LIVE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9682
-#EXTINF:-1,ES | MOVISTAR 0#
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9783
-#EXTINF:-1,ES | MOVISTAR ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9782
-#EXTINF:-1,ES | MOVISTAR DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9781
-#EXTINF:-1,ES | MOVISTAR 0# FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9780
-#EXTINF:-1,ES | MOVISTAR 0# HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9779
-#EXTINF:-1,ES | MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9770
-#EXTINF:-1,ES | MOVISTAR ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9769
-#EXTINF:-1,ES | MOVISTAR ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9768
-#EXTINF:-1,ES | MOVISTAR ESTRENOS PARA MOVILE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9767
-#EXTINF:-1,Movistar CineDoc&amp;Roll
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9798
-#EXTINF:-1,ES | MOVISTAR ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9778
-#EXTINF:-1,ES | MOVISTAR ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9777
-#EXTINF:-1,ES | MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9776
-#EXTINF:-1,ES | MOVISTAR COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9775
-#EXTINF:-1,ES | MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9774
-#EXTINF:-1,ES | MOVISTAR DCINE Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9773
-#EXTINF:-1,ES | MOVISTAR DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9772
-#EXTINF:-1,ES | MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9766
-#EXTINF:-1,ES | MOVISTAR SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9765
-#EXTINF:-1,ES | MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9764
-#EXTINF:-1,ES | MOVISTAR SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9763
-#EXTINF:-1,ES | MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9762
-#EXTINF:-1,ES | MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9761
-#EXTINF:-1,ES | MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9760
-#EXTINF:-1,ES | NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9759
-#EXTINF:-1,ES | NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9758
-#EXTINF:-1,ES | NAT GEO FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9757
-#EXTINF:-1,ES | NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9756
-#EXTINF:-1,ES | NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9755
-#EXTINF:-1,ES | NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9754
-#EXTINF:-1,ES | NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9753
-#EXTINF:-1,ES | NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9752
-#EXTINF:-1,ES | ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9751
-#EXTINF:-1,Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9799
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9800
-#EXTINF:-1,ES | PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9750
-#EXTINF:-1,ES | PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9749
-#EXTINF:-1,ES | SOL Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9748
-#EXTINF:-1,ES | SOMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9747
-#EXTINF:-1,ES | SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9746
-#EXTINF:-1,ES | SUNDANCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9745
-#EXTINF:-1,ES | SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9744
-#EXTINF:-1,ES | SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9743
-#EXTINF:-1,ES | TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9742
-#EXTINF:-1,ES | TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9741
-#EXTINF:-1,ES | TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9740
-#EXTINF:-1,ES | TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9739
-#EXTINF:-1,ES | TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9738
-#EXTINF:-1,ES | TV 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9737
-#EXTINF:-1,ES | Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9736
-#EXTINF:-1,ES | VIAJAR FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9735
-#EXTINF:-1,ES | XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9734
-#EXTINF:-1,ES | BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9715
-#EXTINF:-1,ES | ETB 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9604
-#EXTINF:-1,ES | TELEMADRID FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9600
-#EXTINF:-1,ES | BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9731
-#EXTINF:-1,ES | HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9732
-#EXTINF:-1,ES | NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9730
-#EXTINF:-1,ES | 13 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9608
-#EXTINF:-1,ES | 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9729
-#EXTINF:-1,ES | 7RM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9607
-#EXTINF:-1,ES | 8Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9728
-#EXTINF:-1,ES | A3SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9727
-#EXTINF:-1,ES | AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9726
-#EXTINF:-1,ES | AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9725
-#EXTINF:-1,ES | AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9722
-#EXTINF:-1,ES | AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9721
-#EXTINF:-1,ES | AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9720
-#EXTINF:-1,ES | AXN FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9719
-#EXTINF:-1,ES | BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9718
-#EXTINF:-1,ES | BE MAD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9716
-#EXTINF:-1,ES | CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9713
-#EXTINF:-1,ES | Satellite TVORBE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9599
-#EXTINF:-1,ES | Satellite TVSUR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9606
-#EXTINF:-1,ES | CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9710
-#EXTINF:-1,ES | CLAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9709
-#EXTINF:-1,ES | CLAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9708
-#EXTINF:-1,ES | CLASSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9637
-#EXTINF:-1,ES | CMM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9605
-#EXTINF:-1,ES | COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9707
-#EXTINF:-1,ES | COCINA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9706
-#EXTINF:-1,ES | COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9705
-#EXTINF:-1,ES | COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9704
-#EXTINF:-1,ES | COSMOPOLITAN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9703
-#EXTINF:-1,ES | COSMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9702
-#EXTINF:-1,ES | DARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9701
-#EXTINF:-1,Discoveery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12634
-#EXTINF:-1,ES | DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9700
-#EXTINF:-1,ES | DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9698
-#EXTINF:-1,ES | DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9697
-#EXTINF:-1,ES | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9696
-#EXTINF:-1,ES | DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9695
-#EXTINF:-1,ES | DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9694
-#EXTINF:-1,ES | DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9693
-#EXTINF:-1,ES | DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9692
-#EXTINF:-1,ES | ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9691
-#EXTINF:-1,ES | EXTREMADURA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9603
-#EXTINF:-1,Tv3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9804
-#EXTINF:-1,ES | FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9690
-#EXTINF:-1,ES | FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9689
-#EXTINF:-1,ES | FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9688
-#EXTINF:-1,ES | FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9687
-#EXTINF:-1,ES | FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9686
-#EXTINF:-1,ES | HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9630
-#EXTINF:-1,ES | HISTORIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9629
-#EXTINF:-1,ES | HIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9685
-#EXTINF:-1,ES | HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9733
-#EXTINF:-1,ES | Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9628
-#EXTINF:-1,ES | INTERECONOMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9601
-#EXTINF:-1,ES | ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9724
-#EXTINF:-1,ES | ARAGON TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9723
-#EXTINF:-1,Tv3 Cataluna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10848
-#EXTINF:-1,Etb2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10849
-#EXTINF:-1,Rtpa Asturias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10850
-#EXTINF:-1,Etbsat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10851
-#EXTINF:-1,Tv Galicia europa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10852
-#EXTINF:-1,Satellite TVExtremadura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10853
-#EXTINF:-1,3/24 Cataluna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10854
-#EXTINF:-1,Tv Canaria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10855
-#EXTINF:-1,Tele Valencia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10856
-#EXTINF:-1,Tele Levante
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10857
-#EXTINF:-1,Ib3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10858
-#EXTINF:-1,Sevilla FC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10859
-#EXTINF:-1,A Punt
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/10860
-#EXTINF:-1,Alquiler 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5703
-#EXTINF:-1,Alquiler 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5702
-#EXTINF:-1,Alquiler 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5701
-#EXTINF:-1,Alquiler 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5700
-#EXTINF:-1,Alquiler 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5699
-#EXTINF:-1,Alquiler 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5698
-#EXTINF:-1,Alquiler7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5697
-#EXTINF:-1,Alquiler 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5696
-#EXTINF:-1,Alquiler 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5694
-#EXTINF:-1,Alquiler 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/5695
-#EXTINF:-1,ES | BEIN LALIGA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9645
-#EXTINF:-1,ES | BEIN LALIGA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9644
-#EXTINF:-1,ES | BEIN LALIGA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9643
-#EXTINF:-1,ES | BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9717
-#EXTINF:-1,ES | BEIN LALIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9642
-#EXTINF:-1,ES | BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9680
-#EXTINF:-1,ES | BEIN LALIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9641
-#EXTINF:-1,ES | BEIN LALIGA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9677
-#EXTINF:-1,ES | BEIN LALIGA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9676
-#EXTINF:-1,ES | BEIN LALIGA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9640
-#EXTINF:-1,ES | BEIN LALIGA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9639
-#EXTINF:-1,ES | BEIN LALIGA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9638
-#EXTINF:-1,ES | BEIN LALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9678
-#EXTINF:-1,ES | BEIN LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9679
-#EXTINF:-1,ES | CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9712
-#EXTINF:-1,ES | CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9711
-#EXTINF:-1,ES | ESPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9636
-#EXTINF:-1,ES | Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9635
-#EXTINF:-1,ES | EUROSPORT ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9634
-#EXTINF:-1,ES | EUROSPORT 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9633
-#EXTINF:-1,ES | GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9631
-#EXTINF:-1,ES | LA LIGATV BAR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9646
-#EXTINF:-1,ES | LIGA 123 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9675
-#EXTINF:-1,ES | LIGA 123 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9674
-#EXTINF:-1,ES | LIGA 123 MULTI 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9673
-#EXTINF:-1,ES | LIGA 123 MULTI 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9672
-#EXTINF:-1,ES | LIGA 123 MULTI 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9671
-#EXTINF:-1,ES | LIGA 123 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9670
-#EXTINF:-1,ES | LIGA CAMPEONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9662
-#EXTINF:-1,ES | LIGA CAMPEONES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9659
-#EXTINF:-1,ES | LIGA CAMPEONES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9661
-#EXTINF:-1,Liga de campeones hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9803
-#EXTINF:-1,ES | LIGA DE CAMPEONES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9660
-#EXTINF:-1,ES | LIGA DE CAMPEONES 1 España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9657
-#EXTINF:-1,ES | LIGA DE CAMPEONES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9658
-#EXTINF:-1,ES | LIGA DE CAMPEONES 2 España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9656
-#EXTINF:-1,ES | LIGA DE CAMPEONES 3 España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9655
-#EXTINF:-1,ES | LIGA DE CAMPEONES 5 España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9653
-#EXTINF:-1,ES | LIGA DE CAMPEONES 6 España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9652
-#EXTINF:-1,ES | LIGA DE CAMPEONES 7 España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9651
-#EXTINF:-1,ES | LIGA DE CAMPEONES 8 ESPAÑA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9650
-#EXTINF:-1,ES | LIGA DE CAMPEONES4 España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9654
-#EXTINF:-1,ES | LIGA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9669
-#EXTINF:-1,ES | LIGATV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9668
-#EXTINF:-1,ES | LIGATV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9667
-#EXTINF:-1,ES | MOVISTAR DEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9666
-#EXTINF:-1,ES:MOVISTAR DEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12642
-#EXTINF:-1,MOVISTAR DEPORTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12641
-#EXTINF:-1,MOVISTAR DEPORTE 1 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12640
-#EXTINF:-1,MOVISTAR DEPORTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12639
-#EXTINF:-1,MOVISTAR DEPORTE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12638
-#EXTINF:-1,MOVISTAR DEPORTE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12637
-#EXTINF:-1,MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12636
-#EXTINF:-1,MULTIDEPORTE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/12635
-#EXTINF:-1,ES | MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9610
-#EXTINF:-1,ES | TELEDEPORTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9612
-#EXTINF:-1,ES | MOVISTAR NAVIDAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9771
-#EXTINF:-1,ES | MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9621
-#EXTINF:-1,ES | MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9620
-#EXTINF:-1,ES | MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9619
-#EXTINF:-1,ES | MOVISTAR FUTBOLL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9618
-#EXTINF:-1,ES | MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9617
-#EXTINF:-1,ES | MOVISTAR MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9616
-#EXTINF:-1,ES | MOVISTAR MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9615
-#EXTINF:-1,ES | MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9664
-#EXTINF:-1,ES | MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9663
-#EXTINF:-1,ES | Partidazo HD ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9665
-#EXTINF:-1,ES | REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9614
-#EXTINF:-1,ES | TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9613
-#EXTINF:-1,Teledeporte Hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9802
-#EXTINF:-1,Teledeporte FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9801
-#EXTINF:-1,ES | MOVISTAR TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9624
-#EXTINF:-1,ES | MOVISTAR TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9611
-#EXTINF:-1,ES | MOVISTAR #Vamos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9649
-#EXTINF:-1,ES | MOVISTAR VAMOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9647
-#EXTINF:-1,ES | MOVISTAR VAMOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://iptvisiontop.com:25461/GSeHeJ87eY/Sql8oLEQV9/9648
+#EXTM3U tvg-shift=-1
+#EXTINF:-1 tvg-name="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
+rtp://@239.0.0.185:8208
+#EXTINF:-1 tvg-name="LA 2 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2 HD
+rtp://@239.0.0.183:8208
+#EXTINF:-1 tvg-name="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png",Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:-1 tvg-name="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro HD
+rtp://@239.0.0.177:8208
+#EXTINF:-1 tvg-name="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
+rtp://@239.0.0.176:8208
+#EXTINF:-1 tvg-name="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
+rtp://@239.0.0.187:8208
+#EXTINF:-1 tvg-name="#0 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
+rtp://@239.0.5.187:8208
+#EXTINF:-1 tvg-name="Movistar Xtra HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17144
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12712.m3u8
+#EXTINF:-1 tvg-id="MV1 ASTRA HD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17136
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12722.m3u8
+#EXTINF:-1 tvg-id="CPCOLE ASTRA HD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17134
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12725.m3u8
+#EXTINF:-1 tvg-name="Movistar Comedia HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17133
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12726.m3u8
+#EXTINF:-1 tvg-name="Movistar Accion HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12727.m3u8
+#EXTINF:-1 tvg-id="DCESP ASTRA SD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/espanol.png" ,Movistar Cine Español
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31563
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/somos.png" ,Somos
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30742
+#EXTINF:-1 tvg-name="TCM HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17149
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12695.m3u8
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5415
+#EXTINF:-1 tvg-name="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Network
+rtp://@239.0.0.90:8208
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
+rtp://@239.0.5.76:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/doc.png" ,Movistar CineDoc&Roll HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31562
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17369
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dark.png" ,DARK
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30743
+#EXTINF:-1 tvg-name="Movistar Series HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
+rtp://@239.0.5.250:8208
+#EXTINF:-1 tvg-name="Movistar Series Xtra HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
+rtp://@239.0.5.83:8208
+#EXTINF:-1 tvg-name="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
+rtp://@239.0.5.74:8208
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
+rtp://@239.0.5.87:8208
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
+rtp://@239.0.9.131:8208
+#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17116
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12730.m3u8
+#EXTINF:-1 tvg-name="Fox HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
+rtp://@239.0.9.134:8208
+#EXTINF:-1 tvg-name="Fox Life HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
+rtp://@239.0.0.165:8208
+#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17148
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/20947.m3u8
+#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
+rtp://@239.0.0.174:8208
+#EXTINF:-1 tvg-name="AandE" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5414
+#EXTINF:-1 tvg-name="Crimen + Investigacion" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6984
+#EXTINF:-1 tvg-name="COSMO HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
+rtp://@239.0.5.71:8208
+#EXTINF:-1 tvg-name="Sundance" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17147
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fama.png" ,M. FAMA 24
+http://www.sansat.net:25461/live/021434618008/021434618008/14971.ts
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nonstoppeople.png" ,Nonstop People
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6722
+#EXTINF:-1 tvg-name="Discovery Max" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
+rtp://@239.0.0.32:8208
+#EXTINF:-1 tvg-name="Viajar HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17153
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12717.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17145
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/9441.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17146
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12698.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aplanet.png" ,Animal Planet
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/11606.m3u8
+#EXTINF:-1 tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2728
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2703
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
+http://www.sansat.net:25461/live/021434618008/021434618008/14962.ts
+#EXTINF:-1 tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17734
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/9417.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/blaze.png" ,BLAZE
+http://www.sansat.net:25461/live/021434618008/021434618008/15013.ts
+#EXTINF:-1 tvg-name="Canal Decasa" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5426
+#EXTINF:-1 tvg-name="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5425
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6720
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6985
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sol.png" ,SOL
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30745
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA HD
+rtp://@239.0.5.210:8208
+#EXTINF:-1 tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox HD
+rtp://@239.0.5.207:8208
+#EXTINF:-1 tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nova.png" ,Nova HD
+rtp://@239.0.5.209:8208
+#EXTINF:-1 tvg-name="Atreseries HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries HD
+rtp://@239.0.0.190:8208
+#EXTINF:-1 tvg-name="Factoria de Ficcion" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
+rtp://@239.0.0.84:8208
+#EXTINF:-1 tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
+rtp://@239.0.0.48:8208
+#EXTINF:-1 tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
+rtp://@239.0.0.59:8208
+#EXTINF:-1 tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ten.png" ,TEN
+rtp://@239.0.0.34:8208
+#EXTINF:-1 tvg-name="BE MAD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD HD
+rtp://@239.0.0.182:8208
+#EXTINF:-1 tvg-name="13 TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/13tv.png" ,13 TV
+rtp://@239.0.0.91:8208
+#EXTINF:-1 tvg-name="Tele Madrid ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telmad.png" ,Telemadrid HD
+rtp://@239.0.0.25:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
+rtp://@239.0.0.26:8208
+#EXTINF:-1 tvg-name="Andalucia TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Andalucia TV
+rtp://@239.0.0.1:8208
+#EXTINF:-1 tvg-name="Canal Sur Andalucia HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucia
+rtp://@239.0.5.192:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ctm.png" ,CMT
+rtp://@239.0.0.55:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cle.png" ,Castilla y León 7
+rtp://@239.0.0.109:8208
+#EXTINF:-1 tvg-name="TVG - TV Galicia" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,TV Galicia
+rtp://@239.0.3.37:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/extremadura.png" ,Canal Extremadura SAT
+rtp://@239.0.0.52:8208
+#EXTINF:-1 tvg-name="TV3 Cat" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3 CAT
+rtp://@239.0.3.36:8208
+#EXTINF:-1 tvg-name="TV3 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3 HD
+rtp://@239.0.5.186:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/l8m.png" ,La Ocho Mediterráneo
+rtp://@239.0.3.34:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/etb.png" ,ETB Sat
+rtp://@239.0.0.60:8208
+#EXTINF:-1 tvg-name="Aragon TV Int" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
+rtp://@239.0.0.81:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/murcia.png" ,7Rrgional de Murcia
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31371
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/canarias.png" ,RTV Canarias
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31517
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2707
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2709
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://www.Movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2710
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
+rtp://@239.0.0.173:8208
+#EXTINF:-1 tvg-name="M. Disney" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
+rtp://@239.0.0.239:8208
+#EXTINF:-1 tvg-name="Canal Panda" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
+rtp://@239.0.0.117:8208
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5419
+#EXTINF:-1 tvg-name="Clan TVE HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE HD
+rtp://@239.0.0.184:8208
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
+rtp://@239.0.0.66:8208
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
+rtp://@239.0.0.113:8208
+#EXTINF:-1 tvg-name="#Vamos HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/vamos.png" ,#Vamos HD
+rtp://@239.0.5.197:8208
+#EXTINF:-1 tvg-name="Movistar Formula 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17137
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12701.m3u8
+#EXTINF:-1 tvg-name="Movistar Moto GP HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12700.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17135
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12723.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="Movistar Deportes 2 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17131
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12724.m3u8
+#EXTINF:-1 tvg-name="Bein LaLiga HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/16861
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/8677
+#EXTINF:-1 tvg-name="Bein LaLiga 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga 1 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/8676
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2690
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2691.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17129
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA BAR HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5424
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 1 BAR HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13940.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 1 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13700.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 2 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13699.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 3 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13698.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 4 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13697.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 5 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13696.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 6 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13695.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 7 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13694.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 8 BAR SD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13693.ts
+#EXTINF:-1 tvg-name="LaLiga 123 TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17018
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 HD
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/52089.ts
+#EXTINF:-1 tvg-id="MovistarFutbol.es" tvg-name="Movistar Fútbol ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17138
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12721.m3u8
+#EXTINF:-1 tvg-name="Movistar Partidazo HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
+rtp://@239.0.5.84:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12716.m3u8
+#EXTINF:-1 tvg-name="M. Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30753
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30737
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 1 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30738
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 2 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30739
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 3 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30740
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 4 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30741
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 5 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30765
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 6 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30764
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 7 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30763
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 8 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30762
+#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17124
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12707.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6695
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/11776
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6724.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1 HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16877.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16876.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2 HD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16879.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16878.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max3
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16880.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1 FHD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16860.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16859.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2 FHD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16863.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16862.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 3
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16864.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 4
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16865.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 5
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16866.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 6
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16867.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN Laliga Max 7
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16868.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 4
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16869.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 5
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16870.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 6
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16871.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 7
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16872.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16873.m3u8
+#EXTINF:-1 tvg-name="Iberalia TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5427
+#EXTINF:-1 tvg-name="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17119
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
+http://www.sansat.net:25461/live/021434618008/021434618008/15007.ts
+#EXTINF:-1 tvg-name="Teledeporte HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte HD
+rtp://@239.0.0.188:8208
+#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
+rtp://@239.0.0.179:8208
+#EXTINF:-1 tvg-name="GOL" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
+rtp://@239.0.0.7:8208
+#EXTINF:-1 tvg-name="M. eSports" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/msports.png" ,M. eSports
+rtp://@239.0.0.178:8208
+#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17152
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12713.m3u8
+#EXTINF:-1 tvg-name="Movistar Golf HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17139
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/garage.png" ,Garage TV
+rtp://@239.0.0.99:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 1 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17489.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 10 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17480.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 2 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17488.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 3 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17487.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 4 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17486.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 5 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17485.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 6 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17484.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 7 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17483.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 8 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17482.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 9 SD
+http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17481.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22611.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 1
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16837.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 2
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16838.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 3
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16839.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 4
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16840.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 5
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22623.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 1
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22628.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 2
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22625.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 3
+http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22626.ts
+#EXTINF:-1 tvg-name="Alquiler  1" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 1
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19306
+#EXTINF:-1 tvg-name="Alquiler  2" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 2
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19308
+#EXTINF:-1 tvg-name="Alquiler  3" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 3
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19309
+#EXTINF:-1 tvg-name="Alquiler 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 4
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19310
+#EXTINF:-1 tvg-name="Alquiler  5" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 5
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19311
+#EXTINF:-1 ttvg-name="ES: TAQUILLA 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 7
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19313
+#EXTINF:-1 tvg-name="ES: TAQUILLA 8" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 8
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19314
+#EXTINF:-1 tvg-name="ES: TAQUILLA 9" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 9
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19315
+#EXTINF:-1 tvg-name="ES: TAQUILLA 10" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 10
+http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19307
+#EXTINF:-1 tvg-name="Taquilla 1 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 1 HD ES
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15615.m3u8
+#EXTINF:-1 tvg-name="Taquilla 2 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 2 HD ES
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15616.m3u8
+#EXTINF:-1 tvg-name="Taquilla 3 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 3 HD ES
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15617.m3u8
+#EXTINF:-1 tvg-name="Taquilla 4 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 4 HD ES
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15618.m3u8
+#EXTINF:-1 tvg-name="Taquilla 5 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 5 HD ES
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15619.m3u8
+#EXTINF:-1 tvg-name="Taquilla 6 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 6 HD ES
+http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15620.m3u8
