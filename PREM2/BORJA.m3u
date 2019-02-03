@@ -1,421 +1,426 @@
-#EXTM3U tvg-shift=-1
-#EXTINF:-1 tvg-name="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
-rtp://@239.0.0.185:8208
-#EXTINF:-1 tvg-name="LA 2 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2 HD
-rtp://@239.0.0.183:8208
-#EXTINF:-1 tvg-name="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png",Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:-1 tvg-name="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro HD
-rtp://@239.0.0.177:8208
-#EXTINF:-1 tvg-name="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
-rtp://@239.0.0.176:8208
-#EXTINF:-1 tvg-name="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
-rtp://@239.0.0.187:8208
-#EXTINF:-1 tvg-name="#0 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
-rtp://@239.0.5.187:8208
-#EXTINF:-1 tvg-name="Movistar Xtra HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17144
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12712.m3u8
-#EXTINF:-1 tvg-id="MV1 ASTRA HD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17136
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12722.m3u8
-#EXTINF:-1 tvg-id="CPCOLE ASTRA HD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17134
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12725.m3u8
-#EXTINF:-1 tvg-name="Movistar Comedia HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17133
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12726.m3u8
-#EXTINF:-1 tvg-name="Movistar Accion HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17132
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12727.m3u8
-#EXTINF:-1 tvg-id="DCESP ASTRA SD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/espanol.png" ,Movistar Cine Español
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31563
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/somos.png" ,Somos
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30742
-#EXTINF:-1 tvg-name="TCM HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12695.m3u8
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5415
-#EXTINF:-1 tvg-name="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Network
-rtp://@239.0.0.90:8208
-#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
-rtp://@239.0.5.76:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/doc.png" ,Movistar CineDoc&Roll HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31562
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17369
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dark.png" ,DARK
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30743
-#EXTINF:-1 tvg-name="Movistar Series HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
-rtp://@239.0.5.250:8208
-#EXTINF:-1 tvg-name="Movistar Series Xtra HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
-rtp://@239.0.5.83:8208
-#EXTINF:-1 tvg-name="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
-rtp://@239.0.5.74:8208
-#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
-rtp://@239.0.5.87:8208
-#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
-rtp://@239.0.9.131:8208
-#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17116
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12730.m3u8
-#EXTINF:-1 tvg-name="Fox HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
-rtp://@239.0.9.134:8208
-#EXTINF:-1 tvg-name="Fox Life HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
-rtp://@239.0.0.165:8208
-#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/20947.m3u8
-#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
-rtp://@239.0.0.174:8208
-#EXTINF:-1 tvg-name="AandE" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5414
-#EXTINF:-1 tvg-name="Crimen + Investigacion" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6984
-#EXTINF:-1 tvg-name="COSMO HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
-rtp://@239.0.5.71:8208
-#EXTINF:-1 tvg-name="Sundance" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17147
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fama.png" ,M. FAMA 24
-http://www.sansat.net:25461/live/021434618008/021434618008/14971.ts
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nonstoppeople.png" ,Nonstop People
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6722
-#EXTINF:-1 tvg-name="Discovery Max" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
-rtp://@239.0.0.32:8208
-#EXTINF:-1 tvg-name="Viajar HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17153
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12717.m3u8
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17145
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/9441.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12698.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aplanet.png" ,Animal Planet
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/11606.m3u8
-#EXTINF:-1 tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2728
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2703
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
-http://www.sansat.net:25461/live/021434618008/021434618008/14962.ts
-#EXTINF:-1 tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17734
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/9417.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/blaze.png" ,BLAZE
-http://www.sansat.net:25461/live/021434618008/021434618008/15013.ts
-#EXTINF:-1 tvg-name="Canal Decasa" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5426
-#EXTINF:-1 tvg-name="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5425
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6720
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6985
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sol.png" ,SOL
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30745
-#EXTINF:-1 tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA HD
-rtp://@239.0.5.210:8208
-#EXTINF:-1 tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox HD
-rtp://@239.0.5.207:8208
-#EXTINF:-1 tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nova.png" ,Nova HD
-rtp://@239.0.5.209:8208
-#EXTINF:-1 tvg-name="Atreseries HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries HD
-rtp://@239.0.0.190:8208
-#EXTINF:-1 tvg-name="Factoria de Ficcion" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
-rtp://@239.0.0.84:8208
-#EXTINF:-1 tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
-rtp://@239.0.0.48:8208
-#EXTINF:-1 tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
-rtp://@239.0.0.59:8208
-#EXTINF:-1 tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ten.png" ,TEN
-rtp://@239.0.0.34:8208
-#EXTINF:-1 tvg-name="BE MAD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD HD
-rtp://@239.0.0.182:8208
-#EXTINF:-1 tvg-name="13 TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/13tv.png" ,13 TV
-rtp://@239.0.0.91:8208
-#EXTINF:-1 tvg-name="Tele Madrid ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telmad.png" ,Telemadrid HD
-rtp://@239.0.0.25:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
-rtp://@239.0.0.26:8208
-#EXTINF:-1 tvg-name="Andalucia TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Andalucia TV
-rtp://@239.0.0.1:8208
-#EXTINF:-1 tvg-name="Canal Sur Andalucia HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucia
-rtp://@239.0.5.192:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ctm.png" ,CMT
-rtp://@239.0.0.55:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cle.png" ,Castilla y León 7
-rtp://@239.0.0.109:8208
-#EXTINF:-1 tvg-name="TVG - TV Galicia" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,TV Galicia
-rtp://@239.0.3.37:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/extremadura.png" ,Canal Extremadura SAT
-rtp://@239.0.0.52:8208
-#EXTINF:-1 tvg-name="TV3 Cat" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3 CAT
-rtp://@239.0.3.36:8208
-#EXTINF:-1 tvg-name="TV3 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3 HD
-rtp://@239.0.5.186:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/l8m.png" ,La Ocho Mediterráneo
-rtp://@239.0.3.34:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/etb.png" ,ETB Sat
-rtp://@239.0.0.60:8208
-#EXTINF:-1 tvg-name="Aragon TV Int" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
-rtp://@239.0.0.81:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/murcia.png" ,7Rrgional de Murcia
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31371
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/canarias.png" ,RTV Canarias
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/31517
-#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2707
-#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2709
-#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://www.Movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2710
-#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1 tvg-name="M. Disney" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
-rtp://@239.0.0.239:8208
-#EXTINF:-1 tvg-name="Canal Panda" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
-rtp://@239.0.0.117:8208
-#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5419
-#EXTINF:-1 tvg-name="Clan TVE HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE HD
-rtp://@239.0.0.184:8208
-#EXTINF:-1 tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
-rtp://@239.0.0.66:8208
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
-rtp://@239.0.0.113:8208
-#EXTINF:-1 tvg-name="#Vamos HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/vamos.png" ,#Vamos HD
-rtp://@239.0.5.197:8208
-#EXTINF:-1 tvg-name="Movistar Formula 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17137
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12701.m3u8
-#EXTINF:-1 tvg-name="Movistar Moto GP HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12700.m3u8
-#EXTINF:-1 tvg-name="Movistar Deportes 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17135
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12723.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="Movistar Deportes 2 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17131
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12724.m3u8
-#EXTINF:-1 tvg-name="Bein LaLiga HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/16861
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/8677
-#EXTINF:-1 tvg-name="Bein LaLiga 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga 1 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/8676
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/2690
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2691.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17129
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA BAR HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5424
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 1 BAR HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13940.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 1 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13700.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 2 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13699.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 3 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13698.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 4 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13697.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 5 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13696.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 6 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13695.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 7 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13694.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV 8 BAR SD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13693.ts
-#EXTINF:-1 tvg-name="LaLiga 123 TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17018
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/52089.ts
-#EXTINF:-1 tvg-id="MovistarFutbol.es" tvg-name="Movistar Fútbol ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12721.m3u8
-#EXTINF:-1 tvg-name="Movistar Partidazo HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
-rtp://@239.0.5.84:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12716.m3u8
-#EXTINF:-1 tvg-name="M. Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30753
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30737
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 1 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30738
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 2 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30739
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 3 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30740
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 4 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30741
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 5 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30765
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 6 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30764
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 7 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30763
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 8 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/30762
-#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17124
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12707.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/6695
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/11776
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6724.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1 HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16877.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16876.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2 HD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16879.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16878.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max3
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16880.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1 FHD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16860.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16859.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2 FHD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16863.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16862.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 3
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16864.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 4
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16865.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 5
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16866.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 6
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16867.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN Laliga Max 7
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16868.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 4
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16869.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 5
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16870.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 6
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16871.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 7
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16872.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16873.m3u8
-#EXTINF:-1 tvg-name="Iberalia TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/5427
-#EXTINF:-1 tvg-name="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17119
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
-http://www.sansat.net:25461/live/021434618008/021434618008/15007.ts
-#EXTINF:-1 tvg-name="Teledeporte HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte HD
-rtp://@239.0.0.188:8208
-#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
-rtp://@239.0.0.179:8208
-#EXTINF:-1 tvg-name="GOL" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
-rtp://@239.0.0.7:8208
-#EXTINF:-1 tvg-name="M. eSports" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/msports.png" ,M. eSports
-rtp://@239.0.0.178:8208
-#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17152
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12713.m3u8
-#EXTINF:-1 tvg-name="Movistar Golf HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/17139
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/garage.png" ,Garage TV
-rtp://@239.0.0.99:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 1 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17489.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 10 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 2 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17488.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 3 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17487.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 4 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17486.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 5 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17485.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 6 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17484.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 7 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17483.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 8 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17482.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 9 SD
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17481.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22611.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 1
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16837.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 2
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16838.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 3
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16839.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 4
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/16840.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 5
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22623.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 1
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22628.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 2
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22625.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 3
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22626.ts
-#EXTINF:-1 tvg-name="Alquiler  1" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 1
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19306
-#EXTINF:-1 tvg-name="Alquiler  2" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 2
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19308
-#EXTINF:-1 tvg-name="Alquiler  3" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 3
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19309
-#EXTINF:-1 tvg-name="Alquiler 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 4
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19310
-#EXTINF:-1 tvg-name="Alquiler  5" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 5
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19311
-#EXTINF:-1 ttvg-name="ES: TAQUILLA 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 7
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19313
-#EXTINF:-1 tvg-name="ES: TAQUILLA 8" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 8
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19314
-#EXTINF:-1 tvg-name="ES: TAQUILLA 9" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 9
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19315
-#EXTINF:-1 tvg-name="ES: TAQUILLA 10" tvg-logo="http://iptvreseller.xyz:1234/Anh/TAQUILLA.png" group-title="Spain",ES: TAQUILLA 10
-http://iptv-line.com:6969/asusgor.d.y1/2A7YJWh1/19307
-#EXTINF:-1 tvg-name="Taquilla 1 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 1 HD ES
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15615.m3u8
-#EXTINF:-1 tvg-name="Taquilla 2 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 2 HD ES
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15616.m3u8
-#EXTINF:-1 tvg-name="Taquilla 3 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 3 HD ES
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15617.m3u8
-#EXTINF:-1 tvg-name="Taquilla 4 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 4 HD ES
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15618.m3u8
-#EXTINF:-1 tvg-name="Taquilla 5 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 5 HD ES
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15619.m3u8
-#EXTINF:-1 tvg-name="Taquilla 6 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 6 HD ES
-http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/15620.m3u8
+#EXTM3U 
+
+
+
+
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", ESPAÑA 
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+
+group,ESPAÑA
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tve_la1_logo_since_2008.png?ssl=1&w=450" group-title="España", La 1
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57978.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tve_la1_logo_since_2008.png?ssl=1&w=450" group-title="España", La 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tve_la1_logo_since_2008.png?ssl=1&w=450" group-title="España", La 1 (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/11.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8G6/b46c4a6c18.png" group-title="España", La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8G6/b46c4a6c18.png" group-title="España", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8G6/b46c4a6c18.png" group-title="España", La 2 (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/11.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="España", Antena 3 Internacional
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758424&f=.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="España", Antena 3
+https://pull2b-i.akamaized.net/antena3/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="España", Antena 3 (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/12.ts
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="España", La Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="España", La Cuatro (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/13.ts
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="España", Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="España", Telecinco
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="España", Telecinco (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/14.ts
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="España", La Sexta
+https://pull2c-i.akamaized.net/lasexta/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png" group-title="España", 8 TV España
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg" group-title="España", 13 TV	
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_58130.png" group-title="España", TVE
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762229&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_58130.png" group-title="España", TVE
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/166742.m3u8
+#EXTINF:-1 tvg-logo="http://orig12.deviantart.net/3bcc/f/2011/004/3/5/logotipo_para_clan_tve_by_bcfstudio-d36fjr8.png" group-title="España", Clan TVE
+http://m-iptv.net:6204/live/prQ8aKxwD2/gxP2nrNcex/10005.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8JA/fbaae3e6bb.png" group-title="España", TVE 24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="España", Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2015/05/logo-mega.jpg" group-title="España", MEGA ESPANA
+https://pull2a-i.akamaized.net/mega/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png" group-title="España", Neox
+https://pull2b-i.akamaized.net/neox/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="España",NOVA
+http://91.126.138.140:1935/live/nova-Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="España",NOVA
+https://pull1c-i.akamaized.net/nova/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://radioqrzlatina.com/attachments/Image/LOGO-LIFE-TV-.png?template=generic" group-title="España", LIFE TV
+http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="España", A3SERIES
+https://pull2a-i.akamaized.net/a3series/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="España", Be Mad 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://www.videocadenasur.net/images/laotra.gif" group-title="España", la Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.videocadenasur.net/images/laotra.gif" group-title="España", la Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="España", COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="España", COSMO TV (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/40.ts
+#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="España", Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="España", Divinity
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="España", Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="España", Energy
+http://91.126.138.141:1935/live/energy-Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="España", FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="España", FDF
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="España", Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/calle131.jpg?ssl=1&w=450" group-title="España", Calle 13
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57996.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/calle131.jpg?ssl=1&w=450" group-title="España", Calle 13 (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/10.ts
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="España", Comedy Central
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57994.m3u8
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/69d35a7be1122c42603cd6b7771d6c2e.png" group-title="España", Crimen investigacion
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57990.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="España", A&E
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58006.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="España", AMC
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58005.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="España", AXN
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58002.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="España", AXN (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/38.ts
+#EXTINF:-1 tvg-logo="http://www.elrincondelheavy.freeiz.com/fotos%20NOTICIAS/AXN_White_final_logo_GENERAL_3D_GLASSY_X_1_v3.jpg" group-title="España", AXN White
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58001.m3u8
+#EXTINF:-1 tvg-logo="http://www.elrincondelheavy.freeiz.com/fotos%20NOTICIAS/AXN_White_final_logo_GENERAL_3D_GLASSY_X_1_v3.jpg" group-title="España", AXN White (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/39.m3u8
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Buzz/Buzz_.png" group-title="España", Dark
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58007.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/tcm.png" group-title="España", TCM 
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57949.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="España", TNT España
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57946.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="España", TNT España (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/41.ts
+#EXTINF:-1 tvg-logo="http://epsmotiongraphics.com/wp-content/uploads/2016/10/4_CANAL-HOLLYWOOD_02B.jpg" group-title="España", HOLLYWOOD
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57979.m3u8
+#EXTINF:-1 tvg-logo="http://epsmotiongraphics.com/wp-content/uploads/2016/10/4_CANAL-HOLLYWOOD_02B.jpg" group-title="España", HOLLYWOOD (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/8.ts
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="España", FOX
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57983.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="España", FOX (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/36.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="España", FOX Life
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57982.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="España", FOX Life (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/37.ts
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png?ssl=1&w=450" group-title="España", SyFy
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57950.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png?ssl=1&w=450" group-title="España", SyFy (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/9.ts
+#EXTINF:-1 tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="España", Paramount Channel
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="España", Sundance Channel
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58007.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2289287465/bfby9tjsxymaa13b38zg_400x400.jpeg" group-title="España", SOMOS
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58007.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="España", XTRM
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58007.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/canal-0.png" group-title="España", #0 Series
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58007.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/canal-0.png" group-title="España", #0 Series (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/2.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Movistar_Drama.svg" group-title="España", Movistar Drama
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13284.m3u8
+#EXTINF:-1 tvg-logo="http://fotocité.com/M.CineDoc&Roll.png" group-title="España", Movistar CINEDOC&ROLL
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13281.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistar-estrenos.jpg?ssl=1&w=450" group-title="España", Movistar Estrenos
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57968.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistar-estrenos.jpg?ssl=1&w=450" group-title="España", Movistar Estrenos (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/3.ts
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/250px-movistar_accic3b3n-svg.png?ssl=1&w=450" group-title="España", Movistar Accion
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57972.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/250px-movistar_accic3b3n-svg.png?ssl=1&w=450" group-title="España", Movistar Accion (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/5.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/v4x2f/dafe7d630e.png" group-title="España", Movistar Comedia
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57971.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/v4x2f/dafe7d630e.png" group-title="España", Movistar Comedia (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/6.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", Movistar DCINE
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57970.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", Movistar DCINE (Wiseplay) 
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/4.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", DCINE Español
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13286.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", DCINE Español
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58007.m3u8
+#EXTINF:-1 tvg-logo="https://cdnmovilonia.movilonia.com/movilonia/wp-content/uploads/2018/09/movistar-seriesmania-1.jpg" group-title="España", Movistar Seriesmania
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13268.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57962.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/34.ts
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-series-xtra.jpg" group-title="España", Movistar Series Xtra
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57961.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-series-xtra.jpg" group-title="España", Movistar Series Xtra (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/35.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839442094783672320/PedOMK5x.jpg" group-title="España", Movistar Xtra
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57960.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839442094783672320/PedOMK5x.jpg" group-title="España", Movistar Xtra (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/7.ts
+#EXTINF:-1 tvg-logo="http://www.dkiss.es/wp-content/uploads/DKiss-1.png" group-title="España", DKISS
+http://91.126.141.13:1935/live/smil:kiss.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="España", Discovery Channel
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57991.m3u8
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", DMAX España
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", DMAX España (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/30.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeo.gif" group-title="España", National Geographic España
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57959.m3u8
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeo.gif" group-title="España", National Geographic España  (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/28.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeow.png" group-title="España", NatGeo Wild
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57958.m3u8
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeow.png" group-title="España", NatGeo Wild (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/29.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="España", Historia
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57980.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="España", Historia (Wiseplay)
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/8iPlAaYyEeRr141198488/ar886o33b25181/31.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" group-title="España", ODISEA
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57954.m3u8
+#EXTINF:-1 tvg-logo="http://decasa.tv/minisites/especial-homeopatia/imagenes/logo_decasa.png" group-title="España", CANAL DECASA
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58007.m3u8
+#EXTINF:-1 tvg-logo="http://www.conecta.es/images/NOTICIAS/AMC/canal-cocina.png" group-title="España", CANAL COCINA
+https://59b782181fb20.streamlock.net/cscocina/cscocina/chunklist_w627580542.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Mirame_TV_Spain.jpg" group-title="España", MIRAME TV
+http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalsur.es/resources/archivos_offline/2016/10/5/1475662643049La_Banda_TV_310x226.svg" group-title="España", TV LA BANDA
+http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0TYIEqMGl5k/mqdefault_live.jpg" group-title="España", HispanTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="España",Lancelot TV 
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png" group-title="España", Andalucia TV
+http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.aragonradio.es/_archivos/imagenes/grande/20131112_00007.jpg" group-title="España", AragonTv
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalsur.es/css/cssimg/logoCS.jpg" group-title="España", CANAL SUR ANDALUCIA 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/canal_vasco_spain.jpg" group-title="España", TV Canal Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://telebasura.com/wp-content/2013/01/logo-telemadrid.jpg" group-title="España", Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.congreso.es/wc/htdocs/web/img/canal_parlamento.gif" group-title="España", Canal Parlamento (Madrid) 	
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8
+#EXTINF:-1 tvg-logo="http://www.eldia.tv/images/logo-cabecera-u103.png" group-title="España", EL DÍA TV España
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/be/c6/a4/bec6a46c-e666-e54a-e087-d876727eeef3/mzl.czmmtypy.png/1200x630bb.jpg" group-title="España",CYLTV
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",ONDA AZUL SEVILLA
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España", EXTREMADURA TV 
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1 tvg-logo="http://tecavicas.es/wp-content/uploads/2013/03/levante_tv_1.jpg" group-title="España", LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="España", 324 	
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="España", T V3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal11lapalma.net/DOCUMENTOS/LOGO/logocanal4ok.jpg" group-title="España",  CANAL 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg" group-title="España", HuelvaTv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1970726466/logomediterraneotv_trazos_400x400.png" group-title="España", MEDITERRANEO 
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
+#EXTINF:-1 tvg-logo="http://canaltdt.es/wp-content/uploads/2015/01/navarra_tv.jpg" group-title="España", Navarra TV
+Http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="España", TV GALICIA	
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hernandezpsicologos.es/wp-content/uploads/colaboraciones-radio-television-marbella-alejandra-hernandez-psicologos-marbella-fuengirola-malaga.jpg" group-title="España", Marbella TV 
+http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Ribera-TV.png" group-title="España", Ribera TV 
+http://188.165.135.22/ribera/livestream/.m3u8
+
+
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", Infantiles 
+
+
+group,INFANTILES
+
+
+#EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/02/BabyTV_Logo_TM-300x215.png" group-title="Infantiles", Baby TV
+http://multimediacontent.tk:2052/hls/147/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/02/BabyTV_Logo_TM-300x215.png" group-title="Infantiles", Baby TV 
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762358&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles", Boomerang
+http://multimediacontent.tk:2052/hls/147/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles", Boomerang
+http://live.izzitv.mx/Content/HLS/Live/Channel(Boomerang)/index.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Infantiles", Cartoon Network 
+http://multimediacontent.tk:2052/hls/137/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Infantiles", Cartoon Network 
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s640/18881845_1689128821389050_7148178865498555867_n.png" group-title="Infantiles", NatGeo Kids
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762228&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png" group-title="Infantiles", Discovery Kids 
+http://multimediacontent.tk:2052/hls/148/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="Infantiles", Disney Channel 
+http://multimediacontent.tk:2052/hls/138/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="Infantiles", Disney Channel
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png" group-title="Infantiles", Disney Jr
+http://multimediacontent.tk:2052/hls/139/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png" group-title="Infantiles", Disney Jr
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762195&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles", Disney XD 
+http://multimediacontent.tk:2052/hls/140/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles", Disney XD 
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISNEY_XD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw51W/3b10c832dd.png" group-title="Infantiles", Nick 
+http://multimediacontent.tk:2052/hls/144/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw51W/3b10c832dd.png" group-title="Infantiles", Nick
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762233&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png" group-title="Infantiles", Nick JR
+http://multimediacontent.tk:2052/hls/143/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png" group-title="Infantiles", Nick JR
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762233&f=.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="Infantiles", Nick Toons
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=758549&f=.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ce/d1/66/ced166962f1db9dc256759e96fa0a99c.png" group-title="Infantiles", NICKELODEON
+http://live.izzitv.mx/Content/HLS/Live/Channel(Nick2_Hd)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", Tiin 
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE05.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantiles", Tooncast 
+http://multimediacontent.tk:2052/hls/146/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantiles", Tooncast 
+http://158.69.199.21/clarotv/claro.php?calidad=4&canal=762278&f=.m3u8 
+#EXTINF:-1 tvg-logo="http://www.cachipum.tv/img/logo.png" group-title="Infantiles", Cachipum Tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="Infantiles", Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/a4/4a/19/a44a19b66c1ce047a508c3cf76fce8e0.jpg" group-title="Infantiles", Canal Panda
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57953.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450" group-title="Infantiles", PakaPaka
+http://185.66.143.240:25461/live/tiana/tiana/632.m3u8
+#EXTINF:-1,XTREME KIDS
+http://190.113.125.30:1925/xkidstvhd/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.animaxtv.com/images/logo_animax.png" group-title="Infantiles", Animation
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Peppa Pig Temp3 
+https://www.youtube.com/watch?v=Zyj9bgz_LDU&t=24s
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Peppa Pig Temp2
+https://www.youtube.com/watch?v=KwPKT3bpxEk
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Peppa Pig Navidad
+https://www.youtube.com/watch?v=kLdfITlXE-8
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Masha y el Oso
+https://www.youtube.com/watch?v=nShz5rkeX2E&t=1225s
+#EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/retro-tv-icono-psd_30-2308.jpg" group-title="Infantiles", CLASICOS ACS
+https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://png-3.vector.me/files/images/7/6/764027/chavo_del_8_thumb.png" group-title="Infantiles", El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4/
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/07/6c/ed/076cedb23fa6db5dd8e670c9f9fd52ff--cartoon-online-mr-bean.jpg" group-title="Infantiles", MrBean Cartoon Live
+https://www.youtube.com/watch?v=dPkWQnCqcRg
+#EXTINF:-1, Classics Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1, Cartoons 4U 
+https://edge1.dashmedia.tv:8083/onestudio/cartoons_4u/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://puu.sh/vnC7J/3851e472fd.png" group-title="Infantiles", El Chavo del 8 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4848.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="Infantiles", Chapulin Colorado 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11450.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh2Xv/015ef8314e.png" group-title="Infantiles", Caballeros del Zodiaco 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11458.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="Infantiles", Super Campeones 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11425.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmA23L3.png" group-title="Infantiles", X-MEN 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14158.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9KPRzuJ.jpg" group-title="Infantiles", BOB ESPONJA 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4840.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5W8/e0f4f580f8.png" group-title="Infantiles", Dragon Ball Super 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/5763.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wI5NQWY.png" group-title="Infantiles", LOONEY TOONS 24/7 
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14130.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Infantiles", Los Simpson 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/5571.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-T7fVLjq1Lrw/UHO4vet_yNI/AAAAAAAACto/nQpIQ6IowzQ/s1600/tom-e-jerry-anmtv.jpg" group-title="Infantiles", Tom y Jerry 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/7908.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UU5lU5q.png" group-title="Infantiles", LOS PICAPIEDRA 24/7 
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11433.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_9qZScR42z3g/TJT2Xo_8xVI/AAAAAAAAJvE/stvZnnUl4I0/s400/index.jpg" group-title="Infantiles", LA PANTERA ROSA 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/6037.m3u8
+#EXTINF:-1 tvg-logo="https://app.mxl-iptv.tv/logos_tv/4e9746ae8c4689f2c996cf79fc1df357.jpg" group-title="Infantiles",Cantinflas 
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14143.m3u8 
+#EXTINF:-1 tvg-logo="http://images6.fanpop.com/image/photos/35500000/Scooby-doo-yumi-ishiyama-35546722-500-500.png" group-title="Infantiles",Scooby-Doo 
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14131.m3u8
+#EXTINF:-1 tvg-logo="https://seriestvinfo.files.wordpress.com/2018/07/0115-e1532104434926.jpg" group-title="Infantiles", MR BEAN 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14144.m3u8
+#EXTINF:-1 tvg-logo="https://www.ionlitio.com/images/2012/02/dinosaurios-la-serie-logo.jpg" group-title="Infantiles", Dinosaurios 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14155.m3u8
+#EXTINF:-1 tvg-logo="http://site.area51.pe/online/wp-content/uploads/2017/01/PowerRangers-1024x576.jpg" group-title="Infantiles", Power Rangers 
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11425.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3eu/503d8c2925.png" group-title="Infantiles", El Principel del Rap 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/7907.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/43/ALF-animatedtitle.jpg" group-title="Infantiles", ALF 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4844.m3u8
+#EXTINF:-1, El tunel del tiempo 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11444.m3u8
+#EXTINF:-1,El coche fantastico 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11448.m3u8
+#EXTINF:-1, Bewitched Hechizada 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11460.m3u8
+#EXTINF:-1, Perdidos en el Espacio
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11429.m3u8
+#EXTINF:-1, La Familia Addams
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11438.m3u8
+#EXTINF:-1, La Familia Monster
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11437.m3u8
+
+
