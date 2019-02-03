@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-	<item>
-<title>[COLOR gold] MOVISTAR CINE Y SRIES [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/A1.xml</externallink>
-</item>
-
-
-	<item>
-<title>[COLOR gold] DEPORTES [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/A2.xml</externallink>
-</item>
-
-	<item>
-<title>[COLOR gold] TDT [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/A3.xml</externallink>
-</item>
-
-	<item>
-<title>[COLOR gold] DOCUMENTALES Y VARIADO [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/a4.xml</externallink>
-</item>
-
-	<item>
-<title>[COLOR gold] PEQUES [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/a5.xml</externallink>
-</item>
-
 	<item>
 <title>[COLOR gold] LISTA COMPLETA [/COLOR]</title>
 <thumbnail></thumbnail>
@@ -52,29 +10,16 @@
 </item>
 
 
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LA 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7215.m3u8;streamtype=HLSRETRY&amp;name=LA 1 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA 1 (F4M source #01)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8$$lsname=LA 1 (HTTP source #01)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8$$lsname=LA 1 (HTTP source #02)</link>
-<link>http://51.15.144.38:8080/play/a09h/index.m3u8$$lsname=LA 1 (HTTP source #03)</link>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8$$lsname=LA 1 (HTTP source #03)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtve.es/directo/la-1/$$lsname=LA 1 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/la1.php$$lsname=LA 1 (SD source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LA1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LA 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16288.m3u8;streamtype=HLSRETRY&amp;name=LA 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA 1 HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2028.m3u8;streamtype=HLSRETRY&amp;name=LA 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA 1 HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.m3u8;streamtype=HLSRETRY&amp;name=LA 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA 1 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LA1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LA 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7214.m3u8;streamtype=HLSRETRY&amp;name=LA 2 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA 2 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2027.m3u8;streamtype=HLSRETRY&amp;name=LA 2 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA 2 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/808.m3u8;streamtype=HLSRETRY&amp;name=LA 2 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA 2 (F4M source #05)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=650000.m3u8$$lsname=LA 2 (HTTP source #01)</link>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8$$lsname=LA 2 (HTTP source #02)</link>
-<link>http://51.15.144.38:8080/play/a061/index.m3u8$$lsname=LA 2 (HTTP source #03)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-tv-2-espana-online-y-en-directo-las-24h-en-vivio-y-gratis/$$lsname=LA 2 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/la2.php$$lsname=LA 2 (SD source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LA2.png</thumbnail></item>
@@ -82,305 +27,206 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/a3.php$$lsname=ANTENA 3 (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ANTENA 3 HD[/B][/COLOR]</title>
-<link>https://antena3-pull2b-a3player.secure.footprint.net/antena3/bitrate_2.m3u8$$lsname=ANTENA 3 HD (HTTP source #01)</link>
-<link>https://tinyurl.com/ANTENA3HD-index-m3u8$$lsname=ANTENA 3 HD (HTTP source #02)</link>
-<link>http://51.15.144.38:8080/play/a00g/index.m3u8$$lsname=ANTENA 3 HD (HTTP source #03)</link>
+<link>https://pull2b-i.akamaized.net/antena3/bitrate_4.m3u8$$lsname=ANTENA 3 HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINCO[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0du$$lsname=TELECINCO (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/telecinco.php$$lsname=TELECINCO (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINCO HD[/B][/COLOR]</title>
+<link>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8$$lsname=TELECINCO HD (HTTP source #01)</link>
+<link>http://212.233.35.3:5577/play/a0ei$$lsname=TELECINCO HD (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CUATRO[/B][/COLOR]</title>
+<link>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8$$lsname=CUATRO (HTTP source #01)</link>
+<link>http://212.233.35.3:5577/play/a0dw$$lsname=CUATRO (HTTP source #02)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/la4.php$$lsname=CUATRO (SD source #01)</link>
 <link>plugin://program.plexus/?url=acestream://159c6c95b23f9affd5819f61e2003bce29ac475d&amp;mode=1&amp;name=Acestream+CUATRO$$lsname=CUATRO (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CUATRO.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CUATRO HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7228.m3u8;streamtype=HLSRETRY&amp;name=CUATRO HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CUATRO HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2024.m3u8;streamtype=HLSRETRY&amp;name=CUATRO HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CUATRO HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/806.m3u8;streamtype=HLSRETRY&amp;name=CUATRO HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CUATRO HD (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0eh$$lsname=CUATRO HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CUATRO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINCO[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/telecinco.php$$lsname=TELECINCO (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINCO HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/805.m3u8;streamtype=HLSRETRY&amp;name=TELECINCO HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=TELECINCO HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LA SEXTA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/6671.m3u8;streamtype=HLSRETRY&amp;name=LA SEXTA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA SEXTA (F4M source #01)</link>
+<link>http://212.233.35.3:5577/play/a0dq$$lsname=LA SEXTA (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/lasexta.php$$lsname=LA SEXTA (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] LA SEXTA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7213.m3u8;streamtype=HLSRETRY&amp;name=LA SEXTA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA SEXTA HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2021.m3u8;streamtype=HLSRETRY&amp;name=LA SEXTA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA SEXTA HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8;streamtype=HLSRETRY&amp;name=LA SEXTA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LA SEXTA HD (F4M source #05)</link>
+<link>https://pull2c-i.akamaized.net/lasexta/bitrate_4.m3u8$$lsname=LA SEXTA HD (HTTP source #01)</link>
+<link>http://212.233.35.3:5577/play/a0ej$$lsname=LA SEXTA HD (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] #0[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13539.m3u8;streamtype=HLSRETRY&amp;name=#0 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=#0 (F4M source #01)</link>
-<link>http://51.15.144.38:8080/play/a02d/index.m3u8$$lsname=#0 (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/mov0.php$$lsname=#0 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] #0 FHD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16283.m3u8;streamtype=HLSRETRY&amp;name=#0 FHD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=#0 FHD (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEMADRID[/B][/COLOR]</title>
-<link>http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8$$lsname=TELEMADRID (HTTP source #01)</link>
-<link>http://51.15.144.38:8080/play/a07y/index.m3u8$$lsname=TELEMADRID (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEMADRID.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LA OTRA[/B][/COLOR]</title>
-<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8$$lsname=LA OTRA (HTTP source #01)</link>
-<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8$$lsname=LA OTRA (HTTP source #02)</link>
-<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8$$lsname=LA OTRA (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LAOTRA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR SERIES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR SERIES (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR SERIES XTRA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR SERIES XTRA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR SERIES XTRA HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7220.m3u8;streamtype=HLSRETRY&amp;name=FOX [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16267.m3u8;streamtype=HLSRETRY&amp;name=FOX HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2060.m3u8;streamtype=HLSRETRY&amp;name=FOX HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8;streamtype=HLSRETRY&amp;name=FOX HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13543.m3u8;streamtype=HLSRETRY&amp;name=AXN [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AXN (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/axn.php$$lsname=AXN (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7252.m3u8;streamtype=HLSRETRY&amp;name=AXN HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AXN HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8;streamtype=HLSRETRY&amp;name=AXN HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AXN HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TNT HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8;streamtype=HLSRETRY&amp;name=TNT HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=TNT HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTHD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY CENTRAL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2054.m3u8;streamtype=HLSRETRY&amp;name=COMEDY CENTRAL [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=COMEDY CENTRAL (F4M source #02)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/comedycentral.php$$lsname=COMEDY CENTRAL (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY CENTRAL HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7230.m3u8;streamtype=HLSRETRY&amp;name=COMEDY CENTRAL HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=COMEDY CENTRAL HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8;streamtype=HLSRETRY&amp;name=COMEDY CENTRAL HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=COMEDY CENTRAL HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CALLE 13[/B][/COLOR]</title>
-<link>https://tinyurl.com/CALLE13-index-m3u8$$lsname=CALLE 13 (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/calle13.php$$lsname=CALLE 13 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CALLE 13 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7247.m3u8;streamtype=HLSRETRY&amp;name=CALLE 13 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CALLE 13 HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2055.m3u8;streamtype=HLSRETRY&amp;name=CALLE 13 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CALLE 13 HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.m3u8;streamtype=HLSRETRY&amp;name=CALLE 13 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CALLE 13 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] COSMO HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7229.m3u8;streamtype=HLSRETRY&amp;name=COSMO HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=COSMO HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2053.m3u8;streamtype=HLSRETRY&amp;name=COSMO HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=COSMO HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/767.m3u8;streamtype=HLSRETRY&amp;name=COSMO HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=COSMO HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/amc.php$$lsname=AMC (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7255.m3u8;streamtype=HLSRETRY&amp;name=AMC HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AMC HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2058.m3u8;streamtype=HLSRETRY&amp;name=AMC HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AMC HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.m3u8;streamtype=HLSRETRY&amp;name=AMC HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AMC HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX LIFE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7219.m3u8;streamtype=HLSRETRY&amp;name=FOX LIFE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX LIFE (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX LIFE HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16266.m3u8;streamtype=HLSRETRY&amp;name=FOX LIFE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX LIFE HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2059.m3u8;streamtype=HLSRETRY&amp;name=FOX LIFE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX LIFE HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.m3u8;streamtype=HLSRETRY&amp;name=FOX LIFE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX LIFE HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN WHITE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13542.m3u8;streamtype=HLSRETRY&amp;name=AXN WHITE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AXN WHITE (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN WHITE HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7251.m3u8;streamtype=HLSRETRY&amp;name=AXN WHITE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AXN WHITE HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2057.m3u8;streamtype=HLSRETRY&amp;name=AXN WHITE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AXN WHITE HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8;streamtype=HLSRETRY&amp;name=AXN WHITE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=AXN WHITE HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] SYFY[/B][/COLOR]</title>
-<link>https://tinyurl.com/SYFY-index-m3u8$$lsname=SYFY (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] SYFY HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.m3u8;streamtype=HLSRETRY&amp;name=SYFY HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=SYFY HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NON STOP PEOPLE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/773.m3u8;streamtype=HLSRETRY&amp;name=NON STOP PEOPLE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=NON STOP PEOPLE (F4M source #05)</link>
-<thumbnail>http://www.atm-es.com/r03000340/images/public/sections/nstp.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FDF[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7221.m3u8;streamtype=HLSRETRY&amp;name=FDF [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FDF (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.m3u8;streamtype=HLSRETRY&amp;name=FDF [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FDF (F4M source #05)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NEOX[/B][/COLOR]</title>
-<link>http://51.15.144.38:8080/play/a050/index.m3u8$$lsname=NEOX (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NEOX HD[/B][/COLOR]</title>
-<link>http://51.15.144.38:8080/play/a050/index.m3u8$$lsname=NEOX (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ATRESERIES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13544.m3u8;streamtype=HLSRETRY&amp;name=ATRESERIES [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=ATRESERIES (F4M source #01)</link>
+<link>https://pull2a-i.akamaized.net/a3series/bitrate_4.m3u8$$lsname=ATRESERIES (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BE MAD[/B][/COLOR]</title>
+<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8$$lsname=BE MAD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BOING[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dh$$lsname=BOING (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVE 24H[/B][/COLOR]</title>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8$$lsname=TVE 24H (HTTP source #01)</link>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8$$lsname=TVE 24H (HTTP source #02)</link>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8$$lsname=TVE 24H (HTTP source #03)</link>
+<link>https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8$$lsname=TVE 24H (HTTP source #04)</link>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=400000.m3u8$$lsname=TVE 24H (HTTP source #05)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CLAN[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dp$$lsname=CLAN (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CLAN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DIVINITY[/B][/COLOR]</title>
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8$$lsname=DIVINITY (HTTP source #01)</link>
+<link>http://212.233.35.3:5577/play/a0dd$$lsname=DIVINITY (HTTP source #02)</link>
+<link>plugin://program.plexus/?url=acestream://2a85a10881e1c9ed67396143674193e660062302&amp;mode=1&amp;name=Acestream+DIVINITY$$lsname=DIVINITY (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ENERGY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8765.m3u8;streamtype=HLSRETRY&amp;name=ENERGY [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=ENERGY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2052.m3u8;streamtype=HLSRETRY&amp;name=ENERGY [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=ENERGY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/800.m3u8;streamtype=HLSRETRY&amp;name=ENERGY [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=ENERGY (F4M source #05)</link>
+<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8$$lsname=ENERGY (HTTP source #01)</link>
+<link>http://212.233.35.3:5577/play/a0di$$lsname=ENERGY (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ESTRENOS HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ESTRENOS HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR ESTRENOS HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR XTRA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR XTRA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR XTRA (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARXTRA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ACCION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7195.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ACCION [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR ACCION (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ACCION HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7245.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ACCION HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR ACCION HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2036.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ACCION HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR ACCION HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR ACCION HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR ACCION HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR COMEDIA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7194.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR COMEDIA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR COMEDIA HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2035.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR COMEDIA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR COMEDIA HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR COMEDIA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR COMEDIA HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DCINE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7193.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DCINE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DCINE (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DCINE HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7242.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DCINE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DCINE HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2034.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DCINE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DCINE HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DCINE HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DCINE HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR CINE ESPANOL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13530.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR CINE ESPANOL [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR CINE ESPANOL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR CINE ESPANOL [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR CINE ESPANOL (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCINEN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TCM HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.m3u8;streamtype=HLSRETRY&amp;name=TCM HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=TCM HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] HOLLYWOOD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7216.m3u8;streamtype=HLSRETRY&amp;name=HOLLYWOOD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=HOLLYWOOD (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] HOLLYWOOD HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8768.m3u8;streamtype=HLSRETRY&amp;name=HOLLYWOOD HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=HOLLYWOOD HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2033.m3u8;streamtype=HLSRETRY&amp;name=HOLLYWOOD HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=HOLLYWOOD HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.m3u8;streamtype=HLSRETRY&amp;name=HOLLYWOOD HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=HOLLYWOOD HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FDF[/B][/COLOR]</title>
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8$$lsname=FDF (HTTP source #01)</link>
+<link>http://212.233.35.3:5577/play/a0do$$lsname=FDF (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FDFESPANHA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MEGA[/B][/COLOR]</title>
+<link>https://pull2a-i.akamaized.net/mega/bitrate_4.m3u8$$lsname=MEGA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NEOX[/B][/COLOR]</title>
+<link>https://pull2b-i.akamaized.net/geoneox/bitrate_4.m3u8$$lsname=NEOX (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOVA[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ch$$lsname=NOVA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PARAMOUNT CHANNEL[/B][/COLOR]</title>
+<link>http://paramount.live.flumotion.com/live/playlist.m3u8$$lsname=PARAMOUNT CHANNEL (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PARAMOUNTCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TEN[/B][/COLOR]</title>
+<link>http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_b1848000.m3u8$$lsname=TEN (HTTP source #01)</link>
+<thumbnail>http://www.mundoplus.tv/img/c2d3b962f9db67dc006f2cb799fafeb7</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TRECE[/B][/COLOR]</title>
 <link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8$$lsname=TRECE (HTTP source #01)</link>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8$$lsname=TRECE (HTTP source #02)</link>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8$$lsname=TRECE (HTTP source #03)</link>
 <thumbnail>http://cinestrenostv.tv/img/13tv.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV3[/B][/COLOR]</title>
-<link>https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:tv3_web/chunklist_b1296000_DVR.m3u8$$lsname=TV3 (HTTP source #01)</link>
-<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8$$lsname=TV3 (HTTP source #02)</link>
-<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8$$lsname=TV3 (HTTP source #03)</link>
-<link>http://51.15.144.38:8080/play/a07s/index.m3u8$$lsname=TV3 (HTTP source #04)</link>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL SUR[/B][/COLOR]</title>
+<link>http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/chunklist_b2128000.m3u8$$lsname=CANAL SUR (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEMADRID[/B][/COLOR]</title>
+<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8$$lsname=TELEMADRID (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEMADRID.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV GALICIA[/B][/COLOR]</title>
+<link>http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8$$lsname=TV GALICIA (HTTP source #01)</link>
+<link>http://europa-crtvg.flumotion.com/playlist.m3u8$$lsname=TV GALICIA (HTTP source #02)</link>
+<link>http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8$$lsname=TV GALICIA (HTTP source #03)</link>
+<link>rtmp://media1.crtvg.es:80/live/tvge$$lsname=TV GALICIA (RTMP source #01)</link>
+<link>plugin://program.plexus/?url=acestream://cfb54f699664cd66a0db9c9268c3295ccc9677f9&amp;mode=1&amp;name=Acestream+TV GALICIA$$lsname=TV GALICIA (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV3 CAT[/B][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8$$lsname=TV3 CAT (HTTP source #01)</link>
+<link>https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:tv3_web/chunklist_b1896000_DVR.m3u8$$lsname=TV3 CAT (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TV3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] #0[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/mov0.php$$lsname=#0 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] #0 HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0e4$$lsname=#0 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR SERIES HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dz$$lsname=MOVISTAR SERIES HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR SERIES XTRA[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0d9$$lsname=MOVISTAR SERIES XTRA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cn$$lsname=FOX (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0e8$$lsname=FOX HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cp$$lsname=AXN (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/axn.php$$lsname=AXN (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TNT[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dx$$lsname=TNT (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TNT HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0e1$$lsname=TNT HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTHD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY CENTRAL[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0d7$$lsname=COMEDY CENTRAL (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/comedycentral.php$$lsname=COMEDY CENTRAL (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CALLE 13[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/calle13.php$$lsname=CALLE 13 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] COSMO[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cw$$lsname=COSMO (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dc$$lsname=AMC (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/amc.php$$lsname=AMC (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ef$$lsname=AMC HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX LIFE[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cg$$lsname=FOX LIFE (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN WHITE[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0co$$lsname=AXN WHITE (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dl$$lsname=MTV (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ESTRENOS[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0d2$$lsname=MOVISTAR ESTRENOS (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR XTRA[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dv$$lsname=MOVISTAR XTRA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARXTRA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ACCION[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ck$$lsname=MOVISTAR ACCION (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ACCION HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0e9$$lsname=MOVISTAR ACCION HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR COMEDIA[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cl$$lsname=MOVISTAR COMEDIA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DCINE[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cm$$lsname=MOVISTAR DCINE (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DCINE HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ea$$lsname=MOVISTAR DCINE HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DCINE ESPANOL[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cz$$lsname=MOVISTAR DCINE ESPANOL (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCINEN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TCM[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0d6$$lsname=TCM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TCM HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0e0$$lsname=TCM HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HOLLYWOOD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ds$$lsname=HOLLYWOOD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HOLLYWOOD HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0eb$$lsname=HOLLYWOOD HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FUTBOL[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-canal-movistar-futbol-online-gratis-vivo/$$lsname=MOVISTAR FUTBOL (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FUTBOL HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FUTBOL HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR FUTBOL HD (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0e6$$lsname=MOVISTAR FUTBOL HD (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/canal+futbol.php$$lsname=MOVISTAR FUTBOL HD (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR PARTIDAZO[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-canal-movistar-partidazo-online-gratis-vivo/$$lsname=MOVISTAR PARTIDAZO (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS LALIGA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8763.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2069.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS LALIGA (F4M source #05)</link>
-<link>http://51.15.144.38:8080/play/a02b/index.m3u8$$lsname=BEIN SPORTS LALIGA (HTTP source #01)</link>
-<link>http://51.15.144.38:8080/play/a02a/index.m3u8$$lsname=BEIN SPORTS LALIGA (HTTP source #02)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/beinlaliga.php$$lsname=BEIN SPORTS LALIGA (SD source #01)</link>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN LALIGA[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ec$$lsname=beiN LALIGA (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/beinlaliga.php$$lsname=beiN LALIGA (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS LALIGA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16275.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS LALIGA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS LALIGA HD (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13540.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS (F4M source #01)</link>
-<link>https://tinyurl.com/y9dsqtxz$$lsname=BEIN SPORTS (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/52052.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2070.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS HD (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS MAX 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/744.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS MAX 1 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1MAX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BEIN SPORTS MAX 2 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/743.m3u8;streamtype=HLSRETRY&amp;name=BEIN SPORTS MAX 2 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BEIN SPORTS MAX 2 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2MAX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7201.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 (F4M source #01)</link>
-<link>https://tinyurl.com/DEPORTES-index-m3u8$$lsname=MOVISTAR DEPORTES 1 (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/movistar-deporte-1-online-gratis-vivo/$$lsname=MOVISTAR DEPORTES 1 (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/deporte1.php$$lsname=MOVISTAR DEPORTES 1 (SD source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7240.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2072.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 1 FHD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7240.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2072.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 1 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7239.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 2 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 2 (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-deporte-2-online/$$lsname=MOVISTAR DEPORTES 2 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 2 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 2 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 2 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 2 FHD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR DEPORTES 2 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR DEPORTES 2 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1[/B][/COLOR]</title>
-<link>http://51.15.144.38:8080/play/a01w/index.m3u8$$lsname=MOVISTAR FORMULA 1 (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-f1-online/$$lsname=MOVISTAR FORMULA 1 (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/f1.php$$lsname=MOVISTAR FORMULA 1 (SD source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR FORMULA 1 HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR FORMULA 1 HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/movistar-motogp-online-vivo-gratis/$$lsname=MOVISTAR MOTO GP (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/motogp.php$$lsname=MOVISTAR MOTO GP (SD source #02)</link>
-<link>plugin://program.plexus/?url=acestream://895563e994af1251767014960e1efdf38c875bda&amp;mode=1&amp;name=Acestream+MOVISTAR MOTO GP$$lsname=MOVISTAR MOTO GP (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR MOTO GP HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR MOTO GP HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR GOLF[/B][/COLOR]</title>
-<link>https://tinyurl.com/GOLF-index-m3u8$$lsname=MOVISTAR GOLF (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR GOLF HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8;streamtype=HLSRETRY&amp;name=MOVISTAR GOLF HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MOVISTAR GOLF HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] GOL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13457.m3u8;streamtype=HLSRETRY&amp;name=GOL [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=GOL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/751.m3u8;streamtype=HLSRETRY&amp;name=GOL [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=GOL (F4M source #05)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-goltv-online-gratis-vivo/$$lsname=GOL (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA 123[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16284.m3u8;streamtype=HLSRETRY&amp;name=LALIGA 123 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LALIGA 123 (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/laliga123.php$$lsname=LALIGA 123 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LALIGA TV (F4M source #05)</link>
-<link>https://tinyurl.com/LIGATVBAR-index-m3u8$$lsname=LALIGA TV (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA TV HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8;streamtype=HLSRETRY&amp;name=LALIGA TV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=LALIGA TV (F4M source #05)</link>
-<link>https://tinyurl.com/LIGATVBAR-index-m3u8$$lsname=LALIGA TV (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] REAL MADRID TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/733.m3u8;streamtype=HLSRETRY&amp;name=REAL MADRID TV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=REAL MADRID TV (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REAL MADRID TV HD[/B][/COLOR]</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8$$lsname=REAL MADRID TV HD (HTTP source #01)</link>
 <link>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8$$lsname=REAL MADRID TV HD (HTTP source #02)</link>
@@ -390,270 +236,214 @@
 <link>plugin://program.plexus/?url=acestream://c5e4a5e918f0d228d3fa22706579ebe10350894c&amp;mode=1&amp;name=Acestream+REAL MADRID TV HD$$lsname=REAL MADRID TV HD (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BARCA TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7250.m3u8;streamtype=HLSRETRY&amp;name=BARCA TV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BARCA TV (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2067.m3u8;streamtype=HLSRETRY&amp;name=BARCA TV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BARCA TV (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/734.m3u8;streamtype=HLSRETRY&amp;name=BARCA TV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BARCA TV (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0dj$$lsname=BARCA TV (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/movistar-deporte-1-online-gratis-vivo/$$lsname=MOVISTAR DEPORTES (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/deporte1.php$$lsname=MOVISTAR DEPORTES (SD source #02)</link>
+<link>plugin://program.plexus/?url=acestream://e17daf17d71b941f82230cdc358c4ba02eed520a&amp;mode=1&amp;name=Acestream+MOVISTAR DEPORTES$$lsname=MOVISTAR DEPORTES (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-deporte-2-online/$$lsname=MOVISTAR DEPORTES 2 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ESPORTS[/B][/COLOR]</title>
+<link>https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b348000.m3u8$$lsname=MOVISTAR ESPORTS (HTTP source #01)</link>
+<link>https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000.m3u8$$lsname=MOVISTAR ESPORTS (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESPORTS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dn$$lsname=MOVISTAR FORMULA 1 (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-movistar-f1-online/$$lsname=MOVISTAR FORMULA 1 (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/f1.php$$lsname=MOVISTAR FORMULA 1 (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FORMULA 1 HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ed$$lsname=MOVISTAR FORMULA 1 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/movistar-motogp-online-vivo-gratis/$$lsname=MOVISTAR MOTO GP (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/motogp.php$$lsname=MOVISTAR MOTO GP (SD source #02)</link>
+<link>plugin://program.plexus/?url=acestream://895563e994af1251767014960e1efdf38c875bda&amp;mode=1&amp;name=Acestream+MOVISTAR MOTO GP$$lsname=MOVISTAR MOTO GP (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTO GP HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ee$$lsname=MOVISTAR MOTO GP HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA TV[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://4e96d770945026ed66ec3bc3e3fa597b425e479a&amp;mode=1&amp;name=Acestream+LALIGA TV$$lsname=LALIGA TV (PLEXUS source #01)</link>
+<link>plugin://program.plexus/?url=acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480&amp;mode=1&amp;name=Acestream+LALIGA TV$$lsname=LALIGA TV (PLEXUS source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] LALIGA 123[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/laliga123.php$$lsname=LALIGA 123 (SD source #01)</link>
+<link>plugin://program.plexus/?url=acestream://ec26fe2281fc44909c126b2ca9c670176d0a9b7d&amp;mode=1&amp;name=Acestream+LALIGA 123$$lsname=LALIGA 123 (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 1 ES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8746.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 1 ES [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=EUROSPORT 1 ES (F4M source #01)</link>
+<link>http://212.233.35.3:5577/play/a0dk$$lsname=EUROSPORT 1 ES (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana/eurosport.php$$lsname=EUROSPORT 1 ES (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 1 HD ES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 1 HD ES [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=EUROSPORT 1 HD ES (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2 ES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13531.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 2 ES [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=EUROSPORT 2 ES (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 2 ES [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=EUROSPORT 2 ES (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEDEPORTE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/732.m3u8;streamtype=HLSRETRY&amp;name=TELEDEPORTE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=TELEDEPORTE (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0da$$lsname=TELEDEPORTE (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtve.es/directo/teledeporte/$$lsname=TELEDEPORTE (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEDEPORTE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEDEPORTE HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-teledeporte-online/$$lsname=TELEDEPORTE HD (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEDEPORTE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEDEPORTE FHD[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-teledeporte-online/$$lsname=TELEDEPORTE FHD (SD source #01)</link>
-#N/D
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] GOL[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0dm$$lsname=GOL (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://verplusonline.com/ver-goltv-online-gratis-vivo/$$lsname=GOL (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CAZA Y PESCA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/731.m3u8;streamtype=HLSRETRY&amp;name=CAZA Y PESCA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CAZA Y PESCA (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0cs$$lsname=CAZA Y PESCA (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CAZAYPESCA.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CAZA Y PESCA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16269.m3u8;streamtype=HLSRETRY&amp;name=CAZA Y PESCA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CAZA Y PESCA HD (F4M source #01)</link>
+<link>http://212.233.35.3:5577/play/a0e5$$lsname=CAZA Y PESCA HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CAZAYPESCA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] IBERALIA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7171.m3u8;streamtype=HLSRETRY&amp;name=IBERALIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=IBERALIA (F4M source #01)</link>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] IBERALIA TV[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0ci$$lsname=IBERALIA TV (HTTP source #01)</link>
 <thumbnail>http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TOROS TV[/B][/COLOR]</title>
-<link>http://51.15.144.38:8080/play/a01m/index.m3u8$$lsname=TOROS TV (HTTP source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org//magu/espana/toros.php$$lsname=TOROS TV (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TOROS TV HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/730.m3u8;streamtype=HLSRETRY&amp;name=TOROS TV HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=TOROS TV HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR ESPORTS[/B][/COLOR]</title>
-<link>https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8$$lsname=MOVISTAR ESPORTS (HTTP source #01)</link>
-<link>https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b348000.m3u8$$lsname=MOVISTAR ESPORTS (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESPORTS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MULTIDEPORTE 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/741.m3u8;streamtype=HLSRETRY&amp;name=MULTIDEPORTE 1 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MULTIDEPORTE 1 (F4M source #05)</link>
-<thumbnail>http://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MULTIDEPORTE 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/740.m3u8;streamtype=HLSRETRY&amp;name=MULTIDEPORTE 2 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MULTIDEPORTE 2 (F4M source #05)</link>
-<thumbnail>http://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MULTIDEPORTE 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/739.m3u8;streamtype=HLSRETRY&amp;name=MULTIDEPORTE 3 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MULTIDEPORTE 3 (F4M source #05)</link>
-<thumbnail>http://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MULTIFUTBOL 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/738.m3u8;streamtype=HLSRETRY&amp;name=MULTIFUTBOL 1 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MULTIFUTBOL 1 (F4M source #05)</link>
-<thumbnail>http://www.mundoplus.tv/img/1bcb34978a93a6722fe65b4d2fb3f529</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MULTIFUTBOL 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/737.m3u8;streamtype=HLSRETRY&amp;name=MULTIFUTBOL 2 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MULTIFUTBOL 2 (F4M source #05)</link>
-<thumbnail>http://www.mundoplus.tv/img/a93e34b3aaeca25434cfe25c0a31aae2</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MULTIFUTBOL 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.m3u8;streamtype=HLSRETRY&amp;name=MULTIFUTBOL 3 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MULTIFUTBOL 3 (F4M source #05)</link>
-<thumbnail>http://www.mundoplus.tv/img/3cb3bdeb0528f7a479f9b0665bb8c1f8</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC[/B][/COLOR]</title>
-<link>https://tinyurl.com/GEOGRAPH-index-m3u8$$lsname=NATIONAL GEOGRAPHIC (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8;streamtype=HLSRETRY&amp;name=NATIONAL GEOGRAPHIC HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=NATIONAL GEOGRAPHIC HD (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0cv$$lsname=DISCOVERY (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NATGEO WILD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8;streamtype=HLSRETRY&amp;name=NATGEO WILD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=NATGEO WILD (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0dy$$lsname=NATGEO WILD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATGEO WILD HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0e2$$lsname=NATGEO WILD HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HISTORIA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7217.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=HISTORIA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2077.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=HISTORIA (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.m3u8;streamtype=HLSRETRY&amp;name=HISTORIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=HISTORIA (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0cx$$lsname=HISTORIA (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7226.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISCOVERY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8;streamtype=HLSRETRY&amp;name=DISCOVERY [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISCOVERY (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ODISEA[/B][/COLOR]</title>
-<link>https://tinyurl.com/ODISEA-index-m3u8$$lsname=ODISEA (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] A&E[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7256.m3u8;streamtype=HLSRETRY&amp;name=A&E [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=A&E (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] VIAJAR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.m3u8;streamtype=HLSRETRY&amp;name=VIAJAR [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=VIAJAR (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0d8$$lsname=VIAJAR (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAJAR.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DMAX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13535.m3u8;streamtype=HLSRETRY&amp;name=DMAX [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DMAX (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CRIMEN & INVESTIGATION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8757.m3u8;streamtype=HLSRETRY&amp;name=CRIMEN & INVESTIGATION [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CRIMEN & INVESTIGATION (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2078.m3u8;streamtype=HLSRETRY&amp;name=CRIMEN & INVESTIGATION [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CRIMEN & INVESTIGATION (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8;streamtype=HLSRETRY&amp;name=CRIMEN & INVESTIGATION [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CRIMEN & INVESTIGATION (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0cy$$lsname=CRIMEN & INVESTIGATION (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL COCINA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7244.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL COCINA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2074.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL COCINA (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.m3u8;streamtype=HLSRETRY&amp;name=CANAL COCINA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL COCINA (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0db$$lsname=CANAL COCINA (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALCOCINA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DECASA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13536.m3u8;streamtype=HLSRETRY&amp;name=DECASA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DECASA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2076.m3u8;streamtype=HLSRETRY&amp;name=DECASA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DECASA (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/765.m3u8;streamtype=HLSRETRY&amp;name=DECASA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DECASA (F4M source #05)</link>
-<link>https://tinyurl.com/DECASA-index-m3u8$$lsname=DECASA (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DECASA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DKISS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13533.m3u8;streamtype=HLSRETRY&amp;name=DKISS [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DKISS (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DKISS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DIVINITY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13534.m3u8;streamtype=HLSRETRY&amp;name=DIVINITY [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DIVINITY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/801.m3u8;streamtype=HLSRETRY&amp;name=DIVINITY [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DIVINITY (F4M source #05)</link>
-<link>plugin://program.plexus/?url=acestream://2a85a10881e1c9ed67396143674193e660062302&amp;mode=1&amp;name=Acestream+DIVINITY$$lsname=DIVINITY (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOVA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8;streamtype=HLSRETRY&amp;name=NOVA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=NOVA (F4M source #05)</link>
-<link>http://51.15.144.38:8080/play/a05h/index.m3u8$$lsname=NOVA (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOVA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8;streamtype=HLSRETRY&amp;name=NOVA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=NOVA (F4M source #05)</link>
-<link>http://51.15.144.38:8080/play/a05h/index.m3u8$$lsname=NOVA (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MEGA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13824.m3u8;streamtype=HLSRETRY&amp;name=MEGA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MEGA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/17577.m3u8;streamtype=HLSRETRY&amp;name=MEGA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MEGA (F4M source #02)</link>
-<link>http://51.15.144.38:8080/play/a07t/index.m3u8$$lsname=MEGA (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MEGA HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/16263.m3u8;streamtype=HLSRETRY&amp;name=MEGA HD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MEGA HD (F4M source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGA.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EL GARAGE TV[/B][/COLOR]</title>
 <link>http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8$$lsname=EL GARAGE TV (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL ORBE 21[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/764.m3u8;streamtype=HLSRETRY&amp;name=CANAL ORBE 21 [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL ORBE 21 (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALORBE21.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BABY TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8774.m3u8;streamtype=HLSRETRY&amp;name=BABY TV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BABY TV (F4M source #01)</link>
+<link>http://212.233.35.3:5577/play/a0df$$lsname=BABY TV (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0d4$$lsname=DISNEY CHANNEL (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL HD[/B][/COLOR]</title>
+<link>http://212.233.35.3:5577/play/a0e3$$lsname=DISNEY CHANNEL HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY JUNIOR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7224.m3u8;streamtype=HLSRETRY&amp;name=DISNEY JUNIOR [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISNEY JUNIOR (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2111.m3u8;streamtype=HLSRETRY&amp;name=DISNEY JUNIOR [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISNEY JUNIOR (F4M source #02)</link>
+<link>http://212.233.35.3:5577/play/a0cj$$lsname=DISNEY JUNIOR (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL PANDA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/53156.m3u8;streamtype=HLSRETRY&amp;name=CANAL PANDA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL PANDA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/758.m3u8;streamtype=HLSRETRY&amp;name=CANAL PANDA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL PANDA (F4M source #05)</link>
-#N/D
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICKELODEON[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/759.m3u8;streamtype=HLSRETRY&amp;name=NICKELODEON [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=NICKELODEON (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0cu$$lsname=NICKELODEON (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY XD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7223.m3u8;streamtype=HLSRETRY&amp;name=DISNEY XD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISNEY XD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2112.m3u8;streamtype=HLSRETRY&amp;name=DISNEY XD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISNEY XD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.m3u8;streamtype=HLSRETRY&amp;name=DISNEY XD [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISNEY XD (F4M source #05)</link>
+<link>http://212.233.35.3:5577/play/a0cr$$lsname=DISNEY XD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7225.m3u8;streamtype=HLSRETRY&amp;name=DISNEY CHANNEL [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISNEY CHANNEL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.m3u8;streamtype=HLSRETRY&amp;name=DISNEY CHANNEL [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DISNEY CHANNEL (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BOING[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8773.m3u8;streamtype=HLSRETRY&amp;name=BOING [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BOING (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2110.m3u8;streamtype=HLSRETRY&amp;name=BOING [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BOING (F4M source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CLAN[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7231.m3u8;streamtype=HLSRETRY&amp;name=CLAN [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CLAN (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/2020.m3u8;streamtype=HLSRETRY&amp;name=CLAN [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CLAN (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/760.m3u8;streamtype=HLSRETRY&amp;name=CLAN [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CLAN (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CLAN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/769.m3u8;streamtype=HLSRETRY&amp;name=MTV [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MTV (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1 EUROPE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8785.m3u8;streamtype=HLSRETRY&amp;name=VH1 EUROPE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=VH1 EUROPE (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/3171.m3u8;streamtype=HLSRETRY&amp;name=VH1 EUROPE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=VH1 EUROPE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/6519.m3u8;streamtype=HLSRETRY&amp;name=VH1 EUROPE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=VH1 EUROPE (F4M source #05)</link>
-<link>http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/6519.m3u8$$lsname=VH1 EUROPE (HTTP source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/arsenaliverpool/K6BHdnN9KL/350.m3u8;streamtype=HLSRETRY&amp;name=VH1 EUROPE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=VH1 EUROPE (F4M source #01)</link>
+<link>http://209.91.213.10:8000/play/a028$$lsname=VH1 EUROPE (HTTP source #01)</link>
+<link>http://91.231.219.145:80/tv_vh1_european/video.m3u8$$lsname=VH1 EUROPE (HTTP source #02)</link>
+<link>http://85.244.70.140:7000/play/a012$$lsname=VH1 EUROPE (HTTP source #03)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.elementfx.com/hls?vid=photocall.elementfx.com/u3eyuzdwym/kr?ch=VH1_HD$$lsname=VH1 EUROPE (SD source #01)</link>
-<link>plugin://program.plexus/?url=acestream://bb866041a3de03ad49a8d9652e2a8b615bbf1e29&amp;mode=1&amp;name=Acestream+VH1 EUROPE$$lsname=VH1 EUROPE (PLEXUS source #01)</link>
+<link>plugin://program.plexus/?url=acestream://721f20884459ba1e6bd92a2d438a590c488f5218&amp;mode=1&amp;name=Acestream+VH1 EUROPE$$lsname=VH1 EUROPE (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MEZZO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7212.m3u8;streamtype=HLSRETRY&amp;name=MEZZO [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MEZZO (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/3585.m3u8;streamtype=HLSRETRY&amp;name=MEZZO [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=MEZZO (F4M source #02)</link>
 <link>http://ott-cdn.ucom.am/s35/index.m3u8$$lsname=MEZZO (HTTP source #01)</link>
-<link>http://stream.euroasia.lfstrm.tv/mezzo/1/index.m3u8$$lsname=MEZZO (HTTP source #02)</link>
-<link>http://31.148.16.31:8080/udp/224.0.90.8:1234$$lsname=MEZZO (HTTP source #03)</link>
-<link>plugin://program.plexus/?url=acestream://3c478c0ad1e09ecc6e4e8f4b2b0d31506fd5f72e&amp;mode=1&amp;name=Acestream+MEZZO$$lsname=MEZZO (PLEXUS source #01)</link>
+<link>http://88.216.48.14:80/mezzo/live.m3u8$$lsname=MEZZO (HTTP source #02)</link>
+<link>plugin://program.plexus/?url=acestream://0fc5502e8f2f9f0b617f22580b86747cf8bf1410&amp;mode=1&amp;name=Acestream+MEZZO$$lsname=MEZZO (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVE 24H[/B][/COLOR]</title>
-<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8$$lsname=TVE 24H (HTTP source #01)</link>
-<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8$$lsname=TVE 24H (HTTP source #02)</link>
-<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8$$lsname=TVE 24H (HTTP source #03)</link>
-<link>http://51.15.144.38:8080/play/a09a/index.m3u8$$lsname=TVE 24H (HTTP source #04)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV GALICIA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/799.m3u8;streamtype=HLSRETRY&amp;name=TV GALICIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=TV GALICIA (F4M source #05)</link>
-<link>http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8$$lsname=TV GALICIA (HTTP source #01)</link>
-<link>http://91.229.60.228:9000/play/a06o$$lsname=TV GALICIA (HTTP source #02)</link>
-<link>rtmp://media1.crtvg.es:80/live/tvge$$lsname=TV GALICIA (RTMP source #01)</link>
-<link>plugin://program.plexus/?url=acestream://cfb54f699664cd66a0db9c9268c3295ccc9677f9&amp;mode=1&amp;name=Acestream+TV GALICIA$$lsname=TV GALICIA (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MEZZO LIVE HD[/B][/COLOR]</title>
+<link>http://61.216.177.73/sta/ch91865017.m3u8$$lsname=MEZZO LIVE HD (HTTP source #01)</link>
+<link>plugin://program.plexus/?url=acestream://4612c12a421ce0743e8ccd20300f919cf0807565&amp;mode=1&amp;name=Acestream+MEZZO LIVE HD$$lsname=MEZZO LIVE HD (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC WORLD NEWS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/12527.m3u8;streamtype=HLSRETRY&amp;name=BBC WORLD NEWS [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BBC WORLD NEWS (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/6655.m3u8;streamtype=HLSRETRY&amp;name=BBC WORLD NEWS [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BBC WORLD NEWS (F4M source #05)</link>
-<link>plugin://program.plexus/?url=acestream://bc07a6fd97dc26f12b11e5842007065d43d10dda&amp;mode=1&amp;name=Acestream+BBC WORLD NEWS$$lsname=BBC WORLD NEWS (PLEXUS source #01)</link>
+<link>http://ott-cdn.ucom.am/s24/index.m3u8$$lsname=BBC WORLD NEWS (HTTP source #01)</link>
+<link>plugin://program.plexus/?url=acestream://39c065467efd9c074eaafa85adb69e6d0422976e&amp;mode=1&amp;name=Acestream+BBC WORLD NEWS$$lsname=BBC WORLD NEWS (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CNN[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4919.m3u8;streamtype=HLSRETRY&amp;name=CNN [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CNN (F4M source #01)</link>
 <link>https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8$$lsname=CNN (HTTP source #01)</link>
 <link>http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8$$lsname=CNN (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX NEWS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/12513.m3u8;streamtype=HLSRETRY&amp;name=FOX NEWS [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX NEWS (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/1989.m3u8;streamtype=HLSRETRY&amp;name=FOX NEWS [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FOX NEWS (F4M source #02)</link>
 <link>http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8$$lsname=FOX NEWS (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AL JAZEERA EN[/B][/COLOR]</title>
+<link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8$$lsname=AL JAZEERA EN (HTTP source #01)</link>
+<link>http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8$$lsname=AL JAZEERA EN (HTTP source #02)</link>
+<link>https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8$$lsname=AL JAZEERA EN (HTTP source #03)</link>
+<link>https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8$$lsname=AL JAZEERA EN (HTTP source #04)</link>
+<link>https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8$$lsname=AL JAZEERA EN (HTTP source #05)</link>
+<link>plugin://program.plexus/?url=acestream://b2cdbb5529396fc985898fb58c521d22e2e2df04&amp;mode=1&amp;name=Acestream+AL JAZEERA EN$$lsname=AL JAZEERA EN (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ALJAZEERA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 ES[/B][/COLOR]</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 ES (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 FR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/arsenaliverpool/K6BHdnN9KL/575.m3u8;streamtype=HLSRETRY&amp;name=FRANCE 24 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 24 FR (F4M source #01)</link>
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 FR (HTTP source #01)</link>
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8$$lsname=FRANCE 24 FR (HTTP source #02)</link>
+<link>http://ott-cdn.ucom.am/s25/index.m3u8$$lsname=FRANCE 24 FR (HTTP source #03)</link>
+<link>plugin://program.plexus/?url=acestream://d12c682cdd62d46d59d03b63e482fa29ecc73434&amp;mode=1&amp;name=Acestream+FRANCE 24 FR$$lsname=FRANCE 24 FR (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 EN[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8559.m3u8;streamtype=HLSRETRY&amp;name=FRANCE 24 EN [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=FRANCE 24 EN (F4M source #01)</link>
 <link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 EN (HTTP source #01)</link>
-<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8$$lsname=FRANCE 24 EN (HTTP source #02)</link>
-<link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8$$lsname=FRANCE 24 EN (HTTP source #03)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RUSSIA TODAY ESPAÑOL[/B][/COLOR]</title>
-<link>https://secure-streams.akamaized.net/rt-esp/index.m3u8$$lsname=RUSSIA TODAY ESPAÑOL (HTTP source #01)</link>
-<link>http://secure-streams.akamaized.net/rt-esp/index800.m3u8$$lsname=RUSSIA TODAY ESPAÑOL (HTTP source #02)</link>
-<link>plugin://program.plexus/?url=acestream://0dfbc100f1cc269909f978d06843c6944bc1a17f&amp;mode=1&amp;name=Acestream+RUSSIA TODAY ESPAÑOL$$lsname=RUSSIA TODAY ESPAÑOL (PLEXUS source #01)</link>
+<link>plugin://program.plexus/?url=acestream://028c194032336e10049c25328f84ce3baeda9201&amp;mode=1&amp;name=Acestream+RUSSIA TODAY ESPAÑOL$$lsname=RUSSIA TODAY ESPAÑOL (PLEXUS source #01)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RUSSIA TODAY ESPAÑOL HD[/B][/COLOR]</title>
+<link>http://rt-esp.secure.footprint.net/1102-inadv-qidx-1k_v5.m3u8$$lsname=RUSSIA TODAY ESPAÑOL HD (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CNBC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/9534.m3u8;streamtype=HLSRETRY&amp;name=CNBC [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CNBC (F4M source #01)</link>
 <link>http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high$$lsname=CNBC (HTTP source #01)</link>
-<link>http://93.87.85.71/PLTV/88888888/224/3221226774/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqItYB1ayo8ZvEJFS8LuNff4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001815%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2&from=2&hms_devid=4$$lsname=CNBC (HTTP source #02)</link>
-<link>http://61.216.177.73/sta/ch91865014.m3u8$$lsname=CNBC (HTTP source #03)</link>
+<link>http://61.216.177.73/sta/ch91865014.m3u8$$lsname=CNBC (HTTP source #02)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TV5 MONDE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5604.m3u8;streamtype=HLSRETRY&amp;name=TV5 MONDE [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=TV5 MONDE (F4M source #01)</link>
 <link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8$$lsname=TV5 MONDE (HTTP source #01)</link>
 <link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8$$lsname=TV5 MONDE (HTTP source #02)</link>
 <link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8$$lsname=TV5 MONDE (HTTP source #03)</link>
 <link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?isnpLk=10&rebase=on$$lsname=TV5 MONDE (HTTP source #04)</link>
-<link>http://51.15.144.38:8080/play/a07n/index.m3u8$$lsname=TV5 MONDE (HTTP source #05)</link>
-<link>plugin://program.plexus/?url=acestream://36b453d99679e0bdaf516a2902dd51ad8739a7a0&amp;mode=1&amp;name=Acestream+TV5 MONDE$$lsname=TV5 MONDE (PLEXUS source #01)</link>
+<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8$$lsname=TV5 MONDE (HTTP source #05)</link>
+<link>plugin://program.plexus/?url=acestream://a8693684b0e6e754c8da67d9e40e33d9cc38b20b&amp;mode=1&amp;name=Acestream+TV5 MONDE$$lsname=TV5 MONDE (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BLOOMBERG[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/12525.m3u8;streamtype=HLSRETRY&amp;name=BLOOMBERG [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BLOOMBERG (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/6652.m3u8;streamtype=HLSRETRY&amp;name=BLOOMBERG [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=BLOOMBERG (F4M source #05)</link>
 <link>http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8$$lsname=BLOOMBERG (HTTP source #01)</link>
-<link>https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8$$lsname=BLOOMBERG (HTTP source #02)</link>
+<link>http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8$$lsname=BLOOMBERG (HTTP source #02)</link>
+<link>https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8$$lsname=BLOOMBERG (HTTP source #03)</link>
+<link>https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8$$lsname=BLOOMBERG (HTTP source #04)</link>
+<link>https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8$$lsname=BLOOMBERG (HTTP source #05)</link>
+<link>plugin://program.plexus/?url=acestream://45044b8ef709627d8e0ff6006aa486595d46b557&amp;mode=1&amp;name=Acestream+BLOOMBERG$$lsname=BLOOMBERG (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY NEWS[/B][/COLOR]</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8$$lsname=SKY NEWS (HTTP source #01)</link>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8$$lsname=SKY NEWS (HTTP source #02)</link>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8$$lsname=SKY NEWS (HTTP source #03)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DW LATINO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/13532.m3u8;streamtype=HLSRETRY&amp;name=DW LATINO [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=DW LATINO (F4M source #01)</link>
 <link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8$$lsname=DW LATINO (HTTP source #01)</link>
 <link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8$$lsname=DW LATINO (HTTP source #02)</link>
 <link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8$$lsname=DW LATINO (HTTP source #03)</link>
+<link>http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/index_1_av-p.m3u8$$lsname=DW LATINO (HTTP source #04)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI INTERNACIONAL[/B][/COLOR]</title>
+<link>http://video-auth8.iol.pt:80/live_tvi_internacional_ww/live_tvi_internacional_ww-3/playlist.m3u8$$lsname=TVI INTERNACIONAL (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/tvi?ch=tvi internacional$$lsname=TVI INTERNACIONAL (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] LA OTRA[/B][/COLOR]</title>
+<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8$$lsname=LA OTRA (HTTP source #01)</link>
+<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8$$lsname=LA OTRA (HTTP source #02)</link>
+<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8$$lsname=LA OTRA (HTTP source #03)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LAOTRA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV RECORD[/B][/COLOR]</title>
+<link><link>$doregex[url]|User-Agent=iPad$$lsname=TV RECORD (HTTP source #05)</link><regex><name>url</name><expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres><page></page></regex><regex><name>jsonurl</name><expres>url":"(.*?)"</expres><page>http://playtv.fr/player/play/tv-record/?bitrate=800&amp;format=hls&amp;language=pt</page><referer>http://playtv.fr</referer></regex>$$lsname=TV RECORD (HTTP source #05)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELESUR[/B][/COLOR]</title>
 <link>https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8$$lsname=TELESUR (HTTP source #01)</link>
-<link>http://91.229.60.228:9000/play/a06m$$lsname=TELESUR (HTTP source #02)</link>
-<link>plugin://program.plexus/?url=acestream://f59aea91eec5e9a28fce651fd8563bc7c2523f7e&amp;mode=1&amp;name=Acestream+TELESUR$$lsname=TELESUR (PLEXUS source #01)</link>
+<link>http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8$$lsname=TELESUR (HTTP source #02)</link>
+<link>plugin://program.plexus/?url=acestream://5305501122fed025ae08fde0d19c0f915605e23f&amp;mode=1&amp;name=Acestream+TELESUR$$lsname=TELESUR (PLEXUS source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL SUR ANDALUCIA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/7254.m3u8;streamtype=HLSRETRY&amp;name=CANAL SUR ANDALUCIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL SUR ANDALUCIA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.smartgotv.com:8005/live/servisat_213708/1199551/3040.m3u8;streamtype=HLSRETRY&amp;name=CANAL SUR ANDALUCIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL SUR ANDALUCIA (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/798.m3u8;streamtype=HLSRETRY&amp;name=CANAL SUR ANDALUCIA [COLOR deepskyblue](by JHG)[/COLOR]$$lsname=CANAL SUR ANDALUCIA (F4M source #05)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png</thumbnail></item>
-Copyright © 2018 - JHG
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NHK WORLD[/B][/COLOR]</title>
+<link>https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8$$lsname=NHK WORLD (HTTP source #01)</link>
+<link>http://61.216.177.73/sta/ch91865006.m3u8$$lsname=NHK WORLD (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NHKWORLD.png</thumbnail></item>
