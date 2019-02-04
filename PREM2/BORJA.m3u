@@ -1,7 +1,164 @@
 #EXTM3U 
 
 
-
+#EXTINF:-1,LA 1
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/5.ts
+#EXTINF:-1,LA 2
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/6.ts
+#EXTINF:-1,Antena 3
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/82.ts
+#EXTINF:-1,TNT
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/9.ts
+#EXTINF:-1,Cuatro
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/25.ts
+#EXTINF:-1,TELECINCO
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/1.ts
+#EXTINF:-1,LA SEXTA
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/2.ts
+#EXTINF:-1,NEOX
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/3.ts
+#EXTINF:-1,FDF
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/4.ts
+#EXTINF:-1,24 Horas
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/87.ts
+#EXTINF:-1,EuroNews
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/97.ts
+#EXTINF:-1,BlaZe
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/85.ts
+#EXTINF:-1,Movistar #0
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/35.ts
+#EXTINF:-1,#Vamos
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/46.ts
+#EXTINF:-1,BeMad
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/49.ts
+#EXTINF:-1,Eurosport 1
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/57.ts
+#EXTINF:-1,EUROSPORT 2
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/84.ts
+#EXTINF:-1,BeiN La Liga
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/59.ts
+#EXTINF:-1,beIN La Liga (Opcion2)
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/47.ts
+#EXTINF:-1,Movistar Disney
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/78.ts
+#EXTINF:-1,La Liga TV
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/42.ts
+#EXTINF:-1,LA LIGA TV (opcion2)
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/74.ts
+#EXTINF:-1,LaLiga 123
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/58.ts
+#EXTINF:-1,La Liga 123 (Opcion2)
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/73.ts
+#EXTINF:-1,Movistar Liga de Campeones
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/34.ts
+#EXTINF:-1,Movistar Liga de Campeones (Opcion2)
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/50.ts
+#EXTINF:-1,Movistar Partidazo
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/79.ts
+#EXTINF:-1,Movistar Futbol
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/44.ts
+#EXTINF:-1,GoL TV
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/60.ts
+#EXTINF:-1,Real Madrid TV
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/55.ts
+#EXTINF:-1,Movistar Golf
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/22.ts
+#EXTINF:-1,FIGHT CANAL 1
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/70.ts
+#EXTINF:-1,FIGHT CANAL 2
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/71.ts
+#EXTINF:-1,FIGHT CANAL 3
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/72.ts
+#EXTINF:-1,Movistar Formula 1
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/52.ts
+#EXTINF:-1,Movistar Formula 1 (Opcion2)
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/53.ts
+#EXTINF:-1,Movistar Deportes
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/80.ts
+#EXTINF:-1,Movistar DCINE
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/15.ts
+#EXTINF:-1,Movistar Accion
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/16.ts
+#EXTINF:-1,Movistar Estrenos HD
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/45.ts
+#EXTINF:-1,Movistar Comedia
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/12.ts
+#EXTINF:-1,Movistar Serie
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/13.ts
+#EXTINF:-1,Movistar Series xtra
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/14.ts
+#EXTINF:-1,Movistar Decasa
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/19.ts
+#EXTINF:-1,GOLF
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/43.ts
+#EXTINF:-1,Movistar Toros
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/41.ts
+#EXTINF:-1,Hollywood
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/26.ts
+#EXTINF:-1,Historia
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/24.ts
+#EXTINF:-1,Fox Life
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/10.ts
+#EXTINF:-1,Fox
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/11.ts
+#EXTINF:-1,Syfy
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/54.ts
+#EXTINF:-1,DMAX
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/36.ts
+#EXTINF:-1,Boing
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/29.ts
+#EXTINF:-1,Baby
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/21.ts
+#EXTINF:-1,DISNEY XD
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/37.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/38.ts
+#EXTINF:-1,National GEO
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/32.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/33.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/40.ts
+#EXTINF:-1,DISCOVERY
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/39.ts
+#EXTINF:-1,Iberalia TV
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/77.ts
+#EXTINF:-1,Caza Y Pesca
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/56.ts
+#EXTINF:-1,Crime Investigacion
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/28.ts
+#EXTINF:-1,Comedy Central
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/27.ts
+#EXTINF:-1,Canal Odisea
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/8.ts
+#EXTINF:-1,Canal Cocina
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/18.ts
+#EXTINF:-1,SOMOS
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/96.ts
+#EXTINF:-1,COSMO
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/99.ts
+#EXTINF:-1,AXN White
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/30.ts
+#EXTINF:-1,AXN
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/31.ts
+#EXTINF:-1,Andalucia
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/7.ts
+#EXTINF:-1,AMC HD
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/20.ts
+#EXTINF:-1,Calle 13
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/98.ts
+#EXTINF:-1,MTV
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/86.ts
+#EXTINF:-1,Taquilla 1
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/89.ts
+#EXTINF:-1,Taquilla 2
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/90.ts
+#EXTINF:-1,Taquilla 3
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/91.ts
+#EXTINF:-1,Taquilla 4
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/92.ts
+#EXTINF:-1,Taquilla 5
+http://spainfree.blackeviltv.org:9666/live/JHGMaster/QAbslvY7X8/93.ts
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", ESPAÑA 
