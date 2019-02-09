@@ -1,58 +1,255 @@
 #EXTM3U
 
-#EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/675.m3u8
-#EXTINF:-1,ES: CANAL ODISEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/674.m3u8
-#EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/670.m3u8
-#EXTINF:-1,ES: CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/671.m3u8
-#EXTINF:-1,ES: CRIMEN INVES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/668.m3u8
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/665.m3u8
-#EXTINF:-1,ES: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/667.m3u8
-#EXTINF:-1,ES: D CINE ESPANOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/666.m3u8
-#EXTINF:-1,ES: COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/669.m3u8
-#EXTINF:-1,ES: CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/673.m3u8
-#EXTINF:-1,ES: CAZAY PESCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/672.m3u8
-#EXTINF:-1,ES: M SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/676.m3u8
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/682.m3u8
-#EXTINF:-1,ES: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/681.m3u8
-#EXTINF:-1,ES: REAL MADRID
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/680.m3u8
-#EXTINF:-1,ES: CALLE13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/679.m3u8
-#EXTINF:-1,ES: M ACCION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/678.m3u8
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/664.m3u8
-#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/677.m3u8
-#EXTINF:-1,ES: M ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/683.m3u8
-#EXTINF:-1,ES: 24 H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/685.m3u8
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/684.m3u8
-#EXTINF:-1,ES: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/704.m3u8
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/707.m3u8
-#EXTINF:-1,ES: FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/706.m3u8
-#EXTINF:-1,ES: GOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/705.m3u8
-#EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/703.m3u8
-#EXTINF:-1,ES: LA1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR blue]JHG[/COLOR];url=http://wweraw.zapto.org:8080/live/medoum1/medoum1/701.m3u8
+
+#EXTINF:-1,Eventos BlacKEviLTV
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CogERSuSLzuQJiLL3mqTerceRxuqyZ8ZtehcfbTMo_sBQNgL8BEw9lOc6OD7mAd4LPFqotOMRhkWSz-5KHX0cHodd12mww_UBiA-b0fuuyBDyfzkXuArhOuGfYHnznKHhFIV8w8oOapdzEpJk_yuxUrk0YBP7WEjGi87gYJMC9P2umVyohUwIG3sn6ZlooTYG_ujS92guxPVY3ItNkObCBIIeHjBXBaPFpER7kZu8OcDBfZxgp46QLBkAH-KJhc35VMXI4eoO3XxNMXKrFq0vsRJ4eRxtHhhIjLN8HqObFFZ9xexMcawqC4UeLeEwwCdoSiheTNglbizVWqxOAKdd4qYjkFGJRa-L2ATT_af4h9UxAKmo7Gj36O5-YhQ5VMlPqvUcoCBc6eg13ZDq8sc6Sp9MLNbtawAfUQqqk2fXwZNBoLUI9hot34f1_DWmXssGSWBPvZ42sdGbdnD0_m1Kor6oBAzmZMyT87lnAVCNF2hBQBkdhxMg-D1qjeezmTppoL-T0vQfaQxvQqNLWlujlJmU2ysT26oifZLmAYjxASpB_45-GN91LDNAvMbG8J-W7X8DPmsG44hJVYeclkGKfsxkkExnxn9Pp7oQoMCwheHllL8hhtyDEWF135iBF0dr-kVS2p6pRUwAi4RTmu56Haor8mQnIAUwxLnkiKf_hprerfSbcMMXTMJHRIQmcioc9XdTxKv0XlpTM13TxoMcZYW2nOnn4UfGvIT.m3u8
+#EXTINF:-1,PORTADA
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/4844.ts
+#EXTINF:-1,BlacKGamingTV
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CogEfWhhV5_D_3QcflHxSre0fulmyQywftOlxl2IPwzn37uCgkTG11WGrgQ6SG9AGq-3URBYe_8NRLSwJmSmCLx0s30Sm3z33cUqLy073ZWTO-e0LgygHuN3myDUuV2dDTkgHQjRdLyuiG_dfg0XU-7ZtaASfYi7nVUshGgO0zJNzIY6zX4ARH1xtf-wbu4AKm--CB8HqSnrKHntwZjeW3imcgJ3gRjhTq9bhJyMrXYuDLXOqMLk7sBwGpoMEq5d8y5fTO4edzHcswpqzAHqO7TYtMC5B2gmJDVGIBmeVC0tjkGPwK9pGXz8Gwt3_37DWPicrkfkbxq4BRv0P7zLxx-1W8h-gUMILKVtd1nv3Brqpu29Cl5CTwIzswqHyQzq7u0-8fz1fNc_zQPBWPgmIAp_WKQdh-Kn1i8V5xZ92oq-shV_0iFm-WMhNM1QncdBrJpwyuSpCmGLLl5w1VPVQpdzVoYtSmnmpGPICZI3W4Ci0_HiAbeXczJRlKmNLoxk4m2NTqIryr9b9ICr6NJeViMEdR5N8NDb4eiMeXSajsr5YTWoQ9ZYfHOrRK_zFCOIeqZqyWm0DWsj8ZkfpZ5bCumcXFA1OkSUFkhEQL19byUC0R0O30CjBwS3Sfejo0C44HUB4hLaUsCXqV1EKonmdV4nuyrWoTt7GtJyF963JJuIufQEDcvOHd3IQxIQVP1H_PlDltWkr5r24k0kyhoMn6RVHo0F_JUNbKdC.m3u8
+#EXTINF:-1,Movistar Liga de Campeones
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/145.ts
+#EXTINF:-1,TELEDEPORTE
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/5.ts
+#EXTINF:-1,LA 1 HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/13.ts
+#EXTINF:-1,HISTORIA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/15.ts
+#EXTINF:-1,FOX LIFE (opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/16.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/19.ts
+#EXTINF:-1,Canal TOROS
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/25.ts
+#EXTINF:-1,LIGA Tv HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/27.ts
+#EXTINF:-1,Movistar Golf (opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/28.ts
+#EXTINF:-1,Movistar DEPORTES 2
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/32.ts
+#EXTINF:-1,ANTENA 3 Tv
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/38.ts
+#EXTINF:-1,XTRM
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/128.ts
+#EXTINF:-1,VIAJAR HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/4.ts
+#EXTINF:-1,Viajar
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/127.ts
+#EXTINF:-1,Toros Tv
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/126.ts
+#EXTINF:-1,TNT FHD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/125.ts
+#EXTINF:-1,TNT
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/39.ts
+#EXTINF:-1,TELECINCO
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/6.ts
+#EXTINF:-1,Telecinco FHD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/124.ts
+#EXTINF:-1,TCM FHD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/123.ts
+#EXTINF:-1,Syfy FHD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/122.ts
+#EXTINF:-1,SYFY
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/40.ts
+#EXTINF:-1,Real Madrid TV FHD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/120.ts
+#EXTINF:-1,Real Madrid
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/77.ts
+#EXTINF:-1,Paramount
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/74.ts
+#EXTINF:-1,PANDA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/41.ts
+#EXTINF:-1,Odisea
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/1.ts
+#EXTINF:-1,NOVA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/42.ts
+#EXTINF:-1,NICKELODEON
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/43.ts
+#EXTINF:-1,NICK Jr
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/8.ts
+#EXTINF:-1,NEOX
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/44.ts
+#EXTINF:-1,National Geographic Wild
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/119.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (Opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/9.ts
+#EXTINF:-1,National Geographic
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/118.ts
+#EXTINF:-1,Movistar Xtra
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/117.ts
+#EXTINF:-1,Movistar Series Xtra
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/116.ts
+#EXTINF:-1,Movistar Series
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/115.ts
+#EXTINF:-1,Movistar Partidazo
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/114.ts
+#EXTINF:-1,MOVISTAR MOTOGP
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/129.ts
+#EXTINF:-1,Movistar Moto GP
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/113.ts
+#EXTINF:-1,Movistar Golf
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/112.ts
+#EXTINF:-1,Movistar Futbol (Opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/111.ts
+#EXTINF:-1,Movistar Futbol
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/142.ts
+#EXTINF:-1,Movistar F1
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/110.ts
+#EXTINF:-1,Movistar ESTRENOS (opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/30.ts
+#EXTINF:-1,Movistar Estrenos
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/109.ts
+#EXTINF:-1,Movistar Deportes 1
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/108.ts
+#EXTINF:-1,Movistar DCine
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/107.ts
+#EXTINF:-1,Movistar Comedia
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/106.ts
+#EXTINF:-1,Movistar Accion (opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/35.ts
+#EXTINF:-1,Movistar Accion
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/105.ts
+#EXTINF:-1,Movistar  Deportes 2
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/104.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/131.ts
+#EXTINF:-1,MEGA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/11.ts
+#EXTINF:-1,M COMEDIA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/34.ts
+#EXTINF:-1,La Liga 123
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/83.ts
+#EXTINF:-1,LA SEXTA HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/12.ts
+#EXTINF:-1,La Sexta
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/103.ts
+#EXTINF:-1,LA LIGA TV BAR
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/102.ts
+#EXTINF:-1,La Liga Tv
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/45.ts
+#EXTINF:-1,LA 2
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/46.ts
+#EXTINF:-1,LA 1
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/101.ts
+#EXTINF:-1,IBERALIA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/47.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/14.ts
+#EXTINF:-1,Hollywood
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/100.ts
+#EXTINF:-1,GOL Tv
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/48.ts
+#EXTINF:-1,Fox Life
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/99.ts
+#EXTINF:-1,FOX HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/17.ts
+#EXTINF:-1,Fox
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/98.ts
+#EXTINF:-1,FDF
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/49.ts
+#EXTINF:-1,EUROSPORT 2
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/66.ts
+#EXTINF:-1,Eurosport 1
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/97.ts
+#EXTINF:-1,EUROSPORT 1 (Opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/65.ts
+#EXTINF:-1,EuroNews
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/130.ts
+#EXTINF:-1,Energy
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/64.ts
+#EXTINF:-1,DMAX
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/3.ts
+#EXTINF:-1,DIVINITY
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/50.ts
+#EXTINF:-1,DISNEY XD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/18.ts
+#EXTINF:-1,Disney Channel
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/96.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/22.ts
+#EXTINF:-1,DISCOVERY
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/21.ts
+#EXTINF:-1,CUATRO
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/23.ts
+#EXTINF:-1,Crimen & Investigacion
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/75.ts
+#EXTINF:-1,Cosmo Tv
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/94.ts
+#EXTINF:-1,COSMO HD
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/51.ts
+#EXTINF:-1,COMEDY CENTRAL (Opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/70.ts
+#EXTINF:-1,Comedy Central
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/93.ts
+#EXTINF:-1,Clan Tve
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/52.ts
+#EXTINF:-1,Caza Y Pesca
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/92.ts
+#EXTINF:-1,Caza y pesca (Opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/53.ts
+#EXTINF:-1,CANAL DECASA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/55.ts
+#EXTINF:-1,Canal De Las Estrellas
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/73.ts
+#EXTINF:-1,Canal DCINE (Opcion)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/33.ts
+#EXTINF:-1,CANAL COCINA
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/56.ts
+#EXTINF:-1,Canal  DEPORTES
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/31.ts
+#EXTINF:-1,Calle 13
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/91.ts
+#EXTINF:-1,Boing
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/57.ts
+#EXTINF:-1,BeMad
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/90.ts
+#EXTINF:-1,beIN Sport
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/82.ts
+#EXTINF:-1,Bein Liga (opcion3)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/59.ts
+#EXTINF:-1,BeiN Laliga (Opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/85.ts
+#EXTINF:-1,BeiN La Liga
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/84.ts
+#EXTINF:-1,BARCA TV
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/69.ts
+#EXTINF:-1,BABY TV
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/81.ts
+#EXTINF:-1,AXN White
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/89.ts
+#EXTINF:-1,AXN (opcion2)
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/60.ts
+#EXTINF:-1,AXN
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/88.ts
+#EXTINF:-1,Atreseries
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/87.ts
+#EXTINF:-1,Antena 3
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/86.ts
+#EXTINF:-1,AMC
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/61.ts
+#EXTINF:-1,A&E
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/62.ts
+#EXTINF:-1,40 TV
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/68.ts
+#EXTINF:-1,24 Horas
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/67.ts
+#EXTINF:-1,Movistar #0
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/63.ts
+#EXTINF:-1,MOVISTAR FORMULA 1
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/143.ts
+#EXTINF:-1,FIGHT CANAL 1
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/146.ts
+#EXTINF:-1,FIGHT CANAL 2
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/147.ts
+#EXTINF:-1,FIGHT CANAL 3
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/148.ts
+#EXTINF:-1,TAQUILLA 1
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/132.ts
+#EXTINF:-1,TAQUILLA 2
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/134.ts
+#EXTINF:-1,TAQUILLA 3
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/135.ts
+#EXTINF:-1,TAQUILLA 4
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/136.ts
+#EXTINF:-1,TAQUILLA 5
+http://SpainFree.BlackEvilTv.org:9666/live/blackeviltv/gratis/137.ts
