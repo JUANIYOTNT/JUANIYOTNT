@@ -8,23 +8,14 @@
 
 
 
-<item>
-<title>[COLOR gold] BARCELONA  LYON [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/champi.m3u</externallink>
+
+ <item>
+        <title>[COLOR gold] CINE [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CINE/BASECINE.xml</externallink>
+        <thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
+        <fanart>https://i.imgur.com/JK14obf.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR gold] BAYERN   LIVERPOOL[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/CHAMPI3</externallink>
-</item>
-
-
 
 
 <item>
@@ -196,6 +187,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/SERIES/SERDANK.xml</externallink>
 </item>
 
+	
+	
+	
+<item>
+<title>[COLOR gold] BARCELONA  LYON [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/champi.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR gold] BAYERN   LIVERPOOL[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/CHAMPI3</externallink>
+</item>
+	
 	
 <item>
  <title>[COLOR lime] *** [/COLOR] [COLOR lime] ** DEPORTES** [/COLOR]  </title>
