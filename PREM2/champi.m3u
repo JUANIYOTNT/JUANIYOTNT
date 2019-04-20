@@ -1,12 +1,8 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1,VALENCIA   REAL MADRID
-https://storage.tumarcador.xyz/a1/live.m3u8
-#EXTINF:-1,LIGA DE CAMPEONES!!!!!!
-https://storage.tumarcador.xyz/a6/live.m3u8
+#EXTINF:-1,LA LIGA HD*
+http://darktv.myvnc.com:9666/live/darktv/gratis/502.ts
 #EXTINF:-1,LA LIGA HD
 http://rocksat.ddns.net:25461/h4eggncr/C3MoKtiZ2N/14992
 #EXTINF:-1,LA LIGA 123
