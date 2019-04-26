@@ -18,6 +18,42 @@
 
 
 
+	<item>
+<title>[COLOR gold] LISTA COMPLETA [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M03_TV04_ES.xml</externallink>
+</item>
+
+
+
+<!----item>
+<title>[COLOR gold] LISTA 1  [/COLOR]</title>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l1.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR gold] LISTA 2  [/COLOR]</title>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime] LISTA 3 [/COLOR]</title>
+<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
+<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
+</item>
+
+
 <item>
 <title>[COLOR gold] LISTA 1  [/COLOR]</title>
 <thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
@@ -49,32 +85,6 @@
 <fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
-</item>
-
-
-<!----item>
-<title>[COLOR gold] LISTA 1  [/COLOR]</title>
-<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
-<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/l1.m3u</externallink>
-</item>
-
-<item>
-<title>[COLOR gold] LISTA 2  [/COLOR]</title>
-<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
-<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
-</item>
-
-
-<item>
-<title>[COLOR lime] LISTA 3 [/COLOR]</title>
-<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
-<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/list5.m3u</externallink>
 </item>
 
 
