@@ -1,9 +1,9 @@
 #EXTM3U 
 
 #EXTINF:-1,[ ES ] Andalucia Tv
-http://ares.dominium.tv:6923/live/vin/1234/30467.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ares.dominium.tv:6923/live/vin/1234/30467.m3u8
 #EXTINF:-1,[ ES ] Antena 3 HD
-http://ares.dominium.tv:6923/live/vin/1234/30466.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR blue]JHG[/COLOR];url=http://ares.dominium.tv:6923/live/vin/1234/30466.m3u8
 #EXTINF:-1,[ ES ] AXN
 http://ares.dominium.tv:6923/live/vin/1234/30465.m3u8
 #EXTINF:-1,[ ES ] AXN White HD
