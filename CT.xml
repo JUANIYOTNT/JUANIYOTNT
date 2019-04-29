@@ -12,66 +12,51 @@
 </item>
 
 
+
+	
+	
 <item>
-<title>[COLOR gold] LISTA 2  [/COLOR]</title>
-<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
-<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/BORJA.m3u</externallink>
+<title>[COLOR yellow][B]CANALES DE SERIES Y PELICULAS[/B][/COLOR]</title>
+<thumbnail>https://www.comparaiso.es/sites/comparaiso.es/files/images/tvminilogos.gif</thumbnail>
+<fanart>https://www.comparaiso.es/sites/comparaiso.es/files/images/tvminilogos.gif</fanart>
+<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
+ <link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/CANALES%20PELICULAS%20.xml</externallink>
 </item>
 
 
-	<item>
-<title>[COLOR gold]22 [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/sagas</externallink>
+ <item>
+<title>[COLOR yellow][B]DEPORTES[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/deportes.xml</externallink>
+<thumbnail>https://www.campingvillamar.com/wp-content/uploads/2017/06/villamar-deportes.jpg</thumbnail>
+<fanart>https://png.pngtree.com/element_origin_min_pic/16/11/28/4e665141a61d2e28001566040ae0034f.jpg</fanart>
+<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
+ </item>
+
+ 
+ 
+<item>
+<title>[COLOR yellow][B]  CANALES DOCUMENTALES [/B]	[/COLOR]</title>
+<thumbnail>http://tvmazarron.es/wp-content/uploads/2018/02/documentales.jpg</thumbnail>
+<fanart>http://tvmazarron.es/wp-content/uploads/2018/02/documentales.jpg</fanart>
+<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
+ <link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/documentales.xml</externallink>
 </item>
-
-
-	<item>
-<title>[COLOR gold] sss[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/Deportes2</externallink>
-</item>
+ 
 
 
 
-	<item>
-<title>[COLOR gold]s [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/Canales_TV2</externallink>
-</item>
+<item>
+<title>[COLOR yellow][B]MOVIESTAR ESTABLE[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/MOVIESTAR.xml</externallink>
+<thumbnail>https://i1.wp.com/marcaporhombro.com/wp-content/uploads/2016/12/movistar-2016.png?resize=620%2C362</thumbnail>
+<fanart>https://i1.wp.com/marcaporhombro.com/wp-content/uploads/2016/12/movistar-2016.png?resize=620%2C362</fanart>
+<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
+ </item>
 
-
-	<item>
-<title>[COLOR gold]MOVISTAR  [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/series_miniseries</externallink>
-</item>
-
-	<item>
-<title>[COLOR gold]MOVISTAR BNB [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/amod1/TVFABORAPK/f981cce387a112d4b036536a5b6a16e84a2a31f2/ESPAGNE.m3u</externallink>
-</item>
-
-	<item>
-<title>[COLOR gold]MOVISTAR  [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
 
 
 <item>
@@ -93,17 +78,6 @@
 </item>
 
 
-<item>
-<title>[COLOR yellow][B]CANALTVNOVA EMISONES DE TV   [/B] [/COLOR]</title>
-<externallink><item>
-<title>[COLOR yellow][B]GUIA TV   [/B] [/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/canaltvnov%40digital.xml</externallink>
-<link>NA</link>
-<thumbnail>https://cdn.profesionalhosting.com/img/webtv-tele.png</thumbnail>
-<fanart>https://cdn.profesionalhosting.com/img/webtv-tele.png</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
-</item>
-
 
 
 
@@ -117,16 +91,6 @@
 <info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
 </item>
 
-
-
-<item>
-<title>[COLOR yellow][B]SEMANA SANTA ¡¡ VIVE LA AQUI!! 2019[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://pastebin.com/raw/GLaQPdtB</externallink>
-<thumbnail>http://4.bp.blogspot.com/-xCAY2pHqKxI/VP9xZ4ZsheI/AAAAAAAAFkc/irQ4gZAeYaI/s1600/P1011123.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-xCAY2pHqKxI/VP9xZ4ZsheI/AAAAAAAAFkc/irQ4gZAeYaI/s1600/P1011123.jpg</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
- </item>
 
 
 
@@ -147,14 +111,6 @@
 
 
 
-<item>
-<title>[COLOR yellow][B]LISTA DE CANALES F4MTESTER TEMPORAL[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/LISTAS%20TEMPORALES.xml</externallink>
-<thumbnail>https://www.hogarmedia.com//imagenes/2017/12/IPTV-2.jpg</thumbnail>
-<fanart>https://www.hogarmedia.com//imagenes/2017/12/IPTV-2.jpg</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
- </item>
 
 <item>
 <title>[COLOR yellow][B]TDT[/COLOR][/B]</title>
@@ -168,73 +124,6 @@
 
 
  
-<item>
-<title>[COLOR yellow][B]CANAL FERIA DEL TORO[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/toros.xml</externallink>
-<thumbnail>https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.30ETJNgOCW.jpg</thumbnail>
-<fanart>https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.30ETJNgOCW.jpg</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
- </item>
-
- <item>
-<title>[COLOR yellow][B]DEPORTES[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/deportes.xml</externallink>
-<thumbnail>https://www.campingvillamar.com/wp-content/uploads/2017/06/villamar-deportes.jpg</thumbnail>
-<fanart>https://png.pngtree.com/element_origin_min_pic/16/11/28/4e665141a61d2e28001566040ae0034f.jpg</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
- </item>
-
-
-
-
-
-
-<item>
-<title>[COLOR yellow][B]CANAL DE COCINA Y VIDEOS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/COCINA.xml</externallink>
-<thumbnail>https://i.pinimg.com/originals/c7/60/85/c76085e91af7b340d5f4732c8463776d.jpg</thumbnail>
-<fanart>https://i.pinimg.com/originals/c7/60/85/c76085e91af7b340d5f4732c8463776d.jpg</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
- </item>
- 
-
-	
-
-
-	
-	
-<item>
-<title>[COLOR yellow][B]CANALES DE SERIES Y PELICULAS[/B][/COLOR]</title>
-<thumbnail>https://www.comparaiso.es/sites/comparaiso.es/files/images/tvminilogos.gif</thumbnail>
-<fanart>https://www.comparaiso.es/sites/comparaiso.es/files/images/tvminilogos.gif</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
- <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/CANALES%20PELICULAS%20.xml</externallink>
-</item>
-
- 
-
- 
-
-
-
-
-
- 
-<item>
-<title>[COLOR yellow][B]  CANALES DOCUMENTALES [/B]	[/COLOR]</title>
-<thumbnail>http://tvmazarron.es/wp-content/uploads/2018/02/documentales.jpg</thumbnail>
-<fanart>http://tvmazarron.es/wp-content/uploads/2018/02/documentales.jpg</fanart>
-<info>NOV@DIGITAL ADDON ESTA HECHO PARA DISFRUTAR CON LA FAMILA, ESTE NO ADDON DAÑA EL DERECHO DE AUTOR PORQUE TODOS LOS ENLACES PUEDES ENCONTRAR EN INTERNET.AH ES TOTALMENTE GRATIS NO SE PIDE DONACIONES  !DISFRUTAR!!</info>
- <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/novapc123/NOV--DIGITAL/Nov%40digital/documentales.xml</externallink>
-</item>
- 
-
-
 	
 <item>
 <title>[COLOR yellow][B]  pruebas [/B]	[/COLOR]</title>
