@@ -3,6 +3,27 @@
 
 
 
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] PELIS A-Z [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] SAGAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 
 <item>
@@ -15,23 +36,11 @@
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] CINE  (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] PELIS  (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CINE/A%C3%91OS.xml</externallink>
 <thumbnail>https://i.imgur.com/1zJrv96.jpg</thumbnail>
 <fanart>https://i.imgur.com/1zJrv96.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] ESTRENOS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CINE/ESTRENOS.xml</externallink>
-<thumbnail>https://i.imgur.com/d4QKjct.jpg</thumbnail>
-<fanart>https://i.imgur.com/d4QKjct.jpg</fanart>
 </item>
 
 
@@ -46,6 +55,21 @@
 <fanart>https://images-na.ssl-images-amazon.com/images/I/31VN9nWog2L.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CINE/A.xml</externallink>	
 </item>
+
+
+
+
+
+<!----item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] ESTRENOS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CINE/ESTRENOS.xml</externallink>
+<thumbnail>https://i.imgur.com/d4QKjct.jpg</thumbnail>
+<fanart>https://i.imgur.com/d4QKjct.jpg</fanart>
+</item>
+
+
+
 
 		
 		<item>

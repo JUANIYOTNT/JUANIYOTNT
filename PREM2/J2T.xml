@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR gold] LA LIGA[/COLOR]</title>
+
+
+	<item>
+<title>[COLOR gold] TDT [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/CHAMPI3</externallink>
+<externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/canales_tv</externallink>
 </item>
-	
-
-
-	
-<item>
-<title>[COLOR gold] BARCELONA  LIVERPOOL [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/champi.m3u</externallink>
-</item>
-	
-	
-	
-<item>
-<title>[COLOR gold] CANALES DEPORTES (NUEVO))) [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/champi.m3u</externallink>
-</item>
-
-
-
 
 
 
@@ -44,13 +22,6 @@
 </item>
 
 
-<item>
-<title>[COLOR gold] CANALES TV [/COLOR]</title>
-<thumbnail>https://i.imgur.com/bHGVK2G.jpg</thumbnail>
-<fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CT.xml</externallink>
-</item>
 
 
 <item>
@@ -214,6 +185,33 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 	
+<item>
+<title>[COLOR gold] LA LIGA[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/CHAMPI3</externallink>
+</item>
+	
+
+
+	
+<item>
+<title>[COLOR gold] BARCELONA  LIVERPOOL [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/PREM2/champi.m3u</externallink>
+</item>
+	
+	
+<item>
+<title>[COLOR gold] CANALES TV [/COLOR]</title>
+<thumbnail>https://i.imgur.com/bHGVK2G.jpg</thumbnail>
+<fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/JUANIYOTNT/JUANIYOTNT/master/CT.xml</externallink>
+</item>
 	
 	
 <item>
