@@ -4,6 +4,16 @@
 
 
 
+
+	<item>
+<title>[COLOR gold] TDT [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/canales_tv</externallink>
+</item>
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] Movistar LISTA 1** [COLOR lime] online [/COLOR]</title>
 <thumbnail>https://i.imgur.com/3h4h33t.jpg</thumbnail>
@@ -15,60 +25,6 @@
 
 
 
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 2  (17-08-19) [COLOR lime] online [/COLOR]</title>
-<thumbnail>https://i.imgur.com/3h4h33t.jpg</thumbnail>
-<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/YR8EHmiu</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados 3  (17-08-19) [COLOR lime] online [/COLOR]</title>
-<thumbnail>https://i.imgur.com/VVZwL2y.jpg</thumbnail>
-<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/QW2Tj7ub</externallink>
-</item>
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados xxx (17-08-19) [COLOR lime] online [/COLOR]</title>
-<thumbnail>https://i.imgur.com/VVZwL2y.jpg</thumbnail>
-<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/wDaWk9m0</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados cd [COLOR lime] online [/COLOR]</title>
-<thumbnail>https://i.imgur.com/VVZwL2y.jpg</thumbnail>
-<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/xnXuNCWw</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados  [COLOR lime] online [/COLOR]</title>
-<thumbnail>https://i.imgur.com/VVZwL2y.jpg</thumbnail>
-<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/XstCnMQR</externallink>
-</item>
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] Movistar ordenados  [COLOR lime] online [/COLOR]</title>
-<thumbnail>https://i.imgur.com/VVZwL2y.jpg</thumbnail>
-<fanart>https://i.imgur.com/IeSW2wz.png</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
 
 
 
@@ -97,13 +53,7 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] Cine [COLOR red]V.575[/COLOR] </title>
-<thumbnail>https://i.imgur.com/mdOW5VH.gif</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/supercine/master/index%20cine.xml</externallink>
-</item>
+
 
 <item>
 <title>[COLOR lime]•[/COLOR] Musica</title>
@@ -121,13 +71,6 @@
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/zonainfantil.xml</externallink>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR] Series TV</title>
-<thumbnail>https://i.imgur.com/cVTOv7h.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/series1/master/index.xml</externallink>
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Programas TV</title>
@@ -203,16 +146,6 @@
 
 
 
-
-
-
-	<item>
-<title>[COLOR gold] TDT [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/canales_tv</externallink>
-</item>
 
 
 
