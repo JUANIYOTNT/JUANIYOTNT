@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,CALLE 13 HD (ES)
+plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://tvservice.pro:80/oouy258hm/JTGYZ2LmXY/21299.ts
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA1HD.png" group-title="EU | SPAIN",LA 1 HD
 http://tvservice.pro:80/oouy258hm/JTGYZ2LmXY/21367
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="EU | SPAIN",LA 2
