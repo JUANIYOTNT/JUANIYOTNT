@@ -1,7 +1,92 @@
 #EXTM3U
 
 
-
+#EXTINF:0,EVENTOS:BEIN LALIGA 1
+http://163.172.8.141:8000/test/test/2719
+#EXTINF:0,EVENTOS:BEIN  LALIGA 2
+http://163.172.8.141:8000/test/test/2718
+#EXTINF:0,M.CAMPEONES HD FULL
+http://163.172.8.141:8000/test/test/4552
+#EXTINF:0,M. Liga de campeones HD
+http://163.172.8.141:8000/test/test/2767
+#EXTINF:0,M liga de Campeones
+http://163.172.8.141:8000/test/test/2770
+#EXTINF:0,LIGA DE CAMPEONES 1 HD
+http://163.172.8.141:8000/test/test/2712
+#EXTINF:0,LIGA DE CAMPEONES 2
+http://163.172.8.141:8000/test/test/2711
+#EXTINF:0,EVENTOS:Bein Sports MAX 3  España
+http://163.172.8.141:8000/test/test/2710
+#EXTINF:0,LaLiga 123 FHD
+http://163.172.8.141:8000/test/test/2862
+#EXTINF:0,LaLiga 1|2|3 HD
+http://163.172.8.141:8000/test/test/2845
+ 
+#EXTINF:60,La LIGA 4 Sports
+http://163.172.8.141:8000/test/test/3592
+#EXTINF:0,Movistar Deportes HD
+http://163.172.8.141:8000/test/test/2729
+#EXTINF:0,MOVISTAR DEPORTES 1 HD
+http://163.172.8.141:8000/test/test/2722
+#EXTINF:0,MOVISTAR DEPORTES 2 HD
+http://163.172.8.141:8000/test/test/2721
+#EXTINF:0,MOVISTAR DEPORTES 3 HD
+http://163.172.8.141:8000/test/test/4575
+#EXTINF:0,Movistar Fórmula 1 HD ES
+http://163.172.8.141:8000/test/test/2769
+#EXTINF:0,MOVISTAR GOLF HD
+http://163.172.8.141:8000/test/test/2720
+#EXTINF:0,DAZN Moto GP HD
+http://163.172.8.141:8000/test/test/2768
+#EXTINF:0,DANZ EVENTOS
+http://163.172.8.141:8000/test/test/2283
+#EXTINF:0,GOL
+http://163.172.8.141:8000/test/test/2753
+#EXTINF:0,EUROSPORT 1HD
+http://163.172.8.141:8000/test/test/4012
+#EXTINF:0,EUROSPORT 1
+http://163.172.8.141:8000/test/test/2733
+#EXTINF:0,EUROSPORT  2
+http://163.172.8.141:8000/test/test/2734
+#EXTINF:0,Realmadrid TV
+http://163.172.8.141:8000/test/test/1229
+#EXTINF:0,BARCA TV
+http://163.172.8.141:8000/test/test/2763
+#EXTINF:0,Fight Sport
+http://163.172.8.141:8000/test/test/1098
+#EXTINF:0,BOX NATION HD
+http://163.172.8.141:8000/test/test/1041
+#EXTINF:0,KOMBAT SPORT
+http://163.172.8.141:8000/test/test/1793
+#EXTINF:0,Caza y Pesca HD
+http://163.172.8.141:8000/test/test/2854
+#EXTINF:0,CAZAVISION
+http://163.172.8.141:8000/test/test/4576
+#EXTINF:0,IBERALIA TV
+http://163.172.8.141:8000/test/test/2775
+#EXTINF:0,Toros TV HD ES
+http://163.172.8.141:8000/test/test/2766
+#EXTINF:0,EVENTOS: BEIN  LALIGA 3
+http://163.172.8.141:8000/test/test/2717
+#EXTINF:0,EVENTOS: BEIN  LALIGA 4
+http://163.172.8.141:8000/test/test/2716
+#EXTINF:0,EVENTOS: BEIN LALIGA 5
+http://163.172.8.141:8000/test/test/2715
+#EXTINF:0,EVENTOS:BEIN LALIGA 6
+http://163.172.8.141:8000/test/test/2714
+#EXTINF:0,EVENTOS:BEIN LALIGA 7
+http://163.172.8.141:8000/test/test/2713
+#EXTINF:0,EVENTOS:Bein Sports MAX 4  España
+http://163.172.8.141:8000/test/test/2709
+#EXTINF:0,EVENTOS:Bein Sports MAX 5  España
+http://163.172.8.141:8000/test/test/2708
+#EXTINF:0,EVENTOS:Bein Sports MAX 6  España
+http://163.172.8.141:8000/test/test/2707
+#EXTINF:0,EVENTOS:Bein Sports MAX 7  España
+http://163.172.8.141:8000/test/test/2706
+#EXTINF:0,EVENTOS:Bein Sports MAX 8 ESPAÑA
+http://163.172.8.141:8000/test/test/2705
+ 
 #EXTINF:-1,ES: DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?name=jhg&streamtype=TSDOWNLOADER&amp;url=http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y568119889/23.ts
 #EXTINF:-1,ES: DISNEY CHANNEL
