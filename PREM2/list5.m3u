@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|LA LIGA ESPAÑOLA" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|LA LIGA ESPAÑOLA
+http://iptv.dns-extreme.info:25461/92934793/929345793/27618
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|LA LIGA TV BAR" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|LA LIGA TV BAR
+http://iptv.dns-extreme.info:25461/92934793/929345793/27617
 
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|BARCA TV" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|BARCA TV
 http://iptv.dns-extreme.info:25461/92934793/929345793/27689
