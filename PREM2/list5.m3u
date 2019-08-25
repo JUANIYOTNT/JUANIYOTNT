@@ -1,56 +1,18 @@
 #EXTM3U
 
 
-#EXTINF:-1,LIGA TV PARA MOVILES
-http://movspain.com:25461/boli/j2qjHz4Y8b/9055
-#EXTINF:-1,LIGA TV BAR
-http://movspain.com:25461/boli/j2qjHz4Y8b/7204
-#EXTINF:-1,LIGA TV BAR HD
-http://movspain.com:25461/boli/j2qjHz4Y8b/8738
-#EXTINF:-1,LIGATV BAR FHD
-http://movspain.com:25461/boli/j2qjHz4Y8b/1003
-#EXTINF:-1,LIGA TV BAR 2
-http://movspain.com:25461/boli/j2qjHz4Y8b/17920
-#EXTINF:-1,LIGA TV 1 BAR
-http://movspain.com:25461/boli/j2qjHz4Y8b/9086
-#EXTINF:-1,LIGA TV 2 BAR
-http://movspain.com:25461/boli/j2qjHz4Y8b/9087
-#EXTINF:-1,LIGA TV BAR 3
-http://movspain.com:25461/boli/j2qjHz4Y8b/9088
-#EXTINF:-1,LIGA TV BAR 4
-http://movspain.com:25461/boli/j2qjHz4Y8b/18101
-#EXTINF:-1,MOVISTAR LA LIGA
-http://movspain.com:25461/boli/j2qjHz4Y8b/18102
-#EXTINF:-1,MOVISTAR LALIGA HD
-http://movspain.com:25461/boli/j2qjHz4Y8b/14719
-#EXTINF:-1,MOVISTAR LA LIGA FULLHD
-http://movspain.com:25461/boli/j2qjHz4Y8b/15916
-#EXTINF:-1,MOVISTAR LALIGA 1
-http://movspain.com:25461/boli/j2qjHz4Y8b/245
-#EXTINF:-1,MOVISTAR LA LIGA 1 FULLHD
-http://movspain.com:25461/boli/j2qjHz4Y8b/5500
-#EXTINF:-1,MOVISTAR  LALIGA 2
-http://movspain.com:25461/boli/j2qjHz4Y8b/246
-#EXTINF:-1,MOVISTAR LA LIGA 2 FHD
-http://movspain.com:25461/boli/j2qjHz4Y8b/5501
-#EXTINF:-1,MOVISTAR  LA LIGA 3
-http://movspain.com:25461/boli/j2qjHz4Y8b/247
-#EXTINF:-1,MOVISTAR LA LIGA 3 FULLHD
-http://movspain.com:25461/boli/j2qjHz4Y8b/18100
-#EXTINF:-1,MOVISTAR LA LIGA 4
-http://movspain.com:25461/boli/j2qjHz4Y8b/248
-#EXTINF:-1,MOVISTAR LA LIGA 5
-http://movspain.com:25461/boli/j2qjHz4Y8b/249
-#EXTINF:-1,MOVISTAR LA LIGA 6
-http://movspain.com:25461/boli/j2qjHz4Y8b/250
-#EXTINF:-1,MOVISTAR LA LIGA 7
-http://movspain.com:25461/boli/j2qjHz4Y8b/251
-#EXTINF:-1,MOVISTAR LA LIGA 8
-http://movspain.com:25461/boli/j2qjHz4Y8b/1309
-#EXTINF:-1,MOVISTAR LA LIGA 9
-http://movspain.com:25461/boli/j2qjHz4Y8b/18098
-#EXTINF:-1,MOVISTAR LA LIGA 10
-http://movspain.com:25461/boli/j2qjHz4Y8b/18099
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|BARCA TV" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|BARCA TV
+http://iptv.dns-extreme.info:25461/92934793/929345793/27689
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|BEIN LA LIGA" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|BEIN LA LIGA
+http://iptv.dns-extreme.info:25461/92934793/929345793/27688
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|BEIN SPORTS USA" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|BEIN SPORTS USA
+http://iptv.dns-extreme.info:25461/92934793/929345793/27687
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|BEING SPORTS LATINO" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|BEING SPORTS LATINO
+http://iptv.dns-extreme.info:25461/92934793/929345793/27686
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|BEING SPORTS US" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|BEING SPORTS US
+http://iptv.dns-extreme.info:25461/92934793/929345793/27685
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD|CDF ESTADIO" tvg-logo="" group-title="DEPORTES HD",DEPORTES HD|CDF ESTADIO
+http://iptv.dns-extreme.info:25461/92934793/929345793/27684
 
 #EXTINF:-1,CALLE 13 HD (ES)
 plugin://plugin.video.f4mTester/?name=JHG.PREMIUM.2.0&streamtype=TSDOWNLOADER&amp;url=http://tvservice.pro:80/oouy258hm/JTGYZ2LmXY/21299.ts
